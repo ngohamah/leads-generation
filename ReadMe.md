@@ -10,4 +10,4 @@ The main goal of this project was to generate accurate LinkedIn leads for Propet
 
 ## 
 
-![Workflow](https://github.com/ngohamah/gpt_autograder/blob/main/images/demo.png)
+![Workflow](https://github.com/ngohamah/leads-generation/blob/master/workflow/lead-generation-walkflow.png)
