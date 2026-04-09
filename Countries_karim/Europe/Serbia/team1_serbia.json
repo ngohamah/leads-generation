@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Prime Real Estate",
+      "website": "https://primerealestate.rs/",
+      "address": "11000 Belgrade Bul. Kralja Aleksandra 80a",
+      "email": "office@primerealestate.rs",
+      "phone_number": "+381 11 2431 080; +381 63 1404 000"
+    },
+    {
+      "name": "Mentor Real Estate",
+      "website": "https://mentorrent.rs/",
+      "address": "Makenzijeva 67, 11000 Belgrade, Serbia",
+      "email": "office@mentorrent.rs",
+      "phone_number": "+381 11 3089080, +381 60 3089080"
+    },
+    {
+      "name": "Belgrade Real Estate",
+      "website": "https://belgraderealestate.rs/sr",
+      "address": null,
+      "email": "office@belgraderealestate.rs",
+      "phone_number": "+381 61 123 45 67"
+    },
+    {
+      "name": "Eurorent",
+      "website": "http://www.eurorent-belgrade.com (from Serbian Business Directory)",
+      "address": "45 Takovska, Belgrade",
+      "email": "info@eurorent.rs",
+      "phone_number": "+381 11 329 31 61"
+    },
+    {
+      "name": "Real House",
+      "website": "https://realhouse.rs/english/",
+      "address": "Kosančić Ivana 8 21000, Novi Sad",
+      "email": "office@realhouse.rs",
+      "phone_number": "+381 62 650152"
+    },
+    {
+      "name": "Atrium Real Estate",
+      "website": "https://www.atriumproperties.com/contact (Atrium Property Services)",
+      "address": "Bulevar Mihajla Pupina 165G, 11070 Belgrade, Serbia",
+      "email": "office@atriumproperties.com",
+      "phone_number": "+381 11 2205 810, +381 66 810 9151"
+    }
+]

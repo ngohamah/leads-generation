@@ -1,0 +1,72 @@
+ [
+    {
+      "name": "Broker | Forbes GP - Croatia real estate agency",
+      "website": "https://croatia-estate.com/",
+      "address": "Obala kneza Branimira 1, 21000, Split, Croatia",
+      "email": "info@croatia-estate.com",
+      "phone_number": "+385 21 541 000"
+    },
+    {
+      "name": "Aspectus Real Estate",
+      "website": "https://www.aspectus.com.hr/en",
+      "address": "Mletacka 12/3 52100 Pula",
+      "email": "aspectus@aspectus.com.hr",
+      "phone_number": "+38552225222"
+    },
+    {
+      "name": "OPERETA NEKRETNINE, Real Estate agency",
+      "website": "https://broker.hr/en/",
+      "address": "Ulica grada Vukovara 20, 10000 Zagreb, Croatia",
+      "email": "info@broker.hr",
+      "phone_number": "Phone:+385 21 541 000"
+    },
+    {
+      "name": "Metropola - Real Estate Agency",
+      "website": "https://metropola.hr/en/",
+      "address": "Otokara Keršovanija 1, 31000 Osijek, Croatia",
+      "email": "info@metropola.hr",
+      "phone_number": "T + 385 (1) 2421 977"
+    },
+    {
+      "name": "Emporia Real Estate",
+      "website": "https://www.emporia-realestate.com/",
+      "address": "Ulica Ivana Meštrovića 2c, 23000 Zadar, Croatia",
+      "email": null,
+      "phone_number": "+385 23 300 000"
+    },
+    {
+      "name": "Dream Estates Croatia - Savills Associate",
+      "website": "https://www.dreamcroatia.com/en/",
+      "address": "Masarykov put 3, Dvori Lapad20000 Dubrovnik Croatia",
+      "email": "dreamcroatia",
+      "phone_number": ":+385 20 437 222"
+    },
+    {
+      "name": "IMB Real Estate",
+      "website": "https://www.imbnekretnine.hr/",
+      "address": "Vukovarska 30, 20000 Dubrovnik, Croatia",
+      "email": "info@imbnekretnine.hr",
+      "phone_number": "+385 20 451 800"
+    },
+    {
+      "name": "Eurovilla - agencija za nekretnine",
+      "website": "http://www.eurovilla.hr/",
+      "address": "Gajeva 15, 10000 Zagreb, Croatia",
+      "email": "eurovilla@eurovilla.hr",
+      "phone_number": "+385 1 4815 111"
+    },
+    {
+      "name": "Adria IN Group",
+      "website": "https://www.adriaingroup.com/",
+      "address": "Put Žnjana 1c, Split, 21000, Croatia",
+      "email": "denis.crorealestate@gmail.com",
+      "phone_number": "+385 98 927 9171"
+    },
+    {
+      "name": "MAXXIA Real Estate Zadar",
+      "website": "https://maxxiarealestate.com/",
+      "address": "J. Jurja Strossmayera 1A, 23000 Zadar, Croatia",
+      "email": "info@maxxia.hr",
+      "phone_number": "+385 91 339 9908"
+    }
+  ]

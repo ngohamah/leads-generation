@@ -1,0 +1,114 @@
+[
+    {
+      "name": "Slovenia Estates",
+      "website": "https://www.sloveniaestates.com/",
+      "address": null,
+      "email": "info@sloveniaestates.com",
+      "phone_number": "+386 (0) 51 622 444"
+    },
+    {
+      "name": "Stoja Real Estate Agency",
+      "website": "https://www.dcs.si/services/business/real-estate_2/stoja-trade-d.o.o.-real-estate-agency/",
+      "address": "Dolenjska cesta 242c, 1000 Ljubljana, Slovenia",
+      "email": "info@stoja-trade.si",
+      "phone_number": "+386 1 28 00 860"
+    },
+    {
+      "name": "Ljubljana Nepremičnine",
+      "website": "https://www.ljubljananepremicnine.si/",
+      "address": "Cesta na Brdo 69, 1000 Ljubljana, Slovenija",
+      "email": "info@ljn.si",
+      "phone_number": "+386 (0)1 2445000"
+    },
+    {
+      "name": "Think Slovenia",
+      "website": "https://www.thinkslovenia.com/",
+      "address": "Križevniška ulica 5, 1000 Ljubljana",
+      "email": "info@thinkslovenia.com",
+      "phone_number": "+386 (0)40 246 626"
+    },
+    {
+      "name": "Stan Real Estate",
+      "website": "https://stanart.si/en/o-nas",
+      "address": "Not explicitly stated for head office, but business unit Ljubljana is mentioned",
+      "email": "info@stanart.si (general); gordana.piljic@stanart.si; maja.piljic@stanart.si",
+      "phone_number": "+386 41 643 340 (Gordana Piljić); +386 40 620 631 (Maja Piljić)"
+    },
+    {
+      "name": "Mreža Nepremičnin",
+      "website": "https://nepremicnine.si21.com/nepremicninske-agencije/Mreza-Partnerji-nepremicnine-d.o.o..u5096/",
+      "address": "Cesta 24. junija 23, 1231 LJUBLJANA-ČRNUČE, Slovenija",
+      "email": null,
+      "phone_number": "+386 (0)1 560 30 50, +386 (0)41 669 086"
+    },
+    {
+      "name": "Inalbea Real Estate",
+      "website": "https://www.inalbea-realestate.si/",
+      "address": "Gerbičeva ulica 110, 1000 Ljubljana",
+      "email": "info@inalbea.si",
+      "phone_number": "+.386.41.778.628"
+    },
+    {
+      "name": "Altum Capital Slovenia",
+      "website": "https://altum-capital.eu/en/",
+      "address": "Devova ulica 5, 1000, Ljubljana",
+      "email": "info@altum-capital.eu",
+      "phone_number": "+386 41 980 410, +386 41 980 420"
+    },
+    {
+      "name": "Keller Williams Slovenia",
+      "website": "https://www.kwslovenia.com/",
+      "address": "Partizanska cesta 26, 2000 Maribor",
+      "email": "info@kwslovenia.si",
+      "phone_number": "+386 30 600 004, +386 2 828 00 90"
+    },
+    {
+      "name": "Rocco Real Estate",
+      "website": "https://rocco-nepremicnine.si/",
+      "address": "Slovenska cesta 8, Ljubljana (according to In Your Pocket)",
+      "email": "info@rocco-nepremicnine.si",
+      "phone_number": "+386 (0) 51 611 558"
+    },
+    {
+      "name": "Elite Property Slovenia",
+      "website": "https://www.elitepropertyslovenia.com/ (Implied, as they mention 'Prva hiša' as a major project)",
+      "address": "Agencija Elite d.o.o. Krakovski nasip 6 , 1000 Ljubljana Slovenija",
+      "email": "info@elitepropertyslovenia.com",
+      "phone_number": "+386 (0)51 299 065"
+    },
+    {
+      "name": "Kolektor Koling",
+      "website": "https://www.kolektorgradbenistvo.si/",
+      "address": "Moste 52a, 5213 Čepovan, Slovenia (for Kolektor Koling)",
+      "email": "koling@kolektor.com",
+      "phone_number": "+386 (0)53 734 160"
+    },
+    {
+      "name": "Severni Stolp (Vilharia)",
+      "website": "https://vilharia.si/en",
+      "address": "Not explicitly stated, but contact for Vilharia project in Ljubljana",
+      "email": "hello@vilharia.si",
+      "phone_number": "+386 51 626 834"
+    },
+    {
+      "name": "Tivoli office buildings",
+      "website": "http://www.tivoli-center.si/en/",
+      "address": "Bleiweisova cesta 30, SI-1000 Ljubljana",
+      "email": "info@tivoli-center.si",
+      "phone_number": "+386 1 4301 856"
+    },
+    {
+      "name": "KEA retail chain acquisition by Croatian Studenac",
+      "website": "https://studenacgroup.eu/",
+      "address": "1, Rue Jean Piret, L-2350 Luxembourg",
+      "email": "studenac@studenac.hr (Studenac general contact); tatjana.spajic@studenac.hr (Studenac Press Contact)",
+      "phone_number": "+385 (0)21 430 801 (Studenac general)"
+    },
+    {
+      "name": "Planet Tuš shopping center (Planet Koper)",
+      "website": "https://planetkoper.com/",
+      "address": "Planet Koper Ankaranska cesta 2 6000 Koper",
+      "email": "info@epik.si (for EPIK, who provided services for the project)",
+      "phone_number": "05 / 97 34 408 (for EPIK, who provided services for the project)"
+    }
+]

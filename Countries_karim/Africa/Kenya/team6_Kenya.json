@@ -1,0 +1,362 @@
+[
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Bonface Abudho",
+    "expertise": "Assistant Property Manager",
+    "contact_info": {
+      "phone": "+254204239363, +254717264504"
+    }
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Agnes Achieng",
+    "expertise": "Property Manager"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Sharon Agunda",
+    "expertise": "Assistant Property Manager"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Josephine Aseyo",
+    "expertise": "Assistant Property Manager"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Tonie Ayiera",
+    "expertise": "Marketing and Promotions Manager"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Jina Carnelley",
+    "expertise": "Residential Agent-Sales & Lettings"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Farida Chombo",
+    "expertise": "Administration Assistant"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Betty Cox",
+    "expertise": "Assistant Agent"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Judy Gachoki",
+    "expertise": "Assistant Property Manager"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Andrew Gaturi",
+    "expertise": "Property Manager"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Alice Gaturu",
+    "expertise": "Administration Assistant"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Mary Gitari",
+    "expertise": "Procurement Manager"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Jason Githae",
+    "expertise": "Handy Man"
+  },
+  {
+    "company": "Knight Frank Kenya",
+    "name": "Tarquin Gross",
+    "expertise": "Head of Residential Agency"
+  },
+  {
+    "company": "Langata Link Real Estate",
+    "name": "Monica Andris",
+    "expertise": "Real Estate Sales and Letting Agent",
+    "contact_info": {
+      "email": "monica@langatalink.com"
+    }
+  },
+  {
+    "company": "Langata Link Real Estate",
+    "name": "Quentin Mitchell",
+    "expertise": "Real Estate Sales and Letting Agent"
+  },
+  {
+    "company": "Centum Real Estate",
+    "name": "Kenneth Mbae",
+    "expertise": "Managing Director",
+    "qualifications_certifications": "Harvard Graduate School of Design alumni (Advanced Management Development Program), Member of Project Management Institute and Institute of Directors (Kenya)",
+    "education": "Bachelor’s Degree in Biochemistry from Kenyatta University"
+  },
+  {
+    "company": "ILAM FAHARI I-REIT",
+    "name": "Andrew Ndegwa",
+    "expertise": "Chairman"
+  },
+  {
+    "company": "ILAM FAHARI I-REIT",
+    "name": "Philip Lopokoiyit",
+    "expertise": "Director"
+  },
+  {
+    "company": "ILAM FAHARI I-REIT",
+    "name": "Einstein Kihanda",
+    "expertise": "Director & CEO - ICEA LION Asset Management Limited"
+  },
+  {
+    "company": "Vineyard Properties",
+    "name": "Julia Muthoni",
+    "expertise": "Founder & CEO",
+    "contact_info": {
+      "email": "julia@vineyardproperties.co.ke",
+      "phone": "+254-722-833-561"
+    }
+  },
+  {
+    "company": "Vineyard Properties",
+    "name": "James Muriithi",
+    "expertise": "Director",
+    "contact_info": {
+      "email": "jmunyori@vineyardproperties.co.ke",
+      "phone": "+254-722-166-378"
+    }
+  },
+  {
+    "company": "Vineyard Properties",
+    "name": "Mark Muriithi",
+    "expertise": "Sales & IT Manager",
+    "contact_info": {
+      "email": "mark.muriithi@vineyardproperties.co.ke",
+      "phone": "+254-729-170-156"
+    }
+  },
+  {
+    "company": "Vineyard Properties",
+    "name": "John Makau",
+    "expertise": "Property Agent",
+    "contact_info": {
+      "email": "john@vineyardproperties.co.ke",
+      "phone": "+254-708-994-237"
+    }
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Sarabi Listings",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Pam Golding Properties",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Coral Property International Ltd",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Ace Realtors Limited",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Geoscape Global Limited",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Nairobi Royal Homes",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Mirage Real Estate Ltd",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Pro-Property Solutions Ltd",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Ge-Mac Property Solutions",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Samfrance Properties",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "BuyRentKenya",
+    "name": "Benford Homes",
+    "expertise": "Real Estate Agency"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Njeru Mugagaca",
+    "expertise": "Real Estate Agent",
+    "contact_info": {
+      "phone": "+254736877140"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "WamaProperty Investment & Consulting",
+    "expertise": "Real Estate Agent",
+    "contact_info": {
+      "phone": "0723016384"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Sunsera Realtors",
+    "expertise": "Real Estate Company",
+    "contact_info": {
+      "phone": "0718 420346"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "24 Saba Air BnB",
+    "expertise": "Real Estate Agent",
+    "contact_info": {
+      "phone": "0701107627"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "77 GUEST HOUSE",
+    "expertise": "Real Estate Agent",
+    "contact_info": {
+      "phone": "0724089683"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "A.T.T. Center Kenia",
+    "expertise": "Real Estate Agent",
+    "contact_info": {
+      "phone": "+254 (0)202310163 Mobil: +254 (0)792772795"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "A&R Land Surveyors",
+    "expertise": "Land Surveyors",
+    "contact_info": {
+      "phone": "0733662992"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Abi\\'s Residence.",
+    "expertise": "Real Estate Agent",
+    "contact_info": {
+      "phone": "0750 057646"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Absolute Estate",
+    "expertise": "Property Consultancy Services Provider",
+    "contact_info": {
+      "phone": "+254 794892038"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Absolute Homes",
+    "expertise": "Entreprenuer | Pastor & Realtor",
+    "contact_info": {
+      "phone": "0713550000"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Abyssal Properties",
+    "expertise": "Real Estate Company",
+    "contact_info": {
+      "phone": "0712 720501"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Acacia Estate by Rochman Properties",
+    "expertise": "Real Estate Company",
+    "contact_info": {
+      "phone": "+254 707 111777"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Acacia Gardens Homestay",
+    "expertise": "Hotel/Homestay",
+    "contact_info": {
+      "phone": "254707633334"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Acacia Premier villas",
+    "expertise": "Real Estate Developer",
+    "contact_info": {
+      "phone": "0113 855186"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Acacia Residences Lodwar",
+    "expertise": "Real Estate Company",
+    "contact_info": {
+      "phone": "0748005500"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Ace Realtors",
+    "expertise": "Real Estate Company",
+    "contact_info": {
+      "phone": "+254 722 338 835 +254 735 338 835 Tel: +254 20 445 0220/1"
+    },
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Action Land Enterprises",
+    "expertise": "Real Estate Company",
+    "country": "Kenya"
+  },
+  {
+    "company": "Realtor Kenya",
+    "name": "Adakeno Land Sueveyor",
+    "expertise": "Land Surveyor",
+    "contact_info": {
+      "phone": "0713272233"
+    },
+    "country": "Kenya"
+  }
+]
+
+

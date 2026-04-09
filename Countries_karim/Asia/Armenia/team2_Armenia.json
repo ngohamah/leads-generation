@@ -1,0 +1,80 @@
+[
+  {
+    "company_name": "Aparto Real Estate Agency",
+    "name": "Alex Babajanian",
+    "email": "alex@aparto.am",
+    "position": "CEO"
+  },
+  {
+    "company_name": "KENTRON Real Estate Agency",
+    "name": "Vahe Danielyan",
+    "email": "vahe@real-estate.am",
+    "position": "CEO"
+  },
+  {
+    "company_name": "KENTRON Real Estate Agency",
+    "name": "Gevorg Ghazaryan",
+    "email": "gevorg@real-estate.am",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "KENTRON Real Estate Agency",
+    "name": "None None",
+    "email": "kentron@real-estate.am",
+    "position": null
+  },
+  {
+    "company_name": "Banali",
+    "name": "Diana Shahnazaryan",
+    "email": "diana@banali.am",
+    "position": "Sales Specialist"
+  },
+  {
+    "company_name": "Banali",
+    "name": "Inna Inna",
+    "email": "inna@banali.am",
+    "position": "Sales and Marketing Specialist"
+  },
+  {
+    "company_name": "Banali",
+    "name": "None None",
+    "email": "info@banali.am",
+    "position": null
+  },
+  {
+    "company_name": "Yerkir Real Estate Agency Komitas Branch",
+    "name": "None None",
+    "email": "info@yerkir-real.com",
+    "position": null
+  },
+  {
+    "company_name": "Best House Realty",
+    "name": "None None",
+    "email": "info@besthouse.am",
+    "position": null
+  },
+  {
+    "company_name": "MyRealty.am",
+    "name": "None None",
+    "email": "info@myrealty.am",
+    "position": null
+  },
+  {
+    "company_name": "Yerkir Real Estate Agency Sayat-Nova Branch",
+    "name": "None None",
+    "email": "info@yerkir-real.com",
+    "position": null
+  },
+  {
+    "company_name": "ARGO Realty",
+    "name": "None None",
+    "email": "info@ar-go.am",
+    "position": null
+  },
+  {
+    "company_name": "ARGO Realty",
+    "name": "None None",
+    "email": "marketing@ar-go.am",
+    "position": null
+  }
+]

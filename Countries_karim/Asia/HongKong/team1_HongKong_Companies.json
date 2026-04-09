@@ -1,0 +1,79 @@
+[
+  {
+    "name": "CBRE Hong Kong",
+    "phone": "+852 2820 2800",
+    "email": null,
+    "website": "https://www.cbre.com.hk",
+    "address": "Level 27, One Pacific Place 88 Queensway, Admiralty Hong Kong"
+  },
+  {
+    "name": "JLL Hong Kong",
+    "phone": "+852 2846 5823",
+    "email": null,
+    "website": "https://www.jll.com.hk",
+    "address": "Suite 2213 Prudential Tower, , Hong Kong"
+  },
+  {
+    "name": "Colliers International Hong Kong",
+    "phone": "+852 2828 9888",
+    "email": null,
+    "website": "https://www.colliers.com/en-hk",
+    "address": "Suite 5701, Central Plaza, 18 Harbour Road, Wanchai, Hong Kong"
+  },
+  {
+    "name": "Savills Hong Kong",
+    "phone": "+852 2534 1688",
+    "email": null,
+    "website": "https://www.savills.com.hk",
+    "address": "8/F, 1111 King's Road, Quarry Bay, Hong Kong"
+  },
+  {
+    "name": "Knight Frank Hong Kong",
+    "phone": "+852 2840 1177",
+    "email": null,
+    "website": "https://www.knightfrank.com.hk",
+    "address": "4/F Shui On Centre, 6‑8 Harbour Road, Wan Chai, Hong Kong"
+  },
+  {
+    "name": "Ricacorp Properties Limited",
+    "phone": "+852 5111 8364",
+    "email": "enquiry@ricacorp.com",
+    "website": "https://www.ricacorp.com",
+    "address": "Room 1805, 18/F, Olympia Plaza, 255 King's Road, North Point, Hong Kong"
+  },
+  {
+    "name": "Midland Holdings Limited",
+    "phone": "+852 2844 8293",
+    "email": "IR_dept@midland.com.hk",
+    "website": "https://www.midland.com.hk",
+    "address": "Room 2505‑8, 25/F, World Wide House, 19 Des Voeux Road Central, Central, Hong Kong"
+  },
+  {
+    "name": "Engel & Völkers Hong Kong",
+    "phone": "+852 2561 3616",
+    "email": "hongkongmmc@engelvoelkers.com",
+    "website": "https://www.hongkongev.com",
+    "address": "Shop A, Ground Floor, 95 Caine Road, Mid‑Levels, Hong Kong"
+  },
+  {
+    "name": "OKAY.com (Landscope Real Estate Services Ltd)",
+    "phone": "+852 2102 0888",
+    "email": "cs@okay.com",
+    "website": "https://www.okay.com",
+    "address": "15/F, Wilson House, 19‑27 Wyndham Street, Central, Hong Kong"
+  },
+  { 
+    "name": "Savills Hong Kong (Commercial)",
+    "phone": "+852 2534 1688",
+    "email": "hkinfo@savills.com.hk",
+    "website": "https://www.savills.com.hk",
+    "address": "8/F, 1111 King’s Road, Quarry Bay, Hong Kong"
+  },
+  {
+    "name": "Knight Frank Hong Kong",
+    "phone": "+852 2840 1177",
+    "email": "hkretail@hk.knightfrank.com",
+    "website": "https://www.knightfrank.com.hk",
+    "address": "4/F, Shui On Centre, 6‑8 Harbour Road, Wan Chai, Hong Kong"
+  }
+]

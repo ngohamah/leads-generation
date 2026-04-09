@@ -1,0 +1,136 @@
+[
+    {
+      "company_name": "Appleby's Real Estate",
+      "website": "https://www.applebys.co.bw/",
+      "address": "Plot 5341, Extension 11, Gaborone, Botswana",
+      "phone": "+267 3900990",
+      "email": "info@applebys.co.bw",
+      "business_hours": "Mon - Fri: 8:00 am – 5:00 pm, Saturday & Sunday: Closed",
+      "type": "Real Estate Agency"
+    },
+    {
+      "company_name": "Apex Properties (Apex Developments)",
+      "website": "https://www.apexproperties.co.bw/",
+      "address": "P.O. Box 1751, Gaborone, Botswana",
+      "phone": "+267 397 3333",
+      "email": "support@apexproperties.co.bw",
+      "whatsapp": "+267 74269912",
+      "type": "Property Development & Real Estate Agency",
+      "description": "Established property development company founded in 2006, focusing on residential and commercial developments"
+    },
+    {
+      "company_name": "The Property Spot",
+      "website": "https://www.propertyspot.co/",
+      "type": "Real Estate Agency"
+    },
+    {
+      "company_name": "Seeff Botswana",
+      "website": "https://www.seeff.co.bw/",
+      "address": "Gaborone, Botswana",
+      "type": "Real Estate Agency",
+      "description": "Established real estate agency providing buy, sell, and rental services for residential, commercial, and industrial properties"
+    },
+    {
+      "company_name": "Property World",
+      "website": "https://www.pw.co.bw/",
+      "type": "Real Estate Agency"
+    },
+    {
+      "company_name": "RE/MAX Property Specialists",
+      "website": "http://www.propertyspecialists.remax.co.za/",
+      "type": "Real Estate Agency"
+    },
+    {
+      "company_name": "RE/MAX Botswana",
+      "website": "https://www.remax.co.za/property-for-sale-botswana",
+      "address": "Botswana",
+      "type": "Real Estate Agency",
+      "description": "International real estate franchise with operations in Botswana"
+    },
+    {
+      "company_name": "Matchmakers Properties",
+      "website": "https://www.linkedin.com/company/matchmakersproperties/?originalSubdomain=bw",
+      "type": "Real Estate Agency"
+    },
+    {
+      "company_name": "Roscoe Bonna Valuers",
+      "website": "https://www.rbvaluers.bw/",
+      "type": "Property Valuation & Real Estate"
+    },
+    {
+      "company_name": "FAR Properties",
+      "website": "https://www.farproperties.co.bw/",
+      "type": "Real Estate Agency"
+    },
+    {
+      "company_name": "RDC Property Group",
+      "website": "https://rdcbw.com/",
+      "address": "Masa Centre, CBD, Gaborone, Botswana",
+      "type": "Property Development & Investment",
+      "description": "Leading real estate investment and management company in Botswana, publicly listed on BSE"
+    },
+    {
+      "company_name": "Phakalane Estates (Pty) Ltd",
+      "website": "https://www.phakalane.com/",
+      "address": "Golf Drive, Phakalane Golf Estate Hotel Resort, Phakalane, Gaborone, Botswana",
+      "postal_address": "P.O. Box 132, Gaborone, Botswana",
+      "phone": "+267 395 3711, +267 390 4110 / 315 9663",
+      "type": "Real Estate Development & Hospitality",
+      "description": "Botswana's largest private residential real estate developers and town planners"
+    },
+    {
+      "company_name": "Knight Frank Botswana Ltd",
+      "website": "https://www.bw.knightfrank.com/",
+      "address": "Gaborone, Botswana",
+      "type": "Property Consultancy",
+      "description": "Leading property consultancy operating across Botswana's property markets since 1983"
+    },
+    {
+      "company_name": "RIC Development Botswana",
+      "website": "https://www.ricdevelopment.co.bw/",
+      "address": "Gaborone, Botswana",
+      "type": "Property Development",
+      "description": "Innovative property development company offering world-class lifestyle and investment opportunities"
+    },
+    {
+      "company_name": "Okavango Properties",
+      "website": "https://okavangoproperties.com/",
+      "address": "Plot 714, Old Mall, Maun",
+      "postal_address": "P.O. Box 20845, Maun, Botswana",
+      "phone": "+267 686-5-686, +267 71440110/72340110",
+      "fax": "+267 686-3-628",
+      "email": "enquiry@okavangoproperties.com",
+      "type": "Property Advisory & Real Estate",
+      "description": "Contemporary property advisory firm based in northern and southern regions of Botswana"
+    },
+    {
+      "company_name": "Tswanahome (Capricorn Auctions Pty Ltd)",
+      "website": "https://www.tswanahome.com/",
+      "address": "Gaborone West, Gaborone, Botswana",
+      "postal_address": "P.O. Box 45902, Gaborone, Botswana",
+      "type": "Real Estate Services",
+      "description": "Real estate services in agency, valuations and property management, established in 2018"
+    },
+    {
+      "company_name": "Sam Associates Botswana",
+      "website": "http://www.samassociates.co.bw/",
+      "address": "Gaborone, Botswana",
+      "type": "Real Estate Agency",
+      "description": "Real estate agency providing buy, sell, and rental services in Botswana"
+    },
+    {
+      "company_name": "Newman Real Estate",
+      "website": "https://newmanrealestate.co.bw/",
+      "address": "Gaborone, Botswana",
+      "type": "Real Estate Agency",
+      "description": "Real estate agency specializing in residential and commercial properties"
+    },
+    {
+      "company_name": "Pam Golding Properties Botswana",
+      "website": "https://www.pamgolding.co.za/property-search/properties-for-sale-botswana/2662",
+      "address": "Botswana",
+      "type": "Real Estate Agency",
+      "description": "International real estate agency with operations in Botswana"
+    }
+]
+

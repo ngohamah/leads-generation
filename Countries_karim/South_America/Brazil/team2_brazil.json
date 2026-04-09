@@ -1,0 +1,512 @@
+[
+  {
+    "company_name": "MRV Engenharia e Participa\u00e7\u00f5es S.A.",
+    "name": "Beatriz Bin",
+    "email": "beatriz.bin@mrv.com.br",
+    "position": "Partnerships Director"
+  },
+  {
+    "company_name": "MRV Engenharia e Participa\u00e7\u00f5es S.A.",
+    "name": "Erica Raissa",
+    "email": "erica.raissa@mrv.com.br",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "MRV Engenharia e Participa\u00e7\u00f5es S.A.",
+    "name": "Angela Braga",
+    "email": "angela.braga@mrv.com.br",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "MRV Engenharia e Participa\u00e7\u00f5es S.A.",
+    "name": "Joyce Machado",
+    "email": "joyce.machado@mrv.com.br",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "MRV Engenharia e Participa\u00e7\u00f5es S.A.",
+    "name": "Ingrid Rocha",
+    "email": "ingrid.rocha@mrv.com.br",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "MRV Engenharia e Participa\u00e7\u00f5es S.A.",
+    "name": "Alexia Vanderlei",
+    "email": "alexia.vanderlei@mrv.com.br",
+    "position": "Account Supervisor"
+  },
+  {
+    "company_name": "MRV Engenharia e Participa\u00e7\u00f5es S.A.",
+    "name": "Fernanda Fernandes",
+    "email": "f.fernandes@mrv.com.br",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "MRV Engenharia e Participa\u00e7\u00f5es S.A.",
+    "name": "Inajara Rubel",
+    "email": "ri@mrv.com.br",
+    "position": "Intern"
+  },
+  {
+    "company_name": "MRV Engenharia e Participa\u00e7\u00f5es S.A.",
+    "name": "Ingrid Gomes",
+    "email": "ingrid.gomes@mrv.com.br",
+    "position": "Senior Talent Acquisition Analyst"
+  },
+  {
+    "company_name": "MRV Engenharia e Participa\u00e7\u00f5es S.A.",
+    "name": "Silvia Mendes",
+    "email": "silvia.mendes@mrv.com.br",
+    "position": "Administrative Assistant"
+  },
+  {
+    "company_name": "Cyrela Brazil Realty S.A.",
+    "name": "Yasmim Carvalho",
+    "email": "yasmim.carvalho@cyrela.com.br",
+    "position": "Project Executive"
+  },
+  {
+    "company_name": "Cyrela Brazil Realty S.A.",
+    "name": "Rafaela Saraiva",
+    "email": "rafaela.saraiva@cyrela.com.br",
+    "position": "Business Partner"
+  },
+  {
+    "company_name": "Cyrela Brazil Realty S.A.",
+    "name": "Gabriela Vergueiro",
+    "email": "gabriela.vergueiro@cyrela.com.br",
+    "position": "Project Intern"
+  },
+  {
+    "company_name": "Cyrela Brazil Realty S.A.",
+    "name": "Elizabeth Oliveira",
+    "email": "elizabeth.oliveira@cyrela.com.br",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Cyrela Brazil Realty S.A.",
+    "name": "Daniele Oliveira",
+    "email": "daniele.oliveira@cyrela.com.br",
+    "position": "Head of Innovation and Corporate Venture"
+  },
+  {
+    "company_name": "Cyrela Brazil Realty S.A.",
+    "name": "Andre Portela",
+    "email": "andre.portela@cyrela.com.br",
+    "position": "Director"
+  },
+  {
+    "company_name": "Cyrela Brazil Realty S.A.",
+    "name": "Pedro Nascimento",
+    "email": "pedro.nascimento@cyrela.com.br",
+    "position": "Chief Customer Officer"
+  },
+  {
+    "company_name": "Cyrela Brazil Realty S.A.",
+    "name": "Lelo Nahas",
+    "email": "lelo.nahas@cyrela.com.br",
+    "position": "Creative Director"
+  },
+  {
+    "company_name": "Cyrela Brazil Realty S.A.",
+    "name": "Peter Tobin",
+    "email": "peter.tobin@cyrela.com.br",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "Cyrela Brazil Realty S.A.",
+    "name": "Priscila Rodrigues",
+    "email": "priscila.rodrigues@cyrela.com.br",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Construtora Tenda S.A.",
+    "name": "Karoline Teodosio",
+    "email": "karoline.teodosio@tenda.com",
+    "position": "Senior HR Business Partner"
+  },
+  {
+    "company_name": "Construtora Tenda S.A.",
+    "name": "Matheus Cavalcante",
+    "email": "matheus.cavalcante@tenda.com",
+    "position": "Senior HR Business Partner"
+  },
+  {
+    "company_name": "Construtora Tenda S.A.",
+    "name": "Luiz Garcia",
+    "email": "luiz.garcia@tenda.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Construtora Tenda S.A.",
+    "name": "Wilson Quijano",
+    "email": "wilson.quijano@tenda.com",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "Construtora Tenda S.A.",
+    "name": "Giovanni Camargo",
+    "email": "giovanni.camargo@tenda.com",
+    "position": "IT Business Partner"
+  },
+  {
+    "company_name": "Construtora Tenda S.A.",
+    "name": "F\u00e1bio Magalhaes",
+    "email": "fabio.magalhaes@tenda.com",
+    "position": "Head of Supply Chain"
+  },
+  {
+    "company_name": "Construtora Tenda S.A.",
+    "name": "Kelvin Roberto",
+    "email": "kelvin.roberto@tenda.com",
+    "position": "Business Partner Assistant"
+  },
+  {
+    "company_name": "Construtora Tenda S.A.",
+    "name": "Renan Sanches",
+    "email": "renan.sanches@tenda.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "Construtora Tenda S.A.",
+    "name": "Filipe Grillo",
+    "email": "filipe.grillo@tenda.com",
+    "position": "Business Owner"
+  },
+  {
+    "company_name": "Construtora Tenda S.A.",
+    "name": "Mohammed Sufaidh",
+    "email": "alan.mckeon@tenda.com",
+    "position": "Owner"
+  },
+  {
+    "company_name": "Even Construtora e Incorpora\u00e7\u00e3o S.A.",
+    "name": "Marcio Moraes",
+    "email": "mmoraes@even.com.br",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "Even Construtora e Incorpora\u00e7\u00e3o S.A.",
+    "name": "Daniel Matone",
+    "email": "dmatone@even.com.br",
+    "position": "Chief Human Resources Officer"
+  },
+  {
+    "company_name": "Even Construtora e Incorpora\u00e7\u00e3o S.A.",
+    "name": "Jo\u00e3o Santos",
+    "email": "jsantos@even.com.br",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Even Construtora e Incorpora\u00e7\u00e3o S.A.",
+    "name": "Nat\u00e1lia Finotti",
+    "email": "nfinotti@even.com.br",
+    "position": "Human Resources Manager"
+  },
+  {
+    "company_name": "Even Construtora e Incorpora\u00e7\u00e3o S.A.",
+    "name": "Renata Ide",
+    "email": "ri@even.com.br",
+    "position": "Real Estate Broker"
+  },
+  {
+    "company_name": "Even Construtora e Incorpora\u00e7\u00e3o S.A.",
+    "name": "None None",
+    "email": "fiscal@even.com.br",
+    "position": null
+  },
+  {
+    "company_name": "Even Construtora e Incorpora\u00e7\u00e3o S.A.",
+    "name": "None None",
+    "email": "vfreitas@even.com.br",
+    "position": null
+  },
+  {
+    "company_name": "Even Construtora e Incorpora\u00e7\u00e3o S.A.",
+    "name": "None None",
+    "email": "rrosa@even.com.br",
+    "position": null
+  },
+  {
+    "company_name": "Even Construtora e Incorpora\u00e7\u00e3o S.A.",
+    "name": "None None",
+    "email": "pantunes@even.com.br",
+    "position": null
+  },
+  {
+    "company_name": "Even Construtora e Incorpora\u00e7\u00e3o S.A.",
+    "name": "None None",
+    "email": "sac@even.com.br",
+    "position": null
+  },
+  {
+    "company_name": "Cyrela Commercial Properties S.A.",
+    "name": "Fernanda Couto",
+    "email": "fernanda.couto@ccpsa.com.br",
+    "position": null
+  },
+  {
+    "company_name": "Cyrela Commercial Properties S.A.",
+    "name": "Armando Santos",
+    "email": "armando.santos@ccpsa.com.br",
+    "position": null
+  },
+  {
+    "company_name": "Cyrela Commercial Properties S.A.",
+    "name": "None None",
+    "email": "george.coura@ccpsa.com.br",
+    "position": null
+  },
+  {
+    "company_name": "Cyrela Commercial Properties S.A.",
+    "name": "None None",
+    "email": "comercial@ccpsa.com.br",
+    "position": null
+  },
+  {
+    "company_name": "Cyrela Commercial Properties S.A.",
+    "name": "None None",
+    "email": "ri@ccpsa.com.br",
+    "position": null
+  },
+  {
+    "company_name": "LOG Commercial Properties",
+    "name": "Henrique Schuffner",
+    "email": "henrique.schuffner@logcp.com.br",
+    "position": "Director of Finance and Investor Relations"
+  },
+  {
+    "company_name": "LOG Commercial Properties",
+    "name": "Ingreth Rodrigues",
+    "email": "ri@logcp.com.br",
+    "position": "Mid-level Accounting Analyst"
+  },
+  {
+    "company_name": "LOG Commercial Properties",
+    "name": "Luciana Maranhao",
+    "email": "luciana.maranhao@logcp.com.br",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "LOG Commercial Properties",
+    "name": "Guilherme Trotta",
+    "email": "guilherme.trotta@logcp.com.br",
+    "position": "Commercial Director"
+  },
+  {
+    "company_name": "LOG Commercial Properties",
+    "name": "Paulo Monteiro",
+    "email": "paulo.monteiro@logcp.com.br",
+    "position": null
+  },
+  {
+    "company_name": "LOG Commercial Properties",
+    "name": "Lauro Henrique",
+    "email": "lauro.henrique@logcp.com.br",
+    "position": null
+  },
+  {
+    "company_name": "LOG Commercial Properties",
+    "name": "None None",
+    "email": "suprimentos@logcp.com.br",
+    "position": null
+  },
+  {
+    "company_name": "LOG Commercial Properties",
+    "name": "None None",
+    "email": "contatosim@logcp.com.br",
+    "position": null
+  },
+  {
+    "company_name": "LOG Commercial Properties",
+    "name": "None None",
+    "email": "analistascomerciallog@logcp.com.br",
+    "position": null
+  },
+  {
+    "company_name": "LOG Commercial Properties",
+    "name": "None None",
+    "email": "privacidadelog@logcp.com.br",
+    "position": null
+  },
+  {
+    "company_name": "Multiplan Brazil",
+    "name": "Denise Vaz",
+    "email": "dvaz@multiplan.com.br",
+    "position": "Compliance Director"
+  },
+  {
+    "company_name": "Multiplan Brazil",
+    "name": "Hans Melchers",
+    "email": "hmelchers@multiplan.com.br",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "Multiplan Brazil",
+    "name": "Leandro Tasca",
+    "email": "ltasca@multiplan.com.br",
+    "position": "Head of Marketing"
+  },
+  {
+    "company_name": "Multiplan Brazil",
+    "name": "Ricardo Peixoto",
+    "email": "rpeixoto@multiplan.com.br",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "Multiplan Brazil",
+    "name": "Marcela B\u00f4as",
+    "email": "mboas@multiplan.com.br",
+    "position": "Corporate Communications Director"
+  },
+  {
+    "company_name": "Multiplan Brazil",
+    "name": "Jose Celani",
+    "email": "jcelani@multiplan.com.br",
+    "position": "Director of Real Estate Development"
+  },
+  {
+    "company_name": "Multiplan Brazil",
+    "name": "Breno Pulcheri",
+    "email": "bpulcheri@multiplan.com.br",
+    "position": "Head of Digital Marketing"
+  },
+  {
+    "company_name": "Multiplan Brazil",
+    "name": "Inayara Iarochinski",
+    "email": "iiarochinski@multiplan.com.br",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "Multiplan Brazil",
+    "name": "Richard Svartman",
+    "email": "rsvartman@multiplan.com.br",
+    "position": "Director of Digital Strategy"
+  },
+  {
+    "company_name": "Multiplan Brazil",
+    "name": "Tatiana Damascena",
+    "email": "tdamascena@multiplan.com.br",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "Brookfield Brasil",
+    "name": "None None",
+    "email": "cmendonca@brookfieldbr.com",
+    "position": null
+  },
+  {
+    "company_name": "Brookfield Brasil",
+    "name": "None None",
+    "email": "palves@brookfieldbr.com",
+    "position": null
+  },
+  {
+    "company_name": "Brookfield Brasil",
+    "name": "None None",
+    "email": "cv_oportunidadesp@brookfieldbr.com",
+    "position": null
+  },
+  {
+    "company_name": "Brookfield Brasil",
+    "name": "None None",
+    "email": "cadastro.brkb@brookfieldbr.com",
+    "position": null
+  },
+  {
+    "company_name": "Brookfield Brasil",
+    "name": "None None",
+    "email": "canalconfidencial@brookfieldbr.com",
+    "position": null
+  },
+  {
+    "company_name": "Brookfield Brasil",
+    "name": "None None",
+    "email": "arpires@brookfieldbr.com",
+    "position": null
+  },
+  {
+    "company_name": "Brookfield Brasil",
+    "name": "None None",
+    "email": "lgallante@brookfieldbr.com",
+    "position": null
+  },
+  {
+    "company_name": "Brookfield Brasil",
+    "name": "None None",
+    "email": "admfundos.brkb@brookfieldbr.com",
+    "position": null
+  },
+  {
+    "company_name": "Brookfield Brasil",
+    "name": "None None",
+    "email": "comercialbrb@brookfieldbr.com",
+    "position": null
+  },
+  {
+    "company_name": "Brookfield Brasil",
+    "name": "None None",
+    "email": "vsilva@brookfieldbr.com",
+    "position": null
+  },
+  {
+    "company_name": "JHSF Participa\u00e7\u00f5es",
+    "name": "Carolina Giovanardi",
+    "email": "carolinagiovanardi@jhsf.com.br",
+    "position": "Director of Membership"
+  },
+  {
+    "company_name": "JHSF Participa\u00e7\u00f5es",
+    "name": "Danilo Magrini",
+    "email": "danilomagrini@jhsf.com.br",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "JHSF Participa\u00e7\u00f5es",
+    "name": "Carlos Prado",
+    "email": "carlosprado@jhsf.com.br",
+    "position": "Head of Structuring and M&A"
+  },
+  {
+    "company_name": "JHSF Participa\u00e7\u00f5es",
+    "name": "Rog\u00e9rio Pires",
+    "email": "rogeriopires@jhsf.com.br",
+    "position": "IT Director"
+  },
+  {
+    "company_name": "JHSF Participa\u00e7\u00f5es",
+    "name": "T\u00falio Miranda",
+    "email": "tuliomiranda@jhsf.com.br",
+    "position": "Head of Operations"
+  },
+  {
+    "company_name": "JHSF Participa\u00e7\u00f5es",
+    "name": "Jos\u00e9 Neto",
+    "email": "joseneto@jhsf.com.br",
+    "position": "Chairman"
+  },
+  {
+    "company_name": "JHSF Participa\u00e7\u00f5es",
+    "name": "Robert Harley",
+    "email": "robertharley@jhsf.com.br",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "JHSF Participa\u00e7\u00f5es",
+    "name": "Breno Vicente",
+    "email": "brenovicente@jhsf.com.br",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "JHSF Participa\u00e7\u00f5es",
+    "name": "Ruth Petway",
+    "email": "ruthpetway@jhsf.com.br",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "JHSF Participa\u00e7\u00f5es",
+    "name": "Bruno Santana",
+    "email": "brunosantana@jhsf.com.br",
+    "position": "Tax Director"
+  }
+]

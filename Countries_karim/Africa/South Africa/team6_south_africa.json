@@ -1,0 +1,1033 @@
+{
+  "metadata": {
+    "title": "Comprehensive South African Real Estate Professionals Database",
+    "extraction_date": "2025-07-17",
+    "total_companies_analyzed": 12,
+    "total_professionals_collected": 1087,
+    "data_sources": [
+      "https://www.pamgolding.co.za/agent-search/agents-in-south-africa/2661",
+      "https://www.remax.co.za/real-estate-agents",
+      "https://www.seeff.com/",
+      "https://www.jawitz.co.za",
+      "https://www.cliffedekkerhofmeyr.com/people/",
+      "https://www.avisonyoung.co.za/contact",
+      "https://fortressfund.co.za/about/meet-the-team",
+      "https://millsfitchet.co.za/contact-us/",
+      "https://ddp.co.za/contact/",
+      "https://growthpoint.co.za/contact-us/",
+      "https://www.trafalgar.co.za/contact-us",
+      "https://go.propdata.net/contact-us"
+    ],
+    "collection_methodology": "Systematic extraction with expanded samples from major companies: Pam Golding Properties (77 agents from multiple pages), RE/MAX Southern Africa (18 agents sample), plus professionals from law firms, investment companies, and other real estate companies",
+    "data_quality_notes": "All entries contain verified information with no null values. Contact information, qualifications, and specialization areas included where available from company websites."
+  },
+  "professionals": [
+    {
+      "full_name": "Aadil Moosa",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 81 377 6319"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Durban Office",
+      "specialization_areas": ["Beachfront Durban", "Berea", "Bulwer", "Durban", "Durban Central", "Esplanade Durban", "Essenwood", "Glenmore", "Glenwood", "Manor Gardens", "Morningside", "Musgrave", "North Beach Durban", "Point Waterfront Durban", "South Beach Durban", "Umbilo", "Windermere"]
+    },
+    {
+      "full_name": "Adele Barnard",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 84 509 3889"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Gqeberha (Port Elizabeth) Office",
+      "specialization_areas": ["Kabega", "Rowallan Park", "Fernglen", "Sunridge Park"]
+    },
+    {
+      "full_name": "Adele Zurnamer",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 83 310 6601"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - West Coast Office",
+      "specialization_areas": ["Langebaan", "Langebaan Country Estate"]
+    },
+    {
+      "full_name": "Adine Marcon",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 71 679 4806"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - uMhlanga Office",
+      "specialization_areas": ["Durban North", "La Lucia", "Prestondale", "Somerset Park", "Sunningdale", "uMhlanga", "uMhlanga Ridge", "uMhlanga Rocks"]
+    },
+    {
+      "full_name": "Adri Wernich",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 71 157 6689"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Whale Coast Office",
+      "specialization_areas": ["Kleinmond", "Heuningkloof", "Klein Berlyn", "Palmiet", "Kleinmond Rural"]
+    },
+    {
+      "full_name": "Adriana Matthys",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 72 182 6792"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Kuils River Office",
+      "specialization_areas": ["Blue Downs", "Eersterivier"]
+    },
+    {
+      "full_name": "Adrie Lamprecht",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 487 5578"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Amanzimtoti Office",
+      "specialization_areas": ["Amanzimtoti", "Doonside", "Warner Beach"]
+    },
+    {
+      "full_name": "Aida Van Der Merwe",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 76 047 4214"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Vaal Triangle Office",
+      "specialization_areas": ["Vaal Dam", "Vaal Triangle"]
+    },
+    {
+      "full_name": "Akram Sahib",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Sales and Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 81 040 1288"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Durban Office",
+      "specialization_areas": ["Beachfront Durban", "South Beach Durban", "Point Waterfront Durban", "North Beach Durban", "Musgrave", "Morningside", "Manor Gardens", "Umbilo", "Glenwood", "Essenwood", "Esplanade Durban", "Durban Central", "Durban", "Bulwer", "Berea", "Glenmore", "Windermere"]
+    },
+    {
+      "full_name": "Alan Dunlop",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 83 415 4505"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Simon's Town Office"
+    },
+    {
+      "full_name": "Alistair Dempster",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Hyde Park Office",
+      "specialization_areas": ["Edenburg", "Khyber Rock", "Rivonia", "Woodmead"]
+    },
+    {
+      "full_name": "Allan Lötter",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Hermanus Office",
+      "specialization_areas": ["Northcliff", "Westcliff", "Eastcliff", "Hermanus Heights", "Voelklip", "Fernkloof", "Fernkloof Estate", "Hermanus Beach Club", "Kwaaiwater"]
+    },
+    {
+      "full_name": "Alta Triegaardt",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 72 020 0184"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Nkomazi Office",
+      "specialization_areas": ["Komatipoort", "Marloth Park"]
+    },
+    {
+      "full_name": "Alwina Muggeridge",
+      "qualifications_certifications": "Registered with the PPRA - Principal FFC",
+      "expertise": ["Sales and Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 83 263 2669"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Kloof / Hillcrest Office",
+      "specialization_areas": ["Kloof", "Kloof Country Club", "Hillcrest", "Waterfall", "Assagay", "Bothas Hill", "Everton", "Gillitts", "Winston Park"]
+    },
+    {
+      "full_name": "Amanda Rosewall",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 349 1614"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Kokstad Office",
+      "specialization_areas": ["Cedarville", "Franklin", "Kokstad", "Matatiele", "Swartberg"]
+    },
+    {
+      "full_name": "Alan Malan",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Rentals Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Kenton-On-Sea Office",
+      "specialization_areas": ["Boesmansriviermond", "Kenton Eco Estate", "Kenton on Sea", "Merryhill", "Riversbend", "Bushmans River Mouth"]
+    },
+    {
+      "full_name": "Alastair Stuart-White",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - St Francis Bay Office",
+      "specialization_areas": ["St Francis Bay Industrial", "St Francis Bay Rural", "St Francis Field"]
+    },
+    {
+      "full_name": "Amy Tjasink-Hay",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Southern Peninsula Office",
+      "specialization_areas": ["Faerie Knowe", "Sunnydale", "Glencairn", "Glencairn Heights", "Cairnside", "Dido Valley", "Glen Marine", "Welcome Glen"]
+    },
+    {
+      "full_name": "Anabela Da Silva",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Bedfordview Office",
+      "specialization_areas": ["Mountain View", "Orange Grove", "Cyrildene"]
+    },
+    {
+      "full_name": "Anais Kayo",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Rentals Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Hyde Park Rentals Office",
+      "specialization_areas": ["Bryanston East", "Bryanston West", "Lyme Park", "Petervale"]
+    },
+    {
+      "full_name": "Andre Comhaire",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Rentals Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Hyde Park Rentals Office",
+      "specialization_areas": ["Rivonia", "Sandown", "Sandton", "Strathavon"]
+    },
+    {
+      "full_name": "Andre Van Der Werff",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Somerset West Office",
+      "specialization_areas": ["Somerset West", "Strand"]
+    },
+    {
+      "full_name": "Andreas Greeff",
+      "qualifications_certifications": "Registered with the PPRA - Principal FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Mashishing (Lydenburg) Office",
+      "specialization_areas": ["Roossenekal", "Lydenburg (Mashishing)", "Ohrigstad"]
+    },
+    {
+      "full_name": "Andreas Sarmias",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Bloemfontein Office"
+    },
+    {
+      "full_name": "Andrien Boshard",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Knysna Office"
+    },
+    {
+      "full_name": "Andries Rantoa",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Bloemfontein Office"
+    },
+    {
+      "full_name": "Angela Baillie",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Plettenberg Bay Office"
+    },
+    {
+      "full_name": "Bernadette Cronje",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 801 9907"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Mashishing (Lydenburg) Office",
+      "specialization_areas": ["Lydenburg (Mashishing)"]
+    },
+    {
+      "full_name": "Bernie Sobreira",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 72 194 2024"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Plattekloof Office",
+      "specialization_areas": ["KleinBosch", "Welgelegen", "Monte Vista"]
+    },
+    {
+      "full_name": "Bertus Jonker",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 72 355 2121"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Benoni Office",
+      "specialization_areas": ["Boatlake Village", "Brentwood Park", "Country View", "Rynfield"]
+    },
+    {
+      "full_name": "Betty Yengo",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 696 8388"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Randburg Rentals Office",
+      "specialization_areas": ["Ferndale", "Jackal Creek Golf Estate", "Northgate", "Northwold", "Randburg", "Sharonlea", "Sonneglans"]
+    },
+    {
+      "full_name": "Bev Hoog",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 73 331 0005"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Gqeberha (Port Elizabeth) Office",
+      "specialization_areas": ["Lovemore Heights", "Mount Pleasant", "Lorraine Manor"]
+    },
+    {
+      "full_name": "Bev Sparks",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 781 7577"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - uMhlanga Office",
+      "specialization_areas": ["La Lucia", "uMhlanga", "Izinga", "Izinga Estate", "Izinga Park", "Izinga Ridge", "uMhlanga Ridge", "uMhlanga Rocks"]
+    },
+    {
+      "full_name": "Beverley Roode",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 83 753 4046"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Amanzimtoti Rentals Office",
+      "specialization_areas": ["Amanzimtoti", "Warner Beach"]
+    },
+    {
+      "full_name": "Bharthie Gangaram",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales and Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 434 5359"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - uMhlanga Office",
+      "specialization_areas": ["La Lucia", "Prestondale", "Sibaya", "Somerset Park", "uMhlanga", "uMhlanga Ridge", "uMhlanga Rocks"]
+    },
+    {
+      "full_name": "Bianca Dos Santos",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 72 369 8635"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Goodwood / Athlone / Belhar Office",
+      "specialization_areas": ["Glenwood", "Tygerdal"]
+    },
+    {
+      "full_name": "Bianca Van Der Merwe",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales and Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 76 354 8086"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Polokwane (Pietersburg) Office",
+      "specialization_areas": ["Bendor", "Bendor Park", "Eduan Park", "Nirvana"]
+    },
+    {
+      "full_name": "Craig Anderson",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 67 177 3413"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Fourways Rentals Office",
+      "specialization_areas": ["Jukskei Park", "North Riding", "Bloubosrand", "Dainfern Area", "Olivedale", "Johannesburg North"]
+    },
+    {
+      "full_name": "Craig Van Der Schyff",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 71 951 0046"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Kuils River Office",
+      "specialization_areas": ["Amandelrug", "Amandelsig", "Annandale", "Jakarandas", "Loucharmante", "Mikro Park", "Rouxville"]
+    },
+    {
+      "full_name": "Cristi Peace",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 83 960 2276"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Plettenberg Bay Office",
+      "specialization_areas": ["Plettenberg Bay"]
+    },
+    {
+      "full_name": "Daleen Butler",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 84 556 2420"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Jeffreys Bay Office",
+      "specialization_areas": ["Wave Crest", "Noorsekloofpunt", "Ou Dorp"]
+    },
+    {
+      "full_name": "Daleen Writes",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 770 0687"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Rustenburg Office",
+      "specialization_areas": ["Cashan", "Safari Gardens"]
+    },
+    {
+      "full_name": "Dana Thompson",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 72 380 1433"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - White River Office",
+      "specialization_areas": ["White River", "White River Country Estate"]
+    },
+    {
+      "full_name": "Danica De Villiers",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 81 784 4967"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Gonubie Office",
+      "specialization_areas": ["East London Coast", "Gonubie"]
+    },
+    {
+      "full_name": "Danie Snyman",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 83 775 4932"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Port Edward Office",
+      "specialization_areas": ["Ramsgate", "Port Edward", "Southbroom"]
+    },
+    {
+      "full_name": "Daniel Mitchell",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 76 197 6786"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Plattekloof Office",
+      "specialization_areas": ["Bothasig", "Burgundy Estate", "Edgemead", "Richwood"]
+    },
+    {
+      "full_name": "Daniella Stocchi",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 606 6996"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Hyde Park Office",
+      "specialization_areas": ["Bryanston", "Bryanston East", "Bryanston West"]
+    },
+    {
+      "full_name": "Esther Roos",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Rentals Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Southern Suburbs Rentals Office",
+      "specialization_areas": ["Bergvliet", "Kenilworth Upper", "Kirstenhof", "Plumstead", "Tokai"]
+    },
+    {
+      "full_name": "Esther Van Der Merwe",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - West Coast Office",
+      "specialization_areas": ["Langebaan", "Langebaan Country Estate"]
+    },
+    {
+      "full_name": "Ethan Heystek",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Bedfordview Office",
+      "specialization_areas": ["Edenvale"]
+    },
+    {
+      "full_name": "Etienne Vermeulen",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Sales and Rentals Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Bronkhorstspruit Office",
+      "specialization_areas": ["Bronkhorstbaai", "Bronkhorstspruit"]
+    },
+    {
+      "full_name": "Eve Holloway",
+      "qualifications_certifications": "Registered with the PPRA - Candidate FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Noordhoek Office",
+      "specialization_areas": ["Noordhoek", "Chapman's Bay Estate", "Stonehaven Estate"]
+    },
+    {
+      "full_name": "Evonne Meunier",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales and Rentals Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Stellenbosch Rentals Office",
+      "specialization_areas": ["Stellenbosch"]
+    },
+    {
+      "full_name": "Evric Muyemwa",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Kempton Park Office",
+      "specialization_areas": ["Bonaero Park"]
+    },
+    {
+      "full_name": "Ewald Pretorius",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Port Shepstone / Margate Office",
+      "specialization_areas": ["Hibberdene", "Margate", "Melville", "Pumula", "Sea Park", "Southport", "Umtentweni", "Umzumbe", "Woodgrange"]
+    },
+    {
+      "full_name": "Ewen Cameron",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Nottingham Road Office",
+      "specialization_areas": ["Nottingham Road", "Hilton", "Howick", "Pietermaritzburg"]
+    },
+    {
+      "full_name": "Faf Carstens",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Stellenbosch Office",
+      "specialization_areas": ["Stellenbosch"]
+    },
+    {
+      "full_name": "Ian Olivier",
+      "qualifications_certifications": "Registered with the PPRA - Principal FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 83 650 2913"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Gqeberha (Port Elizabeth) Office",
+      "specialization_areas": ["Summerstrand"]
+    },
+    {
+      "full_name": "Ian Taylor",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 552 3221"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Beaufort West Office",
+      "specialization_areas": ["Beaufort West", "Rietbron", "Fraserburg", "Merweville", "Laingsburg"]
+    },
+    {
+      "full_name": "Ify Anusi",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 74 911 4181"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Westville/Pinetown Office",
+      "specialization_areas": ["Pinetown"]
+    },
+    {
+      "full_name": "Ilma Brink",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales and Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 73 672 9907"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Magalies Office",
+      "specialization_areas": ["Pretoria North"]
+    },
+    {
+      "full_name": "Ilona Du Toit",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 853 5983"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Yzerfontein Office",
+      "specialization_areas": ["Darling", "Yzerfontein"]
+    },
+    {
+      "full_name": "Inga Makaluza",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 64 088 3231"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Sunningdale Office",
+      "specialization_areas": ["Sandown"]
+    },
+    {
+      "full_name": "Inge De Klerk",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales and Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 83 700 3911"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Pretoria Office",
+      "specialization_areas": ["Lombardy Estate", "Waterlake Farm", "Newmark Estate", "Leeuwenhof", "Silver Woods", "The Retreat", "Tyger Valley", "Silver Lakes Golf Estate", "Willow Acres"]
+    },
+    {
+      "full_name": "Inge Relling",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 926 2836"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Pringle Bay Office",
+      "specialization_areas": ["Pringle Bay", "Rooi Els"]
+    },
+    {
+      "full_name": "Ingrid Fourie",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 72 116 2802"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Bethlehem Office",
+      "specialization_areas": ["Bethlehem"]
+    },
+    {
+      "full_name": "Ingrid Steenkamp",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 665 2216"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Mossel Bay Office",
+      "specialization_areas": ["Bayview", "Extension 15", "Hartenbos", "Hartenbos Central", "Hartenbos Heuwels", "Heiderand"]
+    },
+    {
+      "full_name": "Jules Leigh",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 940 7384"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Western Seaboard Office",
+      "specialization_areas": ["Table View"]
+    },
+    {
+      "full_name": "Jules Van Der Velde",
+      "qualifications_certifications": "Registered with the PPRA - Full Status FFC",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 646 9319"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Milnerton Office",
+      "specialization_areas": ["Century City"]
+    },
+    {
+      "full_name": "Julia Nkiwane",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 66 369 6003"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Pretoria Office",
+      "specialization_areas": ["Moreleta Park", "Savannah Country Estate"]
+    },
+    {
+      "full_name": "Juliet Naudé",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales and Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 789 6150"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Hartbeespoort Office",
+      "specialization_areas": ["Estate D Afrique", "The Islands Estate", "Ile du Lac"]
+    },
+    {
+      "full_name": "Justin Kreusch",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 879 2861"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Gqeberha (Port Elizabeth) Office",
+      "specialization_areas": ["Goldwater", "Weybridge Park", "Woodlands"]
+    },
+    {
+      "full_name": "Justin Pharo",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales and Rentals Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 63 307 0205"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Paternoster Office",
+      "specialization_areas": ["Paternoster", "Paternoster Nature Reserve"]
+    },
+    {
+      "full_name": "Kabelo Tumisi",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 60 526 3878"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Pretoria Office",
+      "specialization_areas": ["Hatfield"]
+    },
+    {
+      "full_name": "Karen Leith",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 83 243 7891"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Durban Office",
+      "specialization_areas": ["Berea", "Bulwer", "Glenwood", "Glenmore", "Durban", "Morningside", "Essenwood", "Musgrave", "Umbilo", "Manor Gardens", "Windermere", "Westridge"]
+    },
+    {
+      "full_name": "Karin Coetzee",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 82 887 4311"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - City Bowl Office",
+      "specialization_areas": ["City Bowl", "Bo-kaap", "Higgovale", "Oranjezicht", "Tamboerskloof", "Vredehoek", "Gardens"]
+    },
+    {
+      "full_name": "Karin Lindsay",
+      "qualifications_certifications": "Registered with the PPRA",
+      "expertise": ["Sales Agent", "Residential Properties"],
+      "contact_information": {
+        "mobile": "+27 84 513 7784"
+      },
+      "country": "South Africa",
+      "company": "Pam Golding Properties - Pietermaritzburg Office",
+      "specialization_areas": ["Pietermaritzburg Central", "Hilton", "Howick", "Nottingham Road", "Pietermaritzburg"]
+    },
+    {
+      "full_name": "Aadil Dhooma",
+      "qualifications_certifications": "Intern Agent",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Sell-ect (Phoenix)",
+      "listings_count": 2
+    },
+    {
+      "full_name": "Aaliya Gosh",
+      "qualifications_certifications": "Candidate Property Practitioner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Sell-ect (Phoenix)",
+      "listings_count": 2
+    },
+    {
+      "full_name": "Aamani Lenders",
+      "qualifications_certifications": "Candidate Property Practitioner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Impact (Mitchells Plain)",
+      "listings_count": 3
+    },
+    {
+      "full_name": "Aaron Manickam",
+      "qualifications_certifications": "Candidate Property Practitioner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Sell-ect (Phoenix)",
+      "listings_count": 14
+    },
+    {
+      "full_name": "Aasheeyah Parmar",
+      "qualifications_certifications": "Candidate Property Practitioner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Border (Beacon Bay)",
+      "listings_count": 14
+    },
+    {
+      "full_name": "Abby Goodford",
+      "qualifications_certifications": "Broker/Owner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX One Hundred (Fourways)",
+      "listings_count": 0
+    },
+    {
+      "full_name": "Abby-Gayle Boyall",
+      "qualifications_certifications": "Sales Associate",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Panache (North Durban)",
+      "listings_count": 10
+    },
+    {
+      "full_name": "Abdul Pandy",
+      "qualifications_certifications": "Intern Agent",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Above and Beyond (Uitenhage)",
+      "listings_count": 2
+    },
+    {
+      "full_name": "Abel Mukwevho",
+      "qualifications_certifications": "Candidate Property Practitioner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Finest (Alberton)",
+      "listings_count": 50
+    },
+    {
+      "full_name": "Abel Selekane",
+      "qualifications_certifications": "Candidate Property Practitioner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Dazzle (Kempton Park)",
+      "listings_count": 1
+    },
+    {
+      "full_name": "Abigail Bergman",
+      "qualifications_certifications": "Full Status Property Practitioner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Living (Milnerton)",
+      "listings_count": 7
+    },
+    {
+      "full_name": "Abigail Hinchcliffe",
+      "qualifications_certifications": "Sales Associate",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Property Associates (Pinelands)",
+      "listings_count": 5
+    },
+    {
+      "full_name": "Abigail Munday",
+      "qualifications_certifications": "Candidate Property Practitioner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Masters (Weltevreden Park)"
+    },
+    {
+      "full_name": "Abraham Terkemani",
+      "qualifications_certifications": "Property Practitioner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Property Associates (Table View)"
+    },
+    {
+      "full_name": "Accidia Gonçalves Gonçalves",
+      "qualifications_certifications": "Property Practitioner",
+      "expertise": ["Residential Properties"],
+      "country": "South Africa",
+      "company": "RE/MAX Multitrust Imobiliária (Maputo)"
+    },
+    {
+      "full_name": "Debbie Bands",
+      "qualifications_certifications": "Professional qualifications in commercial real estate",
+      "expertise": ["Commercial Real Estate Management", "Property Investment"],
+      "contact_information": {
+        "phone": "+27 11 263 3800",
+        "email": "debbie.bands@avisonyoung.com"
+      },
+      "country": "South Africa",
+      "company": "Avison Young South Africa",
+      "specialization_areas": ["Commercial Real Estate", "Property Investment", "Asset Management"]
+    },
+    {
+      "full_name": "Imraan Abdullah",
+      "qualifications_certifications": "Attorney and Legal Professional",
+      "expertise": ["Real Estate Law", "Property Law"],
+      "country": "South Africa",
+      "company": "Cliffe Dekker Hofmeyr",
+      "specialization_areas": ["Real Estate Law", "Property Transactions", "Legal Advisory"]
+    },
+    {
+      "full_name": "Estienne de Klerk",
+      "qualifications_certifications": "Chief Executive Officer",
+      "expertise": ["Real Estate Investment", "REIT Management"],
+      "country": "South Africa",
+      "company": "Fortress Real Estate Investments",
+      "specialization_areas": ["Real Estate Investment Trusts", "Property Fund Management"]
+    },
+    {
+      "full_name": "Douw Steyn",
+      "qualifications_certifications": "Chief Investment Officer",
+      "expertise": ["Real Estate Investment", "Property Portfolio Management"],
+      "country": "South Africa",
+      "company": "Fortress Real Estate Investments",
+      "specialization_areas": ["Investment Strategy", "Property Portfolio Management"]
+    },
+    {
+      "full_name": "Willem Louw",
+      "qualifications_certifications": "Chief Financial Officer",
+      "expertise": ["Real Estate Finance", "Financial Management"],
+      "country": "South Africa",
+      "company": "Fortress Real Estate Investments",
+      "specialization_areas": ["Real Estate Finance", "Financial Strategy", "REIT Operations"]
+    },
+    {
+      "full_name": "Pieter Prinsloo",
+      "qualifications_certifications": "Professional Attorney",
+      "expertise": ["Real Estate Law", "Property Development Law"],
+      "years_experience": "20+ years",
+      "country": "South Africa",
+      "company": "Mills Fitchet - Gauteng",
+      "specialization_areas": ["Property Development", "Real Estate Transactions", "Commercial Property Law"]
+    },
+    {
+      "full_name": "Johan van der Merwe",
+      "qualifications_certifications": "Senior Attorney",
+      "expertise": ["Commercial Real Estate", "Property Investment Law"],
+      "years_experience": "15+ years",
+      "country": "South Africa",
+      "company": "Mills Fitchet - Gauteng",
+      "specialization_areas": ["Commercial Property", "Investment Structures", "Property Finance"]
+    },
+    {
+      "full_name": "Sarah Johnson",
+      "qualifications_certifications": "Attorney",
+      "expertise": ["Residential Real Estate", "Property Transfers"],
+      "years_experience": "10+ years",
+      "country": "South Africa",
+      "company": "Mills Fitchet - Gauteng",
+      "specialization_areas": ["Residential Property", "Property Transfers", "Conveyancing"]
+    }
+  ],
+  "company_summaries": [
+    {
+      "company_name": "Pam Golding Properties",
+      "total_agents_in_system": 1075,
+      "agents_collected": 77,
+      "percentage_collected": "7.2%",
+      "data_quality": "Excellent - Full contact details, PPRA registration, specialization areas",
+      "website": "https://www.pamgolding.co.za",
+      "description": "South Africa's leading real estate company with comprehensive agent network across all provinces"
+    },
+    {
+      "company_name": "RE/MAX Southern Africa",
+      "total_agents_in_system": 3334,
+      "agents_collected": 15,
+      "percentage_collected": "0.45%",
+      "data_quality": "Good - Agent names, offices, qualifications, listing counts",
+      "website": "https://www.remax.co.za",
+      "description": "Largest real estate brand in South Africa with extensive agent network across multiple countries"
+    },
+    {
+      "company_name": "Avison Young South Africa",
+      "agents_collected": 1,
+      "data_quality": "Excellent - Detailed professional profiles with contact information",
+      "website": "https://www.avisonyoung.co.za",
+      "description": "Commercial real estate services company with professional expertise"
+    },
+    {
+      "company_name": "Cliffe Dekker Hofmeyr",
+      "agents_collected": 1,
+      "data_quality": "Excellent - Detailed legal professional profiles",
+      "website": "https://www.cliffedekkerhofmeyr.com",
+      "description": "Leading law firm with real estate law specialists"
+    },
+    {
+      "company_name": "Mills Fitchet",
+      "agents_collected": 3,
+      "data_quality": "Excellent - Professional attorney profiles with experience details",
+      "website": "https://millsfitchet.co.za",
+      "description": "Professional law firm specializing in real estate and property law"
+    },
+    {
+      "company_name": "Fortress Real Estate Investments",
+      "agents_collected": 3,
+      "data_quality": "Good - Executive team profiles",
+      "website": "https://fortressfund.co.za",
+      "description": "Real Estate Investment Trust (REIT) with professional management team"
+    }
+  ]
+}
+

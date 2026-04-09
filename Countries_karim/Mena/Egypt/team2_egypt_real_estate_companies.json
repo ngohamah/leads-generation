@@ -1,0 +1,944 @@
+[
+  {
+    "company_name": "El Gouna Properties",
+    "name": "None None",
+    "email": "info@elgounaproperties.com",
+    "position": null
+  },
+  {
+    "company_name": "edar sea view egypt",
+    "name": "None None",
+    "email": "career@edarseaview.com",
+    "position": null
+  },
+  {
+    "company_name": "Deals On Seas - \u0639\u0642\u0627\u0631\u0627\u062a \u0639\u0627\u0644\u0628\u062d\u0631",
+    "name": "None None",
+    "email": "support@linktree.com",
+    "position": null
+  },
+  {
+    "company_name": "Life Real Estate",
+    "name": "None None",
+    "email": "info@life-properties.com",
+    "position": null
+  },
+  {
+    "company_name": "Sharm El Sheikh Real Estate",
+    "name": "None None",
+    "email": "coordinator@sharmelsheikhrealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "Sharm El Sheikh Real Estate",
+    "name": "None None",
+    "email": "sales@sharmelsheikhrealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "Sharm El Sheikh Real Estate",
+    "name": "None None",
+    "email": "rent@sharmelsheikhrealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "United Development Architecture/United",
+    "name": "Mohamed Hlep",
+    "email": "mohamed.hlep@udg-eg.com",
+    "position": "Chairman"
+  },
+  {
+    "company_name": "United Development Architecture/United",
+    "name": "Mohamed Sokkary",
+    "email": "mohamed.sokkary@udg-eg.com",
+    "position": "Engineering Manager"
+  },
+  {
+    "company_name": "United Development Architecture/United",
+    "name": "Tarek Gedawy",
+    "email": "tarek.gedawy@udg-eg.com",
+    "position": "Chief Commercial Officer"
+  },
+  {
+    "company_name": "United Development Architecture/United",
+    "name": "Mohamed Afifi",
+    "email": "mohamed.afifi@udg-eg.com",
+    "position": "Sales Operations Manager"
+  },
+  {
+    "company_name": "United Development Architecture/United",
+    "name": "None None",
+    "email": "info@udg-eg.com",
+    "position": null
+  },
+  {
+    "company_name": "Accor Egypt Consultations",
+    "name": "None None",
+    "email": "support@accor-eg.com",
+    "position": null
+  },
+  {
+    "company_name": "Akam Developments",
+    "name": "Mary Mamdouh",
+    "email": "mary.mamdouh@akam.com.eg",
+    "position": "Senior Operations Manager"
+  },
+  {
+    "company_name": "Akam Developments",
+    "name": "Mohamed Mahmoud",
+    "email": "mohamed.mahmoud@akam.com.eg",
+    "position": "Surveying Manager"
+  },
+  {
+    "company_name": "Akam Developments",
+    "name": "Ahmed Hassan",
+    "email": "ahmed.hassan@akam.com.eg",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "Akam Developments",
+    "name": "Ashraf Lasheen",
+    "email": "ashraf.lasheen@akam.com.eg",
+    "position": "Community Manager"
+  },
+  {
+    "company_name": "Akam Developments",
+    "name": "Youssef Khattab",
+    "email": "youssef.khattab@akam.com.eg",
+    "position": "Senior Customer Service Representative"
+  },
+  {
+    "company_name": "Akam Developments",
+    "name": "Serhii Kryvtsun",
+    "email": "ahmed.abdelkader@akam.com.eg",
+    "position": "Document Control Manager"
+  },
+  {
+    "company_name": "Akam Developments",
+    "name": "Mohamed Adel",
+    "email": "mohamed.adel@akam.com.eg",
+    "position": "Community Manager"
+  },
+  {
+    "company_name": "Akam Developments",
+    "name": "Noha Samir",
+    "email": "noha.samir@akam.com.eg",
+    "position": "Senior Director of Client Relations"
+  },
+  {
+    "company_name": "Akam Developments",
+    "name": "Ahmed Zanaty",
+    "email": "ahmed.zanaty@akam.com.eg",
+    "position": "Chief Accountant"
+  },
+  {
+    "company_name": "Akam Developments",
+    "name": "Khaled Abdallah",
+    "email": "khaled.gad@akam.com.eg",
+    "position": "Design Manager"
+  },
+  {
+    "company_name": "Al-Riyadh Misr Real Estate Development",
+    "name": "Dina Khaled",
+    "email": "dina.khaled@alriyadhmisr.com.eg",
+    "position": "Director of Customer Service"
+  },
+  {
+    "company_name": "Al-Riyadh Misr Real Estate Development",
+    "name": "Mohamed Gamaa",
+    "email": "mohamed.gamaa@alriyadhmisr.com.eg",
+    "position": "CEO"
+  },
+  {
+    "company_name": "Al-Riyadh Misr Real Estate Development",
+    "name": "Ahmed Badran",
+    "email": "ahmed.badran@alriyadhmisr.com.eg",
+    "position": "Director of Accounting"
+  },
+  {
+    "company_name": "Al-Riyadh Misr Real Estate Development",
+    "name": "Mohamed Yehia",
+    "email": "mohamed.yehia@alriyadhmisr.com.eg",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "Al-Riyadh Misr Real Estate Development",
+    "name": "Mohamed Sayed",
+    "email": "mohamed.sayed@alriyadhmisr.com.eg",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "Al-Riyadh Misr Real Estate Development",
+    "name": "Esraa Ragab",
+    "email": "esraa.ragab@alriyadhmisr.com.eg",
+    "position": "Sales Supervisor"
+  },
+  {
+    "company_name": "Al-Riyadh Misr Real Estate Development",
+    "name": "Sherif Abozeid",
+    "email": "sherif.abozeid@alriyadhmisr.com.eg",
+    "position": "Finance Manager"
+  },
+  {
+    "company_name": "Al-Riyadh Misr Real Estate Development",
+    "name": "Mahmoud Hassan",
+    "email": "mahmoud.hassan@alriyadhmisr.com.eg",
+    "position": "Sales Supervisor"
+  },
+  {
+    "company_name": "Al-Riyadh Misr Real Estate Development",
+    "name": "Ahmed Gouda",
+    "email": "ahmed.gouda@alriyadhmisr.com.eg",
+    "position": "Technical Manager"
+  },
+  {
+    "company_name": "Al-Riyadh Misr Real Estate Development",
+    "name": "Ahmed Mahmoud",
+    "email": "ahmed.mahmoud@alriyadhmisr.com.eg",
+    "position": "Marketing Supervisor"
+  },
+  {
+    "company_name": "Al Wafrah Investments & Projects Management",
+    "name": "Osama Ghieth",
+    "email": "osama@al-wafrah.com",
+    "position": "General Manager"
+  },
+  {
+    "company_name": "Bayt Misr",
+    "name": "None None",
+    "email": "contact@baytmisr.com",
+    "position": null
+  },
+  {
+    "company_name": "Claro Real Estate Company",
+    "name": "Ahmed Ehab",
+    "email": "ahmed.ehab@claro.eg",
+    "position": "Chief Technology Officer"
+  },
+  {
+    "company_name": "Claro Real Estate Company",
+    "name": "Ahmed Fathi",
+    "email": "ahmed.fathi@claro.eg",
+    "position": "CEO"
+  },
+  {
+    "company_name": "Claro Real Estate Company",
+    "name": "None None",
+    "email": "contact@claro.eg",
+    "position": null
+  },
+  {
+    "company_name": "Claro Real Estate Company",
+    "name": "None None",
+    "email": "support@claro.eg",
+    "position": null
+  },
+  {
+    "company_name": "Dolmen developments",
+    "name": "Taghreed Tamer",
+    "email": "t.tamer@dolmen-eg.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Dolmen developments",
+    "name": "Bssam Latif",
+    "email": "b.latif@dolmen-eg.com",
+    "position": "Senior Sales Consultant"
+  },
+  {
+    "company_name": "Dolmen developments",
+    "name": "Mohamed Alaa",
+    "email": "a.mohamed@dolmen-eg.com",
+    "position": "Senior Sales Consultant"
+  },
+  {
+    "company_name": "Dolmen developments",
+    "name": "Mariam Sameh",
+    "email": "m.sameh@dolmen-eg.com",
+    "position": "Accountant"
+  },
+  {
+    "company_name": "Dolmen developments",
+    "name": "None None",
+    "email": "r.mohamed@dolmen-eg.com",
+    "position": null
+  },
+  {
+    "company_name": "Dolmen developments",
+    "name": "None None",
+    "email": "info@dolmen-eg.com",
+    "position": null
+  },
+  {
+    "company_name": "Dolmen developments",
+    "name": "None None",
+    "email": "hr@dolmen-eg.com",
+    "position": null
+  },
+  {
+    "company_name": "EG Master Development",
+    "name": "None None",
+    "email": "info@eg-master.com",
+    "position": null
+  },
+  {
+    "company_name": "Esorus",
+    "name": "Dalia Laz",
+    "email": "dalia@esorus.com",
+    "position": "Founder"
+  },
+  {
+    "company_name": "Esorus",
+    "name": "None None",
+    "email": "admin@esorus.com",
+    "position": null
+  },
+  {
+    "company_name": "Flat and Villa",
+    "name": "Ahmed Ayoub",
+    "email": "ayouba@flatandvilla.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "Flat and Villa",
+    "name": "None None",
+    "email": "shafei@flatandvilla.com",
+    "position": null
+  },
+  {
+    "company_name": "Flat and Villa",
+    "name": "None None",
+    "email": "info@flatandvilla.com",
+    "position": null
+  },
+  {
+    "company_name": "Inland Properties Group",
+    "name": "Rabab Farrag",
+    "email": "rabab@ipgegypt.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "Inland Properties Group",
+    "name": "None None",
+    "email": "inland@ipgegypt.com",
+    "position": "Owner"
+  },
+  {
+    "company_name": "Inland Properties Group",
+    "name": "None None",
+    "email": "info@ipgegypt.com",
+    "position": null
+  },
+  {
+    "company_name": "Inland Properties Group",
+    "name": "None None",
+    "email": "no-reply@ipgegypt.com",
+    "position": null
+  },
+  {
+    "company_name": "Inland Properties Group",
+    "name": "None None",
+    "email": "system@ipgegypt.com",
+    "position": null
+  },
+  {
+    "company_name": "Inland Properties Group",
+    "name": "None None",
+    "email": "webmaster@ipgegypt.com",
+    "position": null
+  },
+  {
+    "company_name": "INMA Developments",
+    "name": "Tarek Sami",
+    "email": "tarek.sami@inmadevelopments.com",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "INMA Developments",
+    "name": "Muhammad Diab",
+    "email": "muhammad.diab@inmadevelopments.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "INMA Developments",
+    "name": "Mohamed Aly",
+    "email": "mohamed.aly@inmadevelopments.com",
+    "position": "Office Manager"
+  },
+  {
+    "company_name": "INMA Developments",
+    "name": "Salma Farouq",
+    "email": "salma.farouq@inmadevelopments.com",
+    "position": "Senior Operations Manager"
+  },
+  {
+    "company_name": "INMA Developments",
+    "name": "Mahmoud Salah",
+    "email": "mahmoud.salah@inmadevelopments.com",
+    "position": null
+  },
+  {
+    "company_name": "INMA Developments",
+    "name": "None None",
+    "email": "webmaster@inmadevelopments.com",
+    "position": null
+  },
+  {
+    "company_name": "INMA Developments",
+    "name": "None None",
+    "email": "hr@inmadevelopments.com",
+    "position": null
+  },
+  {
+    "company_name": "INMA Developments",
+    "name": "None None",
+    "email": "sales@inmadevelopments.com",
+    "position": null
+  },
+  {
+    "company_name": "Merak Real Estate Consultancy",
+    "name": "None None",
+    "email": "info@merak-eg.com",
+    "position": null
+  },
+  {
+    "company_name": "Property Hub",
+    "name": "Ahmed Khater",
+    "email": "ahmed@propertyhub.com.eg",
+    "position": "CEO"
+  },
+  {
+    "company_name": "Property Hub",
+    "name": "Reem Hammad",
+    "email": "reem@propertyhub.com.eg",
+    "position": "Co-Founder"
+  },
+  {
+    "company_name": "Property Hub",
+    "name": "None None",
+    "email": "careers@propertyhub.com.eg",
+    "position": null
+  },
+  {
+    "company_name": "Property Hub",
+    "name": "None None",
+    "email": "info@propertyhub.com.eg",
+    "position": null
+  },
+  {
+    "company_name": "Property Hub",
+    "name": "None None",
+    "email": "sales@propertyhub.com.eg",
+    "position": null
+  },
+  {
+    "company_name": "Sakneen",
+    "name": "Ramy Khorshed",
+    "email": "ramy@sakneen.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "Sakneen",
+    "name": "Hussein Kheshen",
+    "email": "hussein@sakneen.com",
+    "position": "Chief Technology Officer"
+  },
+  {
+    "company_name": "Sakneen",
+    "name": "Youssef Noureldin",
+    "email": "youssef@sakneen.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "Tharwa Crowd",
+    "name": "None None",
+    "email": "info@tharwa-crowd.com",
+    "position": null
+  },
+  {
+    "company_name": "Tharwa Crowd",
+    "name": "None None",
+    "email": "careers@tharwa-crowd.com",
+    "position": null
+  },
+  {
+    "company_name": "Tharwa Crowd",
+    "name": "None None",
+    "email": "partner@tharwa-crowd.com",
+    "position": null
+  },
+  {
+    "company_name": "Empoweromics",
+    "name": "None None",
+    "email": "hello@empoweromics.com",
+    "position": null
+  },
+  {
+    "company_name": "Empoweromics",
+    "name": "None None",
+    "email": "deleteaccount@empoweromics.com",
+    "position": null
+  },
+  {
+    "company_name": "Empoweromics",
+    "name": "None None",
+    "email": "email@empoweromics.com",
+    "position": null
+  },
+  {
+    "company_name": "Samagroupegypt realestate",
+    "name": "None None",
+    "email": "info@realestatemaadiegypt.com",
+    "position": null
+  },
+  {
+    "company_name": "Nawy",
+    "name": "Sahar Mansour",
+    "email": "sahar.mansour@nawy.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Nawy",
+    "name": "Amr Malek",
+    "email": "amalek@nawy.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Nawy",
+    "name": "Ahmed Rafea",
+    "email": "arafea@nawy.com",
+    "position": "Co-Founder"
+  },
+  {
+    "company_name": "Nawy",
+    "name": "Abdel-Azim Osman",
+    "email": "aosman@nawy.com",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "Nawy",
+    "name": "Shady Zaher",
+    "email": "shady.zaher@nawy.com",
+    "position": "Director of Data and Analytics"
+  },
+  {
+    "company_name": "Nawy",
+    "name": "Essam Fayek",
+    "email": "efayek@nawy.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Nawy",
+    "name": "Asmaa Elsheikh",
+    "email": "aelsheikh@nawy.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Nawy",
+    "name": "Rawan Tawfik",
+    "email": "rawan.tawfik@nawy.com",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "Nawy",
+    "name": "Mohamed Bastawisy",
+    "email": "mbastawisy@nawy.com",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "Nawy",
+    "name": "Mohamed Galal",
+    "email": "mohamed.galal@nawy.com",
+    "position": "Senior Director of Commercial Strategy"
+  },
+  {
+    "company_name": "ASWAQ DEVELOPMENTS",
+    "name": "None None",
+    "email": "hr@aswaq-egypt.com",
+    "position": null
+  },
+  {
+    "company_name": "ASWAQ DEVELOPMENTS",
+    "name": "None None",
+    "email": "marketing@aswaq-egypt.com",
+    "position": null
+  },
+  {
+    "company_name": "Azalia Properties",
+    "name": "None None",
+    "email": "info@azalia-properties.com",
+    "position": null
+  },
+  {
+    "company_name": "East Port Said Development",
+    "name": "Omar Wahab",
+    "email": "owahab@ep-egypt.com",
+    "position": "Senior Commercial Director"
+  },
+  {
+    "company_name": "East Port Said Development",
+    "name": "None None",
+    "email": "info@ep-egypt.com",
+    "position": null
+  },
+  {
+    "company_name": "El Sawy Group",
+    "name": "Inas Alaa",
+    "email": "inas@elsawygroup.com",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "El Sawy Group",
+    "name": "None None",
+    "email": "careers@elsawygroup.com",
+    "position": null
+  },
+  {
+    "company_name": "El Sawy Group",
+    "name": "None None",
+    "email": "info@elsawygroup.com",
+    "position": null
+  },
+  {
+    "company_name": "El Sawy Group",
+    "name": "None None",
+    "email": "sales@elsawygroup.com",
+    "position": null
+  },
+  {
+    "company_name": "El Sawy Group",
+    "name": "None None",
+    "email": "marketing@elsawygroup.com",
+    "position": null
+  },
+  {
+    "company_name": "El Sawy Group",
+    "name": "None None",
+    "email": "noha.elshahawy@elsawygroup.com",
+    "position": null
+  },
+  {
+    "company_name": "8 Gates",
+    "name": "Mohamed Farid",
+    "email": "mohamedfarid@8gatesegypt.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "8 Gates",
+    "name": "None None",
+    "email": "info@8gatesegypt.com",
+    "position": null
+  },
+  {
+    "company_name": "MBG Developments",
+    "name": "Menna Shahin",
+    "email": "menna.shahin@mbgeg.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "MBG Developments",
+    "name": "Rana Attia",
+    "email": "rana.attia@mbgeg.com",
+    "position": "Marketing Executive"
+  },
+  {
+    "company_name": "MBG Developments",
+    "name": "Khaled Helmy",
+    "email": "khaled.helmy@mbgeg.com",
+    "position": "Senior Contracts Specialist"
+  },
+  {
+    "company_name": "MBG Developments",
+    "name": "Ahmed Alaa",
+    "email": "a.alaa@mbgeg.com",
+    "position": "Senior Sales Executive"
+  },
+  {
+    "company_name": "MBG Developments",
+    "name": "Magdi Elmeligy",
+    "email": "m.elmeligy@mbgeg.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "MBG Developments",
+    "name": "Amr Eladl",
+    "email": "amr.eladl@mbgeg.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "MBG Developments",
+    "name": "Waleed Anis",
+    "email": "waleed.anis@mbgeg.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "MBG Developments",
+    "name": "Fatma Kotb",
+    "email": "fatma.kotb@mbgeg.com",
+    "position": "Senior Marketing Specialist"
+  },
+  {
+    "company_name": "MBG Developments",
+    "name": "Alaa Hegazy",
+    "email": "alaa.hegazy@mbgeg.com",
+    "position": "Sales Team Leader"
+  },
+  {
+    "company_name": "MBG Developments",
+    "name": "Aliaa Metwally",
+    "email": "aliaa.metwally@mbgeg.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "New Plan Developments",
+    "name": "Mohamed Hussein",
+    "email": "m.hussein@newplandevelopments.com",
+    "position": "Head of Human Resources"
+  },
+  {
+    "company_name": "New Plan Developments",
+    "name": "Mohamed Ali",
+    "email": "m.ali@newplandevelopments.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "New Plan Developments",
+    "name": "Marwan Fayed",
+    "email": "m.fayed@newplandevelopments.com",
+    "position": "Sales Specialist"
+  },
+  {
+    "company_name": "New Plan Developments",
+    "name": "Ahmed Keshk",
+    "email": "a.keshk@newplandevelopments.com",
+    "position": "Sales Specialist"
+  },
+  {
+    "company_name": "New Plan Developments",
+    "name": "Tarek Torky",
+    "email": "t.torky@newplandevelopments.com",
+    "position": "Sales Specialist"
+  },
+  {
+    "company_name": "New Plan Developments",
+    "name": "Rashad Mostafa",
+    "email": "rashad.mostafa@newplandevelopments.com",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "New Plan Developments",
+    "name": "Nezar Elshabrawy",
+    "email": "n.elshabrawy@newplandevelopments.com",
+    "position": "Sales Operations Supervisor"
+  },
+  {
+    "company_name": "New Plan Developments",
+    "name": "Nisa Yusoff",
+    "email": "a.eladl@newplandevelopments.com",
+    "position": "Safety Supervisor"
+  },
+  {
+    "company_name": "New Plan Developments",
+    "name": "None None",
+    "email": "info@newplandevelopments.com",
+    "position": null
+  },
+  {
+    "company_name": "New Plan Developments",
+    "name": "None None",
+    "email": "hr@newplandevelopments.com",
+    "position": null
+  },
+  {
+    "company_name": "Real Mark",
+    "name": "None None",
+    "email": "info@realmark.com.eg",
+    "position": null
+  },
+  {
+    "company_name": "REKAZ Developments",
+    "name": "Tamer Bakir",
+    "email": "tamer@rekazltd.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "REKAZ Developments",
+    "name": "None None",
+    "email": "info@rekazltd.com",
+    "position": null
+  },
+  {
+    "company_name": "REKAZ Developments",
+    "name": "None None",
+    "email": "s.admin@rekazltd.com",
+    "position": null
+  },
+  {
+    "company_name": "REKAZ Developments",
+    "name": "None None",
+    "email": "hr@rekazltd.com",
+    "position": null
+  },
+  {
+    "company_name": "REKAZ Developments",
+    "name": "None None",
+    "email": "atrecruitment@rekazltd.com",
+    "position": null
+  },
+  {
+    "company_name": "RFCO",
+    "name": "Ahmed Hassan",
+    "email": "ahmed.hassan@rfcodevelopment.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "RFCO",
+    "name": "Ramy Fares",
+    "email": "ramy.fares@rfcodevelopment.com",
+    "position": "Chairman"
+  },
+  {
+    "company_name": "RFCO",
+    "name": "Mostafa Elsaaty",
+    "email": "mostafa.elsaaty@rfcodevelopment.com",
+    "position": "Head of Procurement"
+  },
+  {
+    "company_name": "RFCO",
+    "name": "Donia Zohny",
+    "email": "donia.zohny@rfcodevelopment.com",
+    "position": "Board Member"
+  },
+  {
+    "company_name": "RFCO",
+    "name": "Mohamed Elessaliy",
+    "email": "mohamed.elessaliy@rfcodevelopment.com",
+    "position": "Owner"
+  },
+  {
+    "company_name": "RFCO",
+    "name": "Gehad Ali",
+    "email": "gehad.ali@rfcodevelopment.com",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "RFCO",
+    "name": "Omnia Ahmed",
+    "email": "omnia.ahmed@rfcodevelopment.com",
+    "position": "Senior Human Resources Generalist"
+  },
+  {
+    "company_name": "RFCO",
+    "name": "Moataz Elsamadony",
+    "email": "moataz.elsamadony@rfcodevelopment.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "RFCO",
+    "name": "None None",
+    "email": "info@rfcodevelopment.com",
+    "position": null
+  },
+  {
+    "company_name": "RFCO",
+    "name": "None None",
+    "email": "webrequests@rfcodevelopment.com",
+    "position": null
+  },
+  {
+    "company_name": "Starlight Developments",
+    "name": "Hany Teima",
+    "email": "hany.teima@starlightdevelopments.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Starlight Developments",
+    "name": "Rania Sidky",
+    "email": "rania.sidky@starlightdevelopments.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Starlight Developments",
+    "name": "None None",
+    "email": "info@starlightdevelopments.com",
+    "position": null
+  },
+  {
+    "company_name": "Feather Invest",
+    "name": "Mmahmoud Galal",
+    "email": "mmahmoud@featherinvest.com",
+    "position": "Department Head"
+  },
+  {
+    "company_name": "Feather Invest",
+    "name": "None None",
+    "email": "info@featherinvest.com",
+    "position": null
+  },
+  {
+    "company_name": "ROYAL HILLS",
+    "name": "Esraa Osama",
+    "email": "esraa@royalhillseg.com",
+    "position": "Sales Administrator"
+  },
+  {
+    "company_name": "ROYAL HILLS",
+    "name": "Ahmed Karam",
+    "email": "karam@royalhillseg.com",
+    "position": "Social Media Specialist"
+  },
+  {
+    "company_name": "ROYAL HILLS",
+    "name": "Youssef Issa",
+    "email": "youssef@royalhillseg.com",
+    "position": "Sales and Marketing Specialist"
+  },
+  {
+    "company_name": "ROYAL HILLS",
+    "name": "Heba Abdelazeem",
+    "email": "heba@royalhillseg.com",
+    "position": "Telesales Representative"
+  },
+  {
+    "company_name": "ROYAL HILLS",
+    "name": "Zeiad Hany",
+    "email": "zeiad@royalhillseg.com",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "ROYAL HILLS",
+    "name": "Abdelrahman Gamil",
+    "email": "abdelrahman@royalhillseg.com",
+    "position": "Sales Specialist"
+  },
+  {
+    "company_name": "ROYAL HILLS",
+    "name": "None None",
+    "email": "info@royalhillseg.com",
+    "position": null
+  },
+  {
+    "company_name": "ROYAL HILLS",
+    "name": "None None",
+    "email": "steve@royalhillseg.com",
+    "position": null
+  },
+  {
+    "company_name": "Aqar Ya Masr",
+    "name": "Ahmed Atef",
+    "email": "ahmed@aqaryamasr.com",
+    "position": "Co-Founder"
+  },
+  {
+    "company_name": "Aqar Ya Masr",
+    "name": "None None",
+    "email": "info@aqaryamasr.com",
+    "position": null
+  },
+  {
+    "company_name": "Dimensions",
+    "name": "None None",
+    "email": "info@dimensions-eg.com",
+    "position": null
+  }
+]

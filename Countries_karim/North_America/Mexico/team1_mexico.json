@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Fibra Uno",
+      "website": "https://funo.mx/",
+      "address": "Av. Paseo de la Reforma 222, Colonia Juárez, Ciudad de México, C.P. 06600, Mexico",
+      "email": "investor@fibrauno.mx",
+      "phone_number": "+52 (55) 4170 7070"
+    },
+    {
+      "name": "FIBRA Prologis",
+      "website": "https://www.fibraprologis.com/",
+      "address": "Paseo de los Tamarindos 90 Torre 2 Piso 22 Bosques de las Lomas | CDMX 05120 | Mexico 05120",
+      "email": "investors@prologis.com",
+      "phone_number": "+52 55 1105 2900"
+    },
+    {
+      "name": "Corporación Inmobilaria Vesta",
+      "website": "https://vesta.com.mx/",
+      "address": "Paseo de los Tamarindos 400-A, Piso 2, Col. Bosques de las Lomas, 05120 Ciudad de México, Mexico",
+      "email": "investor.relations@vesta.com.mx, info@vesta.com.mx",
+      "phone_number": "(55) 12-09-14-77"
+    },
+    {
+      "name": "Fibra Danhos",
+      "website": "https://fibradanhos.com.mx/",
+      "address": "Monte Pelvoux 220, Lomas Virreyes, Miguel Hidalgo, 11000 Mexico City, CDMX",
+      "email": "investor@danhos.com.mx",
+      "phone_number": "(52) 55 5284 0030"
+    },
+    {
+      "name": "Fibra Terrafina",
+      "website": "https://terrafina.mx/",
+      "address": "Paseo de la Reforma 115, 5th floor, Col. Lomas de Chapultepec, CP 11000, CDMX, Mexico.",
+      "email": "contacto@terrafina.mx",
+      "phone_number": null
+    },
+    {
+      "name": "FIBRA Macquarie México",
+      "website": "https://fibramacquarie.com/",
+      "address": "Pedregal 24 Piso 21, Torre Virreyes Lomas – Virreyes, Molino del Rey 11040, Ciudad de Mexico México",
+      "email": "fibramq@macquarie.com",
+      "phone_number": "+52 (55) 9178 7700"
+    },
+    {
+      "name": "RLH Properties",
+      "website": "https://rlhproperties.com/",
+      "address": "Paseo de la Reforma 412, 21st Floor, Col. Juárez, Mexico City, CP 06600, Mexico",
+      "email": "info@rlhproperties.com",
+      "phone_number": "+52 (55) 6396 3000"
+    },
+    {
+      "name": "DINE, S.A.B. de C.V.",
+      "website": "https://www.dine.com.mx/",
+      "address": "Paseo de los Tamarindos 400-B, Piso 28, Bosques de las Lomas México, CDMX, C.P. 05120",
+      "email": "Contact form available",
+      "phone_number": "+52 (55) 5261-8282"
+    },
+    {
+      "name": "Lomeli Hermanos Bienes Raices",
+      "website": "https://lomelin.mx/",
+      "address": "Av. México 2795, Col. Ladrón de Guevara, Guadalajara, Jalisco, 44600, Mexico",
+      "email": "info@lomelihermanos.com",
+      "phone_number": "+52 (33) 3616 2629"
+    },
+    {
+      "name": "Planen Luxury",
+      "website": "https://www.planenluxury.com/, https://www.facebook.com/planenluxurymexico/",
+      "address": "San Pedro Garza Garcia, Nuevo Leon.",
+      "email": "realtor@planenluxury.com",
+      "phone_number": "+52 81 8693 2910"
+    },
+    {
+      "name": "Punta Mita (Nayarit)",
+      "website": "https://puntamita.com/",
+      "address": "Ramal Carr. Federal 200 Km. 19 Bahía de Banderas. Nayarit C.P. 63734, México.",
+      "email": "pminfo@puntamita.com",
+      "phone_number": "018000076482"
+    },
+    {
+      "name": "Mayakoba (Playa del Carmen)",
+      "website": "https://mayakoba.com/",
+      "address": "Carretera Federal Cancún - Tulum Km 298, Playa del Carmen, Quintana Roo, 77710, Mexico",
+      "email": "info@mayakoba.com",
+      "phone_number": null
+    }
+  ]

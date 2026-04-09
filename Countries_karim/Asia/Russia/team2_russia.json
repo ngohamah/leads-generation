@@ -1,0 +1,746 @@
+[
+  {
+    "company_name": "",
+    "name": "Bahtiyar Hakimov",
+    "email": "hakimov@lsrgroup.ru",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Vasily Pakhomov",
+    "email": "pakhomov@lsrgroup.ru",
+    "position": "Technical Director"
+  },
+  {
+    "company_name": "",
+    "name": "Vera Tanko",
+    "email": "tanko@lsrgroup.ru",
+    "position": "Director of Hospitality"
+  },
+  {
+    "company_name": "",
+    "name": "Egor Molchanov",
+    "email": "molchanov@lsrgroup.ru",
+    "position": "Deputy CEO"
+  },
+  {
+    "company_name": "",
+    "name": "Ronald Ledford",
+    "email": "ledford@lsrgroup.ru",
+    "position": "Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Andrei Nikitin",
+    "email": "nikitin@lsrgroup.ru",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Aleksandr Reiter",
+    "email": "reiter@lsrgroup.ru",
+    "position": "IT Support Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Victoria Tufanova",
+    "email": "tufanova@lsrgroup.ru",
+    "position": "Director of Research"
+  },
+  {
+    "company_name": "",
+    "name": "Lyudmila Fradina",
+    "email": "fradina@lsrgroup.ru",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Maria Rybina",
+    "email": "rybina@lsrgroup.ru",
+    "position": "Head of Investor Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Evgeny Akimov",
+    "email": "evgeny.akimov@etalongroup.com",
+    "position": "Director of Organizational Development"
+  },
+  {
+    "company_name": "",
+    "name": "Pavel Golovachev",
+    "email": "pavel.golovachev@etalongroup.com",
+    "position": "Director of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Popova",
+    "email": "anna.popova@etalongroup.com",
+    "position": "Director of Financial Reporting"
+  },
+  {
+    "company_name": "",
+    "name": "Elena Ryabova",
+    "email": "elena.ryabova@etalongroup.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Anastasiya Pulatova",
+    "email": "anastasiya.pulatova@etalongroup.com",
+    "position": "Technical Director"
+  },
+  {
+    "company_name": "",
+    "name": "Alexander Ugryumov",
+    "email": "alexander.ugryumov@etalongroup.com",
+    "position": "Head of Capital Markets"
+  },
+  {
+    "company_name": "",
+    "name": "Valeria Nikolaeva",
+    "email": "valerianikolaeva@etalongroup.com",
+    "position": "Director of Public Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Pozhidaeva",
+    "email": "anna.pozhidaeva@etalongroup.com",
+    "position": "Head of Planning and Cost Management"
+  },
+  {
+    "company_name": "",
+    "name": "Natalia Kanaki",
+    "email": "natalia.kanaki@etalongroup.com",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "",
+    "name": "Maria Stakina",
+    "email": "maria.stakina@etalongroup.com",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@mr-group.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "mr@mr-group.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "osipenko_v@mr-group.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "s.city@mr-group.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "press@mr-group.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "timakov@mr-group.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kovalev_v@mr-group.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "zhukov_v@mr-group.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "poloskov_a@mr-group.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "fili2@mr-group.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Alexander Pashchenko",
+    "email": "a.pashchenko@samolet.ru",
+    "position": "Senior Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Maan Nikolaeva",
+    "email": "maan.nikolaeva@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "n.alekseeva@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "k.pozdnyakova@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "feedbackhrplus@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "office@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "e.pshenichnov@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "t.malashenkova@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "smlttech@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@glorax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "office@glorax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pr@glorax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "a.yakovleva@glorax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "grigoreva.e@glorax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "a.palamarchuk@glorax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "life@glorax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "infostart@glorax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sivaya@glorax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "n.mednikova@glorax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Zamira Valieva",
+    "email": "valievaz@capitalgroup.ru",
+    "position": "Director of Architecture"
+  },
+  {
+    "company_name": "",
+    "name": "Petr Isaev",
+    "email": "isaevp@capitalgroup.ru",
+    "position": "Chief Commercial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Shahyan Hosain",
+    "email": "hosains@capitalgroup.ru",
+    "position": "Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Julia Khakimova",
+    "email": "khakimovaj@capitalgroup.ru",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Pavel Tyo",
+    "email": "tyop@capitalgroup.ru",
+    "position": "Co-Founder"
+  },
+  {
+    "company_name": "",
+    "name": "Ilven Galimov",
+    "email": "galimovi@capitalgroup.ru",
+    "position": "Chief Architect"
+  },
+  {
+    "company_name": "",
+    "name": "Anastasia Efremova",
+    "email": "efremovaa@capitalgroup.ru",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Jack Dempsey",
+    "email": "dempseyj@capitalgroup.ru",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Nikita Kuznetsov",
+    "email": "kuznetsovn@capitalgroup.ru",
+    "position": "Director of Development"
+  },
+  {
+    "company_name": "",
+    "name": "Mehmet Aydemir",
+    "email": "aydemirm@capitalgroup.ru",
+    "position": "Director of Special Projects"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@setlgroup.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ir@setlgroup.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ivanov_m@setlgroup.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hr@setlgroup.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "garant@setlgroup.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kostik_ki@setlgroup.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pr@setlgroup.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "karaseva_ta@setlgroup.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "press@setlgroup.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "arishina_ei@setlgroup.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "nagrada@ingrad.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "i.gorbunov@ingrad.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "oko@moscow-city-towers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@moscow-city-towers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "evolution@moscow-city-towers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "gorod-stolits@moscow-city-towers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "neva-towers@moscow-city-towers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hotels@moscow-city-towers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "afimall@moscow-city-towers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "severnaya-bashnya@moscow-city-towers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "rent@moscow-city-towers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "novotel-city-point@moscow-city-towers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@oko-capitalgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@nevatowers.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@moscowcapitalclub.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sales@moscowcapitalclub.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Evgeny Akimov",
+    "email": "evgeny.akimov@etalongroup.com",
+    "position": "Director of Organizational Development"
+  },
+  {
+    "company_name": "",
+    "name": "Pavel Golovachev",
+    "email": "pavel.golovachev@etalongroup.com",
+    "position": "Director of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Popova",
+    "email": "anna.popova@etalongroup.com",
+    "position": "Director of Financial Reporting"
+  },
+  {
+    "company_name": "",
+    "name": "Elena Ryabova",
+    "email": "elena.ryabova@etalongroup.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Anastasiya Pulatova",
+    "email": "anastasiya.pulatova@etalongroup.com",
+    "position": "Technical Director"
+  },
+  {
+    "company_name": "",
+    "name": "Alexander Ugryumov",
+    "email": "alexander.ugryumov@etalongroup.com",
+    "position": "Head of Capital Markets"
+  },
+  {
+    "company_name": "",
+    "name": "Valeria Nikolaeva",
+    "email": "valerianikolaeva@etalongroup.com",
+    "position": "Director of Public Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Pozhidaeva",
+    "email": "anna.pozhidaeva@etalongroup.com",
+    "position": "Head of Planning and Cost Management"
+  },
+  {
+    "company_name": "",
+    "name": "Natalia Kanaki",
+    "email": "natalia.kanaki@etalongroup.com",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "",
+    "name": "Maria Stakina",
+    "email": "maria.stakina@etalongroup.com",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "press@lakhta.center",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "view@lakhta.center",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@lakhta.center",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "archichance@lakhta.center",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Aleksey Malkov",
+    "email": "aleksey.malkov@nch-spb.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "commerce@nch-spb.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "information@nch-spb.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "exploitation@nch-spb.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Alexander Pashchenko",
+    "email": "a.pashchenko@samolet.ru",
+    "position": "Senior Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Maan Nikolaeva",
+    "email": "maan.nikolaeva@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "n.alekseeva@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "k.pozdnyakova@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "feedbackhrplus@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "office@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "e.pshenichnov@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "t.malashenkova@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "smlttech@samolet.ru",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Bahtiyar Hakimov",
+    "email": "hakimov@lsrgroup.ru",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Vasily Pakhomov",
+    "email": "pakhomov@lsrgroup.ru",
+    "position": "Technical Director"
+  },
+  {
+    "company_name": "",
+    "name": "Vera Tanko",
+    "email": "tanko@lsrgroup.ru",
+    "position": "Director of Hospitality"
+  },
+  {
+    "company_name": "",
+    "name": "Egor Molchanov",
+    "email": "molchanov@lsrgroup.ru",
+    "position": "Deputy CEO"
+  },
+  {
+    "company_name": "",
+    "name": "Ronald Ledford",
+    "email": "ledford@lsrgroup.ru",
+    "position": "Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Andrei Nikitin",
+    "email": "nikitin@lsrgroup.ru",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Aleksandr Reiter",
+    "email": "reiter@lsrgroup.ru",
+    "position": "IT Support Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Victoria Tufanova",
+    "email": "tufanova@lsrgroup.ru",
+    "position": "Director of Research"
+  },
+  {
+    "company_name": "",
+    "name": "Lyudmila Fradina",
+    "email": "fradina@lsrgroup.ru",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Maria Rybina",
+    "email": "rybina@lsrgroup.ru",
+    "position": "Head of Investor Relations"
+  }
+]

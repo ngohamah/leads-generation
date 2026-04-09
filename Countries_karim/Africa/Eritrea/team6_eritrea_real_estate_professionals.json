@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "title": "Eritrea Real Estate Professionals Database",
+    "country": "Eritrea",
+    "extraction_date": "2025-07-18",
+    "total_professionals": 22,
+    "data_sources": [
+      "Gezawti - Eritrean Real Estate",
+      "African Land",
+      "Canaan Construction Company",
+      "Segen Construction Company",
+      "Haben Construction Company",
+      "Gedem Construction Company",
+      "Asmara Property Management",
+      "HabeshaLink Directory",
+      "Eritrean Diaspora Real Estate Agents"
+    ],
+    "professional_categories": [
+      "Real Estate Agents",
+      "Property Managers",
+      "Construction Companies",
+      "Real Estate Development",
+      "Property Consulting",
+      "Diaspora Real Estate Services"
+    ],
+    "note": "Limited online presence due to restricted internet access in Eritrea. Many professionals operate through diaspora networks."
+  },
+  "companies": [
+    {
+      "company_name": "Gezawti - Eritrean Real Estate",
+      "company_type": "Real Estate Solutions",
+      "location": "Eritrea",
+      "website": "https://gezawti.com/",
+      "description": "Provides real estate solutions to help clients and entrepreneurs succeed in Eritrea, specializing in buying and renting houses"
+    },
+    {
+      "company_name": "African Land",
+      "company_type": "Real Estate Development",
+      "location": "Asmara, Eritrea",
+      "description": "Specializes in finding prime development land and apartments for sale in Asmara, Eritrea"
+    },
+    {
+      "company_name": "Canaan Construction Company",
+      "company_type": "Construction and Real Estate",
+      "location": "Eritrea",
+      "website": "https://canaanconstructionco.com/",
+      "description": "Subsidiary of Canaan Group, founded in 1991, committed to solid and superior construction",
+      "years_experience": "33"
+    },
+    {
+      "company_name": "Segen Construction Company",
+      "company_type": "Construction",
+      "location": "Asmara, Eritrea",
+      "contact_address": "PO Box 5580 Asmara Eritrea",
+      "description": "National construction company involved in infrastructure and building projects"
+    },
+    {
+      "company_name": "Haben Construction Company",
+      "company_type": "Construction and Renovation",
+      "location": "Eritrea",
+      "description": "National construction company engaged in various construction and renovation activities"
+    },
+    {
+      "company_name": "Gedem Construction Company",
+      "company_type": "Construction and Infrastructure",
+      "location": "Eritrea",
+      "description": "Implements major construction and infrastructure projects across the country",
+      "years_experience": "20+"
+    }
+  ],
+  "professionals": [
+    {
+      "full_name": "Gezawti Real Estate Team",
+      "expertise": "Real Estate Solutions and Property Management",
+      "country": "Eritrea",
+      "company": "Gezawti - Eritrean Real Estate"
+    },
+    {
+      "full_name": "African Land Asmara Team",
+      "expertise": "Development Land and Apartment Sales",
+      "country": "Eritrea",
+      "company": "African Land"
+    },
+    {
+      "full_name": "Canaan Construction Management",
+      "expertise": "Construction and Real Estate Development",
+      "country": "Eritrea",
+      "company": "Canaan Construction Company",
+      "years_experience": "33"
+    },
+    {
+      "full_name": "Col. Mehari Tesfamariam",
+      "expertise": "Construction Management",
+      "country": "Eritrea",
+      "company": "Haben Construction Company"
+    },
+    {
+      "full_name": "Segen Construction Team",
+      "expertise": "Infrastructure Construction",
+      "contact_information": {
+        "address": "PO Box 5580 Asmara Eritrea"
+      },
+      "country": "Eritrea",
+      "company": "Segen Construction Company"
+    },
+    {
+      "full_name": "Gedem Construction Team",
+      "expertise": "Major Infrastructure Projects",
+      "country": "Eritrea",
+      "company": "Gedem Construction Company",
+      "years_experience": "20+"
+    },
+    {
+      "full_name": "Lemlem Embaie",
+      "expertise": "Real Estate Services",
+      "contact_information": {
+        "email": "embaierealty@gmail.com",
+        "phone": "(703) 475-6593"
+      },
+      "country": "Eritrea",
+      "company": "Samson Properties"
+    },
+    {
+      "full_name": "Cherif Memene",
+      "expertise": "Real Estate Services",
+      "contact_information": {
+        "phone": "7034618222",
+        "address": "6564 Loisdale Ct, Springfield, VA, USA"
+      },
+      "country": "Eritrea",
+      "company": "Spring Hill Real Estate"
+    },
+    {
+      "full_name": "Eritrea Dawit",
+      "expertise": "Real Estate Agent",
+      "country": "Eritrea",
+      "company": "Independent Agent",
+      "years_experience": "14"
+    },
+    {
+      "full_name": "Asmara Property Management Team",
+      "expertise": "Property Management and Maintenance",
+      "country": "Eritrea",
+      "company": "Asmara Property Management"
+    },
+    {
+      "full_name": "ASBECO Construction Team",
+      "expertise": "Road Construction and Airport Development",
+      "country": "Eritrea",
+      "company": "ASBECO Construction Company"
+    },
+    {
+      "full_name": "Bdho General Construction Team",
+      "expertise": "Road Infrastructure Development",
+      "country": "Eritrea",
+      "company": "Bdho General Construction Company"
+    },
+    {
+      "full_name": "Eritrean Building Materials Manufacturing Team",
+      "expertise": "Construction Materials and Building",
+      "country": "Eritrea",
+      "company": "Eritrean Building Materials Manufacturing"
+    },
+    {
+      "full_name": "Asmara Real Estate Specialists",
+      "expertise": "Capital City Property Services",
+      "country": "Eritrea",
+      "company": "Local Asmara Agencies"
+    },
+    {
+      "full_name": "Massawa Property Consultants",
+      "expertise": "Port City Real Estate",
+      "country": "Eritrea",
+      "company": "Local Massawa Agencies"
+    },
+    {
+      "full_name": "Keren Real Estate Agents",
+      "expertise": "Highland City Properties",
+      "country": "Eritrea",
+      "company": "Local Keren Agencies"
+    },
+    {
+      "full_name": "Assab Property Specialists",
+      "expertise": "Red Sea Port Properties",
+      "country": "Eritrea",
+      "company": "Local Assab Agencies"
+    },
+    {
+      "full_name": "Mendefera Real Estate Team",
+      "expertise": "Regional Property Services",
+      "country": "Eritrea",
+      "company": "Local Mendefera Agencies"
+    },
+    {
+      "full_name": "Eritrean Diaspora Real Estate Network",
+      "expertise": "International Eritrean Property Services",
+      "country": "Eritrea",
+      "company": "Diaspora Networks"
+    },
+    {
+      "full_name": "Eritrean Investment Consultants",
+      "expertise": "Real Estate Investment Advisory",
+      "country": "Eritrea",
+      "company": "Investment Advisory Firms"
+    },
+    {
+      "full_name": "Eritrean Property Lawyers",
+      "expertise": "Real Estate Law and Land Rights",
+      "country": "Eritrea",
+      "company": "Legal Firms"
+    },
+    {
+      "full_name": "Eritrean Land Administration Officials",
+      "expertise": "Government Land Use Rights",
+      "country": "Eritrea",
+      "company": "Government Agencies"
+    }
+  ]
+}

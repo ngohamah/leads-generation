@@ -1,0 +1,502 @@
+[
+  {
+    "company_name": "Avison Young Vietnam",
+    "website": "https://www.avisonyoung.vn/",
+    "Language": "en"
+  },
+  {
+    "company_name": "Bella Vista Urban",
+    "website": "https://bellavistaurban.vn",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Marinariverside",
+    "website": "https://marinariverside.vn",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "IBL GLOBAL CO., LTD",
+    "website": "https://iblglobal.com.vn",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Vingroup JSC",
+    "website": "https://vingroup.net/en",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "CapitaLand (Vietnam) Holdings",
+    "website": "https://capitaland.com/vn/en.html",
+    "Language": "en"
+  },
+  {
+    "company_name": "Keppel Land Vietnam",
+    "website": "https://www.keppelland.com/vn/",
+    "Language": "nl"
+  },
+  {
+    "company_name": "Sun Group",
+    "website": "https://sungroup.com.vn",
+    "Language": "vi"
+  },
+  {
+    "company_name": "Novaland Group",
+    "website": "https://www.novaland.com.vn/en",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Mapletree Investments Vietnam",
+    "website": "https://www.mapletree.com.sg/en/Our-Global-Presence/Vietnam.aspx",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Nam Long Investment Corporation",
+    "website": "https://www.namlongvn.com",
+    "Language": "vi"
+  },
+  {
+    "company_name": "Dat Xanh Group",
+    "website": "https://www.datxanh.vn",
+    "Language": "en"
+  },
+  {
+    "company_name": "Becamex IDC Corporation",
+    "website": "https://www.becamex.com.vn/",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Kinh Bac City Development Holding Corporation",
+    "website": "https://www.kinhbac.vn",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Frasers Property Vietnam",
+    "website": "https://www.frasersproperty.com/vn",
+    "Language": "en"
+  },
+  {
+    "company_name": "Lotte Properties Vietnam",
+    "website": "https://www.lotte.vn",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Gamuda Land Vietnam",
+    "website": "https://www.gamudaland.com.vn",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Phat Dat Real Estate Development",
+    "website": "https://www.phatdat.com.vn",
+    "Language": "en"
+  },
+  {
+    "company_name": "Hung Thinh Land",
+    "website": "https://hungthinhland.com",
+    "Language": "en"
+  },
+  {
+    "company_name": "Regus Vietnam",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Cushman & Wakefield Vietnam",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Dragon Fly Co., Ltd.",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Savills Vietnam",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "WMC Group",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Sothebys International Realty",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Son Hoa Real Estate Co.",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Dai Tin Bank",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Masterise Homes",
+    "website": "https://masterisehomes.com",
+    "Language": "en"
+  },
+  {
+    "company_name": "Hung Thinh Corporation",
+    "website": "https://hungthinhcorp.com.vn",
+    "Language": "en"
+  },
+  {
+    "company_name": "Tap Doan Tran Anh",
+    "website": "https://tapdoantrananh.com.vn",
+    "Language": "vi"
+  },
+  {
+    "company_name": "Honeycomb Real Estate",
+    "website": "https://honeycomb.vn",
+    "Language": "en"
+  },
+  {
+    "company_name": "Saigonres",
+    "website": "https://saigonres.com.vn",
+    "Language": "en"
+  },
+  {
+    "company_name": "Huttons Vietnam",
+    "website": "https://huttons.com.vn",
+    "Language": "en"
+  },
+  {
+    "company_name": "Sowatco",
+    "website": "https://sowatco.com.vn",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Vinhomes Joint Stock Company",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "PropertyX (Hung Thinh Corp)",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "SkyWorld Vietnam",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Curvo Residences",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Sky Meridien",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Sky Sanctuary",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "SkyVogue",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "SkyLuxe",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Sky Awani",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Ascenda Residences",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Daewoo E&C Vietnam",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Starlake Urban Area",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Daeha Shopping Center",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Korean Quarter – Koradise Meyhomes",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Ice Jungle Snow Garden",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Savills Vietnam Co., Ltd.",
+    "website": "https://vn.savills.com.vn/why-savills/",
+    "Language": "vi"
+  },
+  {
+    "company_name": "CBRE Vietnam Co., Ltd.",
+    "website": "https://www.cbrevietnam.com/",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Phuc Thinh Development Investment Consulting Corporation",
+    "website": "https://www.vnnreal.vn",
+    "Language": "en"
+  },
+  {
+    "company_name": "Nagashima Ohno & Tsunematsu",
+    "website": "https://www.noandt.com/en",
+    "Language": "en"
+  },
+  {
+    "company_name": "Rajah & Tann LCT Lawyers",
+    "website": "https://www.rajahtannlct.com/",
+    "Language": "en"
+  },
+  {
+    "company_name": "Tilleke & Gibbins",
+    "website": "https://www.tilleke.com/locations/vietnam/",
+    "Language": "en"
+  },
+  {
+    "company_name": "Vision & Associates",
+    "website": "https://vision-associates.com/",
+    "Language": "en"
+  },
+  {
+    "company_name": "DAT XANH GROUP JOINT STOCK COMPANY",
+    "website": "https://www.datxanh.vn/",
+    "Language": "en"
+  },
+  {
+    "company_name": "CENTURY GROUP JOINT STOCK COMPANY",
+    "website": "https://cenhomes.vn/",
+    "Language": "en"
+  },
+  {
+    "company_name": "DKRA Vietnam",
+    "website": "https://dkra.vn/",
+    "Language": "en"
+  },
+  {
+    "company_name": "WeLand Real Estate",
+    "website": "https://weland.vn/",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Wisdom Agency",
+    "website": "https://wisdomagency.com/en/project/nova-land-2/",
+    "Language": "en"
+  },
+  {
+    "company_name": "Sprite Genix",
+    "website": "https://www.spritegenix.com/digital-marketing-for-real-estate-in-vietnam",
+    "Language": "en"
+  },
+  {
+    "company_name": "WeLand",
+    "website": "https://www.weland.com.vn/en/about-us",
+    "Language": "en"
+  },
+  {
+    "company_name": "Prodima",
+    "website": "https://prodima.vn/en/",
+    "Language": "en"
+  },
+  {
+    "company_name": "SIAC Southwest Information and Appraisal Corporation",
+    "website": "http://www.siac.vn/home_en.php",
+    "Language": "en"
+  },
+  {
+    "company_name": "Saigon Appraise Assess Joint Stock Company",
+    "website": "https://sagonap.com/en/about-us/",
+    "Language": "en"
+  },
+  {
+    "company_name": "Knight Frank Vietnam",
+    "website": "https://www.knightfrank.com.vn/valuation",
+    "Language": "en"
+  },
+  {
+    "company_name": "Regus",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Savills Viet Nam Ltd",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Tran Anh Group",
+    "website": "https://tapdoantrananh.com.vn",
+    "Language": "vi"
+  },
+  {
+    "company_name": "Huttons",
+    "website": "https://huttons.com.vn",
+    "Language": "en"
+  },
+  {
+    "company_name": "Vinhomes",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "PropertyX",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "EcoPark",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "CBRE Vietnam",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "PMC (Property Management Consulting)",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Savista Holdings",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Phu My Hung",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Nam Long Group",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Colliers International Vietnam",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "VietinBank Asset Management",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "VILAF",
+    "website": "https://vilaf.com.vn",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Trinh Vinh Phuc Law Firm",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Phan Trung Hoai Law Office",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "YKVN",
+    "website": "https://ykvn-law.com",
+    "Language": "en"
+  },
+  {
+    "company_name": "ATS Law Firm",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Nishimura & Asahi",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Vina Legal",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "APFL & Partners Legal Vietnam LLC",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "BD Lawyers & Associates",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Baker McKenzie",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Frasers Law Company",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "LNT & Partners",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Bizlink Lawyers",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Mori Hamada & Matsumoto",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Bross & Partners",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Naci Law",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "TNP Lawyers",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "LE & TRAN Law Corporation",
+    "website": null,
+    "Language": "unknown"
+  },
+  {
+    "company_name": "The Lam Law LLC",
+    "website": null,
+    "Language": "unknown"
+  }
+]

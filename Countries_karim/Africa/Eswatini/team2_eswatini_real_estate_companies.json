@@ -1,0 +1,626 @@
+[
+  {
+    "company_name": "Seeff Property Group (Eswatini)",
+    "name": "Beverley Gaul",
+    "email": "bev.gaul@seeff.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Seeff Property Group (Eswatini)",
+    "name": "Shubham Said",
+    "email": "joan.ridl@seeff.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Seeff Property Group (Eswatini)",
+    "name": "James Lewis",
+    "email": "james.lewis@seeff.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Seeff Property Group (Eswatini)",
+    "name": "Ted Frazer",
+    "email": "ted.frazer@seeff.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "Seeff Property Group (Eswatini)",
+    "name": "Jessica Marais",
+    "email": "jessica.marais@seeff.com",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "Seeff Property Group (Eswatini)",
+    "name": "Michele Wilson",
+    "email": "michelewilson@seeff.com",
+    "position": "Owner"
+  },
+  {
+    "company_name": "Seeff Property Group (Eswatini)",
+    "name": "Gail Rimbault",
+    "email": "gail.rimbault@seeff.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Seeff Property Group (Eswatini)",
+    "name": "Madelein Booth",
+    "email": "madelein.booth@seeff.com",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "Seeff Property Group (Eswatini)",
+    "name": "Reena Cassim",
+    "email": "reena.cassim@seeff.com",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "Seeff Property Group (Eswatini)",
+    "name": "Allison Oosthuizen",
+    "email": "allison.oosthuizen@seeff.com",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "Silverspoon Asset Management",
+    "name": "None None",
+    "email": "theo@silverspoon.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Silverspoon Asset Management",
+    "name": "None None",
+    "email": "info@silverspoon.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Robinson Bertram Attorneys",
+    "name": "None None",
+    "email": "kennethmotsa@robinsonbertram.law.sz",
+    "position": null
+  },
+  {
+    "company_name": "Eswatini Housing Board",
+    "name": "Linda Mkhwanazi",
+    "email": "linda.mkhwanazi@ehb.co.sz",
+    "position": "Chief Risk Officer"
+  },
+  {
+    "company_name": "Eswatini Housing Board",
+    "name": "Nkosingiphile Gule",
+    "email": "nkosingiphile.gule@ehb.co.sz",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Eswatini Housing Board",
+    "name": "Precious Teixeira",
+    "email": "precious.teixeira@ehb.co.sz",
+    "position": "Marketing Intern"
+  },
+  {
+    "company_name": "Eswatini Housing Board",
+    "name": "Zamancele Mavuso",
+    "email": "zamancele.mavuso@ehb.co.sz",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Eswatini Housing Board",
+    "name": "None None",
+    "email": "postbox@ehb.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "CBRE Excellerate",
+    "name": "Roxanne Marais",
+    "email": "roxanne.marais@cbreexcellerate.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "CBRE Excellerate",
+    "name": "Nazanin Badr",
+    "email": "nazanin.badr@cbreexcellerate.com",
+    "position": "Regional Finance Director"
+  },
+  {
+    "company_name": "CBRE Excellerate",
+    "name": "Riaan Fourie",
+    "email": "riaan.fourie@cbreexcellerate.com",
+    "position": "Director of Valuation and Advisory Services"
+  },
+  {
+    "company_name": "CBRE Excellerate",
+    "name": "Caroline Otieno",
+    "email": "caroline.otieno@cbreexcellerate.com",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "CBRE Excellerate",
+    "name": "Craig Hean",
+    "email": "craig.hean@cbreexcellerate.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "CBRE Excellerate",
+    "name": "Hussam Magdy",
+    "email": "hussam.magdy@cbreexcellerate.com",
+    "position": "Regional Project Manager"
+  },
+  {
+    "company_name": "CBRE Excellerate",
+    "name": "Fabio Nava",
+    "email": "fabio.nava@cbreexcellerate.com",
+    "position": "Director of Advisory Services"
+  },
+  {
+    "company_name": "CBRE Excellerate",
+    "name": "Jan Snyman",
+    "email": "jan.snyman@cbreexcellerate.com",
+    "position": "Director of Advisory Services"
+  },
+  {
+    "company_name": "CBRE Excellerate",
+    "name": "Frank Simonetti",
+    "email": "frank.simonetti@cbreexcellerate.com",
+    "position": "Director of Contracted Accounts"
+  },
+  {
+    "company_name": "CBRE Excellerate",
+    "name": "Emad Adel",
+    "email": "emad.adel@cbreexcellerate.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "SwaziHome.com",
+    "name": "Simon Shim",
+    "email": "simon_shim@swazihome.com",
+    "position": null
+  },
+  {
+    "company_name": "SwaziHome.com",
+    "name": "Hannes Zakes",
+    "email": "zakes_hannes@swazihome.com",
+    "position": null
+  },
+  {
+    "company_name": "SwaziHome.com",
+    "name": "Thabo Malinga",
+    "email": "thabo_malinga@swazihome.com",
+    "position": null
+  },
+  {
+    "company_name": "SwaziHome.com",
+    "name": "Tshidiso Kunene",
+    "email": "tshidiso_kunene@swazihome.com",
+    "position": null
+  },
+  {
+    "company_name": "SwaziHome.com",
+    "name": "Robyn Stewart",
+    "email": "robyn_stewart@swazihome.com",
+    "position": null
+  },
+  {
+    "company_name": "SwaziHome.com",
+    "name": "None None",
+    "email": "siyabongamhlanga@swazihome.com",
+    "position": null
+  },
+  {
+    "company_name": "SwaziHome.com",
+    "name": "None None",
+    "email": "bandilenkosi@swazihome.com",
+    "position": null
+  },
+  {
+    "company_name": "SwaziHome.com",
+    "name": "None None",
+    "email": "bhekidlamini@swazihome.com",
+    "position": null
+  },
+  {
+    "company_name": "SwaziHome.com",
+    "name": "None None",
+    "email": "samkeliso@swazihome.com",
+    "position": null
+  },
+  {
+    "company_name": "SwaziHome.com",
+    "name": "None None",
+    "email": "petermasilela@swazihome.com",
+    "position": null
+  },
+  {
+    "company_name": "RE/MAX Real Estate Specialist (Eswatini)",
+    "name": "Peter Gilmour",
+    "email": "peter@remax.co.za",
+    "position": "Chairman"
+  },
+  {
+    "company_name": "RE/MAX Real Estate Specialist (Eswatini)",
+    "name": "Dirk Grobbelaar",
+    "email": "dirk@remax.co.za",
+    "position": "Chief Information Officer"
+  },
+  {
+    "company_name": "RE/MAX Real Estate Specialist (Eswatini)",
+    "name": "Vicky Goslett",
+    "email": "vicky@remax.co.za",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "RE/MAX Real Estate Specialist (Eswatini)",
+    "name": "Lee-Ann Abrahamse",
+    "email": "lee-ann@remax.co.za",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "RE/MAX Real Estate Specialist (Eswatini)",
+    "name": "Jonty Goslett",
+    "email": "jonty@remax.co.za",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "RE/MAX Real Estate Specialist (Eswatini)",
+    "name": "Kayla Cloete",
+    "email": "kayla@remax.co.za",
+    "position": "Public Relations Officer"
+  },
+  {
+    "company_name": "RE/MAX Real Estate Specialist (Eswatini)",
+    "name": "Juanita Pandy",
+    "email": "juanita@remax.co.za",
+    "position": "Information Officer"
+  },
+  {
+    "company_name": "RE/MAX Real Estate Specialist (Eswatini)",
+    "name": "None None",
+    "email": "marketing@remax.co.za",
+    "position": null
+  },
+  {
+    "company_name": "RE/MAX Real Estate Specialist (Eswatini)",
+    "name": "None None",
+    "email": "events@remax.co.za",
+    "position": null
+  },
+  {
+    "company_name": "RE/MAX Real Estate Specialist (Eswatini)",
+    "name": "None None",
+    "email": "vanessa@remax.co.za",
+    "position": null
+  },
+  {
+    "company_name": "Swaziland Building Society",
+    "name": "None None",
+    "email": "info@sbs.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Swaziland Building Society",
+    "name": "None None",
+    "email": "manzini2@sbs.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Swaziland Building Society",
+    "name": "None None",
+    "email": "manzini1@sbs.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Swaziland Building Society",
+    "name": "None None",
+    "email": "siteki@sbs.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Swaziland Building Society",
+    "name": "None None",
+    "email": "buhleni@sbs.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Swaziland Building Society",
+    "name": "None None",
+    "email": "piggspeak@sbs.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Swaziland Building Society",
+    "name": "None None",
+    "email": "swaziplaza@sbs.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Swaziland Building Society",
+    "name": "None None",
+    "email": "sukatip@sbs.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Swaziland Building Society",
+    "name": "None None",
+    "email": "mortgages@sbs.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Swaziland Building Society",
+    "name": "None None",
+    "email": "matata@sbs.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Nedbank Swaziland",
+    "name": "Lwazi Gumede",
+    "email": "lgumede@nedbank.co.sz",
+    "position": "Director of Credit"
+  },
+  {
+    "company_name": "Nedbank Swaziland",
+    "name": "Tebesuthu Nkambule",
+    "email": "tnkambule@nedbank.co.sz",
+    "position": "Human Resources Business Partner"
+  },
+  {
+    "company_name": "Nedbank Swaziland",
+    "name": "Mpendulo Shongwe",
+    "email": "mshongwe@nedbank.co.sz",
+    "position": "General Counsel"
+  },
+  {
+    "company_name": "Nedbank Swaziland",
+    "name": "Themba Mahlalela",
+    "email": "tmahlalela@nedbank.co.sz",
+    "position": "Chief Risk Officer"
+  },
+  {
+    "company_name": "Nedbank Swaziland",
+    "name": "Mphile Mthethwa",
+    "email": "mmthethwa@nedbank.co.sz",
+    "position": "Head of Electronic Banking"
+  },
+  {
+    "company_name": "Nedbank Swaziland",
+    "name": "Edward Sithole",
+    "email": "esithole@nedbank.co.sz",
+    "position": "Chief Human Resources Officer"
+  },
+  {
+    "company_name": "Nedbank Swaziland",
+    "name": "None None",
+    "email": "fnkosi@nedbank.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Nedbank Swaziland",
+    "name": "None None",
+    "email": "mmasuku@nedbank.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Nedbank Swaziland",
+    "name": "None None",
+    "email": "helpdesk@nedbank.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Nedbank Swaziland",
+    "name": "None None",
+    "email": "info@nedbank.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "SwaziBank",
+    "name": "Sizwe Dlamini",
+    "email": "sizwed@swazibank.co.sz",
+    "position": "Credit Manager"
+  },
+  {
+    "company_name": "SwaziBank",
+    "name": "Robinson Hlophe",
+    "email": "robinsonh@swazibank.co.sz",
+    "position": "Non-Executive Director"
+  },
+  {
+    "company_name": "SwaziBank",
+    "name": "Vusi Sambo",
+    "email": "vusis@swazibank.co.sz",
+    "position": "IT Director"
+  },
+  {
+    "company_name": "SwaziBank",
+    "name": "Mbongeni Bhembe",
+    "email": "mbongenib@swazibank.co.sz",
+    "position": "Risk and Analytics Executive"
+  },
+  {
+    "company_name": "SwaziBank",
+    "name": "Nqobile Sacolo",
+    "email": "nqobiles@swazibank.co.sz",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "SwaziBank",
+    "name": "Santhosh Sara",
+    "email": "sifisom@swazibank.co.sz",
+    "position": "General Counsel"
+  },
+  {
+    "company_name": "SwaziBank",
+    "name": "Philani Dlamini",
+    "email": "philanid@swazibank.co.sz",
+    "position": "Chief Compliance Officer"
+  },
+  {
+    "company_name": "SwaziBank",
+    "name": "Zanele Dlamini",
+    "email": "zaneled@swazibank.co.sz",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "SwaziBank",
+    "name": "Thulani Mchunu",
+    "email": "thulanim@swazibank.co.sz",
+    "position": "Human Resources Manager"
+  },
+  {
+    "company_name": "SwaziBank",
+    "name": "Nozizwe Mulela",
+    "email": "nozizwem@swazibank.co.sz",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "STANLIB Eswatini",
+    "name": "Farzinda Essa",
+    "email": "farzinda.essa@stanlib.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "STANLIB Eswatini",
+    "name": "Chris Viljoen",
+    "email": "chris.viljoen@stanlib.com",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "STANLIB Eswatini",
+    "name": "Ralph Obermauer",
+    "email": "reginald.khumalo@stanlib.com",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "STANLIB Eswatini",
+    "name": "Lourens Lourens",
+    "email": "lourens.lourens@stanlib.com",
+    "position": "IT Operations Manager"
+  },
+  {
+    "company_name": "STANLIB Eswatini",
+    "name": "Mario Saputro",
+    "email": "patrick.mamathuba@stanlib.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "STANLIB Eswatini",
+    "name": "Nishani Govender",
+    "email": "nishani.govender@stanlib.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "STANLIB Eswatini",
+    "name": "Suhail Mohamed",
+    "email": "suhail.mohamed@stanlib.com",
+    "position": "Shari'ah Advisor"
+  },
+  {
+    "company_name": "STANLIB Eswatini",
+    "name": "Bongiwe Khumalo",
+    "email": "bongiwe.khumalo@stanlib.com",
+    "position": "Director of Distribution"
+  },
+  {
+    "company_name": "STANLIB Eswatini",
+    "name": "Anthony Katakuzinos",
+    "email": "anthony.katakuzinos@stanlib.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "STANLIB Eswatini",
+    "name": "Yolanda Boqwana",
+    "email": "yolanda.boqwana@stanlib.com",
+    "position": "Head of Regulatory Affairs"
+  },
+  {
+    "company_name": "Dynasty Inc Attorneys",
+    "name": "None None",
+    "email": "info@dynastyincattorneys.com",
+    "position": null
+  },
+  {
+    "company_name": "Dynasty Inc Attorneys",
+    "name": "None None",
+    "email": "hasso@dynastyincattorneys.com",
+    "position": null
+  },
+  {
+    "company_name": "Dynasty Inc Attorneys",
+    "name": "None None",
+    "email": "nadia@dynastyincattorneys.com",
+    "position": null
+  },
+  {
+    "company_name": "Dynasty Inc Attorneys",
+    "name": "None None",
+    "email": "mxolisi@dynastyincattorneys.com",
+    "position": null
+  },
+  {
+    "company_name": "Dynasty Inc Attorneys",
+    "name": "None None",
+    "email": "mayibongwe@dynastyincattorneys.com",
+    "position": null
+  },
+  {
+    "company_name": "Dynasty Inc Attorneys",
+    "name": "None None",
+    "email": "nkosingivile@dynastyincattorneys.com",
+    "position": null
+  },
+  {
+    "company_name": "African Land (Eswatini Operations)",
+    "name": "None None",
+    "email": "t.ceo@african.land",
+    "position": null
+  },
+  {
+    "company_name": "Sprite Genix (Real Estate Digital Marketing)",
+    "name": "None None",
+    "email": "hello@spritegenix.com",
+    "position": null
+  },
+  {
+    "company_name": "Mbabane Estate Agents",
+    "name": "Nothando Masango",
+    "email": "nothandom@business-eswatini.co.sz",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Mbabane Estate Agents",
+    "name": "Musa Maseko",
+    "email": "musam@business-eswatini.co.sz",
+    "position": "Head of Trade and Commerce"
+  },
+  {
+    "company_name": "Mbabane Estate Agents",
+    "name": "Mbuso Sacolo",
+    "email": "mbusos@business-eswatini.co.sz",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Mbabane Estate Agents",
+    "name": "Nelisiwe Mtshali",
+    "email": "nelisiwem@business-eswatini.co.sz",
+    "position": "Business Development Manager"
+  },
+  {
+    "company_name": "Mbabane Estate Agents",
+    "name": "Thandeka Dlamini",
+    "email": "thandekad@business-eswatini.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Mbabane Estate Agents",
+    "name": "None None",
+    "email": "info@business-eswatini.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Mbabane Estate Agents",
+    "name": "None None",
+    "email": "noziphom@business-eswatini.co.sz",
+    "position": null
+  },
+  {
+    "company_name": "Mbabane Estate Agents",
+    "name": "None None",
+    "email": "ceo@business-eswatini.co.sz",
+    "position": null
+  }
+]

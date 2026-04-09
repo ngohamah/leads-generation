@@ -1,0 +1,274 @@
+{
+  "real_estate_companies": [
+    {
+      "company_name": "Elimo Real Estate",
+      "website": "https://elimo.rw",
+      "professionals": [
+        {
+          "full_name": "Grace Uwacu",
+          "position": "Real Estate Specialist",
+          "specialization": "Residential Properties",
+          "contact_details": {
+            "profile_url": "https://elimo.rw/agent-details.php?id=32"
+          },
+          "note": "Highly recommended agent mentioned in testimonials for her patience and negotiation skills"
+        },
+        {
+          "full_name": "Aristide Yves Horimbere",
+          "position": "Real Estate Specialist",
+          "specialization": "Residential and Commercial Properties",
+          "contact_details": {
+            "profile_url": "https://elimo.rw/agent-details.php?id=33"
+          },
+          "note": "Experienced agent mentioned multiple times in client testimonials for professionalism"
+        },
+        {
+          "full_name": "Jean Dedieu Karangwa",
+          "position": "Real Estate Specialist",
+          "specialization": "Real Estate Services",
+          "contact_details": {
+            "profile_url": "https://elimo.rw/agent-details.php?id=31"
+          }
+        },
+        {
+          "full_name": "Blandine Kaneza",
+          "position": "Real Estate Professional",
+          "specialization": "Real Estate Services",
+          "contact_details": {
+            "profile_url": "https://elimo.rw/agent-details.php?id=34"
+          }
+        }
+      ],
+      "company_contact": {
+        "general_email": "Contact through website",
+        "general_phone": "Not publicly available",
+        "address": "Kigali, Rwanda"
+      }
+    },
+    {
+      "company_name": "Ultimate Developers Ltd (UDL)",
+      "website": "https://udl.rw",
+      "professionals": [],
+      "board_members": [
+        {
+          "full_name": "Cyrille Hategekimana",
+          "position": "Board Chairman"
+        },
+        {
+          "full_name": "Alain Ngirinshuti",
+          "position": "Board Member"
+        },
+        {
+          "full_name": "Leopold Uwimana",
+          "position": "Board Member"
+        },
+        {
+          "full_name": "Gilbert Tumurere",
+          "position": "Board Member"
+        }
+      ],
+      "company_contact": {
+        "general_email": "Contact through website",
+        "general_phone": "Contact through website",
+        "address": "9th Floor RSSB Tower II Building, Kiyovu, Nyarugenge District, Kigali",
+        "established": "2011",
+        "parent_company": "Rwanda Social Security Board (RSSB)"
+      }
+    },
+    {
+      "company_name": "Plut Properties Rwanda Ltd",
+      "website": "https://plutproperties.com",
+      "professionals": [
+        {
+          "full_name": "Lutwama Peter",
+          "position": "Senior Real Estate Agent",
+          "specialization": "Residential and Commercial Properties",
+          "contact_details": {
+            "phone": "+250 788 411 423, +250 793 226 652",
+            "email": "Contact through company"
+          },
+          "note": "Highly rated agent with 10+ years experience, mentioned frequently in testimonials"
+        },
+        {
+          "full_name": "Habineza Fabien",
+          "position": "Property Manager",
+          "specialization": "Property Management",
+          "contact_details": {
+            "phone": "+250 793 226 652",
+            "email": "Contact through company"
+          }
+        },
+        {
+          "full_name": "Mugisha Aime",
+          "position": "Operations Manager",
+          "specialization": "Operations Management",
+          "contact_details": {
+            "phone": "+250 793 226 652",
+            "email": "Contact through company"
+          }
+        },
+        {
+          "full_name": "Asaph Bangi",
+          "position": "Valuation Manager",
+          "specialization": "Property Valuation",
+          "contact_details": {
+            "phone": "+250 793 226 652",
+            "email": "Contact through company"
+          }
+        },
+        {
+          "full_name": "Uzayisenga Joseph Thierry",
+          "position": "Property Agent",
+          "specialization": "Property Sales & Rentals",
+          "contact_details": {
+            "phone": "+250 793 226 652",
+            "email": "Contact through company"
+          }
+        },
+        {
+          "full_name": "Ibrahim Manirabizi",
+          "position": "Property Agent",
+          "specialization": "Property Sales & Rentals",
+          "contact_details": {
+            "phone": "+250 793 226 652",
+            "email": "Contact through company"
+          }
+        },
+        {
+          "full_name": "Yassin Musabyimana",
+          "position": "Property Agent",
+          "specialization": "Property Sales & Rentals",
+          "contact_details": {
+            "phone": "+250 793 226 652",
+            "email": "Contact through company"
+          }
+        },
+        {
+          "full_name": "Cydney",
+          "position": "Property Agent",
+          "specialization": "Property Sales & Rentals",
+          "contact_details": {
+            "phone": "+250 793 226 652",
+            "email": "Contact through company"
+          }
+        },
+        {
+          "full_name": "Kamaro Bukoko",
+          "position": "Real Estate Agent",
+          "specialization": "Rental Properties",
+          "note": "Specialized in rental properties with excellent local market knowledge"
+        }
+      ],
+      "company_contact": {
+        "general_email": "info@plutproperties.com",
+        "general_phone": "+250 788 411 423",
+        "address": "Kigali, Rwanda",
+        "established": "2006"
+      }
+    },
+    {
+      "company_name": "DND Developers (DND Triangle Real Estate Developers Ltd)",
+      "website": "https://dnddevelopers.com",
+      "professionals": [],
+      "company_contact": {
+        "general_email": "dndrwanda@gmail.com",
+        "general_phone": "+250789664020",
+        "address": "Kigali, Rwanda",
+        "established": "2015"
+      }
+    },
+    {
+      "company_name": "Marchal Real Estate",
+      "website": "https://marchalestate.com",
+      "professionals": [],
+      "company_contact": {
+        "general_email": "Contact through website",
+        "general_phone": "Contact through website",
+        "address": "Rwanda",
+        "note": "11 registered agents, 382+ listings"
+      },
+      "testimonials_from": [
+        "NGABONZIZA Francois",
+        "NSHIMIYIMANA Boniface", 
+        "Rwakazina",
+        "ITANGISHAKA Jean Pierre"
+      ]
+    },
+    {
+      "company_name": "Kwanda Real Estate",
+      "website": "https://kwandarealestate.com",
+      "professionals": [],
+      "company_contact": {
+        "general_email": "Contact through website",
+        "general_phone": "Contact through website",
+        "address": "Rwanda",
+        "services": ["Buyers' representation", "Sellers' representation", "Real estate consultancy", "Sale closing"]
+      },
+      "testimonials_from": [
+        "Makolo Yvonne",
+        "Karl S. Kennedy",
+        "Seraphin Niyonsenga"
+      ]
+    },
+    {
+      "company_name": "Homeland Real Estate Agency",
+      "website": "https://homeland.rw",
+      "professionals": [],
+      "company_contact": {
+        "general_email": "Contact through website",
+        "general_phone": "Contact through website",
+        "address": "Kigali, Rwanda"
+      }
+    },
+    {
+      "company_name": "Vibe Real Estate",
+      "website": "https://vibe.rw",
+      "professionals": [],
+      "company_contact": {
+        "general_email": "Contact through website",
+        "general_phone": "Contact through website",
+        "address": "Kigali, Rwanda"
+      },
+      "services": ["For Sale", "For Rent", "Commercial Properties", "Vibe International"]
+    },
+    {
+      "company_name": "Real Contractors Ltd",
+      "website": "https://real.rw",
+      "note": "This is primarily a construction company, not a real estate agency",
+      "professionals": [],
+      "company_contact": {
+        "general_email": "Contact through website",
+        "general_phone": "Not publicly available",
+        "address": "KG 5 Avenue, Kigali, Rwanda",
+        "established": "2005"
+      }
+    },
+    {
+      "company_name": "Premier Real Estate",
+      "website": "https://premierrealestate.co.rw",
+      "professionals": [],
+      "company_contact": {
+        "general_email": "Website appears to be under construction",
+        "general_phone": "Not available",
+        "address": "Rwanda"
+      },
+      "note": "Website appears to be under construction or not fully functional"
+    }
+  ],
+  "data_collection_notes": {
+    "collection_date": "August 1, 2025",
+    "sources": ["Manual web research", "Firecrawl data extraction"],
+    "total_companies": 10,
+    "total_professionals": 13,
+    "professionals_with_direct_contact": 9,
+    "limitations": [
+      "Some companies do not publicly display individual agent contact details for privacy reasons",
+      "Contact information may require direct website inquiry or company contact",
+      "Premier Real Estate website was not accessible/functional",
+      "Real.rw is primarily a construction company, not a real estate agency",
+      "Some duplicate entries were found in source data and have been consolidated",
+      "Ultimate Developers Ltd has extensive staff but primarily focuses on development rather than traditional real estate services"
+    ],
+    "recommendation": "For specific agent contact details, it's recommended to contact the companies directly through their main contact information. Companies with the most comprehensive agent information include Plut Properties Rwanda Ltd and Elimo Real Estate."
+  }
+}

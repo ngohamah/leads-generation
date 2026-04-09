@@ -1,0 +1,602 @@
+[
+  {
+    "company_name": "",
+    "name": "Jason Foong",
+    "email": "jason.foong@simedarbyproperty.com",
+    "position": "Project Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Goh Chai",
+    "email": "goh.chai@simedarbyproperty.com",
+    "position": "Head of Sales"
+  },
+  {
+    "company_name": "",
+    "name": "Nurul Ismail",
+    "email": "nurul.ismail@simedarbyproperty.com",
+    "position": "Vice President of Customer Service"
+  },
+  {
+    "company_name": "",
+    "name": "Dante Cabrero",
+    "email": "vada.soong@simedarbyproperty.com",
+    "position": "Township Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Nurul Rajab",
+    "email": "nurul.rajab@simedarbyproperty.com",
+    "position": "Procurement Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Mike Sim",
+    "email": "mike.sim@simedarbyproperty.com",
+    "position": "Head of Product Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Abdul Sabri",
+    "email": "abdul.sabri@simedarbyproperty.com",
+    "position": "Assistant Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Wan Mamat",
+    "email": "wan.mamat@simedarbyproperty.com",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Muhammad Irfan",
+    "email": "muhammad.irfan@simedarbyproperty.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Muaz Azam",
+    "email": "muaz.azam@simedarbyproperty.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Pedro Espa\u00f1a",
+    "email": "lee@sunwayproperty.com",
+    "position": "Finance Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Billy Hoh",
+    "email": "billy@sunwayproperty.com",
+    "position": "Quality Assurance Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Irene Chow",
+    "email": "irene@sunwayproperty.com",
+    "position": "Senior Supply Chain Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Chanel Wong",
+    "email": "chanel@sunwayproperty.com",
+    "position": "Senior Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Nurul Zakaria",
+    "email": "nurul@sunwayproperty.com",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Alis Amran",
+    "email": "alis@sunwayproperty.com",
+    "position": "Brand Strategy and Communications Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Winnie Lee",
+    "email": "winnie@sunwayproperty.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Stephy Lau",
+    "email": "stephy@sunwayproperty.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Azlina Hamzah",
+    "email": "azlina@sunwayproperty.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Benjamin Sim",
+    "email": "benjamin@sunwayproperty.com",
+    "position": "Senior Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jennie Chai",
+    "email": "jennie.chai@ecoworld.my",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Mei Low",
+    "email": "mei.low@ecoworld.my",
+    "position": "Non-Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Lee Xian",
+    "email": "lee.xian@ecoworld.my",
+    "position": "Sales and Marketing Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Tam Yean",
+    "email": "tam.yean@ecoworld.my",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Bernice Chong",
+    "email": "bernice.chong@ecoworld.my",
+    "position": "Senior Customer Service Representative"
+  },
+  {
+    "company_name": "",
+    "name": "Steven Won",
+    "email": "steven.won@ecoworld.my",
+    "position": "Head of Contract Administration"
+  },
+  {
+    "company_name": "",
+    "name": "Thomas Jew",
+    "email": "thomas.jew@ecoworld.my",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "San San",
+    "email": "san.san@ecoworld.my",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Sau Sar",
+    "email": "sau.sar@ecoworld.my",
+    "position": "Non-Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Lee Cheng",
+    "email": "lee.cheng@ecoworld.my",
+    "position": "Sales and Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Muhammad Alias",
+    "email": "muhammad.alias@spsetia.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Neha Mamgain",
+    "email": "aishah.atan@spsetia.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Nur Nasir",
+    "email": "nur.nasir@spsetia.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Goh Soon",
+    "email": "goh.soon@spsetia.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Jaqueline Aguiar",
+    "email": "siti.zakaria@spsetia.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Crystal Ong",
+    "email": "crystal.ong@spsetia.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Jia Eng",
+    "email": "jia.eng@spsetia.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Neo Setia",
+    "email": "neo.setia@spsetia.com",
+    "position": "Head"
+  },
+  {
+    "company_name": "",
+    "name": "Anny Lim",
+    "email": "anny.lim@spsetia.com",
+    "position": "Senior Marketing Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Nur Radzi",
+    "email": "nur.radzi@spsetia.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Lillian Lung",
+    "email": "lillian.lung@gamudaland.com.my",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "James Lai",
+    "email": "james.lai@gamudaland.com.my",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Farid Anuar",
+    "email": "farid.anuar@gamudaland.com.my",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Niall Farmer",
+    "email": "niall.farmer@gamudaland.com.my",
+    "position": "UK Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jet Lee",
+    "email": "jetlee@gamudaland.com.my",
+    "position": "Sales Coordinator"
+  },
+  {
+    "company_name": "",
+    "name": "Fazealia Rozali",
+    "email": "fazealiarozali@gamudaland.com.my",
+    "position": "Senior Safety Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Vickie Ong",
+    "email": "ongvickie@gamudaland.com.my",
+    "position": "Senior Marketing Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Awani Akhiar",
+    "email": "awani.akhiar@gamudaland.com.my",
+    "position": "Marketing Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Aida Qistina",
+    "email": "aidaqistina@gamudaland.com.my",
+    "position": "Senior Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Darshinii Morthan",
+    "email": "darshinii.morthan@gamudaland.com.my",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Bernard Yong",
+    "email": "bernard.yong@mahsing.com.my",
+    "position": "Chief Experience Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Kelvin Leong",
+    "email": "kelvin.leong@mahsing.com.my",
+    "position": "Senior Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Lionel Leong",
+    "email": "lionel.leong@mahsing.com.my",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Chrissy Loo",
+    "email": "chrissy.loo@mahsing.com.my",
+    "position": "Talent Management Director"
+  },
+  {
+    "company_name": "",
+    "name": "Nabilah Jamal",
+    "email": "nabilah.jamal@mahsing.com.my",
+    "position": "Credit Administrator"
+  },
+  {
+    "company_name": "",
+    "name": "Cara Lim",
+    "email": "cara.lim@mahsing.com.my",
+    "position": "Senior Contract Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Anny Teoh",
+    "email": "anny.teoh@mahsing.com.my",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Dominic Goh",
+    "email": "dominic.goh@mahsing.com.my",
+    "position": "Director of Talent Management"
+  },
+  {
+    "company_name": "",
+    "name": "Winnie Leong",
+    "email": "winnie.leong@mahsing.com.my",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Erna Soo",
+    "email": "erna.soo@mahsing.com.my",
+    "position": "Customer Service Representative"
+  },
+  {
+    "company_name": "",
+    "name": "Nicole Lim",
+    "email": "nicole.lim@ioiproperties.com.my",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Kristine Ng",
+    "email": "kristine.ng@ioiproperties.com.my",
+    "position": "Head of Sustainability"
+  },
+  {
+    "company_name": "",
+    "name": "Chong Caryee",
+    "email": "caryee.chong@ioiproperties.com.my",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Joanne Ang",
+    "email": "joanne.ang@ioiproperties.com.my",
+    "position": "Head of Office"
+  },
+  {
+    "company_name": "",
+    "name": "Regine Chong",
+    "email": "regine.chong@ioiproperties.com.my",
+    "position": "Senior Vice President of Human Resources"
+  },
+  {
+    "company_name": "",
+    "name": "Jenny Wong",
+    "email": "jenny.wong@ioiproperties.com.my",
+    "position": "Senior Accounts Receivable Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Shanice Wong",
+    "email": "shanice.wong@ioiproperties.com.my",
+    "position": "Senior Contract Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Caroline Hoo",
+    "email": "caroline.hoo@ioiproperties.com.my",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Rafiq Haziq",
+    "email": "rafiq.haziq@ioiproperties.com.my",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Patricia Ehouman",
+    "email": "kan.mani@ioiproperties.com.my",
+    "position": "Car Wash Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Aidah Taib",
+    "email": "aidah.taib@uemsunrise.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Najwa Ismail",
+    "email": "najwa.ismail@uemsunrise.com",
+    "position": "PHP Developer"
+  },
+  {
+    "company_name": "",
+    "name": "Jeremiah Koay",
+    "email": "jeremiah.koay@uemsunrise.com",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Bakhtiar Ahmad",
+    "email": "bakhtiar.ahmad@uemsunrise.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Danial Mustaffa",
+    "email": "danial.mustaffa@uemsunrise.com",
+    "position": "Senior Executive, Project Management"
+  },
+  {
+    "company_name": "",
+    "name": "Reagan Chan",
+    "email": "reagan.chan@uemsunrise.com",
+    "position": "Board Director"
+  },
+  {
+    "company_name": "",
+    "name": "Michelle Lee",
+    "email": "michelle.lee@uemsunrise.com",
+    "position": "Chief Operating Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Suhaila Hassan",
+    "email": "suhaila.hassan@uemsunrise.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Rihana Wahab",
+    "email": "rihana.wahab@uemsunrise.com",
+    "position": "Chief of Staff"
+  },
+  {
+    "company_name": "",
+    "name": "Nadia Hilmi",
+    "email": "nadia.hilmi@uemsunrise.com",
+    "position": "Senior Strategy Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Tc Hazreen",
+    "email": "sharizzhazreen@lbs.com.my",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Sara Nasharah",
+    "email": "saranasharah@lbs.com.my",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Nur Zalikha",
+    "email": "nurzalikha@lbs.com.my",
+    "position": "Treasury Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Edrian Chin",
+    "email": "edrianchin@lbs.com.my",
+    "position": "Senior Legal Counsel"
+  },
+  {
+    "company_name": "",
+    "name": "Nur Farizah",
+    "email": "nurfarizah@lbs.com.my",
+    "position": "Human Resources Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Lucas Valenzuela",
+    "email": "riniatikah@lbs.com.my",
+    "position": "Treasury Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Iffah Humaira",
+    "email": "iffahhumaira@lbs.com.my",
+    "position": "Sustainability Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sitinawwarah@lbs.com.my",
+    "position": "Treasury Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jason Yeoh",
+    "email": "jasonyeoh@lbs.com.my",
+    "position": "Assistant General Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Esther Lim",
+    "email": "estherlim@lbs.com.my",
+    "position": "Credit Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jocelyn Koh",
+    "email": "jocelyn.koh@tropicanacorp.com.my",
+    "position": "Senior Human Resources Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Waruna Abeyrathne",
+    "email": "esther.yap@tropicanacorp.com.my",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jenny Low",
+    "email": "jenny.low@tropicanacorp.com.my",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "Muhammad Haikal",
+    "email": "muhammad.haikal@tropicanacorp.com.my",
+    "position": "Senior Business Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Cherry Tan",
+    "email": "cherry.tan@tropicanacorp.com.my",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Helena Tee",
+    "email": "helena.tee@tropicanacorp.com.my",
+    "position": "Senior Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jolene Lum",
+    "email": "jolene.lum@tropicanacorp.com.my",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Zane Tan",
+    "email": "zane.tan@tropicanacorp.com.my",
+    "position": "Sales and Marketing Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Izzah Syakirah",
+    "email": "izzah.syakirah@tropicanacorp.com.my",
+    "position": "Corporate Secretary"
+  },
+  {
+    "company_name": "",
+    "name": "Ixora Ang",
+    "email": "ixora.ang@tropicanacorp.com.my",
+    "position": "Managing Director"
+  }
+]

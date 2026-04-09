@@ -1,0 +1,51 @@
+[
+    {
+      "name": "RE/MAX Moldova",
+      "website": "https://remax.md/",
+      "address": "28/1 Calea Orheiului Street, 3rd floor",
+      "email": "office@remax.md",
+      "phone_number": "+373 683 70 555"
+    },
+    {
+      "name": "Chirii.md",
+      "website": "https://www.facebook.com/Chirii.md/",
+      "address": null,
+      "email": null,
+      "phone_number": null
+    },
+    {
+      "name": "Luxedesign Moldova",
+      "website": "https://luxedesign.md/ro/",
+      "address": null,
+      "email": "luxedesign.md@gmail.com",
+      "phone_number": "+373 68161617"
+    },
+    {
+      "name": "LARA Real Estate Agency",
+      "website": "https://www.lara.md/ro/about/",
+      "address": "Chișinău, Moldova",
+      "email": "bursa@lara.md",
+      "phone_number": "(+373) 22 888 888"
+    },
+    {
+      "name": "RentService.md Moldova",
+      "website": "https://rentserv.estate/",
+      "address": "MD-2000, Moldova, Chisinau",
+      "email": "support@rentserv.estate",
+      "phone_number": "(+373) 692 31160 "
+    },
+    {
+      "name": "Access Imobil",
+      "website": "https://accesimobil.md/en/",
+      "address": "Chișinău, bd. Grigore Vieru 12/1, Moldova",
+      "email": "info@accesimobil.md",
+      "phone_number": "+373 078 888 900"
+    },
+    {
+      "name": "Casahub",
+      "website": "https://www.casahub.md/",
+      "address": null,
+      "email": null,
+      "phone_number": null
+    }
+  ]

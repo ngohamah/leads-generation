@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Ministry of Finance and National Planning (Zambia)",
+    "description": "Official website providing national budget, economic information, and debt summary reports.",
+    "type": "government website",
+    "link": "https://www.mofnp.gov.zm/",
+    "summary": "National level economic and financial data."
+  },
+  {
+    "name": "Ministry of Lands and Natural Resources (Zambia)",
+    "description": "Official website for land administration, land surveys, and deeds registry, including information on the Zambia Integrated Lands Administration System (ZILAS).",
+    "type": "government website",
+    "link": "https://www.mlnr.gov.zm/",
+    "summary": "National level land administration and ownership information."
+  },
+  {
+    "name": "Zambia Development Agency (ZDA)",
+    "description": "Statutory body promoting and facilitating trade, investment, and enterprise development in Zambia.",
+    "type": "regulatory body",
+    "link": "https://www.zda.org.zm/",
+    "summary": "Information on foreign investment regulations and opportunities."
+  },
+  {
+    "name": "Bank of Zambia (BoZ)",
+    "description": "Central bank providing information on market rates, interest rates, and news/publications related to monetary policy.",
+    "type": "regulatory body",
+    "link": "https://www.boz.zm/",
+    "summary": "National level financial and monetary data."
+  },
+  {
+    "name": "Zambia Statistics Agency (ZamStats)",
+    "description": "Official source for national statistics, including GDP, population, and household income data.",
+    "type": "government website",
+    "link": "https://www.zamstats.gov.zm/",
+    "summary": "National level demographic and economic statistics."
+  },
+  {
+    "name": "Pam Golding Properties (Zambia)",
+    "description": "Real estate agency with listings for properties for sale and rent, including commercial properties, across Zambia.",
+    "type": "real estate agent",
+    "link": "https://www.pamgolding.co.zm/",
+    "summary": "Property listings and market insights, primarily for Lusaka and national."
+  },
+  {
+    "name": "Homenet Zambia",
+    "description": "Zambian property specialists offering residential, commercial, and retail lettings and sales, with news and market trends.",
+    "type": "real estate portal",
+    "link": "https://www.homenetzambia.com/",
+    "summary": "Property listings and market news, national coverage."
+  },
+  {
+    "name": "Knight Frank (Zambia)",
+    "description": "Leading independent real estate consultancy in Zambia, providing commercial and residential property listings and research.",
+    "type": "real estate agent",
+    "link": "https://www.zm.knightfrank.com/",
+    "summary": "Commercial and residential property, national coverage with focus on urban areas."
+  },
+  {
+    "name": "Property24 Zambia",
+    "description": "Online property portal for houses, flats, farms, apartments, and commercial property for sale and rent in Zambia.",
+    "type": "real estate portal",
+    "link": "https://www.property24.co.zm/",
+    "summary": "Extensive property listings, national coverage."
+  },
+  {
+    "name": "Seeff Zambia",
+    "description": "Real estate agency offering sales, letting, and valuations, with offices in Lusaka and Kitwe.",
+    "type": "real estate agent",
+    "link": "https://www.seeff.co.zm/",
+    "summary": "Property listings and services, primarily Lusaka and Kitwe."
+  },
+  {
+    "name": "Zambianhome.com",
+    "description": "Online platform for buying, selling, and renting properties in Zambia, partnering with local real estate agents.",
+    "type": "real estate portal",
+    "link": "https://www.zambianhome.com/",
+    "summary": "Property listings and news, national coverage."
+  },
+  {
+    "name": "BE FORWARD Real Estate Zambia",
+    "description": "Property listing website for houses, apartments, land, and commercial properties in Zambia.",
+    "type": "real estate portal",
+    "link": "https://real-estate-zambia.beforward.jp/",
+    "summary": "Property listings, national coverage."
+  },
+  {
+    "name": "Zambia Institute of Estate Agents (ZIEA)",
+    "description": "Official website providing information about real estate in Zambia, upcoming events, and industry insights.",
+    "type": "regulatory body",
+    "link": "https://www.ziea.org/",
+    "summary": "Industry insights and regulations for real estate professionals."
+  },
+  {
+    "name": "World Bank (Zambia)",
+    "description": "Provides development news, research, and data on Zambia, including economic indicators and project information.",
+    "type": "international database",
+    "link": "https://www.worldbank.org/en/country/zambia",
+    "summary": "Macroeconomic data, development projects, and economic reports."
+  },
+  {
+    "name": "International Monetary Fund (IMF) Zambia",
+    "description": "Offers data, news, and reports on Zambia's economic policies, growth projections, and financial stability.",
+    "type": "international database",
+    "link": "https://www.imf.org/en/Countries/ZMB",
+    "summary": "Macroeconomic data and policy analysis."
+  },
+  {
+    "name": "African Development Bank Group (Zambia)",
+    "description": "Provides economic outlooks, news, and project information for Zambia, focusing on development and infrastructure.",
+    "type": "international database",
+    "link": "https://www.afdb.org/en/countries/southern-africa/zambia",
+    "summary": "Economic outlook and development project information."
+  },
+  {
+    "name": "Trading Economics (Zambia)",
+    "description": "Offers historical data, forecasts, and news on Zambia's economic indicators, including GDP, interest rates, and currency exchange rates.",
+    "type": "international database",
+    "link": "https://tradingeconomics.com/zambia/indicators",
+    "summary": "Comprehensive economic indicators and forecasts."
+  },
+  {
+    "name": "Numbeo (Cost of Living in Zambia)",
+    "description": "Crowd-sourced global database providing information on cost of living, property prices, and quality of life in Zambia.",
+    "type": "international database",
+    "link": "https://www.numbeo.com/cost-of-living/country_result.jsp?country=Zambia",
+    "summary": "Cost of living and property price comparisons, national coverage."
+  },
+  {
+    "name": "Macrotrends (Zambia)",
+    "description": "Provides historical data and charts for Zambia's population, GDP, and other macroeconomic indicators.",
+    "type": "international database",
+    "link": "https://www.macrotrends.net/countries/ZMB/zambia/population-growth-rate",
+    "summary": "Historical macroeconomic and demographic data."
+  },
+  {
+    "name": "ZambiaInvest",
+    "description": "News outlet providing up-to-date news on Zambia investment, business, and economy.",
+    "type": "news outlet",
+    "link": "https://www.zambiainvest.com/news/",
+    "summary": "Investment and business news, national coverage."
+  },
+  {
+    "name": "Statista (Real Estate Zambia)",
+    "description": "Market forecast and data on the real estate market in Zambia, including residential and commercial segments.",
+    "type": "private sector report",
+    "link": "https://www.statista.com/outlook/fmo/real-estate/zambia",
+    "summary": "Market forecasts and statistics for real estate."
+  },
+  {
+    "name": "Koneki.co.zm (Real Estate News)",
+    "description": "Provides news and insights on the evolving real estate market in Zambia.",
+    "type": "news outlet",
+    "link": "https://www.koneki.co.zm/news/real-estate-in-zambia-unlocking-africas-hidden-property-potential/",
+    "summary": "Real estate market news and analysis."
+  },
+  {
+    "name": "Stratusltd.org (Zambian Real Estate Market Trends)",
+    "description": "Offers insights and reports on key trends and outlooks for the Zambian real estate market.",
+    "type": "think tank",
+    "link": "https://www.stratusltd.org/the-zambian-real-estate-market-in-2025-key-trends-and-insights/",
+    "summary": "Market analysis and trends."
+  },
+  {
+    "name": "African.business (ZAMREAL)",
+    "description": "News and articles related to ZAMREAL events and the broader Zambian real estate market.",
+    "type": "news outlet",
+    "link": "https://african.business/2025/03/apo-newsfeed/zamreal-2025-shaping-zambias-real-estate-future-amid-economic-revival",
+    "summary": "Real estate market news and event coverage."
+  },
+  {
+    "name": "Global Property Guide (Zambia)",
+    "description": "Provides analysis of residential house price changes and rental yields in Zambia.",
+    "type": "news outlet",
+    "link": "https://www.globalpropertyguide.com/africa/zambia/price-change-15-years-real",
+    "summary": "Residential property price and rental data."
+  },
+  {
+    "name": "Mobility Foresights (Zambia Real Estate Market)",
+    "description": "Offers market research reports and analysis on the Zambia real estate market.",
+    "type": "private sector report",
+    "link": "https://mobilityforesights.com/product/zambia-real-estate-market",
+    "summary": "Detailed market research and forecasts."
+  },
+  {
+    "name": "African Financials (REIZ)",
+    "description": "Provides financial reports and news for Real Estate Investments Zambia PLC (REIZ.zm).",
+    "type": "news outlet",
+    "link": "https://africanfinancials.com/document/zm-reiz-2024-ab-00/",
+    "summary": "Financial performance of a key real estate investment company."
+  },
+  {
+    "name": "Mondaq (Zambia Real Estate Comparative Guide)",
+    "description": "Provides a comprehensive guide to real estate law in Zambia, including the Lands Act and Lands and Deeds Registry Act.",
+    "type": "legal resource",
+    "link": "https://www.mondaq.com/guides/results/36/1239/all/zambia-real-estate",
+    "summary": "Detailed legal framework for real estate and land ownership."
+  },
+  {
+    "name": "Parliament of Zambia (Lands Act)",
+    "description": "Official document of the Lands Act, providing for leaseholds, vesting of land in the President, and alienation of land.",
+    "type": "government website",
+    "link": "https://www.parliament.gov.zm/sites/default/files/documents/acts/Lands%20Act.pdf",
+    "summary": "Primary legislation governing land tenure and administration."
+  },
+  {
+    "name": "Zambia Development Agency (Instructions on Foreign Investments)",
+    "description": "Official document outlining instructions and regulations for foreign investments in Zambia.",
+    "type": "regulatory body",
+    "link": "http://www.zda.org.zm/wp-content/uploads/2023/11/Instructions-on-foreign-Investment-In-Zambia-1.pdf",
+    "summary": "Regulations and limitations for foreign investors."
+  },
+  {
+    "name": "UNCTAD Investment Policy Hub (Zambia)",
+    "description": "Provides information on Zambia's investment laws, including the Investment, Trade and Business Development Act, 2022.",
+    "type": "international organization",
+    "link": "https://investmentpolicy.unctad.org/investment-laws/laws/379/zambia-investment-trade-and-business-development-act-2022",
+    "summary": "Investment policy and legal framework."
+  },
+  {
+    "name": "Lloyds Bank Trade (Foreign Direct Investment in Zambia)",
+    "description": "Overview of foreign direct investment in Zambia, including limitations and opportunities.",
+    "type": "financial institution report",
+    "link": "https://www.lloydsbanktrade.com/en/market-potential/zambia/investment",
+    "summary": "Analysis of FDI climate and regulations."
+  }
+]
+

@@ -1,0 +1,149 @@
+[
+   {
+    "name": "Knight Frank LLP",
+    "website": "https://www.knightfrank.com",
+    "address": "55 Baker Street, London W1U 8AN, United Kingdom",
+    "email": "clientservices@knightfrank.com",
+    "phone": "+44 20 3925 6589"
+  },
+  {
+    "name": "PropertyOne UK",
+    "website": "https://www.property-one.co.uk",
+    "address": "Pepper House, 1 Pepper Road, Hazel Grove, Stockport, Cheshire SK7 5DP, United Kingdom",
+    "email": "enquiries@property-one.co.uk",
+    "phone": "+44 161 511 5339"
+  },
+  {
+    "name": "Land Securities Group PLC",
+    "website": "https://www.landsec.com",
+    "address": "100 Victoria Street, London SW1E 5JL, United Kingdom",
+    "email": "enquiries@landsec.com",
+    "phone": "+44 20 7413 9000"
+  },
+  {
+    "name": "British Land Company PLC",
+    "website": "https://www.britishland.com",
+    "address": "York House, 45 Seymour Street, London W1H 7LX, United Kingdom",
+    "email": "info@britishland.com",
+    "phone": "+44 20 7486 4466"
+  },
+  {
+    "name": "SEGRO PLC",
+    "website": "https://www.segro.com",
+    "address": "1 New Burlington Place, London W1S 2HR, United Kingdom",
+    "email": "companysecretariat@segro.com",
+    "phone": "+44 20 7451 9100"
+  },
+  {
+    "name": "Derwent London PLC",
+    "website": "https://www.derwentlondon.com",
+    "address": "25 Savile Row, London W1S 2ER, United Kingdom",
+    "email": "mail@derwentlondon.com",
+    "phone": "+44 20 7659 3000"
+  },
+  {
+    "name": "Hammerson PLC",
+    "website": "https://www.hammerson.com",
+    "address": "Marble Arch House, 66 Seymour Street, London W1H 5BX, United Kingdom",
+    "email": "info@hammerson.com",
+    "phone": "+44 20 7887 1000"
+  },
+  {
+    "name": "Barratt Developments PLC",
+    "website": "https://www.barrattdevelopments.co.uk",
+    "address": "Barratt House, Cartwright Way, Forest Business Park, Coalville, Leicestershire LE67 1UF, United Kingdom",
+    "email": "customerservices@barrattlondon.com",
+    "phone": "+44 330 057 6666"
+  },
+  {
+    "name": "Redrow PLC",
+    "website": "https://www.redrowplc.co.uk",
+    "address": "Redrow House, St David's Park, Ewloe, Flintshire CH5 3RX, United Kingdom",
+    "email": "Barbara.Richmond@redrow.co.uk",
+    "phone": "+44 1244 520044"
+  },
+  {
+    "name": "Taylor Wimpey PLC",
+    "website": "https://www.taylorwimpey.co.uk",
+    "address": "Gate House, Turnpike Road, High Wycombe, Buckinghamshire HP12 3NR, United Kingdom",
+    "email": "company.secretary@taylorwimpey.com",
+    "phone": "+44 371 664 0300"
+  },
+  {
+    "name": "Berkeley Group Holdings plc",
+    "website": "https://www.berkeleygroup.co.uk",
+    "address": "Berkeley House, 19 Portsmouth Road, Cobham, Surrey KT11 1JG, United Kingdom",
+    "email": "russell.eggar@berkeleygroup.co.uk",
+    "phone": "+44 1932 868555"
+  },
+  {
+    "name": "Tritax Big Box REIT PLC",
+    "website": "https://www.tritaxbigbox.co.uk",
+    "address": "72 Broadwick Street, London W1F 9QZ, United Kingdom",
+    "email": "bigboxir@tritax.co.uk",
+    "phone": "+44 20 7290 1616"
+  },
+  {
+    "name": "Battersea Power Station Redevelopment",
+    "website": "https://www.batterseapowerstation.co.uk",
+    "address": "No. 1 Village Courtyard, Circus West Village, Battersea Power Station, London SW11 8AH, United Kingdom",
+    "email": "info@batterseapowerstation.co.uk",
+    "phone": "+44 20 7501 0646"
+  },
+  {
+    "name": "Crossrail Ltd",
+    "website": "https://www.crossrail.co.uk",
+    "address": "25 Canada Square, Canary Wharf, London E14 5LQ, United Kingdom",
+    "email": "helpdesk@crossrail.co.uk",
+    "phone": "+44 20 3229 9100"
+  },
+  {
+    "name": "MediaCityUK",
+    "website": "https://www.mediacityuk.co.uk",
+    "address": "100 Broadway, Salford Quays, Salford M50 2EQ, United Kingdom",
+    "email": "hello@mediacityuk.co.uk",
+    "phone": "+44 161 886 5144"
+  },
+  {
+    "name": "DP World London Gateway",
+    "website": "https://www.londongateway.com",
+    "address": "1 London Gateway Drive, Stanford‑Le‑Hope, Essex SS17 9DY, United Kingdom",
+    "email": "customer.services@londongateway.com",
+    "phone": "+44 1375 648477"
+  },
+  {
+    "name": "Elephant & Castle Regeneration",
+    "website": "https://elephantandcastletowncentre.co.uk",
+    "address": null,
+    "email": "info@elephantandcastletowncentre.co.uk",
+    "phone": "+44 7494 592024"
+  },
+  {
+    "name": "Brent Cross Town",
+    "website": "https://brentcrosstown.co.uk",
+    "address": null,
+    "email": "TransformingBX@barnet.gov.uk",
+    "phone": "+44 20 8359 2640"
+  },
+  {
+    "name": "Wembley Park",
+    "website": "https://wembleypark.com",
+    "address": "11 Exhibition Way, Wembley HA9 0FA, United Kingdom",
+    "email": "marketing@wembleypark.com",
+    "phone": "+44 20 3219 2245"
+  },
+  {
+    "name": "Crossrail International",
+    "website": "https://www.crossrail-international.co.uk",
+    "address": "86 Petty France, London SW1H 9EA, United Kingdom",
+    "email": "enquiries@crossrail-international.co.uk",
+    "phone": null
+  },
+  {
+    "name": "King’s Cross Central (King’s Cross Estates)",
+    "website": "https://www.kingscross.co.uk",
+    "address": "4DB, 20 Canal Reach, London N1C 4BE, United Kingdom",
+    "email": "info@kingscrossestateservices.co.uk",
+    "phone": "+44 20 7664 5729"
+  }
+]

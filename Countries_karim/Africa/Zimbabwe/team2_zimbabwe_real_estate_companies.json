@@ -1,0 +1,554 @@
+[
+  {
+    "company_name": "Kanokanga & Partners",
+    "name": "None None",
+    "email": "justice@kanokangalawfirm.net",
+    "position": null
+  },
+  {
+    "company_name": "CBZ Holdings",
+    "name": "Aathif Rafeek",
+    "email": "arafeek@cbz.co.zw",
+    "position": "Head of Underwriting"
+  },
+  {
+    "company_name": "CBZ Holdings",
+    "name": "Collins Mpofu",
+    "email": "cmpofu@cbz.co.zw",
+    "position": "Director of Farming Operations"
+  },
+  {
+    "company_name": "CBZ Holdings",
+    "name": "Jiten Shah",
+    "email": "jshah@cbz.co.zw",
+    "position": "Non-Executive Director"
+  },
+  {
+    "company_name": "CBZ Holdings",
+    "name": "Simbiso Musa",
+    "email": "smusa@cbz.co.zw",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "CBZ Holdings",
+    "name": "Omniah Mohammed",
+    "email": "omohammed@cbz.co.zw",
+    "position": "Director of Credit"
+  },
+  {
+    "company_name": "CBZ Holdings",
+    "name": "Calvin Shara",
+    "email": "cshara@cbz.co.zw",
+    "position": "Head of Risk Management"
+  },
+  {
+    "company_name": "CBZ Holdings",
+    "name": "Tawanda Gumbo",
+    "email": "tgumbo@cbz.co.zw",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "CBZ Holdings",
+    "name": "Jack Smith",
+    "email": "jsmith@cbz.co.zw",
+    "position": "Deputy CEO"
+  },
+  {
+    "company_name": "CBZ Holdings",
+    "name": "Lavender Riva",
+    "email": "lriva@cbz.co.zw",
+    "position": "Head of Operations"
+  },
+  {
+    "company_name": "CBZ Holdings",
+    "name": "Samantha Thomas",
+    "email": "sthomas@cbz.co.zw",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Old Mutual Zimbabwe",
+    "name": "Edmore Makanha",
+    "email": "edmorem@oldmutual.co.zw",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "Old Mutual Zimbabwe",
+    "name": "Stephen Chandiwana",
+    "email": "stephenc@oldmutual.co.zw",
+    "position": "Head Teller"
+  },
+  {
+    "company_name": "Old Mutual Zimbabwe",
+    "name": "Beatrice Maisera",
+    "email": "beatricem@oldmutual.co.zw",
+    "position": "Telesales Representative"
+  },
+  {
+    "company_name": "Old Mutual Zimbabwe",
+    "name": "Lucia Chipungu",
+    "email": "luciac@oldmutual.co.zw",
+    "position": "Tax Director"
+  },
+  {
+    "company_name": "Old Mutual Zimbabwe",
+    "name": "Ignatius Doro",
+    "email": "ignatiusd@oldmutual.co.zw",
+    "position": "Director of Partnerships"
+  },
+  {
+    "company_name": "Old Mutual Zimbabwe",
+    "name": "Gerald Chinogara",
+    "email": "geraldc@oldmutual.co.zw",
+    "position": "Retail Executive"
+  },
+  {
+    "company_name": "Old Mutual Zimbabwe",
+    "name": "Japhet Nyamuchengwa",
+    "email": "japhetn@oldmutual.co.zw",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "Old Mutual Zimbabwe",
+    "name": "Demetria Zirenga",
+    "email": "demetriaz@oldmutual.co.zw",
+    "position": "Financial Sales Executive"
+  },
+  {
+    "company_name": "Old Mutual Zimbabwe",
+    "name": "Cosmas Kateyeteye",
+    "email": "cosmask@oldmutual.co.zw",
+    "position": "Head of Digital Engineering"
+  },
+  {
+    "company_name": "Old Mutual Zimbabwe",
+    "name": "Isiah Mashinya",
+    "email": "isiahm@oldmutual.co.zw",
+    "position": "Chief Customer Experience Officer"
+  },
+  {
+    "company_name": "Pro-val Consultancy",
+    "name": "None None",
+    "email": "tmatonda@proval.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Pro-val Consultancy",
+    "name": "None None",
+    "email": "services@proval.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Muvingi and Mugadza Legal Practitioners",
+    "name": "Misheck Mugadza",
+    "email": "mugadza@mmmlawfirm.co.zw",
+    "position": "Senior Partner"
+  },
+  {
+    "company_name": "Muvingi and Mugadza Legal Practitioners",
+    "name": "Musa Phiri",
+    "email": "phiri@mmmlawfirm.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Muvingi and Mugadza Legal Practitioners",
+    "name": "None None",
+    "email": "info@mmmlawfirm.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "National Building Society (NBS)",
+    "name": "Clever Phiri",
+    "email": "clever.phiri@nbs.co.zw",
+    "position": "Head Teller"
+  },
+  {
+    "company_name": "National Building Society (NBS)",
+    "name": "Mukai Mahachi",
+    "email": "mukai.mahachi@nbs.co.zw",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "National Building Society (NBS)",
+    "name": "Jonathan Muwanga",
+    "email": "jonathan.muwanga@nbs.co.zw",
+    "position": "Head of Information Technology"
+  },
+  {
+    "company_name": "National Building Society (NBS)",
+    "name": "Shalot Masawi",
+    "email": "shalot.masawi@nbs.co.zw",
+    "position": "Personal Assistant To Managing Director"
+  },
+  {
+    "company_name": "National Building Society (NBS)",
+    "name": "Tanaka Matsinde",
+    "email": "tanaka.matsinde@nbs.co.zw",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "National Building Society (NBS)",
+    "name": "Linda Gorejena",
+    "email": "linda.gorejena@nbs.co.zw",
+    "position": "Branch Manager"
+  },
+  {
+    "company_name": "National Building Society (NBS)",
+    "name": "Sifiso Mahlangu",
+    "email": "sifiso.mahlangu@nbs.co.zw",
+    "position": "Head of Retail Banking"
+  },
+  {
+    "company_name": "National Building Society (NBS)",
+    "name": "Mildret Kujinga",
+    "email": "mildret.kujinga@nbs.co.zw",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "National Building Society (NBS)",
+    "name": "Clifford Mtemeri",
+    "email": "clifford.mtemeri@nbs.co.zw",
+    "position": "Head of Corporate Banking"
+  },
+  {
+    "company_name": "National Building Society (NBS)",
+    "name": "Noreen Willie",
+    "email": "noreen.willie@nbs.co.zw",
+    "position": "Sales Consultant"
+  },
+  {
+    "company_name": "First Capital Bank Zimbabwe",
+    "name": "Nomathemba Ngwenya",
+    "email": "nomathemba.ngwenya@firstcapitalbank.co.zw",
+    "position": "Head of Treasury Sales"
+  },
+  {
+    "company_name": "First Capital Bank Zimbabwe",
+    "name": "Kumbirai Fungurayi",
+    "email": "kumbirai.fungurayi@firstcapitalbank.co.zw",
+    "position": "Senior Corporate Manager"
+  },
+  {
+    "company_name": "First Capital Bank Zimbabwe",
+    "name": "Emma Gova",
+    "email": "emma.gova@firstcapitalbank.co.zw",
+    "position": "Head of Sales"
+  },
+  {
+    "company_name": "First Capital Bank Zimbabwe",
+    "name": "Davison Kujaranja",
+    "email": "davison.kujaranja@firstcapitalbank.co.zw",
+    "position": "Head of Corporate and Institutional Banking"
+  },
+  {
+    "company_name": "First Capital Bank Zimbabwe",
+    "name": "Angela Kamhiriri",
+    "email": "angela.kamhiriri@firstcapitalbank.co.zw",
+    "position": "Director of Consumer Banking"
+  },
+  {
+    "company_name": "First Capital Bank Zimbabwe",
+    "name": "Simon Nyamutsaka",
+    "email": "simon.nyamutsaka@firstcapitalbank.co.zw",
+    "position": "Head of Corporate Services"
+  },
+  {
+    "company_name": "First Capital Bank Zimbabwe",
+    "name": "Melisa Dangarembwa",
+    "email": "melisa.dangarembwa@firstcapitalbank.co.zw",
+    "position": "Head Cashier"
+  },
+  {
+    "company_name": "First Capital Bank Zimbabwe",
+    "name": "Action Tambaoga",
+    "email": "action.tambaoga@firstcapitalbank.co.zw",
+    "position": "Head of Consumer Lending"
+  },
+  {
+    "company_name": "First Capital Bank Zimbabwe",
+    "name": "Charles Makore",
+    "email": "charles.makore@firstcapitalbank.co.zw",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "First Capital Bank Zimbabwe",
+    "name": "Tapera Mushoriwa",
+    "email": "tapera.mushoriwa@firstcapitalbank.co.zw",
+    "position": "CEO"
+  },
+  {
+    "company_name": "FBC Holdings",
+    "name": "Peter Chava",
+    "email": "peter.chava@fbc.co.zw",
+    "position": "Head of Retail Banking"
+  },
+  {
+    "company_name": "FBC Holdings",
+    "name": "Takudzwa Gavaza",
+    "email": "takudzwa.gavaza@fbc.co.zw",
+    "position": "Chief Teller"
+  },
+  {
+    "company_name": "FBC Holdings",
+    "name": "Patricia Nyazenga",
+    "email": "patricia.nyazenga@fbc.co.zw",
+    "position": "Director of Credit Risk"
+  },
+  {
+    "company_name": "FBC Holdings",
+    "name": "Scholastic Munyikwa",
+    "email": "scholastic.munyikwa@fbc.co.zw",
+    "position": "Head of Client Experience"
+  },
+  {
+    "company_name": "FBC Holdings",
+    "name": "Israel Murefu",
+    "email": "israel.murefu@fbc.co.zw",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "FBC Holdings",
+    "name": "Lenon Adzikweyi",
+    "email": "lenon.adzikweyi@fbc.co.zw",
+    "position": "Senior Dealer"
+  },
+  {
+    "company_name": "FBC Holdings",
+    "name": "Portia Ndhokoyo",
+    "email": "portia.ndhokoyo@fbc.co.zw",
+    "position": "Senior Dealer"
+  },
+  {
+    "company_name": "FBC Holdings",
+    "name": "Michael Nango",
+    "email": "michael.nango@fbc.co.zw",
+    "position": "Treasury Dealer"
+  },
+  {
+    "company_name": "FBC Holdings",
+    "name": "Faye Shara",
+    "email": "faye.shara@fbc.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "FBC Holdings",
+    "name": "None None",
+    "email": "info@fbc.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "CBRE Zimbabwe",
+    "name": "Roxanne Marais",
+    "email": "roxanne.marais@cbreexcellerate.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "CBRE Zimbabwe",
+    "name": "Nazanin Badr",
+    "email": "nazanin.badr@cbreexcellerate.com",
+    "position": "Regional Finance Director"
+  },
+  {
+    "company_name": "CBRE Zimbabwe",
+    "name": "Riaan Fourie",
+    "email": "riaan.fourie@cbreexcellerate.com",
+    "position": "Director of Valuation and Advisory Services"
+  },
+  {
+    "company_name": "CBRE Zimbabwe",
+    "name": "Caroline Otieno",
+    "email": "caroline.otieno@cbreexcellerate.com",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "CBRE Zimbabwe",
+    "name": "Craig Hean",
+    "email": "craig.hean@cbreexcellerate.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "CBRE Zimbabwe",
+    "name": "Hussam Magdy",
+    "email": "hussam.magdy@cbreexcellerate.com",
+    "position": "Regional Project Manager"
+  },
+  {
+    "company_name": "CBRE Zimbabwe",
+    "name": "Fabio Nava",
+    "email": "fabio.nava@cbreexcellerate.com",
+    "position": "Director of Advisory Services"
+  },
+  {
+    "company_name": "CBRE Zimbabwe",
+    "name": "Jan Snyman",
+    "email": "jan.snyman@cbreexcellerate.com",
+    "position": "Director of Advisory Services"
+  },
+  {
+    "company_name": "CBRE Zimbabwe",
+    "name": "Frank Simonetti",
+    "email": "frank.simonetti@cbreexcellerate.com",
+    "position": "Director of Contracted Accounts"
+  },
+  {
+    "company_name": "CBRE Zimbabwe",
+    "name": "Emad Adel",
+    "email": "emad.adel@cbreexcellerate.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Fairview Properties",
+    "name": "None None",
+    "email": "info@fairviewproperties.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Fairview Properties",
+    "name": "None None",
+    "email": "sales@fairviewproperties.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Fairview Properties",
+    "name": "None None",
+    "email": "humphrey@fairviewproperties.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Oyster Property Services",
+    "name": "Ellen Mufanebadza",
+    "email": "emufanebadza@firstmutual.co.zw",
+    "position": "Assistant Property Manager"
+  },
+  {
+    "company_name": "Oyster Property Services",
+    "name": "None None",
+    "email": "careers@firstmutual.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Oyster Property Services",
+    "name": "None None",
+    "email": "cmsavengane@firstmutual.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Oyster Property Services",
+    "name": "None None",
+    "email": "fkambezo@firstmutual.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Oyster Property Services",
+    "name": "None None",
+    "email": "info@firstmutual.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Oyster Property Services",
+    "name": "None None",
+    "email": "cchidambazina@firstmutual.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Oyster Property Services",
+    "name": "None None",
+    "email": "wchibaya@firstmutual.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Oyster Property Services",
+    "name": "None None",
+    "email": "seniorcareers@firstmutual.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "DLA Piper Africa (Manokore Attorneys)",
+    "name": "Moses Kiiza",
+    "email": "moses@dlapiperafrica.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Pam Golding Properties Zimbabwe",
+    "name": "Flora Tennant",
+    "email": "flora.tennant@savills.com",
+    "position": "Head of Marketing"
+  },
+  {
+    "company_name": "Pam Golding Properties Zimbabwe",
+    "name": "Hunter Harling",
+    "email": "hunter.harling@savills.com",
+    "position": "Director of Residential Sales"
+  },
+  {
+    "company_name": "Pam Golding Properties Zimbabwe",
+    "name": "Natalie Hale",
+    "email": "natalie.hale@savills.com",
+    "position": "Senior Marketing Manager"
+  },
+  {
+    "company_name": "Pam Golding Properties Zimbabwe",
+    "name": "Sophie Daly",
+    "email": "sophie.daly@savills.com",
+    "position": "Senior Digital Marketing Manager"
+  },
+  {
+    "company_name": "Pam Golding Properties Zimbabwe",
+    "name": "Amy Barber",
+    "email": "amy.bonner@savills.com",
+    "position": "Senior Client Development Executive"
+  },
+  {
+    "company_name": "Pam Golding Properties Zimbabwe",
+    "name": "Rose Fyfe",
+    "email": "rfyfe@savills.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "Pam Golding Properties Zimbabwe",
+    "name": "Gordon Rogers",
+    "email": "gordon.rogers@savills.com",
+    "position": "Director of Sustainability"
+  },
+  {
+    "company_name": "Pam Golding Properties Zimbabwe",
+    "name": "Charu Dhaliwal",
+    "email": "charu.dhaliwal@savills.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "Pam Golding Properties Zimbabwe",
+    "name": "Paul Jarman",
+    "email": "pjarman@savills.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Pam Golding Properties Zimbabwe",
+    "name": "Daniel Curtin",
+    "email": "daniel.curtin@savills.com",
+    "position": "Director of Health and Safety"
+  },
+  {
+    "company_name": "360 Real Estate",
+    "name": "None None",
+    "email": "compofficer1@eac.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Action Properties",
+    "name": "None None",
+    "email": "compofficer1@eac.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Apex Realty Group",
+    "name": "None None",
+    "email": "compofficer1@eac.co.zw",
+    "position": null
+  },
+  {
+    "company_name": "Bankable Real Estate",
+    "name": "None None",
+    "email": "compofficer1@eac.co.zw",
+    "position": null
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "company_name": "Kalikova & Associates",
+    "name": "Goveny Jiang",
+    "email": "ajorupbekova@k-a.kg",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "Kalikova & Associates",
+    "name": "Maksim Smirnov",
+    "email": "msmirnov@k-a.kg",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Kalikova & Associates",
+    "name": "Nurbek Sabirov",
+    "email": "nsabirov@k-a.kg",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Kalikova & Associates",
+    "name": "Alexander Ahn",
+    "email": "aahn@k-a.kg",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Kalikova & Associates",
+    "name": "Jyldyz Tagaeva",
+    "email": "jtagaeva@k-a.kg",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Kalikova & Associates",
+    "name": "Elina Pak",
+    "email": "epak@k-a.kg",
+    "position": "Senior Associate"
+  },
+  {
+    "company_name": "Kalikova & Associates",
+    "name": "Azima Bokoshova",
+    "email": "abokoshova@k-a.kg",
+    "position": "Senior Associate"
+  },
+  {
+    "company_name": "Kalikova & Associates",
+    "name": "Madina Berdikulova",
+    "email": "mberdikulova@k-a.kg",
+    "position": "Associate"
+  },
+  {
+    "company_name": "Kalikova & Associates",
+    "name": "Nursultan Berdigulov",
+    "email": "nberdigulov@k-a.kg",
+    "position": "Associate"
+  },
+  {
+    "company_name": "Kalikova & Associates",
+    "name": "Eldiiar Raiymkulov",
+    "email": "eraiymkulov@k-a.kg",
+    "position": "Senior Associate"
+  },
+  {
+    "company_name": "Lorenz Law",
+    "name": "Niyazbek Aldashev",
+    "email": "n.aldashev@lorenz-law.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Lorenz Law",
+    "name": "Kymbat Ibakova",
+    "email": "k.ibakova@lorenz-law.com",
+    "position": "Senior Associate"
+  },
+  {
+    "company_name": "Lorenz Law",
+    "name": "Etienne Claes",
+    "email": "e.claes@lorenz-law.com",
+    "position": "Senior Counsel"
+  },
+  {
+    "company_name": "Lorenz Law",
+    "name": "None None",
+    "email": "bishkek@lorenz-law.com",
+    "position": null
+  },
+  {
+    "company_name": "Lorenz Law",
+    "name": "None None",
+    "email": "e.kim@lorenz-law.com",
+    "position": null
+  },
+  {
+    "company_name": "Lorenz Law",
+    "name": "None None",
+    "email": "c.esengeldieva@lorenz-law.com",
+    "position": null
+  },
+  {
+    "company_name": "Lorenz Law",
+    "name": "None None",
+    "email": "d.djenbekova@lorenz-law.com",
+    "position": null
+  },
+  {
+    "company_name": "Lorenz Law",
+    "name": "None None",
+    "email": "j.dhont@lorenz-law.com",
+    "position": null
+  },
+  {
+    "company_name": "Lorenz Law",
+    "name": "None None",
+    "email": "info@lorenz-law.com",
+    "position": null
+  },
+  {
+    "company_name": "Lorenz Law",
+    "name": "None None",
+    "email": "b.theeuwes@lorenz-law.com",
+    "position": null
+  },
+  {
+    "company_name": "GRATA",
+    "name": "Saud Asif",
+    "email": "sasif@gratanet.com",
+    "position": "Business Development Director"
+  },
+  {
+    "company_name": "GRATA",
+    "name": "Valeriy Savva",
+    "email": "vsavva@gratanet.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GRATA",
+    "name": "Ali Ceylan",
+    "email": "ali.ceylan@gratanet.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GRATA",
+    "name": "Aliya Zhumekenova",
+    "email": "azhumekenova@gratanet.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GRATA",
+    "name": "Ummi Jalilova",
+    "email": "ujalilova@gratanet.com",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "GRATA",
+    "name": "Assel Ilyassova",
+    "email": "ailyassova@gratanet.com",
+    "position": "Head of Tax Department"
+  },
+  {
+    "company_name": "GRATA",
+    "name": "Marina Kahiani",
+    "email": "mkahiani@gratanet.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GRATA",
+    "name": "Mikhail Herrmann",
+    "email": "mherrmann@gratanet.com",
+    "position": "Labor Law Director"
+  },
+  {
+    "company_name": "GRATA",
+    "name": "Tlek Gusman",
+    "email": "tgusman@gratanet.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GRATA",
+    "name": "Shakhrukh Usmanov",
+    "email": "susmanov@gratanet.com",
+    "position": "Head of Industry and Trade, Pharmaceutical and Healthcare"
+  },
+  {
+    "company_name": "Keremet Bank",
+    "name": "None None",
+    "email": "call-center@keremetbank.kg",
+    "position": null
+  },
+  {
+    "company_name": "Keremet Bank",
+    "name": "None None",
+    "email": "mtorogeldieva@keremetbank.kg",
+    "position": null
+  },
+  {
+    "company_name": "Keremet Bank",
+    "name": "None None",
+    "email": "hrm@keremetbank.kg",
+    "position": null
+  },
+  {
+    "company_name": "Keremet Bank",
+    "name": "None None",
+    "email": "tender@keremetbank.kg",
+    "position": null
+  },
+  {
+    "company_name": "Keremet Bank",
+    "name": "None None",
+    "email": "compliance@keremetbank.kg",
+    "position": null
+  },
+  {
+    "company_name": "Keremet Bank",
+    "name": "None None",
+    "email": "trade.finance@keremetbank.kg",
+    "position": null
+  },
+  {
+    "company_name": "Keremet Bank",
+    "name": "None None",
+    "email": "beishenaliev_s@keremetbank.kg",
+    "position": null
+  },
+  {
+    "company_name": "Keremet Bank",
+    "name": "None None",
+    "email": "dkasymalieva@keremetbank.kg",
+    "position": null
+  },
+  {
+    "company_name": "Keremet Bank",
+    "name": "None None",
+    "email": "amambetalieva@keremetbank.kg",
+    "position": null
+  },
+  {
+    "company_name": "Keremet Bank",
+    "name": "None None",
+    "email": "bakytbek_b@keremetbank.kg",
+    "position": null
+  },
+  {
+    "company_name": "KSB Bank",
+    "name": "Saniya Isakova",
+    "email": "s.isakova@ksbc.kg",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "KSB Bank",
+    "name": "Daniiar Bakchiev",
+    "email": "d.bakchiev@ksbc.kg",
+    "position": "Chief Executive Officer Advisor"
+  },
+  {
+    "company_name": "KSB Bank",
+    "name": "Kristina Chervonova",
+    "email": "k.chervonova@ksbc.kg",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "KSB Bank",
+    "name": "None None",
+    "email": "bank@ksbc.kg",
+    "position": null
+  },
+  {
+    "company_name": "KSB Bank",
+    "name": "None None",
+    "email": "office@ksbc.kg",
+    "position": null
+  },
+  {
+    "company_name": "KSB Bank",
+    "name": "None None",
+    "email": "hr@ksbc.kg",
+    "position": null
+  },
+  {
+    "company_name": "KSB Bank",
+    "name": "None None",
+    "email": "m.ulanbekova@ksbc.kg",
+    "position": null
+  },
+  {
+    "company_name": "Empira Group",
+    "name": "Dominik Hirsch",
+    "email": "dominik.hirsch@empira-invest.com",
+    "position": "Director of Debt Solutions"
+  },
+  {
+    "company_name": "Empira Group",
+    "name": "Intisar Knapp",
+    "email": "intisar.knapp@empira-invest.com",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "Empira Group",
+    "name": "Christin Arlt",
+    "email": "christin.arlt@empira-invest.com",
+    "position": "Vice President, Debt Solutions"
+  },
+  {
+    "company_name": "Empira Group",
+    "name": "Roger Harle",
+    "email": "roger.harle@empira-invest.com",
+    "position": "Director of Capital Formation"
+  },
+  {
+    "company_name": "Empira Group",
+    "name": "Stephan Weiske",
+    "email": "stephan.weiske@empira-invest.com",
+    "position": "Vice President, Debt Solutions"
+  },
+  {
+    "company_name": "Empira Group",
+    "name": "Samantha Schumacher",
+    "email": "samantha.schumacher@empira-invest.com",
+    "position": "Vice President of Product Development"
+  },
+  {
+    "company_name": "Empira Group",
+    "name": "Michael Meidlinger",
+    "email": "michael.meidlinger@empira-invest.com",
+    "position": "Chief Strategy Officer"
+  },
+  {
+    "company_name": "Empira Group",
+    "name": "Neyda Nieves",
+    "email": "neyda.nieves@empira-invest.com",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "Empira Group",
+    "name": "Walid Ibrahim",
+    "email": "walid.ibrahim@empira-invest.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Empira Group",
+    "name": "Daniel Brendel",
+    "email": "daniel.brendel@empira-invest.com",
+    "position": "Co-Head of Portfolio Management"
+  },
+  {
+    "company_name": "RSM Kyrgyzstan",
+    "name": "Damian Lobb",
+    "email": "damian.lobb@rsm.global",
+    "position": "Interim Risk Manager"
+  },
+  {
+    "company_name": "RSM Kyrgyzstan",
+    "name": "Caitlin Azali",
+    "email": "caitlin.azali@rsm.global",
+    "position": "Director of Communications"
+  },
+  {
+    "company_name": "RSM Kyrgyzstan",
+    "name": "Bella Ong",
+    "email": "bella.ong@rsm.global",
+    "position": "Finance Executive"
+  },
+  {
+    "company_name": "RSM Kyrgyzstan",
+    "name": "Rebecca Williams",
+    "email": "rebecca.williams@rsm.global",
+    "position": "Head of Brand"
+  },
+  {
+    "company_name": "RSM Kyrgyzstan",
+    "name": "Chris MacCallum",
+    "email": "chris.maccallum@rsm.global",
+    "position": "Deputy Chief Information Security Officer"
+  },
+  {
+    "company_name": "RSM Kyrgyzstan",
+    "name": "Jorabar Singh",
+    "email": "jorabar.singh@rsm.global",
+    "position": "Operations Executive"
+  },
+  {
+    "company_name": "RSM Kyrgyzstan",
+    "name": "Nina Nathan",
+    "email": "nina.nathan@rsm.global",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "RSM Kyrgyzstan",
+    "name": "Aideen Duddy",
+    "email": "aideen.duddy@rsm.global",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "RSM Kyrgyzstan",
+    "name": "Lea Pateman",
+    "email": "lea.pateman@rsm.global",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "RSM Kyrgyzstan",
+    "name": "Ruby Sintenie",
+    "email": "ruby.sintenie@rsm.global",
+    "position": "Membership Support Specialist"
+  },
+  {
+    "company_name": "Royal Construction",
+    "name": "None None",
+    "email": "corporate@royal.kg",
+    "position": null
+  },
+  {
+    "company_name": "OJSC Kyrgyztelecom",
+    "name": "None None",
+    "email": "info@kt.kg",
+    "position": null
+  },
+  {
+    "company_name": "OJSC Kyrgyztelecom",
+    "name": "None None",
+    "email": "vlad@kt.kg",
+    "position": null
+  },
+  {
+    "company_name": "OJSC Kyrgyztelecom",
+    "name": "None None",
+    "email": "vfedotova@kt.kg",
+    "position": null
+  },
+  {
+    "company_name": "OJSC Kyrgyztelecom",
+    "name": "None None",
+    "email": "uakhmetov@kt.kg",
+    "position": null
+  },
+  {
+    "company_name": "OJSC Kyrgyztelecom",
+    "name": "None None",
+    "email": "ivladimirov@kt.kg",
+    "position": null
+  },
+  {
+    "company_name": "OJSC Kyrgyztelecom",
+    "name": "None None",
+    "email": "support@kt.kg",
+    "position": null
+  },
+  {
+    "company_name": "OJSC Kyrgyztelecom",
+    "name": "None None",
+    "email": "admin@kt.kg",
+    "position": null
+  },
+  {
+    "company_name": "OJSC Kyrgyztelecom",
+    "name": "None None",
+    "email": "bgts_cd@kt.kg",
+    "position": null
+  },
+  {
+    "company_name": "OJSC Kyrgyztelecom",
+    "name": "None None",
+    "email": "office1@kt.kg",
+    "position": null
+  },
+  {
+    "company_name": "OJSC Kyrgyztelecom",
+    "name": "None None",
+    "email": "abuse@kt.kg",
+    "position": null
+  },
+  {
+    "company_name": "Sibers",
+    "name": "Dmitry Denisov",
+    "email": "dmitry.denisov@sibers.com",
+    "position": "Co-Founder"
+  },
+  {
+    "company_name": "Sibers",
+    "name": "Anie Shpak",
+    "email": "anie.shpak@sibers.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "Sibers",
+    "name": "Andrey Afanasenko",
+    "email": "andrey.afanasenko@sibers.com",
+    "position": "Vice President of Sales"
+  },
+  {
+    "company_name": "Sibers",
+    "name": "Kirill Pipenko",
+    "email": "kirill.pipenko@sibers.com",
+    "position": "Branch Manager"
+  },
+  {
+    "company_name": "Sibers",
+    "name": "Andrey Pogrebnyak",
+    "email": "andrey.pogrebnyak@sibers.com",
+    "position": "Co-founder"
+  },
+  {
+    "company_name": "Sibers",
+    "name": "Vladimir Moiseev",
+    "email": "vladimir.moiseev@sibers.com",
+    "position": "Vice President of Sales"
+  },
+  {
+    "company_name": "Sibers",
+    "name": "Yuriy Bannov",
+    "email": "yuriy.bannov@sibers.com",
+    "position": "Founder"
+  },
+  {
+    "company_name": "Sibers",
+    "name": "Alexander Sayranov",
+    "email": "alexander.sayranov@sibers.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "Sibers",
+    "name": "Leonid Vashtaev",
+    "email": "leonid.vashtaev@sibers.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "Sibers",
+    "name": "Daria Kolenova",
+    "email": "daria.kolenova@sibers.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "RMAA Group",
+    "name": "Maria Azanova",
+    "email": "maria.azanova@russia-promo.com",
+    "position": "Director of Strategic Planning"
+  },
+  {
+    "company_name": "RMAA Group",
+    "name": "Ivan Chernov",
+    "email": "ivan.chernov@russia-promo.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "RMAA Group",
+    "name": "Yulia Usanova",
+    "email": "yulia.usanova@russia-promo.com",
+    "position": "Business Development Director"
+  },
+  {
+    "company_name": "RMAA Group",
+    "name": "None None",
+    "email": "vadim@russia-promo.com",
+    "position": null
+  },
+  {
+    "company_name": "RMAA Group",
+    "name": "None None",
+    "email": "office@russia-promo.com",
+    "position": null
+  },
+  {
+    "company_name": "House.kg",
+    "name": "None None",
+    "email": "info@house.kg",
+    "position": null
+  },
+  {
+    "company_name": "House.kg",
+    "name": "None None",
+    "email": "support@house.kg",
+    "position": null
+  }
+]

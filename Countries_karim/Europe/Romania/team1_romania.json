@@ -1,0 +1,93 @@
+[
+    {
+      "name": "AFI Europe Romania",
+      "website": "https://www.afieurope.ro/",
+      "address": "4A Timisoara Blvd, AFI Park 4&5 , wing 5, 4th Floor, 6th District, Bucharest",
+      "email": "contact-romania@afi.global",
+      "phone_number": "+40 21 412 0220"
+    },
+    {
+      "name": "NEPI Rockcastle",
+      "website": "https://nepirockcastle.com/",
+      "address": "NEPI Investment Management SRL, Building A, 5th floor, 169A Calea Floreasca, Bucharest 1, 014459, Romania",
+      "email": null,
+      "phone_number": "+40 21 232 13 98"
+    },
+    {
+      "name": "Globalworth",
+      "website": "https://www.globalworth.com/",
+      "address": "Globalworth Tower 201 Barbu Văcărescu St. 020276 Bucharest Romania",
+      "email": "enquiries@globalworth.com",
+      "phone_number": "+4 (0) 372 800 000"
+    },
+    {
+      "name": "Skanska",
+      "website": "https://www.skanska.ro/",
+      "address": "Equilibrium 2 Gara Herastrau Street, Building 1, 3rd Floor RO-020334 Bucharest",
+      "email": "Not explicitly stated for direct general email, contact form available ",
+      "phone_number": null
+    },
+    {
+      "name": "Prime Kapital",
+      "website": "https://primekapital.com/",
+      "address": "Globalworth Tower, 8th & 11th Floors, 201 Barbu Vacarescu St, 020276 Bucharest, Romania",
+      "email": "contact@primekapital.com",
+      "phone_number": "Not explicitly stated on their website for general inquiries."
+    },
+    {
+      "name": "Speedwell",
+      "website": "https://www.speedwell.be/",
+      "address": "Șos. București-Ploiești 89A, Miro Offices, corp C2, etaj 4 Sector 1, București, 013685, România",
+      "email": "contact.romania@speedwell.be",
+      "phone_number": "+40 753 130 352"
+    },
+    {
+      "name": "Forte Partners Romania",
+      "website": "https://www.fortepartners.ro/",
+      "address": "240 Calea Floreasca Street, 6th floor, 2nd District, Bucharest, Romania, 014475 Ethos House",
+      "email": "office@fortepartners.ro",
+      "phone_number": "+40 31 425 10 14"
+    },
+    {
+      "name": "One United Properties",
+      "website": "https://www.one.ro/",
+      "address": "One Tower, Calea Floreasca 165, et. 16 Sector 1, București",
+      "email": "office@one.ro",
+      "phone_number": "+40 726 000 026"
+    },
+    {
+      "name": "CTP Romania",
+      "website": "https://www.ctp.eu/",
+      "address": "4E Paul Teodorescu Gen. Boulevard, District 6 Bucharest 061344",
+      "email": "peter.ceresnik@ctp.eu",
+      "phone_number": "+40 021 9149"
+    },
+    {
+      "name": "Floreasca City Center (One United Properties)",
+      "website": "https://www.one.ro/development/one-floreasca-city/",
+      "address": "Calea Floreasca 165, Bucharest, Romania",
+      "email": "office@one.ro",
+      "phone_number": "+40 726 000 026"
+    },
+    {
+      "name": "ParkLake Shopping Center (Sonae Sierra)",
+      "website": "https://parklake.ro/en/contact/",
+      "address": "Strada Liviu Rebreanu 6A, București 031742, Romania",
+      "email": "contact@parklake.ro",
+      "phone_number": "+40 757 353 014"
+    },
+    {
+      "name": "Globalworth",
+      "website": "https://www.globalworth.com/",
+      "address": "Globalworth Tower 201 Barbu Văcărescu St. 020276 Bucharest Romania",
+      "email": "enquiries@globalworth.com",
+      "phone_number": "+4 (0) 372 800 000"
+    },
+    {
+      "name": "Palas Iasi (Iulius Group)",
+      "website": "https://www.iuliuscompany.ro/palas-iasi",
+      "address": "Str. Palas, no. 7A, building A1, 2nd floor, Romania",
+      "email": "contact@iuliuscompany.com",
+      "phone_number": "+40 232 208 800"
+    }
+  ]

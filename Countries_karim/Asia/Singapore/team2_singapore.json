@@ -1,0 +1,644 @@
+[
+  {
+    "company_name": "",
+    "name": "Hao Lee",
+    "email": "hao.lee@capitaland.com",
+    "position": "Assistant Vice President, Investment and Asset Management"
+  },
+  {
+    "company_name": "",
+    "name": "Wen Lee",
+    "email": "wen.lee@capitaland.com",
+    "position": "Tenancy Design Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Doris Zhu",
+    "email": "doris.zhu@capitaland.com",
+    "position": "Deputy Director of Organizational Development"
+  },
+  {
+    "company_name": "",
+    "name": "Amy Min",
+    "email": "amy.min@capitaland.com",
+    "position": "Legal Director"
+  },
+  {
+    "company_name": "",
+    "name": "Aisah Ahmad",
+    "email": "aisah.ahmad@capitaland.com",
+    "position": "Finance Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Alan Tan",
+    "email": "alan.tan@capitaland.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Susan Zheng",
+    "email": "susan.zheng@capitaland.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Sumit Gera",
+    "email": "sumit.gera@capitaland.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Ying Lim",
+    "email": "ying.lim@capitaland.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Mavis Haw",
+    "email": "mavis.haw@capitaland.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "",
+    "name": "April Chiang",
+    "email": "aprilchiang@cdl.com.sg",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Alan Lim",
+    "email": "alanlim@cdl.com.sg",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Cindy Tan",
+    "email": "cindytan@cdl.com.sg",
+    "position": "Director of Corporate Services"
+  },
+  {
+    "company_name": "",
+    "name": "Adelene Goh",
+    "email": "adelenegoh@cdl.com.sg",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Jimmy Hee",
+    "email": "jimmyhee@cdl.com.sg",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Gerald Yong",
+    "email": "geraldyong@cdl.com.sg",
+    "position": "Chief Investment Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Cameron Laird",
+    "email": "cameronlaird@cdl.com.sg",
+    "position": "Country Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Joel Boh",
+    "email": "joel.boh@cdl.com.sg",
+    "position": "Assistant Vice President, Group Investments"
+  },
+  {
+    "company_name": "",
+    "name": "May Tan",
+    "email": "maytan@cdl.com.sg",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Charissa Tam",
+    "email": "charissatam@cdl.com.sg",
+    "position": "Vice President of Customer Experience"
+  },
+  {
+    "company_name": "",
+    "name": "Zen Wee",
+    "email": "wee.zen@uol.com.sg",
+    "position": "Senior Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Annabelle Yip",
+    "email": "yip.annabelle@uol.com.sg",
+    "position": "Independent Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jiaying Yeo",
+    "email": "yeo.jiaying@uol.com.sg",
+    "position": "Senior Marketing Communications Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Naomi Tan",
+    "email": "tan.naomi@uol.com.sg",
+    "position": "Senior Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Yvonne Tan",
+    "email": "tan.yvonne@uol.com.sg",
+    "position": "Chief Development Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Sarah Hoe",
+    "email": "hoe.sarah@uol.com.sg",
+    "position": "Senior Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Sylvia Tjoa",
+    "email": "tjoa.sylvia@uol.com.sg",
+    "position": "Senior Finance Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Anson Lim",
+    "email": "lim.anson@uol.com.sg",
+    "position": "General Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Eric Ng",
+    "email": "ng.eric@uol.com.sg",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Erika Kiang",
+    "email": "kiang.erika@uol.com.sg",
+    "position": "Marketing Communications Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Wenhui Ko",
+    "email": "wenhui.ko@frasersproperty.com",
+    "position": "Vice President of Finance"
+  },
+  {
+    "company_name": "",
+    "name": "Benjamin Khoo",
+    "email": "benjamin.khoo@frasersproperty.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Opas Sanonok",
+    "email": "opas.s@frasersproperty.com",
+    "position": "Chief Information Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Irene Ng",
+    "email": "irene.ng@frasersproperty.com",
+    "position": "Assistant Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Chaimongkol Thadtieampet",
+    "email": "chaimongkol.t@frasersproperty.com",
+    "position": "Senior Vice President of Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Joshua Oon",
+    "email": "joshua.oon@frasersproperty.com",
+    "position": "UI/UX Lead"
+  },
+  {
+    "company_name": "",
+    "name": "Wanshi Zheng",
+    "email": "wanshi.zheng@frasersproperty.com",
+    "position": "Chief Strategy and Sustainability Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Nithivut Chanthai",
+    "email": "nithivut.c@frasersproperty.com",
+    "position": "Director of Learning and Development"
+  },
+  {
+    "company_name": "",
+    "name": "Shane Ng",
+    "email": "shane.ng@frasersproperty.com",
+    "position": "Assistant Vice President, Financial Planning & Analysis"
+  },
+  {
+    "company_name": "",
+    "name": "Fenell Ang",
+    "email": "fenell.ang@frasersproperty.com",
+    "position": "Senior Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Angeline Ong",
+    "email": "angelineong@guocoland.com.sg",
+    "position": "Administrative Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Anny Tan",
+    "email": "annytan@guocoland.com.sg",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Dora Chng",
+    "email": "dchng@guocoland.com.sg",
+    "position": "Director of Residential Services"
+  },
+  {
+    "company_name": "",
+    "name": "Zielah Amir",
+    "email": "zielahamir@guocoland.com.sg",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "contact@guocoland.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Zan Goh",
+    "email": "zan.goh@keppel.com",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "",
+    "name": "Lai Ang",
+    "email": "lai.ang@keppel.com",
+    "position": "Director of Corporate Communications"
+  },
+  {
+    "company_name": "",
+    "name": "Boon Goh",
+    "email": "boon.goh@keppel.com",
+    "position": "Director of Technology"
+  },
+  {
+    "company_name": "",
+    "name": "Elizabeth Chong",
+    "email": "elizabeth.chong@keppel.com",
+    "position": "Administrative Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Niki Shen",
+    "email": "niki.shen@keppel.com",
+    "position": "Executive Secretary"
+  },
+  {
+    "company_name": "",
+    "name": "Wendy Tan",
+    "email": "wendy.tan@keppel.com",
+    "position": "IT Director"
+  },
+  {
+    "company_name": "",
+    "name": "Pek-Yong Woon",
+    "email": "yong.woon@keppel.com",
+    "position": "Director of Sustainability"
+  },
+  {
+    "company_name": "",
+    "name": "Andy Keppel",
+    "email": "andy.keppel@keppel.com",
+    "position": "President"
+  },
+  {
+    "company_name": "",
+    "name": "Kee Loh",
+    "email": "kee.loh@keppel.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Manjot Mann",
+    "email": "manjot.mann@keppel.com",
+    "position": "Group Chief Digital Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Caroline Yuan",
+    "email": "caroline.yuan@mapletree.com.sg",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Uttam Paul",
+    "email": "uttam.paul@mapletree.com.sg",
+    "position": "Finance Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Hanna Wang",
+    "email": "hanna.wang@mapletree.com.sg",
+    "position": "Associate Director, Asset Management"
+  },
+  {
+    "company_name": "",
+    "name": "Dina Vaswani",
+    "email": "dina.vaswani@mapletree.com.sg",
+    "position": "Tax Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jennifer Feng",
+    "email": "jennifer.feng@mapletree.com.sg",
+    "position": "Vice President of Human Resources"
+  },
+  {
+    "company_name": "",
+    "name": "Sushil Mishra",
+    "email": "sushil.mishra@mapletree.com.sg",
+    "position": "Vice President of Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Patrizia Abbruzzese",
+    "email": "patrizia.abbruzzese@mapletree.com.sg",
+    "position": "Vice President of Asset Management"
+  },
+  {
+    "company_name": "",
+    "name": "Kane Chen",
+    "email": "kane.chen@mapletree.com.sg",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "",
+    "name": "Bonnie Guo",
+    "email": "bonnie.guo@mapletree.com.sg",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "",
+    "name": "Nicole Chen",
+    "email": "nicole.chen@mapletree.com.sg",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Jasmine Wong",
+    "email": "jasmine@hoihup.com",
+    "position": "Assistant Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Grace Teo",
+    "email": "grace@hoihup.com",
+    "position": "Sales and Marketing Assistant Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "enquiry@hoihup.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "dpo@hoihup.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Ong John",
+    "email": "john.ong@oxley.com.sg",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Lynn Chua",
+    "email": "lynn.chua@oxley.com.sg",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Shawn Ching",
+    "email": "shawn.ching@oxley.com.sg",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Suzanne Er",
+    "email": "suzanne.er@oxley.com.sg",
+    "position": "Human Resources Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@oxley.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "salesgallery@oxley.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "media@oxley.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hr@oxley.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Alok Atri",
+    "email": "alok.atri@marinabaysands.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Glaiza Gonzales",
+    "email": "glaiza.gonzales@marinabaysands.com",
+    "position": "Premium Services Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Marvin Carbonilla",
+    "email": "marvin.carbonilla@marinabaysands.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Kim",
+    "email": "anna.kim@marinabaysands.com",
+    "position": "Director of Food and Beverage"
+  },
+  {
+    "company_name": "",
+    "name": "Lynn Yeo",
+    "email": "lynn.yeo@marinabaysands.com",
+    "position": "Associate Director of Talent Development"
+  },
+  {
+    "company_name": "",
+    "name": "Vincent Phua",
+    "email": "vincent.phua@marinabaysands.com",
+    "position": "IT Operations Director"
+  },
+  {
+    "company_name": "",
+    "name": "Kievan Yip",
+    "email": "kievan.yip@marinabaysands.com",
+    "position": "Director of Market Development"
+  },
+  {
+    "company_name": "",
+    "name": "Alvin Sim",
+    "email": "alvin.sim@marinabaysands.com",
+    "position": "Operations Director"
+  },
+  {
+    "company_name": "",
+    "name": "Ann Kau",
+    "email": "ann.kau@marinabaysands.com",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "",
+    "name": "Doris Hua",
+    "email": "doris.hua@marinabaysands.com",
+    "position": "Director of IT Finance"
+  },
+  {
+    "company_name": "",
+    "name": "Rodricks Wong",
+    "email": "rodricks.wong@gardensbythebay.com.sg",
+    "position": "Senior Director, Sustainability"
+  },
+  {
+    "company_name": "",
+    "name": "Simon Lam",
+    "email": "simon.lam@gardensbythebay.com.sg",
+    "position": "Assistant Director"
+  },
+  {
+    "company_name": "",
+    "name": "Adeline Chong",
+    "email": "adeline.chong@gardensbythebay.com.sg",
+    "position": "Deputy Director of Public Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Tesse Tan",
+    "email": "tesse.tan@gardensbythebay.com.sg",
+    "position": "Senior Human Resources Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jason Woo",
+    "email": "jason.woo@gardensbythebay.com.sg",
+    "position": "Deputy Director of Engineering"
+  },
+  {
+    "company_name": "",
+    "name": "Kiat Tan",
+    "email": "kiat.tan@gardensbythebay.com.sg",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Shixin Ng",
+    "email": "ng.shixin@gardensbythebay.com.sg",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "",
+    "name": "Michelle Chung",
+    "email": "michelle.chung@gardensbythebay.com.sg",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Cecilia Ho",
+    "email": "cecilia.ho@gardensbythebay.com.sg",
+    "position": "Senior Assistant Director"
+  },
+  {
+    "company_name": "",
+    "name": "Daniel Tiator",
+    "email": "daniel.tiator@gardensbythebay.com.sg",
+    "position": "Deputy Director"
+  },
+  {
+    "company_name": "",
+    "name": "Alicia Loh",
+    "email": "alicia@propertyguru.com.sg",
+    "position": "Marketing Services Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Sheena Chopra",
+    "email": "sheena@propertyguru.com.sg",
+    "position": "Head Of Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "mediaenquiry@propertyguru.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "editor@propertyguru.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "custcare@propertyguru.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "fiona@propertyguru.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "marcuslee@propertyguru.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "albert@propertyguru.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "farizasalleh@propertyguru.com.sg",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "mobilefeedback@propertyguru.com.sg",
+    "position": null
+  }
+]

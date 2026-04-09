@@ -1,0 +1,72 @@
+[
+  {
+    "country": "Algeria",
+    "company_name": "Bessa Promotion",
+    "website": "https://www.bessapromotion.com/",
+    "contact_number": "+213 23 28 38 63",
+    "address": "39 Rue Didouche Mourad, Algiers, Algeria"
+  },
+  {
+    "country": "Algeria",
+    "company_name": "Aymen Promotion",
+    "website": "https://www.aymenpromotion-dz.com/",
+    "contact_number": "+213 23 31 86 48",
+    "address": "41, Rue Didouche Mourad, Algiers, Algeria"
+  },
+  {
+    "country": "Algeria",
+    "company_name": "Résidence Aghiles",
+    "website": "https://www.residencesaghiles.com/",
+    "contact_number": "+213 20 33 80 80",
+    "address": "Résidence Aghiles, Béjaïa, Algeria"
+  },
+  {
+    "country": "Algeria",
+    "company_name": "Zebboudj Promotion Immobilière",
+    "website": "https://zebboudj-immobilier.com/",
+    "contact_number": "0561 800 596",
+    "address": "Résidence Le Jacaranda, bloc A, Entre-Sol 1. 16029 Birkhadem, Alger. Algérie."
+  },
+  {
+    "country": "Algeria",
+    "company_name": "HEBBACHE PROMOTION siège commercial",
+    "website": "https://hebbacheimmo.com/fr",
+    "contact_number": "+213 560 12 00 30",
+    "address": "45 Rue Mahmoud KHODJAT EL DJELD, Bir Mourad Raïs 16000, Algeria"
+  },
+  {
+    "country": "Algeria",
+    "company_name": "Alco Immobiliere",
+    "website": "https://alcoimmobiliere.com/",
+    "contact_number": "+213 23 28 65 65",
+    "address": "Hydra, Algeria"
+  },
+  {
+    "country": "Algeria",
+    "company_name": "La Résidence",
+    "website": "28, Rue El-Arbi Alik Hydra 16000 Alger, Algérie",
+    "contact_number": "(+213)020 06 83 20",
+    "address": "https://www.residencedz.com/contact-us-2/"
+  },
+  {
+    "country": "Algeria",
+    "company_name": "Agence Immobilière ElsAhel",
+    "website": "https://www.elsahelimmobilier.com/en",
+    "contact_number": "+213 797 55 69 00",
+    "address": "48 Cité Douzi 03, Bab Ezzouar, Algérie"
+  },
+  {
+    "country": "Algeria",
+    "company_name": "ABS Algerian immobilier",
+    "website": "https://www.algeria.com/",
+    "contact_number": "+213 770 21 66 21",
+    "address": "Draria 16003, Algeria"
+  },
+  {
+    "country": "Algeria",
+    "company_name": "Casa real estate",
+    "website": "https://casaimmobilierdz.com/",
+    "contact_number": "+213 553 59 05 72",
+    "address": "13 Rue Alioua Fodil, Chéraga, Algeria"
+  }
+]

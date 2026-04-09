@@ -1,0 +1,65 @@
+[
+    {
+      "name": "Henley and Partners",
+      "website": "https://www.henleyglobal.com/",
+      "address": "Pendergardens Business Tower, St. Andrews Road, St. Julian's, STJ 9023, Malta",
+      "email": null,
+      "phone_number": "+356 2138 7400"
+    },
+    {
+      "name": "Perry Estate Agents Malta",
+      "website": "https://www.perry.com.mt/",
+      "address": "197 Tower Road, Sliema, SLM 1602, Malta (Head Office)",
+      "email": "perry@perry.com.mt",
+      "phone_number": "+356 2131 0800"
+    },
+    {
+      "name": "Excel Homes Real Estate Ltd (Malta)",
+      "website": "https://excel.com.mt/",
+      "address": "Triq Il-Linja, Attard, Malta",
+      "email": null,
+      "phone_number": "+356 2141 3355 (Sales/Letting Office), +356 9945 1255 (Company Mobile)"
+    },
+    {
+      "name": "EasyRent Real Estate Malta",
+      "website": "https://easyrent.com.mt/",
+      "address": "420 Triq D'Argens, Il-Gżira, GZR 1361, Malta",
+      "email": "info@easyrent.com.mt",
+      "phone_number": "+356 9999 8330, +356 99364960"
+    },
+    {
+      "name": "Malta Sotheby's International Realty - St. Julian's",
+      "website": "https://www.sothebysrealty.com/eng/office/180-b-83055-20078505/malta-sothebys-international-realty",
+      "address": "The Quay, Portomaso Marina, St. Julian's, Malta",
+      "email": "info@mc-sir.com (general Malta SIR email, as found for Monte Carlo, likely similar structure)",
+      "phone_number": "+356 2010 8077"
+    },
+    {
+      "name": "Zanzi Homes",
+      "website": "https://zanzihomes.com",
+      "address": "Cali House, Vjal ir-Riħan, tal-Balal Road, San Ġwann, Malta",
+      "email": "ask@zanzihomes.com",
+      "phone_number": "+356 20108777, +356 77428780"
+    },
+    {
+      "name": "RE/MAX Malta - Regional Office",
+      "website": "https://remax-malta.com/",
+      "address": "Level 1 Ferris Street, University Roundabout, Msida, MSD 1751, Malta",
+      "email": "info@remax-malta.com",
+      "phone_number": "+356 2247 1300"
+    },
+    {
+      "name": "QuickLets",
+      "website": "https://www.quicklets.com.mt/",
+      "address": "157A, Triq it-Torri, Sliema, Malta",
+      "email": "info@quicklets.com.mt",
+      "phone_number": "+356 2010 8666"
+    },
+    {
+      "name": "Perry Estate Agents St Julians",
+      "website": "https://www.perry.com.mt/offices/estate-agents-st-julians/",
+      "address": "60-61 Gorg Borg Olivier St, St. Julian's, STJ 1081, Malta",
+      "email": "ls@perry.com.mt",
+      "phone_number": "+356 2131 0088"
+    }
+  ]

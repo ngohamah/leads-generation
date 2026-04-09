@@ -1,0 +1,464 @@
+[
+  {
+    "company_name": "Trinity Partners AG",
+    "name": "Michal Filip",
+    "email": "m.filip@trinitypartners.li",
+    "position": "Investment Director"
+  },
+  {
+    "company_name": "Trinity Partners AG",
+    "name": "Matus Gemes",
+    "email": "m.gemes@trinitypartners.li",
+    "position": "CEO"
+  },
+  {
+    "company_name": "Trinity Partners AG",
+    "name": "Sabina Sayed",
+    "email": "s.sayed@trinitypartners.li",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Trinity Partners AG",
+    "name": "None None",
+    "email": "office@trinitypartners.li",
+    "position": null
+  },
+  {
+    "company_name": "CONFIDA",
+    "name": "Lino N\u00e4gele",
+    "email": "lino.naegele@confida.li",
+    "position": null
+  },
+  {
+    "company_name": "CONFIDA",
+    "name": "Vera Marxer",
+    "email": "vera.marxer@confida.li",
+    "position": null
+  },
+  {
+    "company_name": "CONFIDA",
+    "name": "Daniela Stricker",
+    "email": "daniela.stricker@confida.li",
+    "position": null
+  },
+  {
+    "company_name": "CONFIDA",
+    "name": "Daniel Bleisch",
+    "email": "daniel.bleisch@confida.li",
+    "position": null
+  },
+  {
+    "company_name": "CONFIDA",
+    "name": "None None",
+    "email": "immo@confida.li",
+    "position": null
+  },
+  {
+    "company_name": "CONFIDA",
+    "name": "None None",
+    "email": "dsb@confida.li",
+    "position": null
+  },
+  {
+    "company_name": "CONFIDA",
+    "name": "None None",
+    "email": "elena.weithaler@confida.li",
+    "position": null
+  },
+  {
+    "company_name": "CONFIDA",
+    "name": "None None",
+    "email": "yves.gmuer@confida.li",
+    "position": null
+  },
+  {
+    "company_name": "CONFIDA",
+    "name": "None None",
+    "email": "dominik.tribelhorn@confida.li",
+    "position": null
+  },
+  {
+    "company_name": "CONFIDA",
+    "name": "None None",
+    "email": "markus.lendi@confida.li",
+    "position": null
+  },
+  {
+    "company_name": "BWB Legal",
+    "name": "Ronald Wohlwend",
+    "email": "ronald.wohlwend@bwb.legal",
+    "position": null
+  },
+  {
+    "company_name": "BWB Legal",
+    "name": "Marion Malin",
+    "email": "marion.malin@bwb.legal",
+    "position": null
+  },
+  {
+    "company_name": "BWB Legal",
+    "name": "Tamara Moosmann",
+    "email": "tamara.moosmann@bwb.legal",
+    "position": null
+  },
+  {
+    "company_name": "BWB Legal",
+    "name": "Christian Batliner",
+    "email": "christian.batliner@bwb.legal",
+    "position": null
+  },
+  {
+    "company_name": "BWB Legal",
+    "name": "Ralph Wanger",
+    "email": "ralph.wanger@bwb.legal",
+    "position": null
+  },
+  {
+    "company_name": "BWB Legal",
+    "name": "Ramona Hasler",
+    "email": "ramona.hasler@bwb.legal",
+    "position": null
+  },
+  {
+    "company_name": "BWB Legal",
+    "name": "Daniel Weder",
+    "email": "daniel.weder@bwb.legal",
+    "position": null
+  },
+  {
+    "company_name": "BWB Legal",
+    "name": "Claudia Tinner",
+    "email": "claudia.tinner@bwb.legal",
+    "position": null
+  },
+  {
+    "company_name": "BWB Legal",
+    "name": "Philipp Mittelberger",
+    "email": "philipp.mittelberger@bwb.legal",
+    "position": null
+  },
+  {
+    "company_name": "BWB Legal",
+    "name": "Leila Frick",
+    "email": "leila.frick@bwb.legal",
+    "position": null
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Liechtenstein",
+    "name": "Sergio Martinez",
+    "email": "sergio.martinez@engelvoelkers.com",
+    "position": "Regional Director"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Liechtenstein",
+    "name": "Tracy Watts",
+    "email": "tracy.watts@engelvoelkers.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Liechtenstein",
+    "name": "Andreas B\u00fchler",
+    "email": "andreas.buehler@engelvoelkers.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Liechtenstein",
+    "name": "Sean Mcconnon",
+    "email": "sean.mcconnon@engelvoelkers.com",
+    "position": "Vice Chairman"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Liechtenstein",
+    "name": "Jose Mier",
+    "email": "jose.mier@engelvoelkers.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Liechtenstein",
+    "name": "Gregg Baker",
+    "email": "gregg.baker@engelvoelkers.com",
+    "position": "Real Estate Advisor"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Liechtenstein",
+    "name": "Steve Micheletti",
+    "email": "steve.micheletti@engelvoelkers.com",
+    "position": "License Partner"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Liechtenstein",
+    "name": "Colleen Holmes",
+    "email": "colleen.holmes@engelvoelkers.com",
+    "position": "Real Estate Broker"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Liechtenstein",
+    "name": "Alfonso Casillas",
+    "email": "alfonso.casillas@engelvoelkers.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Liechtenstein",
+    "name": "Alexander Kirchmann",
+    "email": "alexander.kirchmann@engelvoelkers.com",
+    "position": "Director of Sales"
+  },
+  {
+    "company_name": "DEIMAG Immobilien",
+    "name": "Michaela Thony",
+    "email": "michaela@deimag.li",
+    "position": null
+  },
+  {
+    "company_name": "DEIMAG Immobilien",
+    "name": "None None",
+    "email": "info@deimag.li",
+    "position": null
+  },
+  {
+    "company_name": "Broder Immobilien",
+    "name": "None None",
+    "email": "immo@broder.li",
+    "position": null
+  },
+  {
+    "company_name": "Kindle-Immobilien AG",
+    "name": "Beat Ga\u00dfner",
+    "email": "beat.gassner@kindlebaut.li",
+    "position": null
+  },
+  {
+    "company_name": "Kindle-Immobilien AG",
+    "name": "None None",
+    "email": "info@kindlebaut.li",
+    "position": null
+  },
+  {
+    "company_name": "FIX Immobilien AG",
+    "name": "Patricia Desa",
+    "email": "patricia.desa@fix-balzers.ch",
+    "position": null
+  },
+  {
+    "company_name": "N\u00e4gele-Capaul Immobilien Aktiengesellschaft",
+    "name": "Igor Mamuzic",
+    "email": "igor.mamuzic@naegele-capaul.com",
+    "position": "CIO"
+  },
+  {
+    "company_name": "N\u00e4gele-Capaul Immobilien Aktiengesellschaft",
+    "name": "Toni Dufner",
+    "email": "toni.dufner@naegele-capaul.com",
+    "position": "Co-Founder, CTO"
+  },
+  {
+    "company_name": "N\u00e4gele-Capaul Immobilien Aktiengesellschaft",
+    "name": "Daniel Kara",
+    "email": "daniel.kara@naegele-capaul.com",
+    "position": null
+  },
+  {
+    "company_name": "N\u00e4gele-Capaul Immobilien Aktiengesellschaft",
+    "name": "Irene G\u00f6ldi",
+    "email": "irene.goeldi@naegele-capaul.com",
+    "position": "Accounting Clerk"
+  },
+  {
+    "company_name": "N\u00e4gele-Capaul Immobilien Aktiengesellschaft",
+    "name": "Aleksandra Schmid",
+    "email": "aleksandra.schmid@naegele-capaul.com",
+    "position": "Head of Marketing and Administration"
+  },
+  {
+    "company_name": "N\u00e4gele-Capaul Immobilien Aktiengesellschaft",
+    "name": "Thomas Brunner",
+    "email": "thomas.brunner@naegele-capaul.com",
+    "position": "Systems Engineer"
+  },
+  {
+    "company_name": "N\u00e4gele-Capaul Immobilien Aktiengesellschaft",
+    "name": "Leon Enggist",
+    "email": "leon.enggist@naegele-capaul.com",
+    "position": "Telematics Technician"
+  },
+  {
+    "company_name": "N\u00e4gele-Capaul Immobilien Aktiengesellschaft",
+    "name": "Jerome Wittwer",
+    "email": "jerome.wittwer@naegele-capaul.com",
+    "position": "Key Account Manager"
+  },
+  {
+    "company_name": "N\u00e4gele-Capaul Immobilien Aktiengesellschaft",
+    "name": "David Moser",
+    "email": "david.moser@naegele-capaul.com",
+    "position": "Systems Engineering"
+  },
+  {
+    "company_name": "N\u00e4gele-Capaul Immobilien Aktiengesellschaft",
+    "name": "Alexander Capaul",
+    "email": "a.capaul@naegele-capaul.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "Liechtenstein Group",
+    "name": "Stephan Langer",
+    "email": "s.langer@lgroup.com",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "Liechtenstein Group",
+    "name": "Johanna Baumgartinger",
+    "email": "j.baumgartinger@lgroup.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Liechtenstein Group",
+    "name": "Julia Holter",
+    "email": "j.holter@lgroup.com",
+    "position": "Corporate Communications Manager"
+  },
+  {
+    "company_name": "Liechtenstein Group",
+    "name": "Jorge Vidal",
+    "email": "j.fernandez.vidal@lgroup.com",
+    "position": "Investment Director"
+  },
+  {
+    "company_name": "Liechtenstein Group",
+    "name": "None None",
+    "email": "office@lgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Liechtenstein Group",
+    "name": "None None",
+    "email": "m.schwab@lgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Liechtenstein Group",
+    "name": "None None",
+    "email": "careers@lgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "ZAR Group AG",
+    "name": "None None",
+    "email": "info@zargroup.li",
+    "position": null
+  },
+  {
+    "company_name": "Marxer Attorneys",
+    "name": "Timo Loew",
+    "email": "timo.loew@marxer.law",
+    "position": null
+  },
+  {
+    "company_name": "Marxer Attorneys",
+    "name": "Christoph Urtz",
+    "email": "christoph.urtz@marxer.law",
+    "position": null
+  },
+  {
+    "company_name": "Marxer Attorneys",
+    "name": "Christina Perez",
+    "email": "christina.perez@marxer.law",
+    "position": null
+  },
+  {
+    "company_name": "Marxer Attorneys",
+    "name": "Florian Marxer",
+    "email": "florian.marxer@marxer.law",
+    "position": null
+  },
+  {
+    "company_name": "Marxer Attorneys",
+    "name": "Markus Summer",
+    "email": "markus.summer@marxer.law",
+    "position": null
+  },
+  {
+    "company_name": "Marxer Attorneys",
+    "name": "Johannes Burger",
+    "email": "johannes.burger@marxer.law",
+    "position": null
+  },
+  {
+    "company_name": "Marxer Attorneys",
+    "name": "Ramona M\u00fcller",
+    "email": "ramona.mueller@marxer.law",
+    "position": null
+  },
+  {
+    "company_name": "Marxer Attorneys",
+    "name": "Andrea Weber",
+    "email": "andrea.weber@marxer.law",
+    "position": null
+  },
+  {
+    "company_name": "Marxer Attorneys",
+    "name": "Tim Schreiber",
+    "email": "tim.schreiber@marxer.law",
+    "position": null
+  },
+  {
+    "company_name": "Marxer Attorneys",
+    "name": "Renata Werren",
+    "email": "renata.werren@marxer.law",
+    "position": null
+  },
+  {
+    "company_name": "Optics Balzers AG",
+    "name": "None None",
+    "email": "info@opticsbalzers.com",
+    "position": null
+  },
+  {
+    "company_name": "Optics Balzers AG",
+    "name": "None None",
+    "email": "info.jena@opticsbalzers.com",
+    "position": null
+  },
+  {
+    "company_name": "Optics Balzers AG",
+    "name": "None None",
+    "email": "elmar.elbinger@opticsbalzers.com",
+    "position": null
+  },
+  {
+    "company_name": "Optics Balzers AG",
+    "name": "None None",
+    "email": "media@opticsbalzers.com",
+    "position": null
+  },
+  {
+    "company_name": "Optics Balzers AG",
+    "name": "None None",
+    "email": "hr@opticsbalzers.com",
+    "position": null
+  },
+  {
+    "company_name": "CROWDLITOKEN AG",
+    "name": "Simon B\u00fcchi",
+    "email": "simon@crowdlitoken.com",
+    "position": "Chief Technology Officer"
+  },
+  {
+    "company_name": "CROWDLITOKEN AG",
+    "name": "Claudia Zinser",
+    "email": "claudia@crowdlitoken.com",
+    "position": "Compliance and Operations Manager"
+  },
+  {
+    "company_name": "CROWDLITOKEN AG",
+    "name": "None None",
+    "email": "domenic@crowdlitoken.com",
+    "position": null
+  },
+  {
+    "company_name": "CROWDLITOKEN AG",
+    "name": "None None",
+    "email": "welcome@crowdlitoken.com",
+    "position": null
+  }
+]

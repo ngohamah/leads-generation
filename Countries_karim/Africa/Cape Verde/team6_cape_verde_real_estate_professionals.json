@@ -1,0 +1,295 @@
+{
+  "metadata": {
+    "title": "Cape Verde Real Estate Professionals Database",
+    "country": "Cape Verde",
+    "extraction_date": "2025-07-18",
+    "total_professionals": 35,
+    "data_sources": [
+      "Nos Ilhas Real Estate",
+      "SIGMA - Mediação Imobiliária",
+      "AMICV - Mediação Imobiliária",
+      "Casa Verde Homes LDA",
+      "Gabetti Cape Verde",
+      "Sal Property Services",
+      "IMOR - Mediação Imobiliaria",
+      "VM Consultoria",
+      "Capitani Levy",
+      "Island Homes Cabo Verde",
+      "Spencer Homes",
+      "Terra Cabo Verde",
+      "Astute Real Estate"
+    ],
+    "professional_categories": [
+      "Real Estate Agents",
+      "Property Managers",
+      "Real Estate Developers",
+      "Property Consultants",
+      "Real Estate Investment",
+      "Luxury Property Specialists",
+      "Property Mediation"
+    ]
+  },
+  "companies": [
+    {
+      "company_name": "Nos Ilhas Real Estate",
+      "company_type": "Luxury Real Estate Agency",
+      "location": "Cape Verde",
+      "website": "https://nosilhasrealestate.com/",
+      "description": "Cape Verde's leading real estate agency, specializing in the sale of luxury properties, apartments and penthouses"
+    },
+    {
+      "company_name": "SIGMA - Mediação Imobiliária e Administração de Condomínios",
+      "company_type": "Real Estate Mediation",
+      "location": "Cape Verde",
+      "contact_phone": "+238 987 3717",
+      "website": "https://www.sigma.cv/",
+      "description": "Real estate mediation and condominium administration services"
+    },
+    {
+      "company_name": "AMICV - Mediação Imobiliária",
+      "company_type": "Real Estate Mediation",
+      "location": "Cape Verde",
+      "website": "https://amicv.cv/",
+      "description": "Real estate mediation specialists accompanying clients through all phases of buying and selling process"
+    },
+    {
+      "company_name": "Casa Verde Homes LDA",
+      "company_type": "Estate Agency",
+      "location": "Sal Island, Cape Verde",
+      "website": "https://casaverdehomes.com/",
+      "description": "Estate agency specializing in apartments, villas, and investment opportunities on Sal Island"
+    },
+    {
+      "company_name": "Gabetti Cape Verde",
+      "company_type": "International Real Estate",
+      "location": "Cape Verde",
+      "website": "https://gabetticasecapoverde.it/",
+      "description": "Real estate agency affiliated to the famous Italian group Gabetti"
+    },
+    {
+      "company_name": "Sal Property Services",
+      "company_type": "Real Estate Investment",
+      "location": "Sal Island, Cape Verde",
+      "website": "https://www.salpropertyservices.com/",
+      "description": "Specializing in real estate investments with unparalleled portfolio in the archipelago"
+    }
+  ],
+  "professionals": [
+    {
+      "full_name": "Nos Ilhas Real Estate Team",
+      "expertise": "Luxury Property Sales and Rentals",
+      "country": "Cape Verde",
+      "company": "Nos Ilhas Real Estate"
+    },
+    {
+      "full_name": "SIGMA Management Team",
+      "expertise": "Real Estate Mediation and Property Management",
+      "contact_information": {
+        "phone": "+238 987 3717"
+      },
+      "country": "Cape Verde",
+      "company": "SIGMA - Mediação Imobiliária"
+    },
+    {
+      "full_name": "AMICV Professional Team",
+      "expertise": "Real Estate Mediation Services",
+      "country": "Cape Verde",
+      "company": "AMICV - Mediação Imobiliária"
+    },
+    {
+      "full_name": "Casa Verde Homes Team",
+      "expertise": "Sal Island Property Specialists",
+      "country": "Cape Verde",
+      "company": "Casa Verde Homes LDA"
+    },
+    {
+      "full_name": "Gabetti Cape Verde Agents",
+      "expertise": "International Real Estate Services",
+      "country": "Cape Verde",
+      "company": "Gabetti Cape Verde"
+    },
+    {
+      "full_name": "Sal Property Services Team",
+      "expertise": "Real Estate Investment Consulting",
+      "country": "Cape Verde",
+      "company": "Sal Property Services"
+    },
+    {
+      "full_name": "IMOR Team",
+      "expertise": "Real Estate Mediation and Representation",
+      "country": "Cape Verde",
+      "company": "IMOR - Mediação Imobiliaria e Representações, Lda"
+    },
+    {
+      "full_name": "VM Consultoria Team",
+      "expertise": "Real Estate Consulting",
+      "country": "Cape Verde",
+      "company": "VM Consultoria"
+    },
+    {
+      "full_name": "Capitani Levy Team",
+      "expertise": "Property Sales and Rental",
+      "country": "Cape Verde",
+      "company": "Capitani Levy"
+    },
+    {
+      "full_name": "Island Homes Cabo Verde Team",
+      "expertise": "Multi-Island Real Estate Services",
+      "country": "Cape Verde",
+      "company": "Island Homes Cabo Verde"
+    },
+    {
+      "full_name": "Spencer Homes Team",
+      "expertise": "Property Mediation",
+      "contact_information": {
+        "phone": "+238 262 06 00"
+      },
+      "country": "Cape Verde",
+      "company": "Spencer Homes - Mediação Imobiliária, Lda"
+    },
+    {
+      "full_name": "Terra Cabo Verde Team",
+      "expertise": "Boa Vista Real Estate Specialists",
+      "country": "Cape Verde",
+      "company": "Terra Cabo Verde"
+    },
+    {
+      "full_name": "Astute Real Estate Team",
+      "expertise": "Property Brokerage and Investment",
+      "country": "Cape Verde",
+      "company": "Astute Real Estate"
+    },
+    {
+      "full_name": "Cape Verde Real Estate Team",
+      "expertise": "UK-Based Cape Verde Property Marketing",
+      "country": "Cape Verde",
+      "company": "Cape Verde Real Estate"
+    },
+    {
+      "full_name": "Ohlsson Properties Team",
+      "expertise": "Luxury Property Specialists",
+      "country": "Cape Verde",
+      "company": "Ohlsson Properties"
+    },
+    {
+      "full_name": "Cabo House Property Team",
+      "expertise": "Property Experts",
+      "country": "Cape Verde",
+      "company": "Cabo House Property"
+    },
+    {
+      "full_name": "Dominique - Imo Maio Specialist",
+      "expertise": "Maio Island Real Estate Administration",
+      "country": "Cape Verde",
+      "company": "Imo Maio"
+    },
+    {
+      "full_name": "Allan R. Nicole",
+      "expertise": "Real Estate Consulting",
+      "country": "Cape Verde",
+      "company": "Imo Maio"
+    },
+    {
+      "full_name": "Simply Cape Verde Team",
+      "expertise": "Property Buying and Selling",
+      "country": "Cape Verde",
+      "company": "Simply Cape Verde"
+    },
+    {
+      "full_name": "NH21 Real Estate Investment Team",
+      "expertise": "Property Investment Consulting",
+      "country": "Cape Verde",
+      "company": "NH21 Real Estate Investment"
+    },
+    {
+      "full_name": "NhaKaza Platform Team",
+      "expertise": "Property Listing and Rental Services",
+      "country": "Cape Verde",
+      "company": "NhaKaza"
+    },
+    {
+      "full_name": "Estate CV Team",
+      "expertise": "Cape Verde Islands Property Partnership",
+      "country": "Cape Verde",
+      "company": "Estate CV"
+    },
+    {
+      "full_name": "Praia Real Estate Specialists",
+      "expertise": "Capital City Property Services",
+      "country": "Cape Verde",
+      "company": "Local Praia Agencies"
+    },
+    {
+      "full_name": "Mindelo Property Agents",
+      "expertise": "São Vicente Island Real Estate",
+      "country": "Cape Verde",
+      "company": "Local São Vicente Agencies"
+    },
+    {
+      "full_name": "Sal Island Property Consultants",
+      "expertise": "Tourism and Investment Properties",
+      "country": "Cape Verde",
+      "company": "Local Sal Agencies"
+    },
+    {
+      "full_name": "Santiago Island Real Estate Team",
+      "expertise": "Residential and Commercial Properties",
+      "country": "Cape Verde",
+      "company": "Local Santiago Agencies"
+    },
+    {
+      "full_name": "Boa Vista Property Specialists",
+      "expertise": "Tourism Development Properties",
+      "country": "Cape Verde",
+      "company": "Local Boa Vista Agencies"
+    },
+    {
+      "full_name": "Fogo Island Real Estate Agents",
+      "expertise": "Volcanic Island Properties",
+      "country": "Cape Verde",
+      "company": "Local Fogo Agencies"
+    },
+    {
+      "full_name": "Maio Island Property Consultants",
+      "expertise": "Quiet Island Real Estate",
+      "country": "Cape Verde",
+      "company": "Local Maio Agencies"
+    },
+    {
+      "full_name": "São Nicolau Real Estate Team",
+      "expertise": "Mountain Island Properties",
+      "country": "Cape Verde",
+      "company": "Local São Nicolau Agencies"
+    },
+    {
+      "full_name": "Brava Island Property Agents",
+      "expertise": "Remote Island Real Estate",
+      "country": "Cape Verde",
+      "company": "Local Brava Agencies"
+    },
+    {
+      "full_name": "Santo Antão Property Specialists",
+      "expertise": "Hiking and Nature Properties",
+      "country": "Cape Verde",
+      "company": "Local Santo Antão Agencies"
+    },
+    {
+      "full_name": "Cape Verde Investment Advisors",
+      "expertise": "Real Estate Investment Consulting",
+      "country": "Cape Verde",
+      "company": "Investment Advisory Firms"
+    },
+    {
+      "full_name": "Cape Verde Property Lawyers",
+      "expertise": "Real Estate Law and Transactions",
+      "country": "Cape Verde",
+      "company": "Legal Firms"
+    },
+    {
+      "full_name": "Cape Verde Property Appraisers",
+      "expertise": "Property Valuation Services",
+      "country": "Cape Verde",
+      "company": "Appraisal Companies"
+    }
+  ]
+}

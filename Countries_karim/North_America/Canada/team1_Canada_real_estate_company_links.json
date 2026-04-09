@@ -1,0 +1,82 @@
+[
+
+  {
+    "company_name": "Firstservice Corporation",
+    "website": "https://www.firstservice.com/",
+    "access": false,
+    "language": "English",
+    "description": "FirstService Corporation is a North American leader in outsourced property services, operating through two platforms: FirstService Residential (residential property management) and FirstService Brands (property and home improvement services, including various franchise systems). Their specialization lies primarily in Property Management and related services for both residential and commercial properties."
+  },
+  {
+    "company_name": "Colliers International Group",
+    "website": "https://www.collierscanada.com/en-ca/about",
+    "access": false,
+    "language": "English",
+    "description": "Colliers International Group is a diversified professional services and investment management company. In Canada, they offer comprehensive services to commercial real estate users, owners, investors, and developers. Their specializations include Brokerage (commercial property sales and leasing), Property Management, Real Estate Investment, Real Estate Appraisal, Project Management, Development Advisory, and Consulting services across various property types like office, industrial, multifamily, retail, and hotels."
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "website": "https://www.morguard.com/",
+    "access": null,
+    "language": "English",
+    "description": "Morguard Corporation is a real estate investment and management company. Their specializations include Real Estate Investment, Property Management, and Real Estate Development, focusing on a diverse portfolio of office, retail, industrial, and residential properties."
+  },
+  {
+    "company_name": "Tricon Residential",
+    "website": "https://triconresidential.com/",
+    "access": null,
+    "language": "English",
+    "description": "Tricon Residential is an owner and operator of single-family rental homes and multi-family rental apartments in the United States and Canada. Their specializations are Real Estate Investment and Property Management, with a focus on residential properties."
+  },
+  {
+    "company_name": "Altus Group",
+    "website": "https://www.altusgroup.com/",
+    "access": false,
+    "language": "English",
+    "description": "Altus Group provides independent advisory services, software, and data solutions to the global commercial real estate industry. Their specializations include Real Estate Appraisal, Technology (data and analytics platforms like ARGUS), Finance (valuation advisory, transaction support), and Development Advisory & Cost Management for construction projects."
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "website": "https://chartwell.com/",
+    "access": false,
+    "language": "English",
+    "description": "Chartwell Retirement Residences is one of Canada's largest operators of seniors housing. Their primary specialization is Property Management, with a focus on retirement residences, offering various care levels and lifestyle programs."
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "website": "https://dream.ca/",
+    "access": null,
+    "language": "English",
+    "description": "Dream Unlimited is an owner, operator, and developer of real estate and a significant asset manager in Canada. Their specializations include Real Estate Development (master-planned communities, net-zero communities, affordable housing), Real Estate Investment, Property Management, and Sales & Marketing for their projects."
+  },
+  {
+    "company_name": "Melcor Developments",
+    "website": "https://www.melcor.ca/",
+    "access": null,
+    "language": "English",
+    "description": "Melcor Developments is a diversified real estate development and management company. Their specializations include Real Estate Development (residential communities, commercial properties), Property Management, and Real Estate Investment across Western Canada."
+  },
+  {
+    "company_name": "Concord Pacific",
+    "website": "https://www.concordpacific.com/communities/",
+    "access": null,
+    "language": "English",
+    "description": "Concord Pacific is Canada's largest master-planned community builder, with significant developments in Vancouver, Toronto, and other major cities. Their core specialization is Real Estate Development, focusing on large-scale residential and mixed-use communities. They also have diversified interests in technology and green energy projects."
+  },
+  {
+    "company_name": "Onni Group",
+    "website": "https://www.onni.com/",
+    "access": null,
+    "language": "English",
+    "description": "The Onni Group is a leading real estate development company. Their specializations include Real Estate Development (residential, commercial, industrial), Property Management, and Real Estate Investment across North America."
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "website": "https://www.concordpacific.com/communities/",
+    "access": null,
+    "language": "English",
+    "description": "Concord Pacific Developments is Canada's largest master-planned community builder. Their core specialization is Real Estate Development, focusing on large-scale residential and mixed-use communities in major Canadian cities. They also engage in Sales & Marketing for their developed properties."
+  }
+
+
+]

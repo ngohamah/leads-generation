@@ -1,0 +1,75 @@
+[
+
+  {
+    "company_name": "Millenia Realty Dominica",
+    "website": "https://www.milleniarealtydominica.com/",
+    "access": true,
+    "language": "English",
+    "description": "A full-service real estate company in Dominica offering sales, rentals, and property management for both residential and commercial properties. They provide a large inventory of listings including land, homes, and commercial spaces. Their website has a user-friendly interface with advanced search options."
+  },
+  {
+    "company_name": "Safe Haven Real Estate",
+    "website": "https://www.safehavenrealestate.com/",
+    "access": false,
+    "language": "English",
+    "description": "One of the long-standing real estate agencies in Dominica, specializing in the sale and rental of residential and commercial properties. They also offer property management services and cater to developers looking for land."
+  },
+  {
+    "company_name": "Caribbean Paradise Realty",
+    "website": "https://www.caribbeanparadiserealty.net/",
+    "access": false,
+    "language": "English",
+    "description": "This company focuses on upmarket property sales, rentals, and property management. Their portfolio includes luxury homes and commercial properties. The website is straightforward, showcasing featured properties."
+  },
+  {
+    "company_name": "Blue Sky Realtors Ltd.",
+    "website": "https://www.blueskyrealtors.com/",
+    "access": false,
+    "language": "English",
+    "description": "A real estate company offering a range of services including sales, rentals, and property management. They have a significant online presence with a comprehensive property listing database for both residential and commercial sectors."
+  },
+  {
+    "company_name": "Range Developments",
+    "website": "https://rangedevelopments.com/",
+    "access": true,
+    "language": "English",
+    "description": "A leading luxury real estate developer in the Caribbean with significant projects in Dominica, including luxury resorts and villas. They are a key player in the development sector of the commercial real estate market."
+  },
+  {
+    "company_name": "GEMS Holdings Limited",
+    "website": "https://www.gems.dm/",
+    "access": false,
+    "language": "English",
+    "description": "An impact-driven property developer in Dominica, focusing on sustainable and luxury projects. Their portfolio includes high-end residential and resort developments, contributing to the commercial development landscape."
+  },
+  {
+    "company_name": "Diamond Realty Dominica",
+    "website": "https://diamondrealtydominica.com/",
+    "access": false,
+    "language": "English",
+    "description": "A real estate agency in Dominica that lists a variety of properties for sale, including a dedicated section for commercial properties. Their website provides listings with detailed information."
+  },
+  {
+    "company_name": "Natureisle Realty",
+    "website": "https://natureislerealty.com/",
+    "access": false,
+    "language": "English",
+    "description": "This company offers real estate services in Dominica, with a focus on sales of residential and commercial properties. They feature a search portal for users to browse available listings."
+  },
+  {
+    "company_name": "De Freitas, De Freitas & Johnson Chambers",
+    "website": "https://investdominica.com/business/de-freitas-de-freitas-and-johnson/",
+    "access": false,
+    "language": "English",
+    "description": "A well-established law firm in Dominica offering a comprehensive range of legal services, including real estate law. They assist with property acquisition, sales, and other related legal matters for commercial ventures."
+  },
+  {
+    "company_name": "Invest Dominica Authority (IDA)",
+    "website": "https://investdominica.com/",
+    "access": true,
+    "language": "English",
+    "description": "The official government agency for promoting investment in Dominica. While not a traditional real estate company, it is a crucial entity for the commercial real estate sector, providing information on investment opportunities, incentives, and the legal framework for real estate development and acquisition."
+  }
+
+
+]

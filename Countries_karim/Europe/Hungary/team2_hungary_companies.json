@@ -1,0 +1,776 @@
+[
+  {
+    "company_name": "Tower International",
+    "name": "Mark Hegedus",
+    "email": "mark.hegedus@towerbudapest.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Tower International",
+    "name": "David Kirschner",
+    "email": "david.kirschner@towerbudapest.com",
+    "position": "Lettings Manager"
+  },
+  {
+    "company_name": "Tower International",
+    "name": "David Nagy",
+    "email": "david.nagy@towerbudapest.com",
+    "position": null
+  },
+  {
+    "company_name": "Tower International",
+    "name": "Viktor Dorning",
+    "email": "viktor.dorning@towerbudapest.com",
+    "position": null
+  },
+  {
+    "company_name": "Tower International",
+    "name": "None None",
+    "email": "pozsonyi@towerbudapest.com",
+    "position": null
+  },
+  {
+    "company_name": "Tower International",
+    "name": "None None",
+    "email": "info@towerbudapest.com",
+    "position": null
+  },
+  {
+    "company_name": "Tower International",
+    "name": "None None",
+    "email": "recruitment@towerbudapest.com",
+    "position": null
+  },
+  {
+    "company_name": "Tower International",
+    "name": "None None",
+    "email": "adatkezeles@towerbudapest.com",
+    "position": null
+  },
+  {
+    "company_name": "Tower International",
+    "name": "None None",
+    "email": "customercare@towerbudapest.com",
+    "position": null
+  },
+  {
+    "company_name": "Portico Investment",
+    "name": "Cristina Sz\u0171cs",
+    "email": "cristina.szucs@porticoinv.com",
+    "position": "Chief Accountant"
+  },
+  {
+    "company_name": "Portico Investment",
+    "name": "Naomi Kempe",
+    "email": "naomi.kempe@porticoinv.com",
+    "position": "Office Manager"
+  },
+  {
+    "company_name": "Portico Investment",
+    "name": "Andrea Barko",
+    "email": "andrea.barko@porticoinv.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Portico Investment",
+    "name": "Csada Henrietta",
+    "email": "henrietta.csada@porticoinv.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Portico Investment",
+    "name": "Zolt\u00e1n Ters\u00e1nszky",
+    "email": "zoltan.tersanszky@porticoinv.com",
+    "position": "Country Director"
+  },
+  {
+    "company_name": "Portico Investment",
+    "name": "G\u00e1bor Kov\u00e1cs",
+    "email": "gabor.kovacs@porticoinv.com",
+    "position": "Financial Controller"
+  },
+  {
+    "company_name": "Portico Investment",
+    "name": "Eduard Holban",
+    "email": "eduard.holban@porticoinv.com",
+    "position": "Investment Manager"
+  },
+  {
+    "company_name": "Portico Investment",
+    "name": "Aida Kov\u00e1cs",
+    "email": "aida.kovacs@porticoinv.com",
+    "position": "Accountant"
+  },
+  {
+    "company_name": "Portico Investment",
+    "name": "Razvan Gaita",
+    "email": "razvan.gaita@porticoinv.com",
+    "position": "Operations Manager"
+  },
+  {
+    "company_name": "Portico Investment",
+    "name": "Isaac Dahan",
+    "email": "isaac.dahan@porticoinv.com",
+    "position": null
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "name": "Flora Tennant",
+    "email": "flora.tennant@savills.com",
+    "position": "Head of Marketing"
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "name": "Hunter Harling",
+    "email": "hunter.harling@savills.com",
+    "position": "Director of Residential Sales"
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "name": "Natalie Hale",
+    "email": "natalie.hale@savills.com",
+    "position": "Senior Marketing Manager"
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "name": "Sophie Daly",
+    "email": "sophie.daly@savills.com",
+    "position": "Senior Digital Marketing Manager"
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "name": "Amy Barber",
+    "email": "amy.bonner@savills.com",
+    "position": "Senior Client Development Executive"
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "name": "Rose Fyfe",
+    "email": "rfyfe@savills.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "name": "Gordon Rogers",
+    "email": "gordon.rogers@savills.com",
+    "position": "Director of Sustainability"
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "name": "Charu Dhaliwal",
+    "email": "charu.dhaliwal@savills.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "name": "Paul Jarman",
+    "email": "pjarman@savills.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "name": "Daniel Curtin",
+    "email": "daniel.curtin@savills.com",
+    "position": "Director of Health and Safety"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "name": "Michela Bianchi",
+    "email": "michela.bianchi@dlapiper.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "name": "Kristin Roe",
+    "email": "kristin.roe@dlapiper.com",
+    "position": "Legal Assistant"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "name": "Hasan Elshafiey",
+    "email": "hasan.elshafiey@dlapiper.com",
+    "position": "Legal Director"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "name": "Rita Zasowski",
+    "email": "rita.zasowski@dlapiper.com",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "name": "Ron Paquette",
+    "email": "ron.paquette@dlapiper.com",
+    "position": "Director of Pricing"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "name": "James Dancer",
+    "email": "james.dancer@dlapiper.com",
+    "position": "Director of Business Advisory"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "name": "Anthi Delenika",
+    "email": "anthi.delenika@dlapiper.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "name": "Lars Jessen",
+    "email": "lars.jessen@dlapiper.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "name": "Mollie Haukap",
+    "email": "mollie.haukap@dlapiper.com",
+    "position": "Legal Assistant"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "name": "Andrew Jeavons",
+    "email": "andrew.jeavons@dlapiper.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "name": "Daniel Soukup",
+    "email": "daniel.soukup@kinstellar.com",
+    "position": "Regional HR Director"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "name": "Angie Wong",
+    "email": "angie.wong@kinstellar.com",
+    "position": "Head of Business Development"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "name": "Katalin Devald",
+    "email": "katalin.devald@kinstellar.com",
+    "position": "Owner"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "name": "Patrick Lynch",
+    "email": "patrick.lynch@kinstellar.com",
+    "position": "Director of Special Projects"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "name": "Theodor Artenie",
+    "email": "theodor.artenie@kinstellar.com",
+    "position": "Head of Tax"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "name": "Barbara Kusak",
+    "email": "barbara.kusak@kinstellar.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "name": "Emre Ozer",
+    "email": "emre.ozer@kinstellar.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "name": "Radim Kotrba",
+    "email": "radim.kotrba@kinstellar.com",
+    "position": "Co-Head of Dispute Resolution"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "name": "Georgi Kanev",
+    "email": "georgi.kanev@kinstellar.com",
+    "position": "Co-Head of Intellectual Property and Information Technology"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "name": "Daniel Peter",
+    "email": "daniel.peter@kinstellar.com",
+    "position": "Head of Employment Practice"
+  },
+  {
+    "company_name": "Dentons",
+    "name": "Mauryah McLaughlin",
+    "email": "mauryah.mclaughlin@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons",
+    "name": "Neil McKnight",
+    "email": "neil.mcknight@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons",
+    "name": "Holly Russell",
+    "email": "holly.russell@dentons.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Dentons",
+    "name": "Melissa Bickerton",
+    "email": "melissa.bickerton@dentons.com",
+    "position": "Director of Client Growth"
+  },
+  {
+    "company_name": "Dentons",
+    "name": "John McCauley",
+    "email": "john.mccauley@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons",
+    "name": "Steve Bender",
+    "email": "steve.bender@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons",
+    "name": "Daniel Martinez",
+    "email": "daniel.martinez@dentons.com",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "Dentons",
+    "name": "Trisha Dudlo",
+    "email": "trisha.dudlo@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons",
+    "name": "Ricardo Milla",
+    "email": "ricardo.milla@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons",
+    "name": "Sara Paz",
+    "email": "sara.paz@dentons.com",
+    "position": "Chief Accountant"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "name": "\u00c1kos Szigeti",
+    "email": "akos.szigeti@otpbank.hu",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "name": "Orsolya K\u00e1d\u00e1r",
+    "email": "orsolya.kadar@otpbank.hu",
+    "position": "Head of Customer Relations"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "name": "Gergely Sigmond",
+    "email": "gergely.sigmond@otpbank.hu",
+    "position": "Head of Business Intelligence"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "name": "D\u00e1niel T\u00f3th",
+    "email": "daniel.toth@otpbank.hu",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "name": "Tibor S\u00e1ndor",
+    "email": "tibor.sandor@otpbank.hu",
+    "position": "Department Head"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "name": "Attila Barta",
+    "email": "attila.barta@otpbank.hu",
+    "position": "Director of Identity and Access Management"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "name": "\u00c1bel Moln\u00e1r",
+    "email": "abel.molnar@otpbank.hu",
+    "position": "Business Owner"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "name": "Kata Katona",
+    "email": "kata.katona@otpbank.hu",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "name": "Orsolya Kov\u00e1cs",
+    "email": "orsolya.kovacs@otpbank.hu",
+    "position": "Director of Strategic Research"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "name": "Krisztina Bryan",
+    "email": "krisztina.bryan@otpbank.hu",
+    "position": "Partner Sales Specialist"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "name": "Attila B\u00e1nyai",
+    "email": "attila.banyai@raiffeisen.hu",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "name": "Monika Keri",
+    "email": "monika.keri@raiffeisen.hu",
+    "position": "Head of Capital Markets"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "name": "G\u00e1bor Radics",
+    "email": "gabor.radics@raiffeisen.hu",
+    "position": "Head of Data Science"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "name": "Marietta Nagy",
+    "email": "marietta.nagy@raiffeisen.hu",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "name": "Zoltan Simon",
+    "email": "zoltan.simon@raiffeisen.hu",
+    "position": "Chief Procurement Officer"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "name": "Em\u0151ke Szab\u00f3",
+    "email": "emoke.szabo@raiffeisen.hu",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "name": "L\u00e1szl\u00f3 Varr\u00f3",
+    "email": "laszlo.varro@raiffeisen.hu",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "name": "Tam\u00e1s Heim",
+    "email": "tamas.heim@raiffeisen.hu",
+    "position": "Director of Premium Segment Management"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "name": "Tamas Veres",
+    "email": "tamas.veres@raiffeisen.hu",
+    "position": "Senior HR Business Partner"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "name": "M\u00e1ria Balogh",
+    "email": "maria.balogh@raiffeisen.hu",
+    "position": "Director of Banking Relations"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "name": "Attila Csaky",
+    "email": "attila.csaky@unicreditbank.hu",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "name": "Annamaria Mile",
+    "email": "annamaria.mile@unicreditbank.hu",
+    "position": "Head of Payments"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "name": "Andr\u00e1s K\u00e9kesi",
+    "email": "andras.kekesi@unicreditbank.hu",
+    "position": "Vice President of Underwriting"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "name": "Peter Janosi",
+    "email": "peter.janosi@unicreditbank.hu",
+    "position": "Director of Competence Center"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "name": "Marianna Drevenka",
+    "email": "marianna.drevenka@unicreditbank.hu",
+    "position": "Credit Risk Manager"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "name": "Bal\u00e1zs Gab\u00e1nyi",
+    "email": "balazs.gabanyi@unicreditbank.hu",
+    "position": "Controller"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "name": "R\u00f3bert Vasadi",
+    "email": "robert.vasadi@unicreditbank.hu",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "name": "Edit Toroczkai",
+    "email": "edit.toroczkai@unicreditbank.hu",
+    "position": "Director of Banking Operations"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "name": "Bal\u00e1zs Peresztegi",
+    "email": "balazs.peresztegi@unicreditbank.hu",
+    "position": "Director"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "name": "Gabor Schneider",
+    "email": "gabor.schneider@unicreditbank.hu",
+    "position": "Director of Data and Analytics"
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "name": "Be\u00e1ta S\u00f3s",
+    "email": "beata.sos@kh.hu",
+    "position": "Senior Marketing Executive"
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "name": "M\u00f3nika Lesti",
+    "email": "monika.lesti@kh.hu",
+    "position": "Senior Communications Manager"
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "name": "Krist\u00f3f Horv\u00e1th",
+    "email": "kh@kh.hu",
+    "position": "Digital Channel Manager"
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "name": "Judit Bejan",
+    "email": "judit.bejan@kh.hu",
+    "position": null
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "name": "Tamas Kovacs",
+    "email": "tamas3.kovacs@kh.hu",
+    "position": null
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "name": "None None",
+    "email": "treasurysales@kh.hu",
+    "position": null
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "name": "None None",
+    "email": "sajto@kh.hu",
+    "position": null
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "name": "None None",
+    "email": "kar@kh.hu",
+    "position": null
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "name": "None None",
+    "email": "imc@kh.hu",
+    "position": null
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "name": "None None",
+    "email": "alapkezelo@kh.hu",
+    "position": null
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "name": "Noemi Pezsa",
+    "email": "pezsa.noemi@cib.hu",
+    "position": "Procurement Manager"
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "name": "Bence Klemanovits",
+    "email": "klemanovits.bence@cib.hu",
+    "position": "Director of Structured Finance"
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "name": "G\u00e1bor Barna",
+    "email": "barna.gabor@cib.hu",
+    "position": "Credit Manager"
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "name": "Anita Matisz",
+    "email": "matisz.anita@cib.hu",
+    "position": "SAP Operations Manager"
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "name": "Katalin Csord\u00e1s",
+    "email": "csordas.katalin@cib.hu",
+    "position": "Validation Manager"
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "name": "Zsolt Dunai",
+    "email": "dunai.zsolt@cib.hu",
+    "position": "Head of Digital Marketing"
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "name": "Eva Rojer",
+    "email": "rojer.eva@cib.hu",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "name": "R\u00f3bert R\u00f3za",
+    "email": "roza.robert@cib.hu",
+    "position": "Director of Project Finance"
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "name": "K\u00e1roly M\u00e1t\u00e9",
+    "email": "mate.karoly@cib.hu",
+    "position": "ESG Director"
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "name": "R\u00e9ka Alapy",
+    "email": "alapy.reka@cib.hu",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "name": "P\u00e9ter Botos",
+    "email": "peter.botos@erstebank.hu",
+    "position": "Head of CRM"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "name": "Zsolt Hartmann",
+    "email": "zsolt.hartmann@erstebank.hu",
+    "position": "Director of Application Operations"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "name": "Csilla Gehl",
+    "email": "csilla.gehl@erstebank.hu",
+    "position": "Head of Payments and Capital Markets"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "name": "Tam\u00e1s Kiss",
+    "email": "tamas.kiss@erstebank.hu",
+    "position": "Head of Retail"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "name": "Krisztina Mih\u00f3k",
+    "email": "krisztina.mihok@erstebank.hu",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "name": "Alexandra Szab\u00f3",
+    "email": "alexandra.szabo@erstebank.hu",
+    "position": "Head of Partnerships"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "name": "Gabor Bodi",
+    "email": "gabor.bodi@erstebank.hu",
+    "position": "Director of Portfolio Management"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "name": "S\u00e1ndor L\u0151rincz",
+    "email": "sandor.lorincz@erstebank.hu",
+    "position": "Java Development Manager"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "name": "Robert Moder",
+    "email": "robert.moder@erstebank.hu",
+    "position": "Branch Director"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "name": "Istvan Mikola",
+    "email": "istvan.mikola@erstebank.hu",
+    "position": "Director of Customer Experience"
+  },
+  {
+    "company_name": "Takar\u00e9k Ingatlan \u00c9rt\u00e9kbecsl\u00e9s",
+    "name": "Timea Csaszar",
+    "email": "csaszar.timea@takarek.hu",
+    "position": null
+  },
+  {
+    "company_name": "Takar\u00e9k Ingatlan \u00c9rt\u00e9kbecsl\u00e9s",
+    "name": "Anita Horvath",
+    "email": "horvath.anita@takarek.hu",
+    "position": null
+  },
+  {
+    "company_name": "Takar\u00e9k Ingatlan \u00c9rt\u00e9kbecsl\u00e9s",
+    "name": "Judit Gyorkos",
+    "email": "gyorkos.judit@takarek.hu",
+    "position": null
+  },
+  {
+    "company_name": "Takar\u00e9k Ingatlan \u00c9rt\u00e9kbecsl\u00e9s",
+    "name": "None None",
+    "email": "adatvedelem@takarek.hu",
+    "position": null
+  },
+  {
+    "company_name": "Takar\u00e9k Ingatlan \u00c9rt\u00e9kbecsl\u00e9s",
+    "name": "None None",
+    "email": "kozpont@takarek.hu",
+    "position": null
+  },
+  {
+    "company_name": "Takar\u00e9k Ingatlan \u00c9rt\u00e9kbecsl\u00e9s",
+    "name": "None None",
+    "email": "info@takarek.hu",
+    "position": null
+  },
+  {
+    "company_name": "Takar\u00e9k Ingatlan \u00c9rt\u00e9kbecsl\u00e9s",
+    "name": "None None",
+    "email": "bozzai.rita@takarek.hu",
+    "position": null
+  },
+  {
+    "company_name": "Takar\u00e9k Ingatlan \u00c9rt\u00e9kbecsl\u00e9s",
+    "name": "None None",
+    "email": "toth.illes@takarek.hu",
+    "position": null
+  },
+  {
+    "company_name": "Takar\u00e9k Ingatlan \u00c9rt\u00e9kbecsl\u00e9s",
+    "name": "None None",
+    "email": "takarek@takarek.hu",
+    "position": null
+  },
+  {
+    "company_name": "Takar\u00e9k Ingatlan \u00c9rt\u00e9kbecsl\u00e9s",
+    "name": "None None",
+    "email": "ingatlanzrt@takarek.hu",
+    "position": null
+  }
+]

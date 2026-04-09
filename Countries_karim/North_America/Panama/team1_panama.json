@@ -1,0 +1,128 @@
+[
+    {
+      "name": "UDG (Urban Development Group)",
+      "website": "http://udggroup.com",
+      "address": "Obarrio, Samuel Lewis Avenue and 60th Street. PH Fortune Plaza – 18th Floor",
+      "email": "N/A (not explicitly stated. Contact form available)",
+      "phone_number": "265-0310 | 6677-6818"
+    },
+    {
+      "name": "Panama Equity Real Estate",
+      "website": "https://www.panamaequity.com/contact-us/",
+      "address": "Edificio Sortis, Oficina 20th Floor, Obarrio, Panama",
+      "email": "N/A (uses a contact form)",
+      "phone_number": "+507 320-4310 (Panama), +1 404-382-0398 (USA Direct)"
+    },
+    {
+      "name": "Arco Properties",
+      "website": "https://arcoproperties.com/contact-us/",
+      "address": "Street 4A & Ave A, Building “Cuatro Casas” (ground floor), Casco Antiguo.",
+      "email": "sales@arcoproperties.com",
+      "phone_number": "+507-310-7208"
+    },
+    {
+      "name": "Try Panama",
+      "website": "http://trypanama.com",
+      "address": "N/A (listed on Coronado Concierge, no physical address specified)",
+      "email": "info@trypanama.com",
+      "phone_number": "507-345-4375"
+    },
+    {
+      "name": "Premier Casa (Premier Realty Panama)",
+      "website": "https://premier-realty.com.pa/agents/",
+      "address": "N/A (lists agent contact details but no general office address)",
+      "email": null,
+      "phone_number": "(507) 345-3000 (Office Panama), (507) 6070-5400 (Mobile/WhatsApp)"
+    },
+    {
+      "name": "CBRE Panama (SAVITAT Real Estate Services, Inc. is the affiliate)",
+      "website": "https://savitat.com/eng/contact-us.html",
+      "address": "Panama City, Credicorp Bank Plaza, 50th Street, 5th Floor",
+      "email": "info@savitat.com",
+      "phone_number": "(+507) 210-1675, (+507) 6379 3885 (only chat)"
+    },
+    {
+      "name": "World Panama Real Estate (New World Real Estate Panama)",
+      "website": "https://newworldrealestatepanama.com/en/",
+      "address": "BAY VIEW, 300 TOWER Apartment 23, #2307, Panama",
+      "email": "info@nwrepanama.com",
+      "phone_number": "(+507) 265 7325 (Office), + (507) 6519-3043 (Mobile)"
+    },
+    {
+      "name": "Panama Top Properties",
+      "website": "https://www.panamatopproperties.com/en/contactenos/",
+      "address": "Avenida la Rotonda y calle Transversal, Costa del Este. Prime Time Tower (Banco Aliado Building), 7th Floor, Office A7. Panama, Rep of Panama.",
+      "email": "Info@panamatopproperties.com",
+      "phone_number": "(507) 66124545 / 66732504"
+    },
+    {
+      "name": "RED Group (Panama specific info not readily found, main site is Luxembourg based)",
+      "website": "https://redgroup.lu/en/home/",
+      "address": "18, Boulevard de Kockelscheuer L-1821 Luxembourg-Cloche d’Or",
+      "email": "sales@redgroup.lu",
+      "phone_number": "+352 285696-1 (Luxembourg)"
+    },
+    {
+      "name": "The Santa Maria Golf & Country Club",
+      "website": "https://www.marriott.com/en-us/hotels/ptylc-the-santa-maria-a-luxury-collection-hotel-and-golf-resort-panama-city/golf/",
+      "address": "The Santa Maria, a Luxury Collection Hotel & Golf Resort, Panama City (within the development)",
+      "email": "N/A (hotel and golf resort, general contact via Marriott)",
+      "phone_number": "+1-866-959-3050"
+    },
+    {
+      "name": "Costa del Este",
+      "website": "https://panamasovereign.com/ (Panama Sovereign Realty, a real estate agency with listings in Costa del Este)",
+      "address": "Calle 6a Oeste, Casa Azul Casco Viejo, San Felipe Panama City, Panamá 0801",
+      "email": "info@psrpanama.com",
+      "phone_number": "+507 6619-6669"
+    },
+    {
+      "name": "Buenaventura Golf & Beach Resort",
+      "website": "https://buenaventura.com.pa/contact/",
+      "address": "N/A (Sales Office address not explicitly listed, but located in Farallón, Coclé, Panama)",
+      "email": "ventas@grupoverdeazul.com",
+      "phone_number": "+507 908-3003 (Sales), +507 908-3333 (Hotel), +507 908-3200 (Golf)"
+    },
+    {
+      "name": "Avenida Balboa",
+      "website": "https://www.avenidabalboa.com/en",
+      "address": "Balboa Avenue, Panama (Building location)",
+      "email": "hello@avenidabalboa.com",
+      "phone_number": "+507 6487-0243 (general inquiry for units in the area)"
+    },
+    {
+      "name": "Trump Ocean Club International Hotel & Tower (now JW Marriott Panama)",
+      "website": "https://www.businesstravelnews.com/Hotels/Panama-City-Panama/JW-Marriott-Panama-p53906921",
+      "address": "Punta Pacifica, Panama City, Panama",
+      "email": "N/A (contact for hotel, not general building management)",
+      "phone_number": "+507 215-8800"
+    },
+    {
+      "name": "Yoo Panama",
+      "website": "https://yoorentals.com/contact-us/",
+      "address": "Avenida Balboa",
+      "email": "info@yoo.com.pa",
+      "phone_number": "(507) 6833-9500"
+    },
+    {
+      "name": "The Residences at the Ritz-Carlton Panama (Ritz Carlton Reserve at Pearl Island)",
+      "website": "https://www.puntapacificarealty.com/ritz-carlton-reserve/",
+      "address": "Pearl Island, Panama (project location)",
+      "email": "info@puntapacificarealty.com",
+      "phone_number": "+507 836 5991 (Punta Pacifica Realty, a sales agent)"
+    },
+    {
+      "name": "Ipanema (at Costa del Este, Panama City)",
+      "website": "https://www.puntapacificarealty.com/ipanema-at-costa-del-este/",
+      "address": "Vía Punta Darién 0833-00321, Panamá",
+      "email": "info@puntapacificarealty.com",
+      "phone_number": "+507 836 5991 (Punta Pacifica Realty)"
+    },
+    {
+      "name": "Vervana",
+      "website": "https://www.youtube.com/watch?v=upfY5_cesbA",
+      "address": "Playa Venao, Panama (project location)",
+      "email": "sales@puntapacificarealty.com (Punta Pacifica Realty, a sales agent)",
+      "phone_number": null
+    }
+  ]

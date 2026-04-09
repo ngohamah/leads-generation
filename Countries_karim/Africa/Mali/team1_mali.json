@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Cira SAS Mali",
+      "website": "https://www.cira-sas.com/en",
+      "address": "Hamdallaye ACI 2000 BP 5016 - Bamako - Mali",
+      "email": "cira@cira-sa.com",
+      "phone_number": "+223 20 24 32 34 / +223 44 90 00 64"
+    },
+    {
+      "name": "African Land",
+      "website": "https://african.land/",
+      "address": "Bamako, Mali (Specific street address not easily available, but they operate in Bamako and across Africa)",
+      "email": "enquiry@africanland.net",
+      "phone_number": null
+    },
+    {
+      "name": "SOMAPIM (Malian Company of Real estate development)",
+      "website": "http://www.somapim.com/somapim_en.php",
+      "address": "Porte 1459 Rue Titi NIARE Quinzambougou BAMAKO MALI",
+      "email": "info@somapim.com",
+      "phone_number": "+223 20 21 06 30, +223 20 21 79 54"
+    },
+      {
+        "company_name": "Sacko Group Holding (GBB SARL)",
+        "website": "https://www.sackogroupholding.com/"
+      },
+      {
+        "company_name": "CBRE Excellerate",
+        "website": "https://www.cbreexcellerate.com/country/mali"
+      },
+      {
+        "company_name": "CLG & ASSOCIÉS",
+        "website": "https://clgassocies.com/en/"
+      },
+      {
+        "company_name": "Satis Partners (Cabinet SATIS PARTNERS)",
+        "website": "https://lexafrica.com/countries/mali/"
+      },
+      {
+        "company_name": "Sigi Damu Realty",
+        "website": "http://www.sigidamurealty.com"
+      },
+      {
+        "company_name": "SIFMA SA (Société Immobilière et Foncière du Mali)",
+        "website": "https://sifma.ml/"
+      },
+      {
+        "company_name": "BATIM Africa",
+        "website": "https://www.batim.com"
+      }
+]

@@ -1,0 +1,656 @@
+[
+  {
+    "company_name": "",
+    "name": "Karolina Zatorska",
+    "email": "karolina.zatorska@domd.pl",
+    "position": "Office Director"
+  },
+  {
+    "company_name": "",
+    "name": "Michal Dolny",
+    "email": "michal.dolny@domd.pl",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Skubis",
+    "email": "anna.skubis@domd.pl",
+    "position": "Director of Production"
+  },
+  {
+    "company_name": "",
+    "name": "Janusz Zalewski",
+    "email": "janusz.zalewski@domd.pl",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Magdalena Bielecka",
+    "email": "magdalena.bielecka@domd.pl",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "",
+    "name": "Ariel Sawicki",
+    "email": "ariel.sawicki@domd.pl",
+    "position": "Deputy Director"
+  },
+  {
+    "company_name": "",
+    "name": "Dariusz Golebiewski",
+    "email": "dariusz.golebiewski@domd.pl",
+    "position": "Deputy CFO"
+  },
+  {
+    "company_name": "",
+    "name": "Iga Taciak",
+    "email": "iga.taciak@domd.pl",
+    "position": "Marketing Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Dominika Loranty",
+    "email": "dominika.loranty@domd.pl",
+    "position": "Sales Consultant"
+  },
+  {
+    "company_name": "",
+    "name": "Pawe\u0142 Tryka",
+    "email": "pawel.tryka@domd.pl",
+    "position": "Sales Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "Ziv Gigi",
+    "email": "ziv.gigi@gtcgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Anna Stolarz",
+    "email": "anna.stolarz@gtcgroup.com",
+    "position": "Chief Accountant"
+  },
+  {
+    "company_name": "",
+    "name": "Gyula Nagy",
+    "email": "gyula.nagy@gtcgroup.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "Sebastian Sitarski",
+    "email": "sebastian.sitarski@gtcgroup.com",
+    "position": "IT Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Oded Rahamim",
+    "email": "oded.rahamim@gtcgroup.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Agnieszka Ciupak",
+    "email": "agnieszka.ciupak@gtcgroup.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Danny Bercovich",
+    "email": "danny.bercovich@gtcgroup.com",
+    "position": "Regional Director"
+  },
+  {
+    "company_name": "",
+    "name": "Alex Linchev",
+    "email": "alex.linchev@gtcgroup.com",
+    "position": "Shopping Center General Manager"
+  },
+  {
+    "company_name": "",
+    "name": "\u0141ukasz Jarzy\u0142o",
+    "email": "lukasz.jarzylo@gtcgroup.com",
+    "position": "Director of Office Leasing"
+  },
+  {
+    "company_name": "",
+    "name": "Maciej Ozdoba",
+    "email": "maciej.ozdoba@gtcgroup.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "",
+    "name": "Rafa\u0142 Latoszek",
+    "email": "rafal.latoszek@phnsa.pl",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Magdalena Kacprzak",
+    "email": "magdalena.kacprzak@phnsa.pl",
+    "position": "Marketing Strategy Investor Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Sylwia Milczarek",
+    "email": "sylwia.milczarek@phnsa.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Marcin Mazurek",
+    "email": "marcin.mazurek@phnsa.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "lipowy-przyladek@phnsa.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Marzena Krajewska",
+    "email": "marzena.krajewska@phnsa.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Katarzyna Wieczorek",
+    "email": "katarzyna.wieczorek@phnsa.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Pawel Radzikowski",
+    "email": "pawel.radzikowski@phnsa.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sekretariat@phnsa.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "rejestr.akcjonariuszy@phnsa.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Katarzyna Stepien",
+    "email": "katarzyna.stepien@develia.pl",
+    "position": "Senior HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Krzysztof Ksit",
+    "email": "krzysztof.ksit@develia.pl",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Mariusz Po\u0142awski",
+    "email": "mariusz.polawski@develia.pl",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Tomasz Bardadin",
+    "email": "tomasz.bardadin@develia.pl",
+    "position": "Design Director"
+  },
+  {
+    "company_name": "",
+    "name": "Andrzej O\u015bliz\u0142o",
+    "email": "andrzej.oslizlo@develia.pl",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Tomasz Kaleta",
+    "email": "tomasz.kaleta@develia.pl",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "Dominika Majewska",
+    "email": "dominika.majewska@develia.pl",
+    "position": "Marketing Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "\u0141ukasz Szczepa\u0144ski",
+    "email": "lukasz.szczepanski@develia.pl",
+    "position": "Marketing Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Karol Dzi\u0119cio\u0142",
+    "email": "karol.dzieciol@develia.pl",
+    "position": "Board Member"
+  },
+  {
+    "company_name": "",
+    "name": "Gottam Kasirao",
+    "email": "wojciech.adasik@develia.pl",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Cioch",
+    "email": "anna.lagowska-cioch@cavatina.pl",
+    "position": "Director of Residential Sales"
+  },
+  {
+    "company_name": "",
+    "name": "Rados\u0142aw Wac",
+    "email": "radoslaw.wac@cavatina.pl",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Agnieszka Szponar",
+    "email": "agnieszka.szponar@cavatina.pl",
+    "position": "Director of Space Planning"
+  },
+  {
+    "company_name": "",
+    "name": "Marta Skrzypek",
+    "email": "marta.skrzypek@cavatina.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "adrianna.lisiecka@cavatina.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Ewelina Mielcarek",
+    "email": "ewelina.mielcarek@cavatina.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Kamil Dabrowski",
+    "email": "kamil.dabrowski@cavatina.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Piotr Gajewski",
+    "email": "piotr.gajewski@cavatina.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Sylwia Wasilewska",
+    "email": "sylwia.wasilewska@cavatina.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Bartosz Urbanowicz",
+    "email": "bartosz.urbanowicz@cavatina.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Anna Perzhan",
+    "email": "anna.perzhan@archon.pl",
+    "position": "Marketing Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "Joanna J\u0119drzejec",
+    "email": "joanna.jedrzejec@archon.pl",
+    "position": "Quality Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Katarzyna Zieba",
+    "email": "katarzyna.zieba@archon.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Danuta Machnik",
+    "email": "danuta.machnik@archon.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Edmund Hoffman",
+    "email": "edmund.hoffman@archon.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "archon@archon.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "deweloper@archon.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "praca@archon.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "archonhome@archon.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "rodo@archon.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Maciej Kie\u0142kowski",
+    "email": "maciej.kielkowski@marvipol.pl",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Paulina Jablonski",
+    "email": "paulina.jablonski@marvipol.pl",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Marcin Sta\u0144czyk",
+    "email": "marcin.stanczyk@marvipol.pl",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Rafa\u0142 \u017bebrowski",
+    "email": "rafal.zebrowski@marvipol.pl",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "",
+    "name": "Tomasz Ol\u0119cki",
+    "email": "tomasz.olecki@marvipol.pl",
+    "position": "Real Estate Director"
+  },
+  {
+    "company_name": "",
+    "name": "Krzysztof Pruszy\u0144ski",
+    "email": "krzysztof.pruszynski@marvipol.pl",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Robert Szczodrak",
+    "email": "robert.szczodrak@marvipol.pl",
+    "position": "Director of Investment Implementation"
+  },
+  {
+    "company_name": "",
+    "name": "Andrzej Nizio",
+    "email": "andrzej.nizio@marvipol.pl",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "marvipol@marvipol.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Radoslaw Milczarek",
+    "email": "radoslaw.milczarek@marvipol.pl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Bartlomiej Kaminski",
+    "email": "bartlomiej.kaminski@fk-inpro.eu",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "biuro@fk-inpro.eu",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "michal.furgalski@fk-inpro.eu",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Batuhan Yenici",
+    "email": "batuhan.yenici@caimmo.com",
+    "position": "Deputy Controller"
+  },
+  {
+    "company_name": "",
+    "name": "Tanja Ludwig",
+    "email": "tanja.ludwig@caimmo.com",
+    "position": "Head of Tax"
+  },
+  {
+    "company_name": "",
+    "name": "Andreas Schillhofer",
+    "email": "andreas.schillhofer@caimmo.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Albin Wimmer",
+    "email": "albin.wimmer@caimmo.com",
+    "position": "Deputy General Counsel"
+  },
+  {
+    "company_name": "",
+    "name": "Keegan Viscius",
+    "email": "keegan.viscius@caimmo.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Frederick Pfeifer",
+    "email": "frederick.pfeifer@caimmo.com",
+    "position": "Deputy Head of Compliance"
+  },
+  {
+    "company_name": "",
+    "name": "Susanne Steinb\u00f6ck",
+    "email": "susanne.steinboeck@caimmo.com",
+    "position": "Head of Corporate Communications"
+  },
+  {
+    "company_name": "",
+    "name": "Michael K\u00f6tter",
+    "email": "michael.koetter@caimmo.com",
+    "position": "Director of Development"
+  },
+  {
+    "company_name": "",
+    "name": "Ingo Steinwender",
+    "email": "ingo.steinwender@caimmo.com",
+    "position": "Head of Legal"
+  },
+  {
+    "company_name": "",
+    "name": "Sonja Bischoff",
+    "email": "sonja.bischoff@caimmo.com",
+    "position": "Head of Real Estate"
+  },
+  {
+    "company_name": "",
+    "name": "Maciej Kotarski",
+    "email": "maciej.kotarski@oliviacentre.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Tomasz Redwanz",
+    "email": "tomasz.redwanz@oliviacentre.com",
+    "position": "Director of Control"
+  },
+  {
+    "company_name": "",
+    "name": "Micha\u0142 Klepczy\u0144ski",
+    "email": "michal.klepczynski@oliviacentre.com",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "",
+    "name": "Konrad Danecki",
+    "email": "konrad.danecki@oliviacentre.com",
+    "position": "Senior Director of Real Estate"
+  },
+  {
+    "company_name": "",
+    "name": "Sylwia Jagie\u0142\u0142o",
+    "email": "sylwia.jagiello@oliviacentre.com",
+    "position": "Project Engineer"
+  },
+  {
+    "company_name": "",
+    "name": "Ewa Nowicka",
+    "email": "ewa.nowicka@oliviacentre.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "Katarzyna Halicka",
+    "email": "katarzyna.halicka@oliviacentre.com",
+    "position": "Public Relations Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Ewelina Kume\u0142an",
+    "email": "ewelina.kumelan@oliviacentre.com",
+    "position": "Senior Account Manager"
+  },
+  {
+    "company_name": "",
+    "name": "S\u0142awomir Szyca",
+    "email": "slawomir.szyca@oliviacentre.com",
+    "position": "Senior Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Krzysztof Ra\u0107kos",
+    "email": "krzysztof.rackos@oliviacentre.com",
+    "position": "Chief Financial Analyst"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "m.tomaszewska@thetides-office.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "p.mikolajczuk@thetides-office.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Jan Dzieko\u0144ski",
+    "email": "j.dziekonski@rynekpierwotny.pl",
+    "position": "Market Insights Director"
+  },
+  {
+    "company_name": "",
+    "name": "Miko\u0142aj Ostrowski",
+    "email": "m.ostrowski@rynekpierwotny.pl",
+    "position": "Public Relations Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Micha\u0142 Skoczylas",
+    "email": "m.skoczylas@rynekpierwotny.pl",
+    "position": "Chief Technology Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Grzegorz Kurowski",
+    "email": "g.kurowski@rynekpierwotny.pl",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "Kacper Zieli\u0144ski",
+    "email": "k.zielinski@rynekpierwotny.pl",
+    "position": "Senior Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Tomasz \u0141apczy\u0144ski",
+    "email": "t.lapczynski@rynekpierwotny.pl",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Mariusz J\u0119drzejczak",
+    "email": "m.jedrzejczak@rynekpierwotny.pl",
+    "position": "SEO Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Micha\u0142 Klimorowski",
+    "email": "m.klimorowski@rynekpierwotny.pl",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Anita Kr\u00f3l",
+    "email": "a.krol@rynekpierwotny.pl",
+    "position": "Senior Digital Marketing Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "Rados\u0142aw Bieli\u0144ski",
+    "email": "r.bielinski@rynekpierwotny.pl",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "office@browarwarszawski.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "event@browarwarszawski.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "event.manager@browarwarszawski.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kontakt@skytower.apartments",
+    "position": null
+  }
+]

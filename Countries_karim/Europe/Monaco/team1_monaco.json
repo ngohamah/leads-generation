@@ -1,0 +1,142 @@
+[
+    {
+      "name": "John Taylor Monaco",
+      "website": "https://www.john-taylor.com/fr/agences/monaco/",
+      "address": "20 Boulevard des Moulins, 98000 Monaco",
+      "email": "monaco@john-taylor.com",
+      "phone_number": "+377 93 50 30 70"
+    },
+    {
+      "name": "Savills Monaco",
+      "website": "https://www.savills.mc",
+      "address": "Roqueville, 20 boulevard Princesse Charlotte, 98000 Monaco",
+      "email": "monaco@savills.com",
+      "phone_number": "+377 97 70 42 00"
+    },
+    {
+      "name": "Agence Ageprim",
+      "website": "https://www.ageprim.com",
+      "address": "Les Acacias, 18 Boulevard des Moulins, 98000 Monaco",
+      "email": "info@ageprim.com",
+      "phone_number": "+377 97 97 14 14"
+    },
+    {
+      "name": "Blu Properties",
+      "website": "https://www.blu.mc/",
+      "address": null,
+      "email": "blu@blu.mc",
+      "phone_number": "+33 6 80 86 18 23"
+    },
+    {
+      "name": "Berry & Quinti Monaco - International Realty",
+      "website": "https://www.bq-internationalrealty.com",
+      "address": " 57 Rue Grimaldi 98000 Monaco",
+      "email": "contact@berry-quinti.com",
+      "phone_number": "+377 97 97 15 20"
+    },
+    {
+      "name": "Monte Carlo Sotheby's International Realty",
+      "website": "https://www.sothebysrealty.com/eng/office/180-b-1001-5000000289/monte-carlo-sothebys-international-realty",
+      "address": "2a, avenue de Grande Bretagne, Monte Carlo, 98000 Monaco",
+      "email": "info@mc-sir.com",
+      "phone_number": "+377 9325 3727"
+    },
+    {
+      "name": "Astral Properties SAM",
+      "website": "https://www.astralproperties.mc/",
+      "address": "Palais de la Scala, 1 Avenue Henry Dunant, 98000 Monaco",
+      "email": "contact@astralproperties.mc",
+      "phone_number": "+377 99 90 61 51"
+    },
+    {
+      "name": "GVV Estate",
+      "website": "https://quintessentiallyestates.com/monaco/",
+      "address": "57 Rue Grimaldi, 98000 Monaco",
+      "email": "info@quintessentiallyestates.com",
+      "phone_number": "+377 97 77 70 00"
+    },
+    {
+      "name": "Fine Properties Monte Carlo",
+      "website": null,
+      "address": "2 Rue de la Lüjerneta, 98000 Monaco",
+      "email": null,
+      "phone_number": "+377 97 97 83 42"
+    },
+    {
+      "name": "Real Estate Monte Carlo",
+      "website": "https://montecarloestates.mc/",
+      "address": "Prince de Galles (building name/location, specific address not provided but commonly known)",
+      "email": "info@montecarloestates.mc",
+      "phone_number": "+377 9200 6969"
+    },
+    {
+      "name": "Mareterra (formerly Portier Cove)",
+      "website": "https://mareterra.com/en/",
+      "address": "Le Formentor 27 Avenue Princesse Grace 98000 Monaco",
+      "email": "press@mareterra.com",
+      "phone_number": "+377 97 70 60 90"
+    },
+    {
+      "name": "Tour Odeon",
+      "website": "https://www.odeon.mc/",
+      "address": "30 Avenue de l'Annonciade, 98000 Monaco",
+      "email": "info@groupemarzocco.mc",
+      "phone_number": "+377 99 99 41 00"
+    },
+    {
+      "name": "One Monte-Carlo",
+      "website": "https://www.montecarlosbm.com/en/business/congresses-and-events/one-monte-carlo",
+      "address": "Place du Casino, 98000 Monaco (part of the Monte-Carlo SBM complex)",
+      "email": "Contact form available",
+      "phone_number": "+ 377 98 06 20 00"
+    },
+    {
+      "name": "Le Stella",
+      "website": "https://en.savills.mc/landing-pages/le-stella-monaco.aspx?gad_source=1&gad_campaignid=9514049258&gbraid=0AAAAACecLmrVjRNk7AWqq0izX-lHtP6pK&gclid=CjwKCAjwy7HEBhBJEiwA5hQNokLR-te1ud_Ab9L-grex7_9NzMtTqLqzIiuG63UXMc3NVJgk9RiUnBoCpNYQAvD_BwE",
+      "address": "14 Rue Augustin Vento, 98000 Monaco",
+      "email": null,
+      "phone_number": "+377 97 70 42 00"
+    },
+    {
+      "name": "L'Exotique",
+      "website": "https://monaco-serviceazur.com/en/catalog/realty/9041/",
+      "address": "14 Boulevard d'Italie, 98000 Monaco",
+      "email": "monaco@serviceazur.com",
+      "phone_number": "+377 97 97 33 10, +33 4 93 29 84 25"
+    },
+    {
+      "name": "La Belle Epoque",
+      "website": "https://www.evamenz.com/work/la-belle-epoque",
+      "address": null,
+      "email": "studio@evamenz.com",
+      "phone_number": null
+    },
+    {
+      "name": "Palais Honneur",
+      "website": "https://www.palais.mc/fr/le-palais-princier/index.html (Official Palace website)",
+      "address": "BP 518 MC 98015 Monaco Cedex",
+      "email": null,
+      "phone_number": "+377 93 25 18 31"
+    },
+    {
+      "name": "Villa del Sole",
+      "website": "https://www.chambre-immobiliere-monaco.mc/en/agency/blu-immobilier/grid (listed by Blu Immobilier)",
+      "address": "36 avenue de l'Annonciade 98000 MONACO",
+      "email": null,
+      "phone_number": null
+    },
+    {
+      "name": "Le Panorama",
+      "website": "https://en.gouv.mc/Government-Institutions/The-Government/Ministry-of-Finance-and-Economy/Department-of-Tax-Services (listed as an address for tax services)",
+      "address": "57 rue Grimaldi, 98000 Monaco",
+      "email": null,
+      "phone_number": "+377 98 98 81 21"
+    },
+    {
+      "name": "Les Jardins d'Apolline",
+      "website": "https://accobams.org/contact/",
+      "address": "Les Jardins d'Apolline – Bât. C, 1 Promenade Honoré II, 98000 Monaco",
+      "email": "secretariat@accobams.org",
+      "phone_number": "+377 9898 2078/8010"
+    }
+  ]

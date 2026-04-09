@@ -1,0 +1,572 @@
+[
+  {
+    "company_name": "Freshfields",
+    "name": "Jennifer Kennedy",
+    "email": "jennifer.kennedy@freshfields.com",
+    "position": "Chief of Staff"
+  },
+  {
+    "company_name": "Freshfields",
+    "name": "Bonnie Jordan",
+    "email": "bonnie.jordan@freshfields.com",
+    "position": "Head of Information Services"
+  },
+  {
+    "company_name": "Freshfields",
+    "name": "Michael Robinson",
+    "email": "michael.robinson@freshfields.com",
+    "position": "Partner Support Specialist"
+  },
+  {
+    "company_name": "Freshfields",
+    "name": "Bruce Abrahams",
+    "email": "bruce.abrahams@freshfields.com",
+    "position": "Head of Financial Control"
+  },
+  {
+    "company_name": "Freshfields",
+    "name": "Birgit Dombrowski",
+    "email": "birgit.dombrowski@freshfields.com",
+    "position": "Director of Administration"
+  },
+  {
+    "company_name": "Freshfields",
+    "name": "Christine Olivares",
+    "email": "christine.olivares@freshfields.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Freshfields",
+    "name": "Julia Charlet",
+    "email": "julia.charlet@freshfields.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Freshfields",
+    "name": "Jens Rall",
+    "email": "jens.rall@freshfields.com",
+    "position": "Senior Business Development Manager"
+  },
+  {
+    "company_name": "Freshfields",
+    "name": "Dirk Lorber",
+    "email": "dirk.lorber@freshfields.com",
+    "position": "Director of Knowledge Management"
+  },
+  {
+    "company_name": "Freshfields",
+    "name": "Danielle Randall",
+    "email": "danielle.randall@freshfields.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Jones Day",
+    "name": "Joseph Hammell",
+    "email": "jhammell@jonesday.com",
+    "position": "Retired Partner"
+  },
+  {
+    "company_name": "Jones Day",
+    "name": "Jamie Usher",
+    "email": "jusher@jonesday.com",
+    "position": "Global Director of IT"
+  },
+  {
+    "company_name": "Jones Day",
+    "name": "Rebecca Martin",
+    "email": "rmartin@jonesday.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Jones Day",
+    "name": "Jeff Bresch",
+    "email": "jbresch@jonesday.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Jones Day",
+    "name": "Thomas Donnelly",
+    "email": "tdonnelly@jonesday.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Jones Day",
+    "name": "Joyce Wittman",
+    "email": "jwittman@jonesday.com",
+    "position": "Partner Service Analyst"
+  },
+  {
+    "company_name": "Jones Day",
+    "name": "Damarr Butler",
+    "email": "dbutler@jonesday.com",
+    "position": "Employee Benefits Associate"
+  },
+  {
+    "company_name": "Jones Day",
+    "name": "Michael Austin",
+    "email": "maustin@jonesday.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Jones Day",
+    "name": "Nathaniel Ward",
+    "email": "nward@jonesday.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Jones Day",
+    "name": "Justin McKithen",
+    "email": "jmckithen@jonesday.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "name": "Giulio Andreani",
+    "email": "gandreani@gop.it",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "name": "Moreno Martini",
+    "email": "mmartini@gop.it",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "name": "Stefano Rossi",
+    "email": "srossi@gop.it",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "name": "Piergiorgio Picardi",
+    "email": "ppicardi@gop.it",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "name": "Stefano Cunico",
+    "email": "scunico@gop.it",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "name": "Simona Crippa",
+    "email": "scrippa@gop.it",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "name": "Ettore Scimemi",
+    "email": "escimemi@gop.it",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "name": "Mario Amoroso",
+    "email": "mamoroso@gop.it",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "name": "Bob Johansen",
+    "email": "bjohansen@gop.it",
+    "position": "Head Waiter"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "name": "Kathleen Lemmens",
+    "email": "klemmens@gop.it",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "name": "Mauryah McLaughlin",
+    "email": "mauryah.mclaughlin@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "name": "Neil McKnight",
+    "email": "neil.mcknight@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "name": "Holly Russell",
+    "email": "holly.russell@dentons.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "name": "Melissa Bickerton",
+    "email": "melissa.bickerton@dentons.com",
+    "position": "Director of Client Growth"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "name": "John McCauley",
+    "email": "john.mccauley@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "name": "Steve Bender",
+    "email": "steve.bender@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "name": "Daniel Martinez",
+    "email": "daniel.martinez@dentons.com",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "name": "Trisha Dudlo",
+    "email": "trisha.dudlo@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "name": "Ricardo Milla",
+    "email": "ricardo.milla@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "name": "Sara Paz",
+    "email": "sara.paz@dentons.com",
+    "position": "Chief Accountant"
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "name": "Jacopo Pr\u00f2tano",
+    "email": "jacopo.protano@kiron.it",
+    "position": "Consultant"
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "name": "Marco Lucchetta",
+    "email": "marco.lucchetta@kiron.it",
+    "position": "Senior Manager"
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "name": "Osvaldo Valsecchi",
+    "email": "osvaldo.valsecchi@kiron.it",
+    "position": "Consultant"
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "name": "Rosa Porpiglia",
+    "email": "rosa.porpiglia@kiron.it",
+    "position": "Consultant"
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "name": "Andrea Nucci",
+    "email": "andrea.nucci@kiron.it",
+    "position": "Senior Agent"
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "name": "Andrea Quaresimin",
+    "email": "andrea.quaresimin@kiron.it",
+    "position": "Credit Mediator"
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "name": "None None",
+    "email": "info@kiron.it",
+    "position": null
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "name": "David Gervasi",
+    "email": "david.gervasi@kiron.it",
+    "position": null
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "name": "Dario Giovannucci",
+    "email": "dario.giovannucci@kiron.it",
+    "position": null
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "name": "Alessandro Laurenzana",
+    "email": "alessandro.laurenzana@kiron.it",
+    "position": null
+  },
+  {
+    "company_name": "MutuiSupermarket",
+    "name": "Ciro Galeone",
+    "email": "ciro.galeone@mutuisupermarket.it",
+    "position": "Bank Relations Manager"
+  },
+  {
+    "company_name": "MutuiSupermarket",
+    "name": "None None",
+    "email": "borsadistudio@mutuisupermarket.it",
+    "position": null
+  },
+  {
+    "company_name": "MutuiSupermarket",
+    "name": "None None",
+    "email": "concorso@mutuisupermarket.it",
+    "position": null
+  },
+  {
+    "company_name": "MutuiSupermarket",
+    "name": "None None",
+    "email": "servizio.clienti@mutuisupermarket.it",
+    "position": null
+  },
+  {
+    "company_name": "24Max",
+    "name": "Riccardo Bernardi",
+    "email": "riccardo.bernardi@24max.it",
+    "position": "Chief Development Officer"
+  },
+  {
+    "company_name": "24Max",
+    "name": "Gaetano Castiglia",
+    "email": "gaetano.castiglia@24max.it",
+    "position": "Credit Sales Specialist"
+  },
+  {
+    "company_name": "24Max",
+    "name": "Sabina Scalia",
+    "email": "sabina.scalia@24max.it",
+    "position": "Financial Products Manager"
+  },
+  {
+    "company_name": "24Max",
+    "name": "Nadia Albertin",
+    "email": "nadia.albertin@24max.it",
+    "position": "Credit Specialist"
+  },
+  {
+    "company_name": "24Max",
+    "name": "Maurizio Tosoni",
+    "email": "maurizio.tosoni@24max.it",
+    "position": "Credit Consultant"
+  },
+  {
+    "company_name": "24Max",
+    "name": "Federica Giudici",
+    "email": "federica.giudici@24max.it",
+    "position": "Credit Mediator"
+  },
+  {
+    "company_name": "24Max",
+    "name": "Federica Nunziata",
+    "email": "federica.nunziata@24max.it",
+    "position": "Back Office Manager"
+  },
+  {
+    "company_name": "24Max",
+    "name": "Barbara Castronovo",
+    "email": "barbara.castronovo@24max.it",
+    "position": null
+  },
+  {
+    "company_name": "24Max",
+    "name": "Alberto Moretti",
+    "email": "alberto.moretti@24max.it",
+    "position": null
+  },
+  {
+    "company_name": "24Max",
+    "name": "Giovanni Verga",
+    "email": "giovanni.verga@24max.it",
+    "position": null
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "name": "Jacopo Pr\u00f2tano",
+    "email": "jacopo.protano@kiron.it",
+    "position": "Consultant"
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "name": "Marco Lucchetta",
+    "email": "marco.lucchetta@kiron.it",
+    "position": "Senior Manager"
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "name": "Osvaldo Valsecchi",
+    "email": "osvaldo.valsecchi@kiron.it",
+    "position": "Consultant"
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "name": "Rosa Porpiglia",
+    "email": "rosa.porpiglia@kiron.it",
+    "position": "Consultant"
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "name": "Andrea Nucci",
+    "email": "andrea.nucci@kiron.it",
+    "position": "Senior Agent"
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "name": "Andrea Quaresimin",
+    "email": "andrea.quaresimin@kiron.it",
+    "position": "Credit Mediator"
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "name": "None None",
+    "email": "info@kiron.it",
+    "position": null
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "name": "David Gervasi",
+    "email": "david.gervasi@kiron.it",
+    "position": null
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "name": "Dario Giovannucci",
+    "email": "dario.giovannucci@kiron.it",
+    "position": null
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "name": "Alessandro Laurenzana",
+    "email": "alessandro.laurenzana@kiron.it",
+    "position": null
+  },
+  {
+    "company_name": "Sprite Genix",
+    "name": "None None",
+    "email": "hello@spritegenix.com",
+    "position": null
+  },
+  {
+    "company_name": "Proven Partners",
+    "name": "Ronan Hannan",
+    "email": "ronan@proven.partners",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Proven Partners",
+    "name": "Laura Merizalde",
+    "email": "laura@proven.partners",
+    "position": "Art Director"
+  },
+  {
+    "company_name": "Proven Partners",
+    "name": "Colin Hannan",
+    "email": "colin@proven.partners",
+    "position": "Principal"
+  },
+  {
+    "company_name": "Proven Partners",
+    "name": "Jennifer Martin",
+    "email": "jennifer@proven.partners",
+    "position": "Social Media Manager"
+  },
+  {
+    "company_name": "Proven Partners",
+    "name": "None None",
+    "email": "hello@proven.partners",
+    "position": null
+  },
+  {
+    "company_name": "Great Estate",
+    "name": "None None",
+    "email": "info@greatestate.it",
+    "position": null
+  },
+  {
+    "company_name": "Great Estate",
+    "name": "None None",
+    "email": "suzanne.vanravenstein@greatestate.it",
+    "position": null
+  },
+  {
+    "company_name": "Great Estate",
+    "name": "None None",
+    "email": "suzannevanravenstein@greatestate.it",
+    "position": null
+  },
+  {
+    "company_name": "Great Estate",
+    "name": "None None",
+    "email": "antonio.anile@greatestate.it",
+    "position": null
+  },
+  {
+    "company_name": "Immobiliare Il Faro",
+    "name": "None None",
+    "email": "info@immobiliareilfaro.it",
+    "position": null
+  },
+  {
+    "company_name": "CBRE Italy",
+    "name": "Samuele Ferroni",
+    "email": "samuele@cbre.it",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "CBRE Italy",
+    "name": "Michele Megna",
+    "email": "michele@cbre.it",
+    "position": "Director of Project Management"
+  },
+  {
+    "company_name": "CBRE Italy",
+    "name": "Silvia Zanardi",
+    "email": "silvia@cbre.it",
+    "position": "Head of Credit Management"
+  },
+  {
+    "company_name": "CBRE Italy",
+    "name": "Giulia Mori",
+    "email": "giulia@cbre.it",
+    "position": "Business Development Director"
+  },
+  {
+    "company_name": "CBRE Italy",
+    "name": "Paolo Bolognesi",
+    "email": "paolo@cbre.it",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "CBRE Italy",
+    "name": "Massimiliano Leoni",
+    "email": "massimiliano@cbre.it",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "CBRE Italy",
+    "name": "Tommaso Romagnoli",
+    "email": "tommaso@cbre.it",
+    "position": "Associate Director of Research and Data Intelligence"
+  },
+  {
+    "company_name": "CBRE Italy",
+    "name": "Manuel Messaggi",
+    "email": "manuel@cbre.it",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "CBRE Italy",
+    "name": "Elisa Gibertini",
+    "email": "elisa@cbre.it",
+    "position": "Retail Manager"
+  },
+  {
+    "company_name": "CBRE Italy",
+    "name": "Chiara Malagutti",
+    "email": "chiara@cbre.it",
+    "position": "Head of Marketing"
+  }
+]

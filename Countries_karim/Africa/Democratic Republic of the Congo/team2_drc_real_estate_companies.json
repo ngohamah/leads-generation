@@ -1,0 +1,578 @@
+[
+  {
+    "company_name": "Safricode",
+    "name": "None None",
+    "email": "info@safricode.com",
+    "position": null
+  },
+  {
+    "company_name": "Safricode",
+    "name": "None None",
+    "email": "benedic.ideyi@safricode.com",
+    "position": null
+  },
+  {
+    "company_name": "Moderne Construction (MC CONGO)",
+    "name": "None None",
+    "email": "diva.rodall@mccongo.cd",
+    "position": null
+  },
+  {
+    "company_name": "Moderne Construction (MC CONGO)",
+    "name": "None None",
+    "email": "es@mccongo.cd",
+    "position": null
+  },
+  {
+    "company_name": "Moderne Construction (MC CONGO)",
+    "name": "None None",
+    "email": "admin@mccongo.cd",
+    "position": null
+  },
+  {
+    "company_name": "Texaf SA",
+    "name": "Philippe Swana",
+    "email": "philippe@texaf.be",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "Texaf SA",
+    "name": "Olivier Pirotton",
+    "email": "olivier@texaf.be",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Texaf SA",
+    "name": "Christophe Evers",
+    "email": "christophe@texaf.be",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Texaf SA",
+    "name": "Eline Pardaens",
+    "email": "eline@texaf.be",
+    "position": "Director"
+  },
+  {
+    "company_name": "Texaf SA",
+    "name": "Nathalie Ulrich",
+    "email": "nathalie@texaf.be",
+    "position": "Board Member"
+  },
+  {
+    "company_name": "Texaf SA",
+    "name": "Christenvie Etomba",
+    "email": "christenvie@texaf.be",
+    "position": "Digital Marketing Assistant"
+  },
+  {
+    "company_name": "Texaf SA",
+    "name": "None None",
+    "email": "info@texaf.be",
+    "position": null
+  },
+  {
+    "company_name": "Parkland SA",
+    "name": "Morad Mimou",
+    "email": "morad.mimou@parkland.cd",
+    "position": "Supply Chain Director"
+  },
+  {
+    "company_name": "Parkland SA",
+    "name": "None None",
+    "email": "info@parkland.cd",
+    "position": null
+  },
+  {
+    "company_name": "Alain Realty",
+    "name": "None None",
+    "email": "info@alain-realty.com",
+    "position": null
+  },
+  {
+    "company_name": "Alain Realty",
+    "name": "None None",
+    "email": "s.veroniqua@alain-realty.com",
+    "position": null
+  },
+  {
+    "company_name": "Alain Realty",
+    "name": "None None",
+    "email": "ceo@alain-realty.com",
+    "position": null
+  },
+  {
+    "company_name": "Muluza",
+    "name": "None None",
+    "email": "info@muluza.net",
+    "position": null
+  },
+  {
+    "company_name": "Muluza",
+    "name": "None None",
+    "email": "admin@muluza.net",
+    "position": null
+  },
+  {
+    "company_name": "Muluza",
+    "name": "None None",
+    "email": "contact@muluza.net",
+    "position": null
+  },
+  {
+    "company_name": "XTRM Group",
+    "name": "None None",
+    "email": "davidmuanda@xtrm.group",
+    "position": null
+  },
+  {
+    "company_name": "XTRM Group",
+    "name": "None None",
+    "email": "hello@xtrm.group",
+    "position": null
+  },
+  {
+    "company_name": "Naia",
+    "name": "None None",
+    "email": "infogoma@naiardc.com",
+    "position": null
+  },
+  {
+    "company_name": "African Land",
+    "name": "None None",
+    "email": "t.ceo@african.land",
+    "position": null
+  },
+  {
+    "company_name": "IMCongo",
+    "name": "None None",
+    "email": "info@imcongo.com",
+    "position": null
+  },
+  {
+    "company_name": "IMCongo",
+    "name": "None None",
+    "email": "support@imcongo.com",
+    "position": null
+  },
+  {
+    "company_name": "Immo24",
+    "name": "None None",
+    "email": "info@immo24.cd",
+    "position": null
+  },
+  {
+    "company_name": "Immo24",
+    "name": "None None",
+    "email": "patrick.zagabe@immo24.cd",
+    "position": null
+  },
+  {
+    "company_name": "Groupe Rawji",
+    "name": "None None",
+    "email": "info@grouperawji.com",
+    "position": null
+  },
+  {
+    "company_name": "Groupe Rawji",
+    "name": "None None",
+    "email": "nfo@grouperawji.com",
+    "position": null
+  },
+  {
+    "company_name": "FINCA DR Congo",
+    "name": "None None",
+    "email": "jkizito@finca.cd",
+    "position": null
+  },
+  {
+    "company_name": "Equity BCDC",
+    "name": "Christian Kashala",
+    "email": "christian.kashala@equitygroupholdings.com",
+    "position": "Supply Chain Director"
+  },
+  {
+    "company_name": "Equity BCDC",
+    "name": "Moses Nyabanda",
+    "email": "moses.nyabanda@equitygroupholdings.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Equity BCDC",
+    "name": "Rui Chikande",
+    "email": "rui.chikande@equitygroupholdings.com",
+    "position": "Head of Commercial Banking"
+  },
+  {
+    "company_name": "Equity BCDC",
+    "name": "David Ssegawa",
+    "email": "david.ssegawa@equitygroupholdings.com",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "Equity BCDC",
+    "name": "Samuel Kirubi",
+    "email": "samuel.kirubi@equitygroupholdings.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "Equity BCDC",
+    "name": "None None",
+    "email": "info@equitygroupholdings.com",
+    "position": null
+  },
+  {
+    "company_name": "Equity BCDC",
+    "name": "None None",
+    "email": "drctrademission@equitygroupholdings.com",
+    "position": null
+  },
+  {
+    "company_name": "Amani Law Firm",
+    "name": "None None",
+    "email": "info@amanilf.cd",
+    "position": null
+  },
+  {
+    "company_name": "Amani Law Firm",
+    "name": "None None",
+    "email": "emmanuel.muangala@amanilf.cd",
+    "position": null
+  },
+  {
+    "company_name": "Amani Law Firm",
+    "name": "None None",
+    "email": "m.katsuva@amanilf.cd",
+    "position": null
+  },
+  {
+    "company_name": "Amani Law Firm",
+    "name": "None None",
+    "email": "c.bulambo@amanilf.cd",
+    "position": null
+  },
+  {
+    "company_name": "Amani Law Firm",
+    "name": "None None",
+    "email": "serge.nyembue@amanilf.cd",
+    "position": null
+  },
+  {
+    "company_name": "Amani Law Firm",
+    "name": "None None",
+    "email": "didier.mukuna@amanilf.cd",
+    "position": null
+  },
+  {
+    "company_name": "Elite Law Firm",
+    "name": "None None",
+    "email": "gkazadi@cabelitelaw.com",
+    "position": null
+  },
+  {
+    "company_name": "Elite Law Firm",
+    "name": "None None",
+    "email": "tilunga@cabelitelaw.com",
+    "position": null
+  },
+  {
+    "company_name": "Elite Law Firm",
+    "name": "None None",
+    "email": "patmutombo@cabelitelaw.com",
+    "position": null
+  },
+  {
+    "company_name": "Elite Law Firm",
+    "name": "None None",
+    "email": "cabcontact@cabelitelaw.com",
+    "position": null
+  },
+  {
+    "company_name": "Elite Law Firm",
+    "name": "None None",
+    "email": "erlufuta@cabelitelaw.com",
+    "position": null
+  },
+  {
+    "company_name": "Elite Law Firm",
+    "name": "None None",
+    "email": "cabkolwezi@cabelitelaw.com",
+    "position": null
+  },
+  {
+    "company_name": "Elite Law Firm",
+    "name": "None None",
+    "email": "yalenge@cabelitelaw.com",
+    "position": null
+  },
+  {
+    "company_name": "Elite Law Firm",
+    "name": "None None",
+    "email": "akabey@cabelitelaw.com",
+    "position": null
+  },
+  {
+    "company_name": "Elite Law Firm",
+    "name": "None None",
+    "email": "gmutuambile@cabelitelaw.com",
+    "position": null
+  },
+  {
+    "company_name": "Elite Law Firm",
+    "name": "None None",
+    "email": "emumwena@cabelitelaw.com",
+    "position": null
+  },
+  {
+    "company_name": "Daldewolf",
+    "name": "Xiufang Tu",
+    "email": "ava@daldewolf.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Daldewolf",
+    "name": "Sandra Volpin",
+    "email": "sv@daldewolf.com",
+    "position": "Secretary"
+  },
+  {
+    "company_name": "Daldewolf",
+    "name": "Pascale Volpin",
+    "email": "pv@daldewolf.com",
+    "position": "Secretary"
+  },
+  {
+    "company_name": "Daldewolf",
+    "name": "None None",
+    "email": "ama@daldewolf.com",
+    "position": null
+  },
+  {
+    "company_name": "Daldewolf",
+    "name": "None None",
+    "email": "ide@daldewolf.com",
+    "position": null
+  },
+  {
+    "company_name": "Daldewolf",
+    "name": "None None",
+    "email": "eko@daldewolf.com",
+    "position": null
+  },
+  {
+    "company_name": "Daldewolf",
+    "name": "None None",
+    "email": "gad@daldewolf.com",
+    "position": null
+  },
+  {
+    "company_name": "Daldewolf",
+    "name": "None None",
+    "email": "ele@daldewolf.com",
+    "position": null
+  },
+  {
+    "company_name": "Daldewolf",
+    "name": "None None",
+    "email": "rob@daldewolf.com",
+    "position": null
+  },
+  {
+    "company_name": "Daldewolf",
+    "name": "None None",
+    "email": "theofficial@daldewolf.com",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Thambwe",
+    "name": "Liliane Mubanga",
+    "email": "liliane.mubanga@cabinetthambwe.cd",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Thambwe",
+    "name": "None None",
+    "email": "contact@cabinetthambwe.cd",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Thambwe",
+    "name": "None None",
+    "email": "cabinet@cabinetthambwe.cd",
+    "position": null
+  },
+  {
+    "company_name": "Liedekerke DRC",
+    "name": "Lievin Wulf",
+    "email": "l.wulf@liedekerke.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Liedekerke DRC",
+    "name": "Thomas Vanthournout",
+    "email": "t.vanthournout@liedekerke.com",
+    "position": "Partner, Banking and Finance"
+  },
+  {
+    "company_name": "Liedekerke DRC",
+    "name": "Bruno Hardy",
+    "email": "b.hardy@liedekerke.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Liedekerke DRC",
+    "name": "Dominique Devos",
+    "email": "d.devos@liedekerke.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Liedekerke DRC",
+    "name": "Etienne Kairis",
+    "email": "e.kairis@liedekerke.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Liedekerke DRC",
+    "name": "Sarah Brande",
+    "email": "s.brande@liedekerke.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Liedekerke DRC",
+    "name": "Damien Verhoeven",
+    "email": "d.verhoeven@liedekerke.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Liedekerke DRC",
+    "name": "Thibaut Hollanders",
+    "email": "t.hollanders@liedekerke.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Liedekerke DRC",
+    "name": "Vincent Busschaert",
+    "email": "v.busschaert@liedekerke.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Liedekerke DRC",
+    "name": "Stephanie Blairon",
+    "email": "s.blairon@liedekerke.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Emery Mukendi Wafwana & Associates",
+    "name": "None None",
+    "email": "ewafwana@cabemery.org",
+    "position": null
+  },
+  {
+    "company_name": "Emery Mukendi Wafwana & Associates",
+    "name": "None None",
+    "email": "cabmat@cabemery.org",
+    "position": null
+  },
+  {
+    "company_name": "Emery Mukendi Wafwana & Associates",
+    "name": "None None",
+    "email": "cablubum@cabemery.org",
+    "position": null
+  },
+  {
+    "company_name": "Emery Mukendi Wafwana & Associates",
+    "name": "None None",
+    "email": "jzakayi@cabemery.org",
+    "position": null
+  },
+  {
+    "company_name": "Emery Mukendi Wafwana & Associates",
+    "name": "None None",
+    "email": "cabsecretariat@cabemery.org",
+    "position": null
+  },
+  {
+    "company_name": "Emery Mukendi Wafwana & Associates",
+    "name": "None None",
+    "email": "etshidiata@cabemery.org",
+    "position": null
+  },
+  {
+    "company_name": "Emery Mukendi Wafwana & Associates",
+    "name": "None None",
+    "email": "jpmuyaya@cabemery.org",
+    "position": null
+  },
+  {
+    "company_name": "Emery Mukendi Wafwana & Associates",
+    "name": "None None",
+    "email": "willybashiya@cabemery.org",
+    "position": null
+  },
+  {
+    "company_name": "PLA Law Firm",
+    "name": "Pathy Liongo",
+    "email": "lpathy@plaafricalaw.com",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "PLA Law Firm",
+    "name": "None None",
+    "email": "info@plaafricalaw.com",
+    "position": null
+  },
+  {
+    "company_name": "PLA Law Firm",
+    "name": "None None",
+    "email": "willybashiya@plaafricalaw.com",
+    "position": null
+  },
+  {
+    "company_name": "MBM Conseil",
+    "name": "None None",
+    "email": "contact@mbm-avocats.com",
+    "position": null
+  },
+  {
+    "company_name": "MBM Conseil",
+    "name": "None None",
+    "email": "paulm@mbm-avocats.com",
+    "position": null
+  },
+  {
+    "company_name": "MBM Conseil",
+    "name": "None None",
+    "email": "kinshasa@mbm-avocats.com",
+    "position": null
+  },
+  {
+    "company_name": "MBM Conseil",
+    "name": "None None",
+    "email": "jvakala@mbm-avocats.com",
+    "position": null
+  },
+  {
+    "company_name": "MBM Conseil",
+    "name": "None None",
+    "email": "pmatoka@mbm-avocats.com",
+    "position": null
+  },
+  {
+    "company_name": "MBM Conseil",
+    "name": "None None",
+    "email": "hubertsang@mbm-avocats.com",
+    "position": null
+  },
+  {
+    "company_name": "Tshibangu Ilunga & Partners",
+    "name": "None None",
+    "email": "secretariat@tshibangulegal.com",
+    "position": null
+  },
+  {
+    "company_name": "Tshibangu Ilunga & Partners",
+    "name": "None None",
+    "email": "info@tshibangulegal.com",
+    "position": null
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "company_name": "",
+    "name": "Jonas Herzig",
+    "email": "jonas.herzig@sps.swiss",
+    "position": "Head of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Markus Dietiker",
+    "email": "markus.dietiker@sps.swiss",
+    "position": "Head of IT Infrastructure"
+  },
+  {
+    "company_name": "",
+    "name": "Gianfranco Basso",
+    "email": "gianfranco.basso@sps.swiss",
+    "position": "Head of Sales"
+  },
+  {
+    "company_name": "",
+    "name": "Dominik Dobler",
+    "email": "dominik.dobler@sps.swiss",
+    "position": "IT Director"
+  },
+  {
+    "company_name": "",
+    "name": "Michael Strebel",
+    "email": "michael.strebel@sps.swiss",
+    "position": "Head of Asset Management Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Marcel Kucher",
+    "email": "marcel.kucher@sps.swiss",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Liza Masson",
+    "email": "liza.masson@sps.swiss",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Ren\u00e9 Zahnd",
+    "email": "rene.zahnd@sps.swiss",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Simon Kaiser",
+    "email": "simon.kaiser@sps.swiss",
+    "position": "Head of Letting and Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Martin Pfenninger",
+    "email": "martin.pfenninger@sps.swiss",
+    "position": "Head of Sustainability"
+  },
+  {
+    "company_name": "",
+    "name": "Andrea Schaller",
+    "email": "andrea.schaller@spssolutions.swiss",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Reto Grunder",
+    "email": "reto.grunder@psp.info",
+    "position": "Chief Investment Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Vasco Cecchini",
+    "email": "vasco.cecchini@psp.info",
+    "position": "Chief Commercial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Christoph S\u00e4ttler",
+    "email": "christoph.saettler@psp.info",
+    "position": "Asset Management Director"
+  },
+  {
+    "company_name": "",
+    "name": "Martin Heggli",
+    "email": "martin.heggli@psp.info",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Martin Fehr",
+    "email": "martin.fehr@psp.info",
+    "position": "Marketing Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "Martina Sch\u00fcrmann",
+    "email": "martina.schuermann@psp.info",
+    "position": "Deputy Head of Marketing & Key Account Management"
+  },
+  {
+    "company_name": "",
+    "name": "Marco M\u00fcller",
+    "email": "marco.mueller@psp.info",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Val\u00e9rie Cutayar",
+    "email": "valerie.cutayar@psp.info",
+    "position": "Key Account Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Sandro Wenger",
+    "email": "sandro.wenger@psp.info",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Barbara Berger",
+    "email": "barbara.berger@psp.info",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Stephan Widrig",
+    "email": "stephan.widrig@allreal.ch",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Reto Aregger",
+    "email": "reto.aregger@allreal.ch",
+    "position": "Chief Communications Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Marc Frei",
+    "email": "marc.frei@allreal.ch",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Thomas Stenz",
+    "email": "thomas.stenz@allreal.ch",
+    "position": "Board Member"
+  },
+  {
+    "company_name": "",
+    "name": "Benjamin Moser",
+    "email": "benjamin.moser@allreal.ch",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "David Guth\u00f6rl",
+    "email": "david.guthoerl@allreal.ch",
+    "position": "Director of Sustainability"
+  },
+  {
+    "company_name": "",
+    "name": "C\u00e9dric Heidmann",
+    "email": "cedric.heidmann@allreal.ch",
+    "position": "Portfolio Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Andrea Stadelmann",
+    "email": "andrea.stadelmann@allreal.ch",
+    "position": "Talent Acquisition Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "Matias Lopez",
+    "email": "matias.lopez@allreal.ch",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Thorsten Eberle",
+    "email": "thorsten.eberle@allreal.ch",
+    "position": "Head of Area Development"
+  },
+  {
+    "company_name": "",
+    "name": "J\u00f6rg Brunner",
+    "email": "joerg.brunner@mobimo.ch",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Daniel Ducrey",
+    "email": "daniel.ducrey@mobimo.ch",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Thomas Vermeulen",
+    "email": "thomas.vermeulen@mobimo.ch",
+    "position": "Director of Acquisition"
+  },
+  {
+    "company_name": "",
+    "name": "Arnaud Gonon",
+    "email": "arnaud.gonon@mobimo.ch",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Olivier Rambert",
+    "email": "olivier.rambert@mobimo.ch",
+    "position": "Regional Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Pauline Bryois",
+    "email": "pauline.bryois@mobimo.ch",
+    "position": "Business Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Marco Tondel",
+    "email": "marco.tondel@mobimo.ch",
+    "position": "Head of Development"
+  },
+  {
+    "company_name": "",
+    "name": "Feyza Ciritoglu",
+    "email": "feyza.ciritoglu@mobimo.ch",
+    "position": "Head of Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Kevin K\u00fcchler",
+    "email": "kevin.kuechler@mobimo.ch",
+    "position": "Junior Marketer"
+  },
+  {
+    "company_name": "",
+    "name": "Eva Vontobel",
+    "email": "eva.vontobel@mobimo.ch",
+    "position": "HR Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jan Schriber",
+    "email": "jan.schriber@investisgroup.com",
+    "position": "Corporate Controller"
+  },
+  {
+    "company_name": "",
+    "name": "Catherine Dubey",
+    "email": "catherine.dubey@investisgroup.com",
+    "position": "Director of Sustainability"
+  },
+  {
+    "company_name": "",
+    "name": "Caroline Bonvin",
+    "email": "caroline.bonvin@investisgroup.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Laurence Bienz",
+    "email": "laurence.bienz@investisgroup.com",
+    "position": "Media Contact"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "communication@investisgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Lo\u00efc Blanchard",
+    "email": "loic.blanchard@iwgplc.com",
+    "position": "Digital Performance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Lisa Brayer",
+    "email": "lisa.brayer@iwgplc.com",
+    "position": "Director of Partnerships"
+  },
+  {
+    "company_name": "",
+    "name": "Mark Schmidt",
+    "email": "roy.huber@iwgplc.com",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Sarah Saxby",
+    "email": "sarah.saxby@iwgplc.com",
+    "position": "Treasury Director"
+  },
+  {
+    "company_name": "",
+    "name": "Alisa Kapic",
+    "email": "alisa.kapic@iwgplc.com",
+    "position": "Regional Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Tim Merckx",
+    "email": "tim.merckx@iwgplc.com",
+    "position": "Inside Sales Representative"
+  },
+  {
+    "company_name": "",
+    "name": "Jonathan Gourmel",
+    "email": "jonathan.gourmel@iwgplc.com",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Madeline Pollock",
+    "email": "madeline.pollock@iwgplc.com",
+    "position": "Customer Service Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Candice Berman",
+    "email": "candice.berman@iwgplc.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Alessandro Testi",
+    "email": "alessandro.testi@iwgplc.com",
+    "position": "Partnership Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@immoscout24.ch",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "martin.waeber@immoscout24.ch",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "helpdesk@immoscout24.ch",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "romain.courthion@immoscout24.ch",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "werner.duttwiler@immoscout24.ch",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "zentralschweiz@immoscout24.ch",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Katerina Vachicouras",
+    "email": "katerina.vachicouras@neho.ch",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Pierre Fr\u00e9d\u00e9ric Von Kaenel",
+    "email": "pierre-frederic@neho.ch",
+    "position": "Chief Sales Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Vincent Privet",
+    "email": "vincent.privet@neho.ch",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Guillaume Cougard",
+    "email": "guillaume.cougard@neho.ch",
+    "position": "Head of Product Management"
+  },
+  {
+    "company_name": "",
+    "name": "Thomas Lambert",
+    "email": "thomas.lambert@neho.ch",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "Vanessa Neidhart",
+    "email": "vanessa.neidhart@neho.ch",
+    "position": "Senior Sales Coordinator"
+  },
+  {
+    "company_name": "",
+    "name": "Marl\u00e8ne Allender",
+    "email": "marlene.allender@neho.ch",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Oc\u00e9ane Ruch",
+    "email": "oceane.ruch@neho.ch",
+    "position": "B2B Sales Coordinator"
+  },
+  {
+    "company_name": "",
+    "name": "Quentin P\u00e9riat",
+    "email": "quentin.periat@neho.ch",
+    "position": "Sales Coordinator"
+  },
+  {
+    "company_name": "",
+    "name": "Bastien Liebgott",
+    "email": "bastien.liebgott@neho.ch",
+    "position": "SEO Manager"
+  }
+]

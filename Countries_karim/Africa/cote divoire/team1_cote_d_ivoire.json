@@ -1,0 +1,72 @@
+ [
+    {
+      "name": "ISIS-IMMOBILIER Côte d'Ivoire - Abidjan Plateau",
+      "website": "https://isis-immobilier.com/",
+      "address": "7, Boulevard du Général de Gaulle,Immeuble La Corniche, Entrée A, 2ème étage",
+      "email": null,
+      "phone_number": "+225 27 20 33 88 13"
+    },
+    {
+      "name": "Caroline Immobilier",
+      "website": "https://caroline-immobilier.ci/",
+      "address": "Caroline Immobilier, Abidjan, Côte d’Ivoire",
+      "email": "info@caroline-immobilier.ci",
+      "phone_number": "+225 27 21 3 58183"
+    },
+    {
+      "name": "JOELKA PROPERTY MANAGEMENT",
+      "website": "https://joelka-property.com/en/",
+      "address": "Port Bouët, zone aéroportuaire d’Abidjan, à 2 min de l’Aéroport International Felix Houphouët Boigny Cocody Riviera 3, les oscars.08 BP 3707 Abidjan",
+      "email": "info.commercial@joelka.com",
+      "phone_number": "+225 07 19 10 39"
+    },
+    {
+      "name": "Kalimba Immobilier",
+      "website": "https://kalimbaimmobilier.com/",
+      "address": "Cocody Deux Plateaux, Agban Attié, Abidjan, Côte d'Ivoire",
+      "email": "info@kalimbaimmobilier.com",
+      "phone_number": "+225 27 21 35 25 48"
+    },
+    {
+      "name": "CGE IMMOBILIER FILIALE COTE D'IVOIRE",
+      "website": "https://www.cgeimmobilier.com/fr",
+      "address": "avenue KWAME N'KRUMAH 01BP1337 Ouagadougou",
+      "email": "contact@cgeimmobilier.ci",
+      "phone_number": "+22625656486"
+    },
+    {
+      "name": "ADRESS IMMOBILIER",
+      "website": "https://adressimmobilier.com/",
+      "address": "Cocody Danga, face à la SGBCI, Abidjan, Côte d'Ivoire",
+      "email": "commercial@adressimmobilier.net",
+      "phone_number": "+225 05 01 39 28 28"
+    },
+    {
+      "name": "Perfector Immobilier Côte d'Ivoire",
+      "website": "https://perfectorimmobilier.ci/",
+      "address": "Boulevard du Caire - KOUMASSI (Face à la mairie) - ABIDJAN",
+      "email": "info@perfectorimmobilier.ci",
+      "phone_number": "225 07 78 45 45 45"
+    },
+    {
+      "name": "Sandra K Immobilier & Services",
+      "website": "https://sandrakimmo.com/",
+      "address": "Riviera Palmeraie, Abidjan, Côte d'Ivoire",
+      "email": null,
+      "phone_number": "+225 07 78 96 33 03"
+    },
+    {
+      "name": "BOYOOT Immobilier",
+      "website": "https://boyootimmobilier.com/",
+      "address": "Marcory Zone 4, Abidjan Côte d'Ivoire",
+      "email": "info@boyootimmobilier.com",
+      "phone_number": "+225 05 00 70 00 01"
+    },
+    {
+      "name": "SICOGERE",
+      "website": "https://www.sicogere.com/",
+      "address":  "Abidjan – Treichville Zone 3, rue de la Glacière, non loin du Commissariat de Police du 4ème Arrondissement",
+      "email": "contact@sicogere.com",
+      "phone_number": " +225 27 21 59 49 18"
+    }
+  ]

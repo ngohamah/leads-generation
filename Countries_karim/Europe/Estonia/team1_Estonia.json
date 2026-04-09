@@ -1,0 +1,72 @@
+ [
+    {
+      "name": "Lahe Kinnisvara Hindamine & Vahendus",
+      "website": "https://www.lahekinnisvara.ee/",
+      "address": "Vabaduse pst 23, 11214 Tallinn, Estonia (Tallinn office)",
+      "email": "tallinn@lahekinnisvara.ee",
+      "phone_number": "+372 501 0425"
+    },
+    {
+      "name": "RE/MAX Estonia",
+      "website": "https://www.remax.ee/",
+      "address": "Ahtri tn 6, 10151 Tallinn, Estonia (RE EXPERT OÜ, a RE/MAX entity)",
+      "email": "aivar.vilbo@remax.ee",
+      "phone_number": "+372 5663 0418"
+    },
+    {
+      "name": "MyHome Kinnisvarabüroo / Estate Agents",
+      "website": "https://myhome.ee/eng/",
+      "address": "Tööstuse tn 43, 10411 Tallinn, Estonia",
+      "email": "info@myhome.ee",
+      "phone_number": "+372 552 0555"
+    },
+    {
+      "name": "RILEN",
+      "website": "https://rilen.ee/",
+      "address": null,
+      "email": "info@rilen.ee",
+      "phone_number": "+372 51 898 27"
+    },
+    {
+      "name": "Diamondestate OÜ",
+      "website": "https://www.inforegister.ee/11443114-DIAMONDESTATE-OU/",
+      "address": "Vesivärava tn 50, 10152 Tallinn, Estonia",
+      "email": "natalia@diamondestate.ee",
+      "phone_number": "+372 56219430"
+    },
+    {
+      "name": "RE/MAX Central",
+      "website": "https://www.remax.ee/central",
+      "address": "Estonia pst 15, Tallinn, 10141, Estonia",
+      "email": "tallinn.central@remax.ee",
+      "phone_number": "+372 657 5757"
+    },
+    {
+      "name": "Rendin",
+      "website": "https://rendin.co/",
+      "address": "Peterburi tee 2f, 11415 Tallinn, Estonia",
+      "email": "info@rendin.co",
+      "phone_number": "+372 602 6818"
+    },
+    {
+      "name": "Habita Tallinn",
+      "website": "https://www.habita.com/office/129/habita-tallinn",
+      "address": "Valge 13, 11415 Tallinn, Estonia",
+      "email": "tallinn@habita.com",
+      "phone_number": "+372 5326 7326"
+    },
+    {
+      "name": "Domus Kinnisvara",
+      "website": "https://domus.ee/en/",
+      "address": "Luise tn 2, 10142 Tallinn, Estonia",
+      "email": "info@domus.ee",
+      "phone_number": "+372 646 4035"
+    },
+    {
+      "name": "Baltic Sotheby's International Realty",
+      "website": "https://lt.balticsothebysrealty.com/en/",
+      "address": "Kai 1, 10111 Tallinn, Estonia",
+      "email": "info.lithuania@balsir.com",
+      "phone_number": "+370 5 205 5118"
+    }
+  ]

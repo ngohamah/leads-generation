@@ -1,0 +1,58 @@
+[
+  {
+    "country": "Burkina Faso",
+    "company_name": "PERFECTOR IMMOBILIER",
+    "website": "https://www.perfectorimmobilier.bf",
+    "contact_number": "+226 52 36 36 62",
+    "address": "06 BP 10357 Ouagadougou 06, Ouagadougou, Burkina Faso",
+    "email": "contact@perfectorimmobilier.com"
+  },
+  {
+    "country": "Burkina Faso",
+    "company_name": "IMMO BURKINA",
+    "website": "https://www.immoburkina.com",
+    "contact_number": "+226 70 13 13 77",
+    "address": "Villa N°2 Wayalghin 06 Rue 27.51, Ouagadougou, Centre, Burkina Faso",
+    "email": null
+  },
+  {
+    "country": "Burkina Faso",
+    "company_name": "Groupe Selector Immobilier",
+    "website": "https://groupeselectorimmobilier.com",
+    "contact_number": "+226 62 39 39 39",
+    "address": "Boulevard France Afrique, Ouagadougou, Burkina Faso",
+    "email": null
+  },
+  {
+    "country": "Burkina Faso",
+    "company_name": "GELPAZ IMMO",
+    "website": "https://gelpaz.com",
+    "contact_number": "+226 67 30 81 85",
+    "address": "DAGNOEN, rue 29.128, Ouagadougou",
+    "email":"infos@gelpaz.com"
+  },
+  {
+    "country": "Burkina Faso",
+    "company_name": "Les Clefs du Faso",
+    "website": null,
+    "contact_number": "+226 78 47 20 47",
+    "address": "Patte d'oie, Ouagadougou, Burkina Faso",
+    "email": "contact@clefsdufaso.com"
+  },
+  {
+    "country": "Burkina Faso",
+    "company_name": "Siège Social CGE Immobilier",
+    "website": "https://www.cgeimmobilier.com",
+    "contact_number": "+226 25 30 00 15",
+    "address": "Ouagadougou, Kadiogo, Burkina Faso",
+    "email": null
+  },
+  {
+    "country": "Burkina Faso",
+    "company_name": "Société Bopa Internationale",
+    "website": "https://societe-bopa-international.com",
+    "contact_number": "(+226) 71 68 76 19",
+    "address": "Quartier Tampouy, Ouagadougou, Burkina Faso",
+    "email": "bopaboro@gmail.com"
+  }
+]

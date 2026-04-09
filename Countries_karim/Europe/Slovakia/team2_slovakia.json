@@ -1,0 +1,764 @@
+[
+  {
+    "company_name": "",
+    "name": "Michal Pauer",
+    "email": "pauer@cresco.sk",
+    "position": "Business Director"
+  },
+  {
+    "company_name": "",
+    "name": "Ladislav Hoffmann",
+    "email": "hoffmann@cresco.sk",
+    "position": "Director of Construction"
+  },
+  {
+    "company_name": "",
+    "name": "Katarina Bachrata",
+    "email": "bachrata@cresco.sk",
+    "position": "Human Resources Director"
+  },
+  {
+    "company_name": "",
+    "name": "Vanda Hlav\u00e1\u010dkov\u00e1",
+    "email": "hlavackova@cresco.sk",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Helga K\u00e1ligov\u00e1",
+    "email": "kaligova@cresco.sk",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Katarina Kadlecikova",
+    "email": "kadlecikova@cresco.sk",
+    "position": "Accounting Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jan Krnac",
+    "email": "krnac@cresco.sk",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Tom\u00e1\u0161 Stupavsk\u00fd",
+    "email": "stupavsky@cresco.sk",
+    "position": "Marketing Communications Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "Ivana Kapit\u00e1nov\u00e1",
+    "email": "kapitanova@cresco.sk",
+    "position": "Sales Representative"
+  },
+  {
+    "company_name": "",
+    "name": "Katarina Murajdova",
+    "email": "murajdova@cresco.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Jesper Heiden",
+    "email": "heiden@jtre.sk",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Russell Alwell",
+    "email": "alwell@jtre.sk",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Robert Tenczer",
+    "email": "tenczer@jtre.sk",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "",
+    "name": "Magdalena Oravcova",
+    "email": "oravcova@jtre.sk",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "reken@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "unsubscribe@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sklenarova@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "bogarova@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "meri@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Juraj Nevolnik",
+    "email": "nevolnik@pentarealestate.com",
+    "position": "Country Manager"
+  },
+  {
+    "company_name": "",
+    "name": "David Musil",
+    "email": "musil@pentarealestate.com",
+    "position": "Country Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jakub Ertl",
+    "email": "ertl@pentarealestate.com",
+    "position": "Design Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Martin L\u00e1nsk\u00fd",
+    "email": "lansky@pentarealestate.com",
+    "position": "Public Relations Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Tomash Uhlik",
+    "email": "uhlik@pentarealestate.com",
+    "position": "Senior Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Pavel Streblov",
+    "email": "streblov@pentarealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Pavel Novak",
+    "email": "novak@pentarealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "nuselskypivovar@pentarealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "mocca@pentarealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "gdpr_pre_sr@pentarealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Mika Nieminen",
+    "email": "mika.nieminen@yitgroup.com",
+    "position": "Procurement Director"
+  },
+  {
+    "company_name": "",
+    "name": "Juuso Rapeli",
+    "email": "juuso.rapeli@yitgroup.com",
+    "position": "Production Director"
+  },
+  {
+    "company_name": "",
+    "name": "Peter Forssell",
+    "email": "peter.forssell@yitgroup.com",
+    "position": "Executive Vice President, Construction"
+  },
+  {
+    "company_name": "",
+    "name": "Antti Vidgren",
+    "email": "antti.vidgren@yitgroup.com",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Matti Tiainen",
+    "email": "matti.tiainen@yitgroup.com",
+    "position": "Vice President of Business Controlling"
+  },
+  {
+    "company_name": "",
+    "name": "Antti Toivanen",
+    "email": "antti.toivanen@yitgroup.com",
+    "position": "Vice President of Real Estate Management"
+  },
+  {
+    "company_name": "",
+    "name": "Dana Bartonova",
+    "email": "dana.bartonova@yitgroup.com",
+    "position": "Sales and Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Mikko Lempinen",
+    "email": "mikko.lempinen@yitgroup.com",
+    "position": "Vice President of Housing"
+  },
+  {
+    "company_name": "",
+    "name": "Sami Viitanen",
+    "email": "sami.viitanen@yitgroup.com",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Juha Kostiainen",
+    "email": "juha.kostiainen@yitgroup.com",
+    "position": "Executive Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Zoltan Muller",
+    "email": "zoltan.muller@lucron.sk",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Zuzana Muller",
+    "email": "zuzana.muller@lucron.sk",
+    "position": "Legal Director"
+  },
+  {
+    "company_name": "",
+    "name": "Simona Zaj\u00ed\u010dkov\u00e1",
+    "email": "simona.zajickova@lucron.sk",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Marek Plochan",
+    "email": "marek.plochan@lucron.sk",
+    "position": "Director of Technical Development"
+  },
+  {
+    "company_name": "",
+    "name": "Ladislav Sz\u00e1ntai",
+    "email": "ladislav.szantai@lucron.sk",
+    "position": "Director of Quality Management"
+  },
+  {
+    "company_name": "",
+    "name": "Martina Slamkov\u00e1",
+    "email": "martina.slamkova@lucron.sk",
+    "position": "Director of Customer Financing"
+  },
+  {
+    "company_name": "",
+    "name": "Lenka Valentovi\u010dov\u00e1",
+    "email": "lenka.valentovicova@lucron.sk",
+    "position": "Regional Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "Marcela Magathova",
+    "email": "marcela.magathova@lucron.sk",
+    "position": "Back Office Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Juraj Tahun",
+    "email": "juraj.tahun@lucron.sk",
+    "position": "Commercial Director"
+  },
+  {
+    "company_name": "",
+    "name": "Ingrid Schmogrovitsov\u00e1",
+    "email": "ingrid.schmogrovitsova@lucron.sk",
+    "position": "Director of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Juraj Duska",
+    "email": "juraj.duska@vigroup.sk",
+    "position": "Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Radoslav Merka",
+    "email": "radoslav.merka@vigroup.sk",
+    "position": "Digital Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Vikt\u00f3ria Hore\u010dn\u00e1",
+    "email": "viktoria.horecna@vigroup.sk",
+    "position": "Architect"
+  },
+  {
+    "company_name": "",
+    "name": "Elena Rabcanova",
+    "email": "elena.rabcanova@vigroup.sk",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Ivana Cis\u00e1rov\u00e1",
+    "email": "ivana.cisarova@vigroup.sk",
+    "position": "Marketing Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "Michal Lietavec",
+    "email": "michal.lietavec@vigroup.sk",
+    "position": "Studio Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jana Marinicov\u00e1",
+    "email": "jana.marinicova@vigroup.sk",
+    "position": "Architect"
+  },
+  {
+    "company_name": "",
+    "name": "Michaela Kurekova",
+    "email": "michaela.kurekova@vigroup.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Branislav Puk",
+    "email": "branislav.puk@vigroup.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Jaroslav Lackovic",
+    "email": "jaroslav.lackovic@vigroup.sk",
+    "position": "Accounting Department"
+  },
+  {
+    "company_name": "",
+    "name": "Igor Buben\u00edk",
+    "email": "igor.bubenik@corwin.sk",
+    "position": "Director of Business Strategy"
+  },
+  {
+    "company_name": "",
+    "name": "Lucija Zalar",
+    "email": "lucija.zalar@corwin.sk",
+    "position": "Leasing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jakub Szetei",
+    "email": "jakub.szetei@corwin.sk",
+    "position": "Property Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "corwin@corwin.sk",
+    "position": "HR Intern"
+  },
+  {
+    "company_name": "",
+    "name": "Andrej Lipovsek",
+    "email": "andrej.lipovsek@corwin.sk",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Marek Svec",
+    "email": "marek.svec@corwin.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "predaj@corwin.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hr@corwin.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "marketing@corwin.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "leasing@corwin.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Venya Singh",
+    "email": "monika.hamed@proxenta.sk",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Raymond Kopka",
+    "email": "raymond.kopka@proxenta.sk",
+    "position": "Vice President of Sales"
+  },
+  {
+    "company_name": "",
+    "name": "Marek Solivajs",
+    "email": "marek.solivajs@proxenta.sk",
+    "position": "Vice President of Production"
+  },
+  {
+    "company_name": "",
+    "name": "Martin Kubal\u00edk",
+    "email": "martin.kubalik@proxenta.sk",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Roman Hrabovsk\u00fd",
+    "email": "roman.hrabovsky@proxenta.sk",
+    "position": "Investment Broker"
+  },
+  {
+    "company_name": "",
+    "name": "Lenka Siv\u00e1kov\u00e1",
+    "email": "lenka.sivakova@proxenta.sk",
+    "position": "Senior Investment Broker"
+  },
+  {
+    "company_name": "",
+    "name": "Renata Dom\u010dekov\u00e1",
+    "email": "renata.domcekova@proxenta.sk",
+    "position": "Senior Investment Broker"
+  },
+  {
+    "company_name": "",
+    "name": "Adam Janec",
+    "email": "adam.janec@proxenta.sk",
+    "position": "Key Account Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Klara Misova",
+    "email": "klara.misova@proxenta.sk",
+    "position": "Human Resources Generalist"
+  },
+  {
+    "company_name": "",
+    "name": "Katar\u00edna Kvasnicov\u00e1",
+    "email": "katarina.kvasnicova@proxenta.sk",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "",
+    "name": "Peter Kral",
+    "email": "kral@itb.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "itb@itb.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kria@itb.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sutaz@itb.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "benkeova@itb.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "galvanek@itb.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "predaj@itb.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kapitanova@itb.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "lelovska@itb.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "krivosikova@itb.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@finep.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "gdpr@finep.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "reklamacie@finep.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "media@finep.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Jesper Heiden",
+    "email": "heiden@jtre.sk",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Russell Alwell",
+    "email": "alwell@jtre.sk",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Robert Tenczer",
+    "email": "tenczer@jtre.sk",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "",
+    "name": "Magdalena Oravcova",
+    "email": "oravcova@jtre.sk",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "reken@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "unsubscribe@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sklenarova@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "bogarova@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "meri@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "slnecnice@slnecnice.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Jesper Heiden",
+    "email": "heiden@jtre.sk",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Russell Alwell",
+    "email": "alwell@jtre.sk",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Robert Tenczer",
+    "email": "tenczer@jtre.sk",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "",
+    "name": "Magdalena Oravcova",
+    "email": "oravcova@jtre.sk",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "reken@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "unsubscribe@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sklenarova@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "bogarova@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "meri@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "krajnakova@westend.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sprava@westend.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Jesper Heiden",
+    "email": "heiden@jtre.sk",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Russell Alwell",
+    "email": "alwell@jtre.sk",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Robert Tenczer",
+    "email": "tenczer@jtre.sk",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "",
+    "name": "Magdalena Oravcova",
+    "email": "oravcova@jtre.sk",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "reken@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "unsubscribe@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sklenarova@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "bogarova@jtre.sk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "meri@jtre.sk",
+    "position": null
+  }
+]

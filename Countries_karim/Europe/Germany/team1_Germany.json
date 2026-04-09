@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Black Label Properties",
+    "website": "https://blacklabelimmobilien.de/en/",
+    "address": "Rüsternallee 36, 14050 Berlin, Germany",
+    "email": "info@blacklabelimmobilien.de",
+    "phone": "+49 331 – 60 12 12 42"
+  },
+  {
+    "name": "Next Estate GmbH",
+    "website": "https://www.next-estate.de/en/",
+    "address": "Kollwitzstraße 38, 10405 Berlin, Germany",
+    "email": "info@next-estate.de",
+    "phone": "+49 30 40 30 100 0"
+  },
+  {
+    "name": "CITIGRUND Immobilien GmbH",
+    "website": "https://citigrund.de/",
+    "address": "Maximiliansplatz 12b, 80333 München, Germany",
+    "email": "info@citigrund.de",
+    "phone": "+49 89 23 23 63 93"
+  },
+  {
+    "name": "First Citiz Berlin",
+    "website": "https://www.firstcitiz.com",
+    "address": "Pappelallee 11, 10437 Berlin, Germany",
+    "email": "contact@firstcitiz.com",
+    "phone": "+49 30 41 71 72 74"
+  },
+  {
+    "name": "realbest Germany GmbH",
+    "website": "https://www.realbest.de/",
+    "address": "Grunewaldstraße 61/62, 10825 Berlin, Germany",
+    "email": null,
+    "phone": " +49 89 23236393"
+  },
+  {
+    "name": "Sparda Realty estate agency Hamburg (Sparda Immobilien GmbH)",
+    "website": "https://www.spardaimmobilien.de/",
+    "address": "Beim Strohhause 27, 20097 Hamburg, Germany",
+    "email": "info@spardaimmobilien.de",
+    "phone": " 040 / 35 74 01 - 0"
+  },
+  {
+    "name": "Metz Immobilien",
+    "website": "https://www.metz-immobilien.de/",
+    "address": "Lessingstr. 7, 63762 Großostheim, Germany",
+    "email": "info@metz-immobilien.net",
+    "phone": "+49 69 780 748 0"
+  },
+  {
+    "name": "Von Albert Real Estate",
+    "website": "https://www.von-albert.com",
+    "address": null,
+    "email": "info@vonalbert-realestate.com",
+    "phone": "+49 30 983 512 52"
+  },
+  {
+    "name": "ProperT GmbH",
+    "website": "https://propert.de/",
+    "address": "Mohrenstraße 50, 10117 Berlin",
+    "email": "kag@ProperT.de",
+    "phone": "+49 30 28099708 "
+  },
+  {
+    "name": "The Property Connection",
+    "website": "https://thepropertyconnection.org/",
+    "address": null,
+    "email": "tpc@thepropertyconnection.org",
+    "phone": "(760) 247-6798"
+  }
+]

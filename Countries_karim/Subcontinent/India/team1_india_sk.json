@@ -1,0 +1,402 @@
+[
+  {
+    "company_name": "DLF Ltd",
+    "website": "https://www.dlf.in/"
+  },
+  {
+    "company_name": "Godrej Properties Ltd",
+    "website": "https://www.godrejproperties.com/"
+  },
+  {
+    "company_name": "Oberoi Realty",
+    "website": "https://www.oberoirealty.com/"
+  },
+  {
+    "company_name": "Macrotech Developers (Lodha Group)",
+    "website": "https://www.lodhagroup.in/"
+  },
+  {
+    "company_name": "Prestige Estates Projects",
+    "website": "https://www.prestigeconstructions.com/"
+  },
+  {
+    "company_name": "Brigade Enterprises",
+    "website": "https://www.brigadegroup.com/"
+  },
+  {
+    "company_name": "Sobha Limited",
+    "website": "https://www.sobha.com/"
+  },
+  {
+    "company_name": "Embassy Group",
+    "website": "https://www.embassygroup.co.in/"
+  },
+  {
+    "company_name": "Puravankara Limited",
+    "website": "https://www.puravankara.com/"
+  },
+  {
+    "company_name": "Shriram Properties",
+    "website": "https://www.shriramproperties.com/"
+  },
+  {
+    "company_name": "Indiabulls Real Estate (Equinox India Developments)",
+    "website": "https://www.equinoxindia.com/"
+  },
+  {
+    "company_name": "Unitech Limited",
+    "website": "https://www.unitechgroup.com/"
+  },
+  {
+    "company_name": "Kolte-Patil Developers",
+    "website": "https://www.koltepatil.com/"
+  },
+  {
+    "company_name": "Mahindra Lifespace Developers",
+    "website": "https://www.mahindralifespaces.com/"
+  },
+  {
+    "company_name": "Tata Realty & Infrastructure",
+    "website": "https://www.tatarealty.in/"
+  },
+  {
+    "company_name": "L&T Realty",
+    "website": "https://www.lntrealty.com/"
+  },
+  {
+    "company_name": "DB Realty Ltd",
+    "website": "https://www.dbrealty.co.in/"
+  },
+  {
+    "company_name": "The Phoenix Mills",
+    "website": "https://www.thephoenixmills.com/"
+  },
+  {
+    "company_name": "Sunteck Realty",
+    "website": "https://www.sunteckrealty.com/"
+  },
+  {
+    "company_name": "Rohan Builders",
+    "website": "https://www.rohanbuilders.com/"
+  },
+  {
+    "company_name": "Hiranandani Group",
+    "website": "https://www.hiranandani.com/"
+  },
+  {
+    "company_name": "Shapoorji Pallonji",
+    "website": "https://www.shapoorjipallonji.com/"
+  },
+  {
+    "company_name": "Kalpataru Limited",
+    "website": "https://www.kalpataru.com/"
+  },
+  {
+    "company_name": "Rustomjee",
+    "website": "https://www.rustomjee.com/"
+  },
+  {
+    "company_name": "Piramal Realty",
+    "website": "https://www.piramalrealty.com/"
+  },
+  {
+    "company_name": "Wadhwa Group",
+    "website": "https://www.wadhwa.com/"
+  },
+  {
+    "company_name": "Runwal Group",
+    "website": "https://www.runwalgroup.com/"
+  },
+  {
+    "company_name": "Adani Realty",
+    "website": "https://www.adanirealty.com/"
+  },
+  {
+    "company_name": "Reliance Infrastructure",
+    "website": "https://www.rinfra.com/"
+  },
+  {
+    "company_name": "ATS Infrastructure",
+    "website": "https://www.ats.co.in/"
+  },
+  {
+    "company_name": "Ansal API",
+    "website": "https://www.ansalapi.com/"
+  },
+  {
+    "company_name": "Omaxe Limited",
+    "website": "https://www.omaxe.com/"
+  },
+  {
+    "company_name": "Supertech Limited",
+    "website": "https://www.supertechlimited.com/"
+  },
+  {
+    "company_name": "Jaypee Group",
+    "website": "https://www.jalindia.co.in/"
+  },
+  {
+    "company_name": "Eldeco Group",
+    "website": "https://www.eldeco.co.in/"
+  },
+  {
+    "company_name": "Antony Waste Handling Cell",
+    "website": "https://www.antonywastehandling.com/"
+  },
+  {
+    "company_name": "Mantri Developers",
+    "website": "https://www.mantritech.com/"
+  },
+  {
+    "company_name": "Total Environment",
+    "website": "https://www.totalenvironment.in/"
+  },
+  {
+    "company_name": "Provident Housing",
+    "website": "https://www.providenthousing.com/"
+  },
+  {
+    "company_name": "Century Real Estate",
+    "website": "https://www.centuryrealestate.in/"
+  },
+  {
+    "company_name": "Hindustan Construction Company",
+    "website": "https://www.hccindia.com/"
+  },
+  {
+    "company_name": "GMR Group",
+    "website": "https://www.gmrgroup.in/"
+  },
+  {
+    "company_name": "Afcons Infrastructure",
+    "website": "https://www.afcons.com/"
+  },
+  {
+    "company_name": "Ahluwalia Contracts",
+    "website": "https://www.acl.co.in/"
+  },
+  {
+    "company_name": "Ashoka Buildcon",
+    "website": "https://www.ashokabuildcon.com/"
+  },
+  {
+    "company_name": "BL Kashyap & Sons",
+    "website": "https://www.blkashyap.com/"
+  },
+  {
+    "company_name": "Capacit'e Infraprojects",
+    "website": "https://www.capacite.in/"
+  },
+  {
+    "company_name": "Dilip Buildcon",
+    "website": "https://www.dilipbuildcon.com/"
+  },
+  {
+    "company_name": "GR Infraprojects",
+    "website": "https://www.grinfraprojects.com/"
+  },
+  {
+    "company_name": "IRB Infrastructure Developers",
+    "website": "https://www.irbindia.com/"
+  },
+  {
+    "company_name": "Tata Housing",
+    "website": "https://www.tatarealty.in/"
+  },
+  {
+    "company_name": "Panchshil Realty",
+    "website": "https://www.panchshil.com/"
+  },
+  {
+    "company_name": "Ajmera Realty & Infra",
+    "website": "https://www.ajmerarealty.com/"
+  },
+  {
+    "company_name": "PSP Projects",
+    "website": "https://www.pspprojects.com/"
+  },
+  {
+    "company_name": "Arkade Developers",
+    "website": "https://www.arkadedevelopers.com/"
+  },
+  {
+    "company_name": "Ganesh Housing Corp",
+    "website": "https://www.ganeshhousing.com/"
+  },
+  {
+    "company_name": "Hemisphere Properties",
+    "website": "https://www.hemisphereproperties.com/"
+  },
+  {
+    "company_name": "Anant Raj Ltd",
+    "website": "https://www.anantraj.com/"
+  },
+  {
+    "company_name": "JLL India",
+    "website": "https://www.jll.co.in/"
+  },
+  {
+    "company_name": "CBRE India",
+    "website": "https://www.cbre.co.in/"
+  },
+  {
+    "company_name": "NoBroker",
+    "website": "https://www.nobroker.in/"
+  },
+  {
+    "company_name": "Cushman & Wakefield India",
+    "website": "https://www.cushmanwakefield.com/en/india"
+  },
+  {
+    "company_name": "Colliers India",
+    "website": "https://www.colliers.com/en-in"
+  },
+  {
+    "company_name": "BHUTANI INFRA",
+    "website": "https://www.bhutaniinfra.com/"
+  },
+  {
+    "company_name": "RPR Services",
+    "website": "https://www.rprservices.in/"
+  },
+  {
+    "company_name": "Unique Builders",
+    "website": "https://www.uniquebuilders.in/"
+  },
+  {
+    "company_name": "Larisa Realtech",
+    "website": "https://www.larisarealtech.com/"
+  },
+  {
+    "company_name": "Ashiana Housing Ltd",
+    "website": "https://www.ashianahousing.com/"
+  },
+  {
+    "company_name": "Attaie Properties",
+    "website": "https://www.attaieproperties.com/"
+  },
+  {
+    "company_name": "El, MI Group",
+    "website": "https://www.elmigroup.com/"
+  },
+  {
+    "company_name": "Rishita Developers",
+    "website": "https://www.rishitadevelopers.com/"
+  },
+  {
+    "company_name": "Shalimar Corp",
+    "website": "https://www.shalimarcorp.com/"
+  },
+  {
+    "company_name": "Eiffel Infradevelopers",
+    "website": "https://www.eiffelinfra.com/"
+  },
+  {
+    "company_name": "Sattva Group",
+    "website": "https://www.sattvagroup.in/"
+  },
+  {
+    "company_name": "Embassy Office Parks REIT",
+    "website": "https://www.embassyofficeparks.com/"
+  },
+  {
+    "company_name": "Namo Realtech",
+    "website": "https://www.namorealtech.com/"
+  },
+  {
+    "company_name": "Godrej Construction",
+    "website": "https://www.godrejconstruction.com/"
+  },
+  {
+    "company_name": "Parsvnath Developers",
+    "website": "https://www.parsvnath.com/"
+  },
+  {
+    "company_name": "Spaze Group",
+    "website": "https://www.spazegroup.com/"
+  },
+  {
+    "company_name": "Emaar MGF Land",
+    "website": "https://www.emaar-mgf.com/"
+  },
+  {
+    "company_name": "Today Homes",
+    "website": "https://www.todayhomes.in/"
+  },
+  {
+    "company_name": "Nahar Group",
+    "website": "https://www.nahargroup.com/"
+  },
+  {
+    "company_name": "Raheja Developers",
+    "website": "https://www.rahejadevelopers.com/"
+  },
+  {
+    "company_name": "Godrej & Boyce",
+    "website": "https://www.godrej.com/"
+  },
+  {
+    "company_name": "Sadhana Group",
+    "website": "https://www.sadhanagroup.in/"
+  },
+  {
+    "company_name": "Sterling Developers",
+    "website": "https://www.sterlingdevelopers.com/"
+  },
+  {
+    "company_name": "Marathe Group",
+    "website": "https://www.marathegroup.com/"
+  },
+  {
+    "company_name": "Mohan Realtors",
+    "website": "https://www.mohanrealtors.com/"
+  },
+  {
+    "company_name": "Casagrand Builder",
+    "website": "https://www.casagrand.co.in/"
+  },
+  {
+    "company_name": "Radiance Realty",
+    "website": "https://www.radiancerealty.in/"
+  },
+  {
+    "company_name": "Appaswamy Real Estate",
+    "website": "https://www.appaswamy.com/"
+  },
+  {
+    "company_name": "Shriram Group",
+    "website": "https://www.shriramgroup.com/"
+  },
+  {
+    "company_name": "MARG Group",
+    "website": "https://www.marggroup.com/"
+  },
+  {
+    "company_name": "Conscient Infrastructure",
+    "website": "https://www.consciientgroup.com/"
+  },
+  {
+    "company_name": "Mahagun Group",
+    "website": "https://www.mahagun.co.in/"
+  },
+  {
+    "company_name": "3C Company",
+    "website": "https://www.3ccompany.com/"
+  },
+  {
+    "company_name": "Gaursons India",
+    "website": "https://www.gaursons.com/"
+  },
+  {
+    "company_name": "Sikka Group",
+    "website": "https://www.sikkagroup.in/"
+  },
+  {
+    "company_name": "Ace Group",
+    "website": "https://www.acegroupindia.com/"
+  },
+  {
+    "company_name": "Logix Group",
+    "website": "https://www.logixgroup.co.in/"
+  }
+]

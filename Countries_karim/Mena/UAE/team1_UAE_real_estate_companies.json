@@ -1,0 +1,780 @@
+[
+    {
+        "company_name": "The First Group",
+        "Profile Link": "https://www.yello.ae/company/346483/the-first-group",
+        "website": "www.thefirstgroup.com",
+        "Address": "Address: 22nd Floor, Tameem House, TECOM, PO Box 24573,Dubai, UAE",
+        "Description": "Leading hospitality and real estate developer.",
+        "Phone": "+971 4 455 0100",
+        "Established": "2005",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Mayak Real Estate",
+        "Profile Link": "https://www.yello.ae/company/375429/mayak-real-estate",
+        "website": "mayak.ae/",
+        "Address": "Address: 1801-1802, Single Business Tower - Business Bay,Dubai, UAE",
+        "Description": null,
+        "Phone": "+971586908803",
+        "Established": "2011",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Brand Me Advertising L.L.C.",
+        "Profile Link": "https://www.yello.ae/company/344422/brand-me-advertising",
+        "website": "www.brandmeadvertising.com",
+        "Address": "Address: Ras Al Khor Industrial Area 2,Dubai, UAE",
+        "Description": "Creative marketing solutions tailored for brands.",
+        "Phone": "+971 50 468 4201",
+        "Established": "2009",
+        "Rating": "4.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Harbor Real Estate Broker",
+        "Profile Link": "https://www.yello.ae/company/27411/harbor-real-estate-broker",
+        "website": "harbordubai.com",
+        "Address": "Address:  Office#1803, 18th Floor, City - Tower 2 Sheikh Zayed Rd,Dubai, UAE",
+        "Description": "Expert real estate services in Dubai.",
+        "Phone": "+971 4 325 1616",
+        "Established": "2008",
+        "Rating": "4.0",
+        "Verified": true
+    },
+    {
+        "company_name": "The Ambassador Properties",
+        "Profile Link": "https://www.yello.ae/company/362267/the-ambassador-properties",
+        "website": null,
+        "Address": "Address: Marasi Dr - Business Bay,Dubai, UAE",
+        "Description": "Luxury real estate developments in Dubai.",
+        "Phone": "+971 50 493 0010",
+        "Established": "2015",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Sweet Homes Real Estate",
+        "Profile Link": "https://www.yello.ae/company/128827/sweet-homes-real-estate",
+        "website": "sweethomesgroup.com",
+        "Address": "Address: 5th floor, Falcon Tower B1, Al Rashidiya Area,Ajman, UAE",
+        "Description": "Expert real estate services in Ajman, UAE.",
+        "Phone": "+971 6 749 9090",
+        "Established": "2003",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Union Square House Real Estate Brokers",
+        "Profile Link": "https://www.yello.ae/company/343680/union-square-house-real-estate-brokers",
+        "website": "www.ushre.com",
+        "Address": "Address: Office 904, Al Safa Tower, Shaikh Zayed Road,Dubai, UAE",
+        "Description": "Leading real estate brokers in Dubai market.",
+        "Phone": "+971 4 386 4400",
+        "Established": "2010",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Green City Real Estate",
+        "Profile Link": "https://www.yello.ae/company/127968/green-city-real-estate",
+        "website": "greencityre.com",
+        "Address": "Address: Tameem House Office Building, Barsha Heights,Dubai, UAE",
+        "Description": "Sustainable living solutions in urban environment.",
+        "Phone": "+971 58 582 3377",
+        "Established": "2012",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Dubizzle Abu Dhabi",
+        "Profile Link": "https://www.yello.ae/company/349624/dubizzle-abu-dhabi",
+        "website": "abudhabi.dubizzle.com",
+        "Address": "Address:Abu Dhabi, UAE",
+        "Description": "Leading classifieds platform for buying and selling.",
+        "Phone": "+971 4 446 6800",
+        "Established": "2005",
+        "Rating": "4.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Azizi Developments",
+        "Profile Link": "https://www.yello.ae/company/357561/azizi-developments",
+        "website": "azizidevelopments.com",
+        "Address": "Address: API World Tower, Suite No. 902 / 904, Sheikh Zayed,Dubai, UAE",
+        "Description": "Innovative real estate solutions in Dubai.",
+        "Phone": "+971 4 359 6673",
+        "Established": "2007",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Flyingcolour Real Estate Broker",
+        "Profile Link": "https://www.yello.ae/company/344512/flyingcolour-real-estate-broker",
+        "website": "www.flyingcolour.net",
+        "Address": "Address: Office no.2609 Concord Tower,DubaiMedia City, UAE",
+        "Description": "Leading real estate services in Dubai.",
+        "Phone": "+971 4 367 9795",
+        "Established": "2005",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Nationwide Middle East Properties",
+        "Profile Link": "https://www.yello.ae/company/345198/nationwide-middle-east-properties",
+        "website": "www.nwmea.com",
+        "Address": "Address:  Das Tower, Sultan Bin Zayed Street (32nd Street - Khalidiyah St,Abu Dhabi, UAE",
+        "Description": "Leading real estate services in the Middle East.",
+        "Phone": "+971 24 91 2291",
+        "Established": "2011",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Crompton Partners",
+        "Profile Link": "https://www.yello.ae/company/354120/crompton-partners",
+        "website": "www.cpestateagents.com",
+        "Address": "Address: International Tennis Stadium, Zayed Sports City,Abu Dhabi, UAE",
+        "Description": "Exceptional real estate expertise with personal service",
+        "Phone": "+971 56 445 8197",
+        "Established": "2012",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Metropole Properties One Person Company LLC",
+        "Profile Link": "https://www.yello.ae/company/346878/metropole-properties-one-person-company-llc",
+        "website": "metropoledubai.com/agents/metropole-properties/",
+        "Address": "Address: Office 114C, Diamond Business Center 1, Arjan,Dubailand, UAE",
+        "Description": "Innovative real estate solutions in Dubai.",
+        "Phone": "+971 4 422 5079",
+        "Established": "2012",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Clarke & Scott Real Estate",
+        "Profile Link": "https://www.yello.ae/company/347337/clarkescott-real-estate",
+        "website": "www.clarkeandscott.com",
+        "Address": "Address: Office 904, Sidra Tower- Fraser Suites Hotel, Sheikh Zayed Road- Media City,Dubai, UAE",
+        "Description": "Premier real estate solutions in Dubai.",
+        "Phone": "+971 4 279 9100",
+        "Established": "2014",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Al Jaber Property Management & Maintenance",
+        "Profile Link": "https://www.yello.ae/company/28628/al-jaber-property-management-maintenance",
+        "website": "aljaberproperty.com",
+        "Address": "Address: Mussafah Industrial Area,Abu Dhabi, UAE",
+        "Description": "Professional property management and maintenance services.",
+        "Phone": "+971 2 502 0230",
+        "Established": "1996",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Al Ward Properties",
+        "Profile Link": "https://www.yello.ae/company/298889/al-ward-real-estate-broker",
+        "website": "alwardproperties.ae",
+        "Address": "Address: Office #32, Third Floor, Al Naboodah Building, Al Quoz 3,Dubai, UAE",
+        "Description": "Leading real estate agency in Dubai.",
+        "Phone": "+971 4 380 6929",
+        "Established": "2006",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Capri Realty Real Estate Broker LLC",
+        "Profile Link": "https://www.yello.ae/company/102505/capri-realty-real-estate-broker-llc",
+        "website": "www.capriuae.com",
+        "Address": "Address: Office#201/202, Bayan Business Center,DubaiInvestment Park, UAE",
+        "Description": "Premier real estate services in Dubai.",
+        "Phone": "+971 4 354 5149",
+        "Established": "2011",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Caspian  Properties Brokers",
+        "Profile Link": "https://www.yello.ae/company/102509/caspian-properties-brokersl-lc-",
+        "website": "www.caspian-properties.com",
+        "Address": "Address: 502B, Building 4 Emaar Business Park, The GreensDubai, UAE",
+        "Description": "Expert real estate services in Dubai market.",
+        "Phone": "+971 4 434 3753",
+        "Established": "2006",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Bayut",
+        "Profile Link": "https://www.yello.ae/company/341345/bayut",
+        "website": "www.bayut.com",
+        "Address": "Address:  Office 511, Building 3,DubaiDesign District , UAE",
+        "Description": "Leading property portal for Dubai real estate.",
+        "Phone": "+971 4 422 0098",
+        "Established": "2008",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "DXB Off Plan - Latest Off Plan Projects",
+        "Profile Link": "https://www.yello.ae/company/355729/latest-off-plan-projectsdxb-off-plan",
+        "website": "dxboffplan.com",
+        "Address": "Address: 1601c City Tower 2, Sheikh Zayed Rd,Dubai, UAE",
+        "Description": "Latest off-plan projects in Dubai, UAE.",
+        "Phone": "+971 4 388 8500",
+        "Established": "2006",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Al Hamra Village - Real Estate Agency RAK",
+        "Profile Link": "https://www.yello.ae/company/344906/al-hamra-village-real-estate-agency-rak",
+        "website": "alhamravillage.com",
+        "Address": "Address: P.O.Box : 30019,Ras Al Khaimah, UAE",
+        "Description": "Premier real estate in Ras Al Khaimah.",
+        "Phone": "+971 7 243 2724",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Ajman Property Finder",
+        "Profile Link": "https://www.yello.ae/company/355003/ajman-property-finder",
+        "website": "www.ajmanpropertyfinder.com",
+        "Address": "Address:Ajman, UAE",
+        "Description": "Comprehensive real estate services in Ajman.",
+        "Phone": "+971 55 948 5312",
+        "Established": "2012",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Ocean Wave Real Estate",
+        "Profile Link": "https://www.yello.ae/company/345377/ocean-wave-real-estate",
+        "website": "www.oceanwavedubai.com",
+        "Address": "Address: Al Abraj Street, Suit # 1212, Al Manara Tower, Business Bay,Dubai, UAE",
+        "Description": "Innovative real estate solutions in Dubai.",
+        "Phone": "+971 4 430 8011",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Al Fattan Properties",
+        "Profile Link": "https://www.yello.ae/company/22612/al-fattan-properties",
+        "website": "www.alfattan.ae",
+        "Address": "Address: Al Fattan Plaza Bldg, Opp Cargo Village -Dubai, UAE",
+        "Description": "Premier real estate development in Dubai.",
+        "Phone": "+971 4 282 9999",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Exclusive Links Real Estate Brokers",
+        "Profile Link": "https://www.yello.ae/company/343787/exclusive-links-real-estate-brokers",
+        "website": "www.exclusive-links.com",
+        "Address": "Address: API Trio Towers Office 3101, Al Barsha, Sheikh Zayed Road,Dubai, UAE",
+        "Description": "Dubai's premier real estate brokerage service.",
+        "Phone": "+971 4 399 4937",
+        "Established": "2005",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Gravity Real Estate",
+        "Profile Link": "https://www.yello.ae/company/337157/gravity-real-estate",
+        "website": "www.gravity-re.com",
+        "Address": "Address: Office 1510 - 1512, Addax Office Tower, Al Reem Island,Abu Dhabi, United Arab Emirates, UAE",
+        "Description": "Innovative solutions for Abu Dhabi's real estate market.",
+        "Phone": "+971502121141",
+        "Established": "2007",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Layan Real Estate LLC",
+        "Profile Link": "https://www.yello.ae/company/96868/layan-real-estate-llc",
+        "website": "layan.ae/",
+        "Address": "Address: Box No. 114418,Dubai, UAE",
+        "Description": "Premier property developers in Dubai's market.",
+        "Phone": "+9714-434 3607",
+        "Established": "2014",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Meraas Estates LLC",
+        "Profile Link": "https://www.yello.ae/company/80306/meraas-estates-llc",
+        "website": "www.meraas.com",
+        "Address": "Address: 32 C St - Al Satwa,Dubai, UAE",
+        "Description": "Innovative real estate development in Dubai.",
+        "Phone": "+971 4 332 2212",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "New Omniyat Cleaning and Technical Services LLC",
+        "Profile Link": "https://www.yello.ae/company/59222/najmat-al-omnyat-building-cleaning-llc",
+        "website": "www.facebook.com/newomniyat/",
+        "Address": "Address: T 01, Shop No 04, International City, Spain Cluster,Dubai, UAE",
+        "Description": "Comprehensive cleaning and technical solutions in Dubai.",
+        "Phone": "+971 4 442 9656",
+        "Established": "2005",
+        "Rating": "1.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Spring Rose Real Estate",
+        "Profile Link": "https://www.yello.ae/company/337278/spring-rose-real-estate",
+        "website": "srre.ae/",
+        "Address": "Address: office 2703-2704, Iris Bay Tower, Business Bay,Dubai, P.O. Box: 51609, UAE",
+        "Description": "Trusted real estate services in Dubai.",
+        "Phone": "04-3746017",
+        "Established": "2003",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Texture Properties",
+        "Profile Link": "https://www.yello.ae/company/363876/texture-properties",
+        "website": "textureproperties.com",
+        "Address": "Address: Suite E1 E2, 15th Floor, I Rise Tower, Al Barsha Heights (TECOM) P.O Box: 391981,Dubai, UAE",
+        "Description": "Leading provider of innovative texture solutions.",
+        "Phone": "+971 4 323 2455",
+        "Established": "2004",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Al Futtaim Private Company LLC",
+        "Profile Link": "https://www.yello.ae/company/276829/al-futtaim-company-llc",
+        "website": "www.alfuttaim.ae",
+        "Address": "Address:  Next toDubaiTourism Building - Airport Rd, P.O Box 152, UAE",
+        "Description": "Diverse conglomerate with retail and automotive operations.",
+        "Phone": "+971 4 211 9111",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Ali Bin Haider  Real Estate",
+        "Profile Link": "https://www.yello.ae/company/102025/ali-bin-haider-real-estate",
+        "website": "www.abhreuae.com",
+        "Address": "Address: Box No. 688,Dubai, UAE",
+        "Description": "Leading property solutions in Dubai's market.",
+        "Phone": "+971 43287251",
+        "Established": "1996",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Al Jaber Property Management And Maintenance (AJPMM)",
+        "Profile Link": "https://www.yello.ae/company/298223/al-jaber-real-estate-management-llc",
+        "website": "www.aljaberproperty.com",
+        "Address": "Address: P.O. Box: 2175, Mussafa Industrial Area, Mussafah, MW-1,Abu Dhabi, UAE",
+        "Description": "Efficient leasing and maintenance for tenant satisfaction in Abu Dhabi.",
+        "Phone": "971 2 502 0230",
+        "Established": "1996",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Edwards & Towers",
+        "Profile Link": "https://www.yello.ae/company/128551/edwardstowers",
+        "website": "edwardsandtowers.com",
+        "Address": "Address:  Marina Plaza - 1903 -DubaiMarina -Dubai, UAE",
+        "Description": "Premier real estate services in Dubai.",
+        "Phone": "+971 4 399 5787",
+        "Established": "2004",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Mountain Gate Realty",
+        "Profile Link": "https://www.yello.ae/company/342781/mountain-gate-realty",
+        "website": "www.mountaingate.ae",
+        "Address": "Address: Office 502, Control Tower, Motor City,Dubai, UAE",
+        "Description": "Premier real estate services in Dubai.",
+        "Phone": "+971 4 452 4466",
+        "Established": "2002",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "RAK Properties",
+        "Profile Link": "https://www.yello.ae/company/22797/rak-properties",
+        "website": "www.rakproperties.ae",
+        "Address": "Address: Al Khor Road, Sidroh,Ras Al Khaimah, UAE",
+        "Description": "Leading real estate developer in Ras Al Khaimah.",
+        "Phone": "+971 7 228 4777",
+        "Established": "2005",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Salina Limited Company",
+        "Profile Link": "https://www.yello.ae/company/248510/salina-limited-company",
+        "website": "www.salinagroup.com",
+        "Address": "Address: Industrial 1, AlAjman, UAE",
+        "Description": "Innovation in construction, decor, plastics, real estate, and tech.",
+        "Phone": "+971 6 473 448",
+        "Established": "1993",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Banian Fzco",
+        "Profile Link": "https://www.yello.ae/company/48527/banian-fzco",
+        "website": "banian.com",
+        "Address": "Address: 1906 Marina Plaza,DubaiMarina, UAE",
+        "Description": "Leading IT solutions provider in the UAE.",
+        "Phone": "+971 4 881 6686",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Drehomes Real Estate Broker",
+        "Profile Link": "https://www.yello.ae/company/102576/dre-homes-real-estate-broker",
+        "website": "www.drehomes.com/",
+        "Address": "Address: The Citadel Tower, The Citadel - # 704 / 705,Dubai, UAE",
+        "Description": "Expert real estate services in Dubai.",
+        "Phone": "+971 4 451 1638",
+        "Established": "2007",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Elite Property",
+        "Profile Link": "https://www.yello.ae/company/127385/elite-property-management",
+        "website": "elitepropertydxb.com",
+        "Address": "Address:  Onyx Tower - 1 Sheikh Zayed Rd -Dubai, UAE",
+        "Description": "Premier properties and elite real estate services.",
+        "Phone": "+971 5 859 98161",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Empire City Real Estate L.L.C",
+        "Profile Link": "https://www.yello.ae/company/291650/empire-city-general-trading-llc",
+        "website": "empire-group.ae",
+        "Address": "Address:  Business Central Towers - Al Sufouh -DubaiInternet City -Dubai, UAE",
+        "Description": "Leading real estate services in Dubai.",
+        "Phone": "+971 52 632 8467",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Espace Real Estate",
+        "Profile Link": "https://www.yello.ae/company/102610/espace-real-estate-broker",
+        "website": "www.espace.ae",
+        "Address": "Address:DubaiMarina, Marina Plaza Office numbers 2702 & 2703 -Dubai, UAE",
+        "Description": "Innovative real estate solutions in Dubai.",
+        "Phone": "+971 4 306 9999",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Green Desert Real Estate Brokers",
+        "Profile Link": "https://www.yello.ae/company/298976/green-desert-real-estate-brokers",
+        "website": "www.greendre.com",
+        "Address": "Address:  Building, IT PLAZA -DubaiSilicon Oasis -Dubai, UAE",
+        "Description": "Expert real estate services in Dubai market.",
+        "Phone": "+971 50 324 2054",
+        "Established": null,
+        "Rating": "1.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Gulf Land Property Developers",
+        "Profile Link": "https://www.yello.ae/company/182494/gulf-land-property-management",
+        "website": "gulflandproperty.com",
+        "Address": "Address:  Mashreq Bank Global HQ - 20th Floor Umniyati Street - DowntownDubai-Dubai, UAE",
+        "Description": "Innovative real estate solutions in Dubai.",
+        "Phone": "+971 4 587 3777",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Manazel Specialists Real Estate - L L C",
+        "Profile Link": "https://www.yello.ae/company/315802/manazel-specialists-real-estate-l-l-c",
+        "website": "manazelgroup.com",
+        "Address": "Address:  Prestige Tower 17 - 14th Floor - Mohamed Bin Zayed City -Abu Dhabi, UAE",
+        "Description": "Leading real estate developers in Abu Dhabi.",
+        "Phone": "+971 2 644 4466",
+        "Established": "2006",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Mubarak & Brothers Investments",
+        "Profile Link": "https://www.yello.ae/company/298697/mubarakbrothers-financialproperty-investments-l-l-c",
+        "website": "www.mbiuae.com",
+        "Address": "Address: 2nd Street Beside Carrefour - Airport Road -Abu Dhabi, UAE",
+        "Description": null,
+        "Phone": "+971 2 495 0999",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "5 Pillars Real Estate",
+        "Profile Link": "https://www.yello.ae/company/367192/5-pillars-real-estate",
+        "website": "www.5pillars.ae",
+        "Address": "Address: Office No: 304, Oxford Tower, Business Bay,Dubai, UAE",
+        "Description": "Expert real estate services in Dubai market.",
+        "Phone": "+971 4 241 1419",
+        "Established": "2018",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Alpha Properties",
+        "Profile Link": "https://www.yello.ae/company/22653/alpha-properties",
+        "website": "alphaproperties.mysites.io/",
+        "Address": "Address: 10 Al Maktoum Rd - Deira - Riggat Al Buteen,Dubai, UAE",
+        "Description": "Leading real estate solutions in Dubai.",
+        "Phone": "+971 4-228-8588",
+        "Established": null,
+        "Rating": "1.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Riviera Furnished Apartments",
+        "Profile Link": "https://www.yello.ae/company/103212/Riviera-Furnished-Apartments",
+        "website": "www.riviera.ae",
+        "Address": "Address: International City -DubaiBuilding No : CBD 34, Office 7 & 11 Builidng company_name: \" Riviera LakeView Apartments \", UAE",
+        "Description": "Premium furnished apartments for luxury living.",
+        "Phone": "+971 4 589 8555",
+        "Established": "2011",
+        "Rating": "3.9",
+        "Verified": true
+    },
+    {
+        "company_name": "Damac Properties - Sheikh Zayed Road",
+        "Profile Link": "https://www.yello.ae/company/22699/damac-properties-sheikh-zayed-road",
+        "website": "www.damacproperties.com",
+        "Address": "Address: Al Moosa Tower 2, 5th Floor,Sheikh Zayed Road, Trade Center 1,Dubai, UAE",
+        "Description": "Luxury real estate developer in Dubai.",
+        "Phone": "+971 4 332 2004",
+        "Established": "2002",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Plug-Ins Electronix - Al Ghurair City",
+        "Profile Link": "https://www.yello.ae/company/23073/plug-ins-electronix-al-ghurair-city",
+        "website": "www.pluginselectronix.com/",
+        "Address": "Address: Al Ghurair City, Al Rigga Road, Al Muraqabat,Dubai, UAE",
+        "Description": "Innovative electronic solutions for modern living.",
+        "Phone": "04-228-3657",
+        "Established": "1960",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Seal Real Estate Registration Trustee",
+        "Profile Link": "https://www.yello.ae/company/352583/seal-real-estate-registration-trustee",
+        "website": "www.sealra.com",
+        "Address": "Address: Bldg. 1, Office 501 Emaar Square,Dubai, UAE",
+        "Description": "Efficient property transfer registration with reliable, expert service.",
+        "Phone": "0097143617776",
+        "Established": "2013",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Urban Properties",
+        "Profile Link": "https://www.yello.ae/company/345844/m-s-properties",
+        "website": "www.urbanproperties.co",
+        "Address": "Address: 611, Clover Bay, Business Bay,Dubai, UAE",
+        "Description": "Premier real estate services in Dubai.",
+        "Phone": "+971 4 355 4070",
+        "Established": "2014",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Global99 Property Investment",
+        "Profile Link": "https://www.yello.ae/company/364233/global99-property-investment",
+        "website": "global99.ae",
+        "Address": "Address: Office 301, 3rd Floor, Bloom Central Airport Road, Al Manhal, P.O. Box 28298,Abu Dhabi, UAE",
+        "Description": "Premier property investment solutions in Abu Dhabi.",
+        "Phone": "+971 2 445 5268",
+        "Established": "2016",
+        "Rating": "5.0",
+        "Verified": true
+    },
+    {
+        "company_name": "Al Muhairy Centre",
+        "Profile Link": "https://www.yello.ae/company/22901/al-muhairy-centre",
+        "website": null,
+        "Address": "Address: Zayed The First St Al Muhairy Centre, Shop Number B3 - Zayed The First St ,Abu Dhabi, UAE",
+        "Description": "Shopping, dining, and entertainment destination.",
+        "Phone": "+971 2-632-2228",
+        "Established": null,
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Group Seven Properties LLC",
+        "Profile Link": "https://www.yello.ae/company/349940/group-seven-properties-llc",
+        "website": "www.group7properties.com",
+        "Address": "Address: Office 204, Al Asmawi Building, Umm Al Sheif, Sheikh Zayed Road,Dubai, UAE",
+        "Description": "Expert real estate management and consultancy in Dubai.",
+        "Phone": "04 363 9777",
+        "Established": "2005",
+        "Rating": null,
+        "Verified": true
+    },
+    {
+        "company_name": "Al Tamimi & Company",
+        "website": "www.tamimi.com",
+        "description": "Al Tamimi & Company is the largest law firm in the Middle East, with a strong presence in Abu Dhabi. Their real estate practice is highly regarded for its comprehensive services in property acquisition, development, leasing, and dispute resolution. Their deep understanding of the UAE property market makes them a top choice for clients.",
+        "address": "Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 813 0444"
+    },
+    {
+        "company_name": "Hadef & Partners",
+        "website": "www.hadefpartners.com",
+        "description": "Hadef & Partners is one of the most prestigious law firms in the UAE, with an extensive real estate practice. They offer a full range of property-related legal services, including transactions, development projects, leasing, and dispute resolution. Their team is known for its strategic approach and deep market insights.",
+        "address": "Al Muhairy Center, Sheikh Zayed the First Street, Abu Dhabi, UAE",
+        "phone": "+971 2 622 2330"
+    },
+    {
+        "company_name": "Clyde & Co",
+        "website": "www.clydeco.com",
+        "description": "Clyde & Co is a global law firm with a well-established real estate practice in Abu Dhabi. They provide a wide range of legal services including property transactions, development, leasing, and disputes. Their international expertise coupled with local knowledge makes them a preferred choice for complex real estate matters.",
+        "address": "Al Maqam Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 494 3500"
+    },
+    {
+        "company_name": "Afridi & Angell",
+        "website": "www.afridi-angell.com",
+        "description": "Afridi & Angell is a leading law firm in Abu Dhabi with a strong focus on real estate law. They offer expert legal services in property transactions, development projects, leasing, and dispute resolution. Their team’s client-centric approach and attention to detail make them a reliable choice for property-related legal matters.",
+        "address": "Al Ghaith Tower, Hamdan Street, Abu Dhabi, UAE",
+        "phone": "+971 2 627 5134"
+    },
+    {
+        "company_name": "Al Suwaidi & Company",
+        "website": "www.alsuwaidi.ae",
+        "description": "Al Suwaidi & Company is a full-service law firm with a strong real estate practice in Abu Dhabi. They provide a wide range of legal services, including property acquisition, development, leasing, and dispute resolution. Their team is known for its practical solutions and deep understanding of the local market.",
+        "address": "Sheikh Zayed Bin Sultan Street, Abu Dhabi, UAE",
+        "phone": "+971 2 621 0009"
+    },
+    {
+        "company_name": "BSA Ahmad Bin Hezeem & Associates LLP",
+        "website": "www.bsabh.com",
+        "description": "BSA is a respected law firm in Abu Dhabi with a dedicated real estate practice. They assist clients with property transactions, development projects, leasing, and dispute resolution. Their commitment to providing personalized legal services has earned them a strong reputation in the market.",
+        "address": "Abu Dhabi Global Market, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 694 8544"
+    },
+    {
+        "company_name": "HFW (Holman Fenwick Willan)",
+        "website": "www.hfw.com",
+        "description": "HFW is a global law firm with a significant presence in Abu Dhabi. Their real estate team provides expert advice on property transactions, development projects, leasing, and disputes. Known for their strategic approach and client-focused service, they are a top choice for real estate legal matters.",
+        "address": "Al Maqam Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 494 3600"
+    },
+    {
+        "company_name": "Gowling WLG",
+        "website": "www.gowlingwlg.com",
+        "description": "Gowling WLG is a global law firm with a strong focus on real estate law. Their Abu Dhabi office offers a broad range of services, including property transactions, development, leasing, and dispute resolution. Their international experience and local expertise make them a preferred partner for real estate clients.",
+        "address": "Al Maqam Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 494 3600"
+    },
+    {
+        "company_name": "Norton Rose Fulbright",
+        "website": "www.nortonrosefulbright.com",
+        "description": "Norton Rose Fulbright is a global law firm with a well-established real estate practice in Abu Dhabi. They provide a comprehensive range of services, including property transactions, development projects, leasing, and dispute resolution. Their global reach and deep understanding of the UAE market make them a trusted choice for clients.",
+        "address": "Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 613 2400"
+    },
+    {
+        "company_name": "Al Rowaad Advocates & Legal Consultancy",
+        "website": "www.alrowaad.ae",
+        "description": "Al Rowaad is a prominent law firm with a strong real estate practice in Abu Dhabi. They offer legal services in property transactions, development, leasing, and disputes. Their team’s commitment to delivering tailored legal solutions has earned them a strong reputation in the market.",
+        "address": "Sheikh Zayed Street, Abu Dhabi, UAE",
+        "phone": "+971 2 650 1211"
+    },
+    {
+        "company_name": "Fichte & Co Legal Consultancy",
+        "website": "www.fichtelegal.com",
+        "description": "Fichte & Co is a well-regarded law firm offering comprehensive real estate legal services in Abu Dhabi. They specialize in property transactions, development projects, leasing, and dispute resolution. Their hands-on approach and deep understanding of both local and international real estate markets make them a reliable choice.",
+        "address": "Tamouh Tower, Reem Island, Abu Dhabi, UAE",
+        "phone": "+971 2 644 2288"
+    },
+    {
+        "company_name": "Simmons & Simmons",
+        "website": "www.simmons-simmons.com",
+        "description": "Simmons & Simmons is a global law firm with a strong real estate practice in Abu Dhabi. They provide a wide range of legal services, including property transactions, development, leasing, and dispute resolution. Their international expertise and local knowledge make them a trusted partner for real estate clients.",
+        "address": "Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 644 2464"
+    },
+    {
+        "company_name": "Squire Patton Boggs",
+        "website": "www.squirepattonboggs.com",
+        "description": "Squire Patton Boggs is a top-tier global law firm with a significant presence in Abu Dhabi. Their real estate team offers comprehensive services in property transactions, development, leasing, and disputes. Their strategic advice and client-focused approach make them a preferred choice for real estate legal matters.",
+        "address": "Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 651 5900"
+    },
+    {
+        "company_name": "Dentons",
+        "website": "www.dentons.com",
+        "description": "Dentons is one of the world’s largest law firms, with a strong real estate practice in Abu Dhabi. They offer a wide range of legal services, including property transactions, development, leasing, and dispute resolution. Their global reach and deep understanding of the local market make them a reliable partner for real estate clients.",
+        "address": "Al Maqam Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 613 1500"
+    },
+    {
+        "company_name": "White & Case",
+        "website": "www.whitecase.com",
+        "description": "White & Case is a global law firm with a robust real estate practice in Abu Dhabi. They provide expert legal services in property transactions, development projects, leasing, and disputes. Their team’s strategic approach and client-centric service make them a top choice for real estate legal matters.",
+        "address": "Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 694 3200"
+    },
+    {
+        "company_name": "Baker McKenzie Habib Al Mulla",
+        "website": "www.bakermckenzie.com",
+        "description": "Baker McKenzie is a global powerhouse with a strong real estate practice in Abu Dhabi. They offer legal services across the entire property lifecycle, including transactions, development, leasing, and disputes. Their team’s expertise and global reach are invaluable for clients navigating the Abu Dhabi real estate market.",
+        "address": "Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 694 3500"
+    },
+    {
+        "company_name": "Pinsent Masons",
+        "website": "www.pinsentmasons.com",
+        "description": "Pinsent Masons is a highly regarded international law firm with a strong real estate practice in Abu Dhabi. They provide a full range of services, including property transactions, development, leasing, and dispute resolution. Their commitment to delivering high-quality legal services has earned them a solid reputation in the market.",
+        "address": "Al Maqam Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 406 5400"
+    },
+    {
+        "company_name": "Trowers & Hamlins",
+        "website": "www.trowers.com",
+        "description": "Trowers & Hamlins is a leading international law firm with a strong focus on real estate law in Abu Dhabi. They offer a comprehensive range of legal services, including property transactions, development, leasing, and dispute resolution. Their deep understanding of the UAE market and client-focused approach make them a trusted partner.",
+        "address": "Al Maqam Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 494 3600"
+    },
+    {
+        "company_name": "Addleshaw Goddard",
+        "website": "www.addleshawgoddard.com",
+        "description": "Addleshaw Goddard is an international law firm with a notable real estate practice in Abu Dhabi. They provide expert legal services in property transactions, development projects, leasing, and dispute resolution. Their team’s strategic approach and deep market knowledge make them a preferred choice for real estate clients.",
+        "address": "Al Maqam Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 694 3600"
+    },
+    {
+        "company_name": "Eversheds Sutherland",
+        "website": "www.eversheds-sutherland.com",
+        "description": "Eversheds Sutherland is a global law firm with a strong real estate practice in Abu Dhabi. They offer a wide range of legal services, including property transactions, development, leasing, and dispute resolution. Their global reach and local expertise make them a reliable partner for real estate legal matters in Abu Dhabi.",
+        "address": "Al Maqam Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE",
+        "phone": "+971 2 494 3600"
+    }
+]

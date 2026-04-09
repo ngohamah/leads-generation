@@ -1,0 +1,60 @@
+[
+
+  {
+    "company_name": "Cabinet Salès",
+    "website": "https://cabinetsales.com/droit-immobilier/",
+    "access": false,
+    "language": "English/French",
+    "description": "A prominent Haitian law firm with a dedicated real estate law practice. They provide legal services for real estate transactions, including lease agreements, co-ownership issues, and construction law. Their website features information on their legal team, areas of expertise, and contact details."
+  },
+  {
+    "company_name": "Laguerre Law Firm",
+    "website": "https://www.laguerrelawfirm.com/haitian-law",
+    "access": false,
+    "language": "English",
+    "description": "A law firm with a presence in Haiti that handles various legal matters, including real estate. Their services cover property transactions (buying and selling), property management, and rental agreements. The website provides an overview of their services and contact information."
+  },
+  {
+    "company_name": "Groupe Boulos",
+    "website": "https://groupeboulos.ht/",
+    "access": false,
+    "language": "French/English",
+    "description": "A diversified investment group in Haiti with significant real estate interests. Their portfolio includes the development and management of commercial and residential properties. The website offers insights into their various business sectors and history."
+  },
+  {
+    "company_name": "Société Immobilière et Financière (SIF)",
+    "website": "https://groupeboulos.ht/societe-immobiliere-et-financiere-sif/",
+    "access": false,
+    "language": "French/English",
+    "description": "The real estate and finance division of Groupe Boulos. SIF is involved in large-scale real estate development projects in Haiti, including commercial centers and residential communities. The website is a page within the Groupe Boulos site and details their projects."
+  },
+  {
+    "company_name": "Best of Haiti Real Estate",
+    "website": "https://www.bestofhaitirealestate.com/",
+    "access": false,
+    "language": "English",
+    "description": "A real estate agency in Haiti offering a wide range of services, including buying, selling, and renting residential and commercial properties. They also provide property management services. Their website features property listings, agent profiles, and real estate articles."
+  },
+  {
+    "company_name": "Haitian Realty",
+    "website": "https://haitianrealty.com/",
+    "access": false,
+    "language": "English",
+    "description": "A platform that connects Haitian home sellers with real estate professionals. They focus on marketing properties and providing resources for sellers. Their website outlines their services and provides a sign-up for those looking to sell property."
+  },
+  {
+    "company_name": "MLS Haiti (Solstice Realty)",
+    "website": "https://mlshaiti.com/",
+    "access": false,
+    "language": "English/French",
+    "description": "A multiple listing service for properties in Haiti, powered by Solstice Realty. It functions as a brokerage platform for buying, selling, and renting various types of properties, including commercial real estate. The site features property listings and a directory of agents."
+  },
+  {
+    "company_name": "BestONE Haiti",
+    "website": "https://bestsellerhaiti.com/",
+    "access": false,
+    "language": "English/French",
+    "description": "(Connects unreliably, but does exist) A real estate marketplace for properties in Haiti, offering services for buying, selling, and renting. The platform caters to both residential and commercial real estate and provides tools for real estate professionals. The website features property listings and registration for agents."
+  }
+
+]

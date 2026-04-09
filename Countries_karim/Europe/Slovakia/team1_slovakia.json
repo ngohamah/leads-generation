@@ -1,0 +1,142 @@
+[
+    {
+      "name": "Cresco Real Estate",
+      "website": "https://www.cresco.sk/",
+      "address": "Poštová 3, 811 06 Bratislava, Slovakia",
+      "email": "cresco@cresco.sk",
+      "phone_number": "+421 2 20 86 43 21"
+    },
+    {
+      "name": "JTRE (J&T Real Estate)",
+      "website": "https://jtre.sk/en",
+      "address": "JTRE a. s.,RIVER PARK, Dvorakovo nabrezie 10 811 02 Bratislava, Slovenská republika",
+      "email": "info@jtre.sk",
+      "phone_number": "+421 2 5941 8200"
+    },
+    {
+      "name": "Penta Real Estate",
+      "website": "https://www.pentarealestate.com/",
+      "address": "Penta Real Estate, s.r.o. Digital Park II, Einsteinova 25 851 01 Bratislava",
+      "email": "bratislava@pentarealestate.com",
+      "phone_number": "+421 2 577 88 111"
+    },
+    {
+      "name": "YIT Slovakia",
+      "website": "https://www.yitgroup.com/en/contact-us/other-locations/slovakia",
+      "address": "Račianska 153, Bratislava 831 54 (Reding Tower 2)",
+      "email": "byty@yit.sk",
+      "phone_number": "+421 903 999 333"
+    },
+    {
+      "name": "Lucron Group",
+      "website": "https://lucron.sk/en/",
+      "address": "Lucron Group, a. s. STEINERKA Business Center Legionárska 10 811 07 Bratislava Slovakia",
+      "email": "info@lucron.sk",
+      "phone_number": "+421 910 980 717 (Project Information)"
+    },
+    {
+      "name": "VI Group",
+      "website": "https://www.vigroup.sk/",
+      "address": "VI GROUP, spol. s ro Roľnícka 157 831 07 Bratislava 36",
+      "email": "atelier@vigroup.sk",
+      "phone_number": "+421 948 132 120"
+    },
+    {
+      "name": "Corwin SK",
+      "website": "https://www.corwin.sk/",
+      "address": "Corwin SK as Mateja Korvina Square 1 811 07, Bratislava Slovakia",
+      "email": "corwin@corwin.sk",
+      "phone_number": "+421 (2) 5441 6007"
+    },
+    {
+      "name": "Proxenta",
+      "website": "https://www.proxenta.sk/",
+      "address": "Mýtna 50, 811 07 Bratislava - Staré Mesto, Slovakia",
+      "email": "info@proxenta.sk",
+      "phone_number": "+421 2 32191011"
+    },
+    {
+      "name": "ITB Development",
+      "website": "https://www.itb.sk/",
+      "address": "Mickiewiczova 9, 811 07 Bratislava - Staré Mesto, Slovakia",
+      "email": "itb@itb.sk",
+      "phone_number": "+421 2 32101721"
+    },
+    {
+      "name": "Finep SK",
+      "website": "https://www.finep.sk/",
+      "address": "Trnavská cesta 6/A, 821 08 Bratislava, Slovakia",
+      "email": "info@finep.sk",
+      "phone_number": "+421 902 207 207"
+    },
+    {
+      "name": "Nesto",
+      "website": "https://www.nesto.sk/",
+      "address": "Racianska 26",
+      "email": "byvanie@nesto.sk (for Housing); business@nesto.sk (for business)",
+      "phone_number": "+421 904 751 717 (Living); +421 915 700 800 (Business)"
+    },
+    {
+      "name": "Zuckermandel",
+      "website": "https://www.jtre.sk/en/projects/zuckermandel",
+      "address": "Part of JTRE, contact JTRE directly. (Also associated with Gleeds Bratislava: Vysoká 26, Bratislava, 811 06)",
+      "email": "info@jtre.sk",
+      "phone_number": "+421 2 5941 8200 (JTRE); +421 252 922 320 (Gleeds Bratislava)"
+    },
+    {
+      "name": "Eurovea",
+      "website": "https://eurovea.sk/en",
+      "address": "Pribinova 8, Pribinova 36, 811 09 Bratislava, Slovakia",
+      "email": "office@eurovea.com",
+      "phone_number": "+421 2 20 915 000"
+    },
+    {
+      "name": "Sky Park",
+      "website": "https://www.skyparktower.sk/en/apartments/",
+      "address": "SKY PARK 4th Tower, Bottova 5, 811 09 Bratislava, Slovakia",
+      "email": "info@skypark.sk",
+      "phone_number": "+421 910 453 265 (Jana Jindrová - Sales)"
+    },
+    {
+      "name": "Bory Mall & Bory Home",
+      "website": "https://borymall.sk/ (for the mall), https://boryhome.sk/ (for home)",
+      "address": "Lamač 6780, 841 03 Bratislava IV, Slovakia (for Bory Mall)",
+      "email": "info@borymall.sk (for Bory Mall); not explicitly stated for Bory Home sales on their website",
+      "phone_number": "+421 2/6920 4849 (Bory Mall)"
+    },
+    {
+      "name": "Slnečnice",
+      "website": "https://www.slnecnice.sk/",
+      "address": "Yellow 2/A, Bratislava-Petržalka",
+      "email": "slnecnice@slnecnice.sk",
+      "phone_number": "+421 905 210 000"
+    },
+    {
+      "name": "Klingerka",
+      "website": "https://www.jtre.sk/en/projects/klingerka",
+      "address": "Part of JTRE, contact JTRE directly.",
+      "email": "info@jtre.sk",
+      "phone_number": "+421 2 5941 8200 (JTRE Headquarters)"
+    },
+    {
+      "name": "Westend Gate",
+      "website": "https://www.westend.sk/en/contact-information/",
+      "address": "Dúbravská cesta 14, 841 04 Bratislava 4, Slovakia",
+      "email": "sprava@westend.sk (building administration); info@westend.sk (premises to let)",
+      "phone_number": "+421 903 820 876 (Building administration); +421 903 421 729 (Premises to let)"
+    },
+    {
+      "name": "Nivy Tower",
+      "website": "https://nivy.com/en/information/contact-us",
+      "address": "Nivy, Bratislava Central Bus Station, 821 08 Bratislava, Slovakia",
+      "email": "ahoj@nivy.com",
+      "phone_number": "+421 905 593 845, +421 905 594 416"
+    },
+    {
+      "name": "Panorama City",
+      "website": "https://jtre.sk/en/projects/panorama-towers",
+      "address": "Part of JTRE, contact JTRE directly.",
+      "email": "info@jtre.sk",
+      "phone_number": "+421 2 5941 8200 (JTRE Headquarters)"
+    }
+]

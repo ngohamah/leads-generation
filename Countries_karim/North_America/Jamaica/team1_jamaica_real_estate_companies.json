@@ -1,0 +1,228 @@
+[
+  {
+    "company_name": "Coldwell Banker Jamaica Realty",
+    "website": "https://www.cbjamaica.com/",
+    "access": true,
+    "language": "English",
+    "description": "A licensed real estate brokerage with expertise in Jamaica's real estate landscape, from large-scale developments to new constructions. Operates from Kingston and Montego Bay offices, providing sales and rental services with over 105 years of Coldwell Banker brand legacy."
+  },
+  {
+    "company_name": "Century 21 Heave-Ho Properties",
+    "website": "https://www.century21jm.com/",
+    "access": false,
+    "language": "English",
+    "description": "A major international real estate franchise operating in Jamaica, specializing in residential and commercial property sales, leases, and auctions. They provide brokerage and sales services across the island."
+  },
+  {
+    "company_name": "Sagicor Property Services",
+    "website": "https://www.sagicor.com/en-JM/Personal-Solution/Real-Estate",
+    "access": false,
+    "language": "English",
+    "description": "The real estate arm of the Sagicor Group, a major financial conglomerate. They are involved in property management, sales, rentals, and valuations, often managing properties within Sagicor's own investment portfolio."
+  },
+  {
+    "company_name": "West Indies Home Contractors Limited (WIHCON)",
+    "website": "https://www.wihcon.com/",
+    "access": false,
+    "language": "English",
+    "description": "A premier real estate development company in Jamaica, renowned for developing large-scale housing communities and commercial properties. Their core focus is on construction and development from concept to completion."
+  },
+  {
+    "company_name": "DunnCox",
+    "website": "https://www.dunncox.com/",
+    "access": false,
+    "language": "English",
+    "description": "A leading Jamaican law firm with a strong real estate practice. They provide legal services for complex commercial and residential property transactions, financing, and development projects."
+  },
+  {
+    "company_name": "Allison Pitter & Company",
+    "website": "https://www.allisonpitter.com/",
+    "access": false,
+    "language": "English",
+    "description": "A highly respected firm of Chartered Valuation Surveyors and Real Estate Appraisers. They provide valuation services for sales, mortgages, insurance, and legal purposes, covering all types of properties."
+  },
+  {
+    "company_name": "Jamaica National Bank",
+    "website": "https://www.jnbank.com/personal-banking/mortgage/mortgage-list/",
+    "access": false,
+    "language": "English",
+    "description": "Part of the JN Group, this bank is a significant mortgage provider in Jamaica, offering financing for home purchases, construction, and home equity loans, contributing significantly to market liquidity."
+  },
+  {
+    "company_name": "Proven REIT Limited",
+    "website": "https://provenreit.com/",
+    "access": false,
+    "language": "English",
+    "description": "A publicly-traded Real Estate Investment Trust (REIT) focused on acquiring and managing a portfolio of income-generating commercial and residential real estate assets across the Caribbean. Specializes in Real Estate Investment."
+  },
+  {
+    "company_name": "Nunes, Scholefield, DeLeon & Co.",
+    "website": "https://nsdco.com/practice-areas/",
+    "access": false,
+    "language": "English",
+    "description": "A prominent full-service law firm with a dedicated conveyancing and property law department. They assist clients with property acquisition, sales, leasing, and development projects."
+  },
+  {
+    "company_name": "Guardian Life Limited - Property Services",
+    "website": "https://www.myguardiangroup.com/guardian-life/investments",
+    "access": false,
+    "language": "English",
+    "description": "While primarily an insurance and financial services company, Guardian Life manages a significant real estate investment portfolio. Their property services division handles the management and leasing of these corporate real estate assets."
+  },
+  {
+    "company_name": "Keller Williams Jamaica",
+    "website": "https://kellerwilliamsjamaica.kw.com/",
+    "access": false,
+    "language": "English",
+    "description": "Keller Williams Jamaica is a branch of the internationally recognized Keller Williams Realty and offers a full suite of real estate brokerage services with a focus on residential and commercial sales and rentals. They provide a wide selection of properties across Jamaica, catering to both local and foreign investors. The company specializes in sales, marketing, property management, and investment guidance. Web scraping is likely restricted by their terms of use and privacy policy, which prohibit automated data collection without permission."
+  },
+  {
+    "company_name": "Paula Sells Jamaica & Associates Realty Ltd.",
+    "website": "https://paulasellsjamaica.com/",
+    "access": false,
+    "language": "English",
+    "description": "Paula Sells Jamaica focuses on residential sales, vacation properties, and property management for both local and international clients. The agency specializes in consulting, real estate marketing and sales, with a reputation for assisting overseas investors and returnees. Site scraping is not allowed per server restrictions (403 Forbidden indicates strict server security measures)."
+  },
+  {
+    "company_name": "Karena Silvera (RealtyHD)",
+    "website": "https://karenasilvera.realtyhd.com/",
+    "access": false,
+    "language": "English",
+    "description": "Karena Silvera is an individual real estate broker affiliated with RealtyHD, offering property sales, leasing, and investment consulting. The focus is on personalized real estate brokerage, primarily for residential and investment properties. The website does not indicate allowance for scraping and standard privacy and use policies would apply."
+  },
+  {
+    "company_name": "RE/MAX Elite Jamaica",
+    "website": "https://www.remax-elite.com.jm",
+    "access": true,
+    "language": "English",
+    "description": "Real estate experts offering luxury properties through the RE/MAX Collection, specializing in sophisticated and elegant properties. Provides development, rental, and sales services for both residential and commercial properties across Jamaica."
+  },
+  {
+    "company_name": "Valerie Levy & Associates Ltd",
+    "website": "https://www.vlarealtors.com/",
+    "access": true,
+    "language": "English",
+    "description": "A company specializing in real estate brokerage and property appraisal, maintaining a comprehensive Jamaican real estate listings database. Provides professional real estate services and property valuation."
+  },
+  {
+    "company_name": "PROVEN Properties Limited",
+    "website": "https://provenpropertiesltd.com",
+    "access": true,
+    "language": "English",
+    "description": "The pre-eminent real estate development arm of PROVEN GROUP Limited, representing a higher standard in residential and commercial real estate development. Known for exceptional designs and landmark developments like Kingston Gateway and VIA at Braemar."
+  },
+  {
+    "company_name": "Better Homes and Gardens Real Estate Jamaica",
+    "website": "https://www.bhgjamaica.com/",
+    "access": true,
+    "language": "English",
+    "description": "A comprehensive property company offering integrated real estate services since 1993. Franchise affiliation with Better Homes and Gardens Real Estate LLC, providing sales, commercial services, property valuation, and investment advisory services."
+  },
+  {
+    "company_name": "Jamrock Real Estate",
+    "website": "https://www.jamrockrealestate.com/",
+    "access": true,
+    "language": "English",
+    "description": "Real estate agency led by Tracey Campbell, providing professional real estate services across Jamaica's 14 parishes. Specializes in property sales and rentals with a focus on personalized service and local market expertise."
+  },
+  {
+    "company_name": "LCH Developments",
+    "website": "https://lchdevelopmentsltd.com/",
+    "access": true,
+    "language": "English",
+    "description": "One of the leading mixed-use real estate developers in Jamaica, renowned for crafting world-class resorts and communities. Focuses on luxury living and tourism experiences through collaboration and innovation in real estate development."
+  },
+  {
+    "company_name": "VM Property Services (Victoria Mutual)",
+    "website": "https://www.vmpropertyservices.com/",
+    "access": true,
+    "language": "English",
+    "description": "One of Jamaica's leading real estate brokers providing comprehensive services including buying, selling, leasing, rentals, property valuations, and property management for both residential and commercial properties. Also offers construction and technical project management services."
+  },
+  {
+    "company_name": "Millennium Properties Sales & Services",
+    "website": "https://www.millenniumpropertiessalesandservices.com/",
+    "access": true,
+    "language": "English",
+    "description": "A real estate sales, rental and property management company located in Kingston, Jamaica. Provides professional guidance for real estate transactions and property management services."
+  },
+  {
+    "company_name": "Kemtek Development & Construction Limited",
+    "website": "https://kemtekjahomes.com/",
+    "access": true,
+    "language": "English",
+    "description": "Real estate development company focused on delivering quality housing units at affordable prices. Develops communities including Oak Estate in Greater Bernard Lodge Development and Colbeck Manor in Old Harbour, St. Catherine."
+  },
+  {
+    "company_name": "IT Real Estate Jamaica",
+    "website": "https://itrealestatejamaica.com/",
+    "access": false,
+    "language": "English",
+    "description": "IT Real Estate offers digital and technology-driven real estate service solutions for property sales and rentals in Jamaica. The company focuses on brokerage, marketing, technology integration, and investment advisory. Standard website policies apply, so web scraping is presumed not permitted."
+  },
+  {
+    "company_name": "Hoshing Realtors",
+    "website": "https://hoshingrealtors.com/",
+    "access": false,
+    "language": "English",
+    "description": "Hoshing Realtors specializes in property management, rentals, and real estate consulting, with a focus on prompt and comprehensive property management solutions, marketing and sales. The company operates primarily in English and provides landlord and tenant services. Web scraping is restricted by standard property management and privacy terms."
+  },
+  {
+    "company_name": "Gore Developments Limited (Gore Homes)",
+    "website": "https://goredevelopments.com/",
+    "linkedin": "https://jm.linkedin.com/company/gore-developments-limited",
+    "access": true,
+    "language": "English",
+    "description": "The largest residential developer in the Caribbean, family-run company providing quality-built, affordable homes in Jamaica for over 50 years. Has designed and built more than 16,000 houses in 19 schemes across four parishes, including developments like Camelot Village and Phoenix Park Village."
+  },
+  {
+    "company_name": "Jamaica Sotheby's International Realty",
+    "website": "https://www.sothebysrealty.com/jamaicasir/eng",
+    "linkedin": "https://jm.linkedin.com/company/jamaicasir",
+    "access": true,
+    "language": "English",
+    "description": "Luxury real estate company specializing in extraordinary properties and high-end developments. Focuses on artfully uniting extraordinary properties with extraordinary lives, offering property rentals, buying and sales, and real estate management services."
+  },
+  {
+    "company_name": "The Moorland Development Company",
+    "website": "https://moorlanddevelopment.com/about/",
+    "access": true,
+    "language": "English",
+    "description": "Public company incorporated in 2001 to oversee the development of Moorlands Estate in Mandeville, Manchester. Consists of 209 shareholders and is managed by a board of directors focusing on estate development."
+  },
+  {
+    "company_name": "National Housing Trust (NHT)",
+    "website": "https://www.nht.gov.jm/",
+    "access": true,
+    "language": "English",
+    "description": "Government organization set up to lend money at low interest rates to contributors for building, buying, or repairing/improving houses. Provides affordable housing solutions and mortgage financing for Jamaican residents."
+  },
+  {
+    "company_name": "Housing Agency of Jamaica Limited (HAJ)",
+    "website": "https://www.hajl.gov.jm/",
+    "access": true,
+    "language": "English",
+    "description": "Government agency contributing to improved quality of life through social transformation by providing housing solutions, services and security of tenure while maintaining sustainable communities."
+  },
+  {
+    "company_name": "Nembhard Development & Construction Co Ltd",
+    "website": "https://www.findyello.com/jamaica/Nembhard-Simon/profile/",
+    "access": true,
+    "language": "English",
+    "description": "Construction and development company based in Santa Cruz, St. Elizabeth with over 20 years of experience. Provides architectural designs, engineering, construction, and development services."
+  },
+  {
+    "company_name": "Island Concrete Company Limited (ICCL)",
+    "website": "https://islandconcreteja.com/",
+    "access": true,
+    "language": "English",
+    "description": "Construction and development company founded in 1999, located in Caymanas Estate, St. Catherine. Started as a construction company and expanded into real estate development, founded by the late director Mark Chin."
+  },
+  {
+    "company_name": "Concept Homes Jamaica",
+    "website": "https://concepthomesja.com/",
+    "access": true,
+    "language": "English",
+    "description": "Real estate development company focusing on innovative housing solutions and community development in Jamaica."
+  }
+]

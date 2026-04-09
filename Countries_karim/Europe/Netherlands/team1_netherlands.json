@@ -1,0 +1,121 @@
+[
+    {
+      "name": "BPD (Bouwfonds Property Development)",
+      "website": "https://www.bpd.nl/contact",
+      "address": "Ice rink path 1 1076 CV Amsterdam PO Box 51262 1007 EC Amsterdam",
+      "email": " development@bpd.nl",
+      "phone_number": "+31 20 304 99 99"
+    },
+    {
+      "name": "Provast",
+      "website": "https://www.provast.nl/en/",
+      "address": "Monarch Tower Prinses Beatrixlaan 5 2595 AK Den Haag",
+      "email": "info@provast.nl",
+      "phone_number": "070 3081030"
+    },
+    {
+      "name": "Vorm",
+      "website": "https://vormvastgoed.nl/contact/",
+      "address": "Blaak 555 (16th floor) 3011 GB Rotterdam Netherlands",
+      "email": "info@vormvastgoed.nl",
+      "phone_number": "(010) 209 27 24 (Secretariat)"
+    },
+    {
+      "name": "VolkerWessels",
+      "website": "https://www.volkerwessels.nl/nl/contact",
+      "address": "Reggesingel 10 7461 BA Rijssen",
+      "email": "pers@volkerwessels.com (for press, general inquiries via contact form)",
+      "phone_number": "+31 88 186 6186"
+    },
+    {
+      "name": "Heijmans",
+      "website": "https://www.heijmans.nl/contact/",
+      "address": "Graafsebaan 65, 5248 NL Rosmalen (Head Office)",
+      "email": "info@heijmans.nl",
+      "phone_number": "+31 (0)73 543 5111"
+    },
+    {
+      "name": "Van Wanrooij Construction and Development",
+      "website": "https://wanrooijbouw.nl/contact/",
+      "address": "Blokkenweg 1, 5247 NE Rosmalen",
+      "email": null,
+      "phone_number": "T: 073 -532 50 38,  M: 06- 51 84 80 27"
+    },
+    {
+      "name": "Van Wijnen",
+      "website": "https://vanwijnen.nl/contact",
+      "address": "Savannahweg 19, 3542 AW Utrecht",
+      "email": "utrecht@vanwijnen.nl",
+      "phone_number": "030-212 49 00"
+    },
+    {
+      "name": "Edge",
+      "website": "https://edge.tech",
+      "address": "Fred Roeskestraat 115, 1076 EE Amsterdam",
+      "email": "amsterdam@edge.tech",
+      "phone_number": "+20 2200160"
+    },
+    {
+      "name": "KondorWessels (Kondor Wessels Amsterdam B.V.)",
+      "website": "http://www.kondorwessels-amsterdam.nl",
+      "address": "Anderlechtlaan 179 A, 1066 HM Amsterdam Postbus 58002, 1040 HA Amsterdam",
+      "email": "info@kondorwessels-amsterdam.nl",
+      "phone_number": "+31 20 851 18 00"
+    },
+    {
+      "name": "Maxwell Invest",
+      "website": "https://maxwellinvest.com/",
+      "address": "Maxwell Invest BV Mortel 2D 5211 HV 's-Hertogenbosch Netherlands",
+      "email": "info@maxwellinvest.com",
+      "phone_number": "0736847005"
+    },
+    {
+      "name": "De Zuidas (Amsterdam)",
+      "website": "https://zuidas.nl/contact/",
+      "address": "World Trade Center, Central Hall Tower 5 Strawinskylaan 59 1077 XW Amsterdam",
+      "email": "N/A (uses a contact form)",
+      "phone_number": "0800-5065 (general information line)"
+    },
+    {
+      "name": "IJburg (Amsterdam)",
+      "website": "https://www.buurtteamamsterdam.nl/vind-je-buurtteam/buurtteam-ijburg/",
+      "address": "IJburglaan 727-C, 1087 CH Amsterdam (This is for a local community team, not a central development office for the entire IJburg project)",
+      "email": "info@buurtteamamsterdamoost.nl",
+      "phone_number": "0204620300 (general number for Buurtteam IJburg)"
+    },
+    {
+      "name": "New Babylon (The Hague)",
+      "website": "https://thehague.com/conventionbureau/en/find-a-venue/babylon-hotel-the-hague",
+      "address": "Bezuidenhoutseweg 53, 2594 AC The Hague (Address of the Babylon Hotel, a key part of New Babylon)",
+      "email": "sales.babylon@edenhotels.nl",
+      "phone_number": "+31 (0)70 3814901 (Babylon Hotel The Hague)"
+    },
+    {
+      "name": "Markthal (Rotterdam)",
+      "website": "https://markthal.nl",
+      "address": "Markthal Ds. Jan Scharpstraat 298 3011 GZ Rotterdam",
+      "email": "N/A (uses a contact form)",
+      "phone_number": "+31 30 234 64 64"
+    },
+    {
+      "name": "Central District (Eindhoven) (Managed by Gemeente Eindhoven)",
+      "website": "https://www.eindhoven.nl/bestuur-en-beleid/contact/contact-met-de-gemeente",
+      "address": "Stadhuisplein 1A, 5611 EM Eindhoven (Gemeente Eindhoven's address)",
+      "email": "N/A (uses contact forms or general municipality email)",
+      "phone_number": "14 040 (within NL), +31 40 238 6000 (from abroad)"
+    },
+    {
+      "name": "De Rotterdam (Rotterdam) (Building Management)",
+      "website": "https://www.rotterdambuilding.com/get-in-touch",
+      "address": "Wilhelminakade 137, 3072 AP Rotterdam (Building address)",
+      "email": "receptie@rotterdambuilding.com, welcome@rotterdambuilding.com",
+      "phone_number": "+31 (0)10 411 8529 (Reception)"
+    },
+    {
+      "name": "RDM Rotterdam",
+      "website": "https://www.rdmrotterdam.nl/contact",
+      "address": "Klinknagelstraat 2, 3089JP Rotterdam (RDM Information Centre)",
+      "email": "communicatie@rdmrotterdam.nl",
+      "phone_number": "010 252 44 72 (RDM Information Centre)"
+    }
+]

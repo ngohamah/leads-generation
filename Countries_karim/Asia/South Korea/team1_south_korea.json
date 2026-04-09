@@ -1,0 +1,107 @@
+[
+    {
+      "name": "HDC Hyundai Development Company",
+      "website": "https://www.hdc-dvp.com",
+      "address": "8th, 9th floors, Hyundai IPARK Mall, 55, Hangang-daero 23-gil, Yongsan-gu, Seoul, 04377, South Korea",
+      "email": "https://www.hdc-dvp.com/customer/inquiries.do (contact form available)",
+      "phone_number": "+82 2-2008-9114"
+    },
+    {
+      "name": "SK D&D",
+      "website": "https://www.skdnd.com",
+      "address": "332 Pangyo-ro, Sampyeong-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, South Korea",
+      "email": null,
+      "phone_number": null
+    },
+    {
+      "name": "Lotte E&C (Lotte Engineering & Construction)",
+      "website": "https://www.lottecon.co.kr/eng/",
+      "address": "29, Jamwonro 14-gil, Seocho-gu, Seoul 06515, Korea",
+      "email": null,
+      "phone_number": "02-3480-9114"
+    },
+    {
+      "name": "GS Engineering & Construction (GS E&C)",
+      "website": "https://www.gsenc.com/en",
+      "address": "417-1 Duksung ri, Eedong myun, Chuin ku Yongin city, Kyunggi do",
+      "email": null,
+      "phone_number": "031) 329-4500, 031) 319-4660"
+    },
+    {
+      "name": "Daewoo Engineering & Construction",
+      "website": "https://www.daewooenc.com/eng/",
+      "address": "170, Eulji-ro, Jung-gu, Seoul 04548, South Korea",
+      "email": "N/A (contact via website form or specific project contacts)",
+      "phone_number": "+82 2-2288-3114"
+    },
+    {
+      "name": "Korea Land & Housing Corporation (LH)",
+      "website": "https://www.lh.or.kr/eng/",
+      "address": "117, Soho-ro, Jinju-si, Gyeongsangnam-do, Korea",
+      "email": "N/A (contact via general inquiry form on website)",
+      "phone_number": "+82-1600-1004"
+    },
+    {
+      "name": "Hyundai Engineering & Construction",
+      "website": "https://www.hdec.kr/kr/main.aspx",
+      "address": "03058 Hyundai Building, 75 Yulgok-ro, Jongno-gu, Seoul",
+      "email": "N/A (website directs to specific team contacts or online forms)",
+      "phone_number": "1577-7755"
+    },
+    {
+      "name": "Booyoung Group",
+      "website": "https://www.booyoung.co.kr/main/main.htm",
+      "address": "Booyoung Building, 42 Sejong-daero 9-gil, Jung-gu,. Seoul",
+      "email": "N/A (uses a contact form on website, but an email for a related entity in another country was found: tgbooyoung@daum.net for an affiliate in Ulsan)",
+      "phone_number": "(02)3774-5500"
+    },
+    {
+      "name": "DL E&C (Daelim Industrial)",
+      "website": "https://www.dlenc.co.kr/eng/daelim/overview/Office.do",
+      "address": "Donuimun, D Tower, 134 Tongil-ro, Jongno-gu, Seoul (03181)",
+      "email": "N/A (website directs to an inquiry form, but a contact for a subsidiary was found: ianchoi@daelimcorp.co.kr)",
+      "phone_number": "+82-2-2011-7114"
+    },
+    {
+      "name": "Posco E&C",
+      "website": "https://www.poscoenc.com/en/",
+      "address": "307, Jungheung-ro, Buk-gu, Pohang-si, Gyeongsangbuk-do, 12-14, Huimang-gil, Gwangyang-si, Jeollanam-do, 241, Incheon tower-daero, Yeonsu-gu, Incheon, Republic of Korea",
+      "email": null,
+      "phone_number": "+82-61-798-5200, +82-32-748-2114"
+    },
+    {
+      "name": "Songdo International Business District",
+      "website": "http://www.songdonsic.com/en/home_en/",
+      "address": null,
+      "email": null,
+      "phone_number": null
+    },
+    {
+      "name": "Yongsan International Business District",
+      "website": "https://atlasofurbantech.org/cases/kor-yongsan/",
+      "address": "Yongsan-gu, Seoul, South Korea",
+      "email": "N/A (Contact via Seoul Metropolitan Government's general inquiry channels)",
+      "phone_number": null
+    },
+    {
+      "name": "DMC (Digital Media City)",
+      "website": "https://www.mediacityseoul.kr/en/yesterday/participants/digital-media-city",
+      "address": "Seoul Museum of Art Postal Code 04515 61, Deoksugung-gil, Jung-gu, Seoul, Korea(Seosomun-dong)",
+      "email": "contact@mediacityseoul.kr",
+      "phone_number": "02-2124-8800"
+    },
+    {
+      "name": "Magok District (Magok지구)",
+      "website": "https://magoksandan.kr/en/",
+      "address": "Magok Industrial Complex Management Team Office, 14, Magokjungang 8-ro, Gangseo-gu, Seoul,Republic of Korea",
+      "email": "magokbiz@sba.seoul.kr",
+      "phone_number": "+82-2-2088-2773"
+    },
+    {
+      "name": "Gangnam Finance Center",
+      "website": "http://www.gfckorea.co.kr/eng/main/main.asp",
+      "address": "Gangnam Finance Center, 737 Yeoksam Dong Gangnam Gu, Seoul",
+      "email": null,
+      "phone_number": null
+    }
+  ]

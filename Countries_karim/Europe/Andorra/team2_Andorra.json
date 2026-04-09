@@ -1,0 +1,230 @@
+[
+  {
+    "company_name": "Immobili\u00e0ria Superior",
+    "name": "Pepi Padilla",
+    "email": "pepi@immobiliariasuperior.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "Immobili\u00e0ria Superior",
+    "name": "Meritxell Jordana",
+    "email": "meritxell@immobiliariasuperior.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "Immobili\u00e0ria Superior",
+    "name": "None None",
+    "email": "info@immobiliariasuperior.com",
+    "position": null
+  },
+  {
+    "company_name": "Lucas Fox \u2014 A Dils company",
+    "name": "Enric Fuchs",
+    "email": "enric@lucasfox.com",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "Lucas Fox \u2014 A Dils company",
+    "name": "Alexandra Halse",
+    "email": "alexandra@lucasfox.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Lucas Fox \u2014 A Dils company",
+    "name": "Anastasiya Kravchenko",
+    "email": "anastasiya@lucasfox.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Lucas Fox \u2014 A Dils company",
+    "name": "Jordi Moure",
+    "email": "jordi@lucasfox.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Lucas Fox \u2014 A Dils company",
+    "name": "R\u00e9mi Gaich",
+    "email": "remi@lucasfox.com",
+    "position": "Regional Manager"
+  },
+  {
+    "company_name": "Lucas Fox \u2014 A Dils company",
+    "name": "Irina Gvatua",
+    "email": "irina@lucasfox.com",
+    "position": "Business Development Director"
+  },
+  {
+    "company_name": "Lucas Fox \u2014 A Dils company",
+    "name": "Michael DiCarpio",
+    "email": "michael@lucasfox.com",
+    "position": "Director of Partnerships"
+  },
+  {
+    "company_name": "Lucas Fox \u2014 A Dils company",
+    "name": "Patricia Albareda",
+    "email": "patricia@lucasfox.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Lucas Fox \u2014 A Dils company",
+    "name": "Marta Arroyo",
+    "email": "marta@lucasfox.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Lucas Fox \u2014 A Dils company",
+    "name": "Sergi Lapena",
+    "email": "sergi@lucasfox.com",
+    "position": "Director of New Development"
+  },
+  {
+    "company_name": "Inmobiliaria Engel & V\u00f6lkers Andorra",
+    "name": "Sergio Martinez",
+    "email": "sergio.martinez@engelvoelkers.com",
+    "position": "Regional Director"
+  },
+  {
+    "company_name": "Inmobiliaria Engel & V\u00f6lkers Andorra",
+    "name": "Tracy Watts",
+    "email": "tracy.watts@engelvoelkers.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Inmobiliaria Engel & V\u00f6lkers Andorra",
+    "name": "Andreas B\u00fchler",
+    "email": "andreas.buehler@engelvoelkers.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Inmobiliaria Engel & V\u00f6lkers Andorra",
+    "name": "Sean Mcconnon",
+    "email": "sean.mcconnon@engelvoelkers.com",
+    "position": "Vice Chairman"
+  },
+  {
+    "company_name": "Inmobiliaria Engel & V\u00f6lkers Andorra",
+    "name": "Jose Mier",
+    "email": "jose.mier@engelvoelkers.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Inmobiliaria Engel & V\u00f6lkers Andorra",
+    "name": "Gregg Baker",
+    "email": "gregg.baker@engelvoelkers.com",
+    "position": "Real Estate Advisor"
+  },
+  {
+    "company_name": "Inmobiliaria Engel & V\u00f6lkers Andorra",
+    "name": "Steve Micheletti",
+    "email": "steve.micheletti@engelvoelkers.com",
+    "position": "License Partner"
+  },
+  {
+    "company_name": "Inmobiliaria Engel & V\u00f6lkers Andorra",
+    "name": "Colleen Holmes",
+    "email": "colleen.holmes@engelvoelkers.com",
+    "position": "Real Estate Broker"
+  },
+  {
+    "company_name": "Inmobiliaria Engel & V\u00f6lkers Andorra",
+    "name": "Alfonso Casillas",
+    "email": "alfonso.casillas@engelvoelkers.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Inmobiliaria Engel & V\u00f6lkers Andorra",
+    "name": "Alexander Kirchmann",
+    "email": "alexander.kirchmann@engelvoelkers.com",
+    "position": "Director of Sales"
+  },
+  {
+    "company_name": "Immobili\u00e0ria Gal\u00ed",
+    "name": "None None",
+    "email": "info@immobiliariagali.com",
+    "position": null
+  },
+  {
+    "company_name": "Immobili\u00e0ria Gal\u00ed",
+    "name": "None None",
+    "email": "canillo@immobiliariagali.com",
+    "position": null
+  },
+  {
+    "company_name": "AND.IMMO ATIPIC REAL ESTATE",
+    "name": "None None",
+    "email": "info@and.immo",
+    "position": null
+  },
+  {
+    "company_name": "CasaHouse | Immobili\u00e0ria Andorra",
+    "name": "None None",
+    "email": "hola@casahouse.com",
+    "position": null
+  },
+  {
+    "company_name": "Aug\u00e9 Real Estate",
+    "name": "None None",
+    "email": "info@augerealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "On Star Immobili\u00e0ria",
+    "name": "None None",
+    "email": "hola@immostarand.com",
+    "position": null
+  },
+  {
+    "company_name": "RS Thomas Real Estate",
+    "name": "Merc\u00e8 Isern",
+    "email": "merce@rsthomasp.com",
+    "position": "Commercial Director"
+  },
+  {
+    "company_name": "RS Thomas Real Estate",
+    "name": "None None",
+    "email": "katia@rsthomasp.com",
+    "position": null
+  },
+  {
+    "company_name": "RS Thomas Real Estate",
+    "name": "None None",
+    "email": "info@rsthomasp.com",
+    "position": null
+  },
+  {
+    "company_name": "RS Thomas Real Estate",
+    "name": "None None",
+    "email": "comercial3@rsthomasp.com",
+    "position": null
+  },
+  {
+    "company_name": "RS Thomas Real Estate",
+    "name": "None None",
+    "email": "comercial2@rsthomasp.com",
+    "position": null
+  },
+  {
+    "company_name": "RS Thomas Real Estate",
+    "name": "None None",
+    "email": "administracio@rsthomasp.com",
+    "position": null
+  },
+  {
+    "company_name": "RS Thomas Real Estate",
+    "name": "None None",
+    "email": "marketing@rsthomasp.com",
+    "position": null
+  },
+  {
+    "company_name": "RS Thomas Real Estate",
+    "name": "None None",
+    "email": "comercial1@rsthomasp.com",
+    "position": null
+  },
+  {
+    "company_name": "RS Thomas Real Estate",
+    "name": "None None",
+    "email": "rs@rsthomasp.com",
+    "position": null
+  }
+]

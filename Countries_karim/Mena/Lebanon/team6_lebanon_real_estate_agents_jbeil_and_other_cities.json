@@ -1,0 +1,401 @@
+[
+    {
+        "Name": "Tony Lahoud",
+        "Phone": "70916355",
+        "Email": "tony@phoeniciarealestate.net",
+        "Company": "Phoenicia Real Estate",
+        "Location": "Jbeil"
+    },
+    {
+        "Name": "Julien Elias Zoghbi",
+        "Phone": "71665571",
+        "Email": "julienzoghby@gmail.com",
+        "Company": "i-sold",
+        "Location": "Jbeil"
+    },
+    {
+        "Name": "Fady Assaad El Khoury",
+        "Phone": "3578718",
+        "Email": "fadikhoury@live.com",
+        "Company": null,
+        "Location": "Jbeil"
+    },
+    {
+        "Name": "Patrick Pierre Salim",
+        "Phone": "09/545552",
+        "Email": "patrick.salim@hotmail.com",
+        "Company": "N.K. Brokerage",
+        "Location": "Jbeil"
+    },
+    {
+        "Name": "Georges Mikel Nehme",
+        "Phone": "09/542699",
+        "Email": "test@test.com",
+        "Company": "Tamallak",
+        "Location": "Jbeil"
+    },
+    {
+        "Name": "Michel Georges Nehme",
+        "Phone": "09/542699",
+        "Email": "michel.nehme@tamallakre.com",
+        "Company": "Tamallak",
+        "Location": "Jbeil"
+    },
+    {
+        "Name": "Georges Antonios Abboud",
+        "Phone": "09/546646",
+        "Email": "g.abboud@phoeniciarealestate.net",
+        "Company": "Phoenicia Real Estate",
+        "Location": "Jbeil"
+    },
+    {
+        "Name": "Charbel Joseph Lahoud",
+        "Phone": "09/546646",
+        "Email": "charbel@phoeniciarealestate.net",
+        "Company": "Phoenicia Real Estate",
+        "Location": "Jbeil"
+    },
+    {
+        "Name": "Elie Fouad Matta",
+        "Phone": "09/546646",
+        "Email": "elie@phoeniciarealestate.net",
+        "Company": "Phoenicia Real Estate",
+        "Location": "Jbeil"
+    },
+    {
+        "Name": "Brayen Chahine",
+        "Phone": "03143711",
+        "Email": "b.chahine@phoeniciarealestate.net",
+        "Company": "Phoenicia Real Estate",
+        "Location": "Jbeil"
+    },
+    {
+        "Name": "Dany Samir Hakim",
+        "Phone": "09/625255",
+        "Email": "danyhakim@gmail.com",
+        "Company": "Surveyors",
+        "Location": "Amchit"
+    },
+    {
+        "Name": "Abdul Hafiz Mustapha El Halabi",
+        "Phone": "71255774",
+        "Email": "a.halabi@roomnroof.net",
+        "Company": "Roomnroof",
+        "Location": "Sin El Fil"
+    },
+    {
+        "Name": "Pascal Elie Karam",
+        "Phone": "1494416",
+        "Email": "pascal.karam@gmail.com",
+        "Company": null,
+        "Location": "Sin El Fil"
+    },
+    {
+        "Name": "Edouard Pierre Noun",
+        "Phone": "01/611097-8",
+        "Email": "eddy@bear-lb.com",
+        "Company": "BEAR SAL",
+        "Location": "Sin El Fil"
+    },
+    {
+        "Name": "Fares Salibi",
+        "Phone": "70222300",
+        "Email": "fares@bear-lb.com",
+        "Company": "BEAR SAL",
+        "Location": "Sin El Fil"
+    },
+    {
+        "Name": "Elie Chamoun",
+        "Phone": "04/862362",
+        "Email": "eliechamoun@outlook.com",
+        "Company": "E.F.C. Real Estate",
+        "Location": "Broumana"
+    },
+    {
+        "Name": "Samer Mounir Sfeir",
+        "Phone": "1900748",
+        "Email": "samermsfeir@gmail.com",
+        "Company": null,
+        "Location": "Ein Saade"
+    },
+    {
+        "Name": "Mounir Sfeir for Real Estate",
+        "Phone": "Naji Tanios El Helou",
+        "Email": "01/294244",
+        "Company": "najihelou@gmail.com",
+        "Location": "Ein Saade"
+    },
+    {
+        "Name": "Ramy Edmond Rizkallah",
+        "Phone": "01/681622/3",
+        "Email": "r.rizkallah@ramyrealestate.com",
+        "Company": "Ramy Real Estate",
+        "Location": "Mansourieh"
+    },
+    {
+        "Name": "Samer Edmond Rizkallah",
+        "Phone": "01/681622/3",
+        "Email": "S.rizkallah@ramyrealestate.com",
+        "Company": "Ramy Real Estate",
+        "Location": "Mansourieh"
+    },
+    {
+        "Name": "Maxime Georges El Khoury",
+        "Phone": "71696805",
+        "Email": "maximeelkhoury@gmail.com",
+        "Company": "Mainland Estate and contracting MEC",
+        "Location": "Mtayleb"
+    },
+    {
+        "Name": "Samer Ghazi Abi Haidar",
+        "Phone": "4722799",
+        "Email": "samer@proplusinvest.info",
+        "Company": null,
+        "Location": "Jal El Dib"
+    },
+    {
+        "Name": "Charbel Samir Kallas",
+        "Phone": "3878247",
+        "Email": "charbel.kallas1@hotmail.com",
+        "Company": null,
+        "Location": "Jal El Dib"
+    },
+    {
+        "Name": "Anis Antoine kfoury",
+        "Phone": "04-720207",
+        "Email": "info@nineyardslb.com",
+        "Company": "Nine Yards Real Estate",
+        "Location": "Jal El Dib"
+    },
+    {
+        "Name": "Nadine Michel Eghnatios",
+        "Phone": "04/720600",
+        "Email": "nadine.eghnatios@gmail.com",
+        "Company": null,
+        "Location": "Jal El Dib"
+    },
+    {
+        "Name": "Reine Moawad",
+        "Phone": "03577766",
+        "Email": "reine.moawad@gmail.com",
+        "Company": "Promelec",
+        "Location": "Jal El Dib"
+    },
+    {
+        "Name": "Michel Bechara El Khoury",
+        "Phone": "24977733",
+        "Email": "Info@discover-leb.com",
+        "Company": null,
+        "Location": "Baabdat"
+    },
+    {
+        "Name": "Carlos Alain Boutros Chad",
+        "Phone": "3688622",
+        "Email": "carloschad@hotmail.com",
+        "Company": null,
+        "Location": "Beit Merry"
+    },
+    {
+        "Name": "Joelle Christopher Mansour",
+        "Phone": "76593893",
+        "Email": "levellestate@gmail.com",
+        "Company": null,
+        "Location": "Beit Merry"
+    },
+    {
+        "Name": "Riad Elias Nassar",
+        "Phone": "1244541",
+        "Email": "riadn.edge@gmail.com",
+        "Company": null,
+        "Location": "Bauchrieh"
+    },
+    {
+        "Name": "Samer Fawzi Zakhour",
+        "Phone": "1882582",
+        "Email": "samer.zakhour@gmail.com",
+        "Company": null,
+        "Location": "Bauchrieh"
+    },
+    {
+        "Name": "Walid George El Khoury",
+        "Phone": "3896124",
+        "Email": "walidelkhoury@hotmail.com",
+        "Company": "Eagle Eye Estate",
+        "Location": "Beit Al Chaar"
+    },
+    {
+        "Name": "Bassam Gebrael Merheb",
+        "Phone": "3280680",
+        "Email": "bassam.merheb12@gmail.com",
+        "Company": null,
+        "Location": "Dbayeh"
+    },
+    {
+        "Name": "Philippe Jean Rizk",
+        "Phone": "4525602",
+        "Email": "info@rizkproperties.net",
+        "Company": "Rizk Properties",
+        "Location": "Dbayeh"
+    },
+    {
+        "Name": "Toni Najib Saliba",
+        "Phone": "09/224162",
+        "Email": "tsaliba@salibare.com",
+        "Company": "Saliba Real estate",
+        "Location": "Dbayeh"
+    },
+    {
+        "Name": "Hicham",
+        "Phone": "03796786",
+        "Email": "hicham@amlakproperties.com",
+        "Company": "Amlak Properties & Consulting",
+        "Location": "Dbayeh"
+    },
+    {
+        "Name": "Hani Elias Barakat",
+        "Phone": "76666488",
+        "Email": "hbarakat@hb-realestate.com",
+        "Company": "HB Real Estate s.a.r.l.",
+        "Location": "Awkar"
+    },
+    {
+        "Name": "Christ Kozhaya Aoun",
+        "Phone": "3439414",
+        "Email": "christ@realestate3ikarcom.com",
+        "Company": null,
+        "Location": "Jdeideh"
+    },
+    {
+        "Name": "Youssef Antoun El Khoury",
+        "Phone": "1890501",
+        "Email": "info@akrealestatelb.com",
+        "Company": "A&K",
+        "Location": "Jdeideh"
+    },
+    {
+        "Name": "Hady Moukhayber Habchi",
+        "Phone": "01/873567",
+        "Email": "hady.habchy91@gmail.com",
+        "Company": "i-sold",
+        "Location": "Jdeideh"
+    },
+    {
+        "Name": "Boutros Adib El Hajj",
+        "Phone": "04/280242",
+        "Email": "boutroshajj@hotmail.com",
+        "Company": null,
+        "Location": "Jdeideh"
+    },
+    {
+        "Name": "Ralph Georges Gemayel",
+        "Phone": "01/888055",
+        "Email": "rgemayel@villaskylb.com",
+        "Company": "Villa Sky Properties",
+        "Location": "Jdeideh"
+    },
+    {
+        "Name": "Jihad Sami Al Kantar",
+        "Phone": "01/877068",
+        "Email": "jkrealestatelebanon@gmail.com",
+        "Company": "J&J Real Estate",
+        "Location": "Jdeideh"
+    },
+    {
+        "Name": "Peter Harb",
+        "Phone": "70667785",
+        "Email": "peter.harb@hotmail.com",
+        "Company": "BluSky Properties",
+        "Location": "Jdeideh"
+    },
+    {
+        "Name": "Ziad Kaady Kaady",
+        "Phone": "81755757",
+        "Email": "info@dyarcom.com",
+        "Company": "Dyarcom",
+        "Location": "Zalka"
+    },
+    {
+        "Name": "Antoine Wadih Haykal",
+        "Phone": "76945442",
+        "Email": "Anton_haikal@outlook.com",
+        "Company": "HKL Properties",
+        "Location": "Zalka"
+    },
+    {
+        "Name": "Bassam Mitri Batbouta",
+        "Phone": "70/009881",
+        "Email": "bassammitri.re@hotmail.com",
+        "Company": "Mitri for real estate",
+        "Location": "Zalka"
+    },
+    {
+        "Name": "Pierre Mtanious Francis",
+        "Phone": "71665571",
+        "Email": "info@isold-realestate.com",
+        "Company": "i-sold",
+        "Location": "Zalka"
+    },
+    {
+        "Name": "Sabine Safi",
+        "Phone": "03468318",
+        "Email": "abine.safi@hotmail.com",
+        "Company": "i-sold",
+        "Location": "Zalka"
+    },
+    {
+        "Name": "Sabine Safi",
+        "Phone": "03468318",
+        "Email": "abine.safi@hotmail.com",
+        "Company": "i-sold",
+        "Location": "Zalka"
+    },
+    {
+        "Name": "Joseph Maroun Aoun",
+        "Phone": "01/900226",
+        "Email": "aounjosef@gmail.com",
+        "Company": "Montelibano sal",
+        "Location": "Antelias"
+    },
+    {
+        "Name": "Elie Mansour Wakim",
+        "Phone": "04/873013",
+        "Email": "elie@icarwakim.com",
+        "Company": "ICAR Wakim",
+        "Location": "Beit Merry"
+    },
+    {
+        "Name": "Jinane Tanios Wakim",
+        "Phone": "04/873013",
+        "Email": "jinane@icarwakim.com",
+        "Company": "ICAR Wakim",
+        "Location": "Beit Merry"
+    },
+    {
+        "Name": "Georges Ghassan Hayek",
+        "Phone": "3893001",
+        "Email": "civiland1@gmail.com",
+        "Company": null,
+        "Location": "Rabieh"
+    },
+    {
+        "Name": "Mario Elie Geha",
+        "Phone": "70074075",
+        "Email": "mario@ciarealestate.com",
+        "Company": "CIA Real Estate",
+        "Location": "Rabieh"
+    },
+    {
+        "Name": "Elias Tony Gebeily",
+        "Phone": "04/40 22 93",
+        "Email": "gebeilyelias@gmail.com",
+        "Company": "Gebeily Real Estate",
+        "Location": "Rabieh"
+    },
+    {
+        "Name": "Jack Aroyan",
+        "Phone": "03899747",
+        "Email": "jack@aroyanrealestate.com",
+        "Company": "Aroyan Real Estate",
+        "Location": "Rabieh"
+    }
+]

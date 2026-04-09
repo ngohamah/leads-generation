@@ -1,0 +1,722 @@
+[
+  {
+    "company_name": "Goodman Group (ASX:GMG)",
+    "name": "Jennifer Tang",
+    "email": "jennifer.tang@goodman.com",
+    "position": "Senior HR Business Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Goodman Group (ASX:GMG)",
+    "name": "Darren Turner",
+    "email": "darren.turner@goodman.com",
+    "position": "Associate Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Goodman Group (ASX:GMG)",
+    "name": "Yasuo Motonaga",
+    "email": "yasuo.motonaga@goodman.com",
+    "position": "Chief Investment Officer",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Goodman Group (ASX:GMG)",
+    "name": "Stephen Young",
+    "email": "stephen.young@goodman.com",
+    "position": "Director of Investment Management",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Goodman Group (ASX:GMG)",
+    "name": "George Glennie",
+    "email": "george.glennie@goodman.com",
+    "position": "Director of Development",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Goodman Group (ASX:GMG)",
+    "name": "James Parsons",
+    "email": "james.parsons@goodman.com",
+    "position": "Director of Development",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Goodman Group (ASX:GMG)",
+    "name": "Marcel Connelly",
+    "email": "marcel.connelly@goodman.com",
+    "position": "Director of Business Intelligence",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Goodman Group (ASX:GMG)",
+    "name": "Luis Ceccon",
+    "email": "luis.ceccon@goodman.com",
+    "position": "Regional Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Goodman Group (ASX:GMG)",
+    "name": "Blair Dahl",
+    "email": "blair.dahl@goodman.com",
+    "position": "Vice President of Development",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Goodman Group (ASX:GMG)",
+    "name": "Craig Clark",
+    "email": "craig.clark@goodman.com",
+    "position": "Technical Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Scentre Group (ASX:SCG)",
+    "name": "Nathan Malloy",
+    "email": "nmalloy@scentregroup.com",
+    "position": "Leasing Executive",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Scentre Group (ASX:SCG)",
+    "name": "Daniel Hoy",
+    "email": "dhoy@scentregroup.com",
+    "position": "Director of Technology",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Scentre Group (ASX:SCG)",
+    "name": "Louise Leis",
+    "email": "lleis@scentregroup.com",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Scentre Group (ASX:SCG)",
+    "name": "Georgia Mcgahey",
+    "email": "gmcgahey@scentregroup.com",
+    "position": "Sales Executive",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Scentre Group (ASX:SCG)",
+    "name": "Andrew Trinh",
+    "email": "atrinh@scentregroup.com",
+    "position": "Senior Assurance Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Scentre Group (ASX:SCG)",
+    "name": "Carly Perkins",
+    "email": "cperkins@scentregroup.com",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Scentre Group (ASX:SCG)",
+    "name": "Michaela Aspden",
+    "email": "maspden@scentregroup.com",
+    "position": "Leasing Agent",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Scentre Group (ASX:SCG)",
+    "name": "Olaf Br\u00fchl",
+    "email": "obruehl@scentregroup.com",
+    "position": "Director of Customer Experience Analytics",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Scentre Group (ASX:SCG)",
+    "name": "Lyn Hutcheson",
+    "email": "lhutcheson@scentregroup.com",
+    "position": "Director of Business Development",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Scentre Group (ASX:SCG)",
+    "name": "Peter Allsopp",
+    "email": "pallsopp@scentregroup.com",
+    "position": "Director of Life Safety",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Stockland (ASX:SGP)",
+    "name": "Faten Sadik",
+    "email": "faten.sadik@stockland.com.au",
+    "position": "Project Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Stockland (ASX:SGP)",
+    "name": "Kirsten Dijkstra",
+    "email": "kirsten.dijkstra@stockland.com.au",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Stockland (ASX:SGP)",
+    "name": "Brooke Flatley",
+    "email": "brooke.flatley@stockland.com.au",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Stockland (ASX:SGP)",
+    "name": "Glenn Nugent",
+    "email": "glenn.nugent@stockland.com.au",
+    "position": "Regional Project Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Stockland (ASX:SGP)",
+    "name": "Suzannah Batty",
+    "email": "suzannah.batty@stockland.com.au",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Stockland (ASX:SGP)",
+    "name": "Adam Tindall",
+    "email": "adam.tindall@stockland.com.au",
+    "position": "Non-Executive Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Stockland (ASX:SGP)",
+    "name": "Sarah Salerno",
+    "email": "sarah.salerno@stockland.com.au",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Stockland (ASX:SGP)",
+    "name": "Fiona Jones",
+    "email": "fiona.jones@stockland.com.au",
+    "position": "Director of Development",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Stockland (ASX:SGP)",
+    "name": "Alana MacDonald",
+    "email": "alana.macdonald@stockland.com.au",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Stockland (ASX:SGP)",
+    "name": "Christie Robinson",
+    "email": "christie.robinson@stockland.com.au",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Vicinity Centres (ASX:VCX)",
+    "name": "Esmeralda Dzafic",
+    "email": "esmeralda.dzafic@vicinity.com.au",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Vicinity Centres (ASX:VCX)",
+    "name": "Tammy Ryder",
+    "email": "tammy.ryder@vicinity.com.au",
+    "position": "Chief Human Resources Officer",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Vicinity Centres (ASX:VCX)",
+    "name": "Jade Goodman",
+    "email": "jade.goodman@vicinity.com.au",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Vicinity Centres (ASX:VCX)",
+    "name": "Jessica Harney",
+    "email": "jessica.harney@vicinity.com.au",
+    "position": "Leasing Agent",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Vicinity Centres (ASX:VCX)",
+    "name": "Jason Temby",
+    "email": "jason.temby@vicinity.com.au",
+    "position": "Director of Energy and Product Delivery",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Vicinity Centres (ASX:VCX)",
+    "name": "Jason Woods",
+    "email": "jason.woods@vicinity.com.au",
+    "position": "Leasing Agent",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Vicinity Centres (ASX:VCX)",
+    "name": "Anna Scott",
+    "email": "anna.scott@vicinity.com.au",
+    "position": "Director of Health, Safety and Environment",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Vicinity Centres (ASX:VCX)",
+    "name": "Danielle Nohra",
+    "email": "danielle.nohra@vicinity.com.au",
+    "position": "Leasing Agent",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Vicinity Centres (ASX:VCX)",
+    "name": "Samantha Howkins",
+    "email": "samantha.howkins@vicinity.com.au",
+    "position": "Head of Marketing",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Vicinity Centres (ASX:VCX)",
+    "name": "Farzana Mokhtar",
+    "email": "farzana.mokhtar@vicinity.com.au",
+    "position": "Leasing Executive",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Mirvac Group (ASX:MGR)",
+    "name": "Kathy Arici",
+    "email": "kathy.arici@mirvac.com",
+    "position": "Sales Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Mirvac Group (ASX:MGR)",
+    "name": "Brittany Lazarus",
+    "email": "brittany.lazarus@mirvac.com",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Mirvac Group (ASX:MGR)",
+    "name": "Olivia Prain",
+    "email": "olivia.prain@mirvac.com",
+    "position": "Director of Digital Sales and Marketing",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Mirvac Group (ASX:MGR)",
+    "name": "Jodie Johnson",
+    "email": "jodie.johnson@mirvac.com",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Mirvac Group (ASX:MGR)",
+    "name": "Mel Johnstone",
+    "email": "mel.johnstone@mirvac.com",
+    "position": "Design Executive",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Mirvac Group (ASX:MGR)",
+    "name": "Juliette Rea",
+    "email": "juliette.rea@mirvac.com",
+    "position": "Project Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Mirvac Group (ASX:MGR)",
+    "name": "David Hogendijk",
+    "email": "david.hogendijk@mirvac.com",
+    "position": "Director of Development",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Mirvac Group (ASX:MGR)",
+    "name": "Madison Pirrone",
+    "email": "madison.pirrone@mirvac.com",
+    "position": "Marketing Executive",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Mirvac Group (ASX:MGR)",
+    "name": "Sandon James",
+    "email": "sandon.james@mirvac.com",
+    "position": "Director of Origination",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Mirvac Group (ASX:MGR)",
+    "name": "Jenny Truong",
+    "email": "jenny.truong@mirvac.com",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "GPT Group (ASX:GPT)",
+    "name": "Georgina Simonsen",
+    "email": "georgina.simonsen@gpt.com.au",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "GPT Group (ASX:GPT)",
+    "name": "Darren Hunt",
+    "email": "darren.hunt@gpt.com.au",
+    "position": "Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "GPT Group (ASX:GPT)",
+    "name": "Sally Sayegh",
+    "email": "sally.sayegh@gpt.com.au",
+    "position": "Digital Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "GPT Group (ASX:GPT)",
+    "name": "Erin Kent",
+    "email": "erin.kent@gpt.com.au",
+    "position": "Head of Finance",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "GPT Group (ASX:GPT)",
+    "name": "Chris Hansen",
+    "email": "chris.hansen@gpt.com.au",
+    "position": "Director of Development",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "GPT Group (ASX:GPT)",
+    "name": "Andrew Menegazzo",
+    "email": "andrew.menegazzo@gpt.com.au",
+    "position": "Director of Transactions",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "GPT Group (ASX:GPT)",
+    "name": "Emma Arians",
+    "email": "emma.arians@gpt.com.au",
+    "position": "Sales Executive",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "GPT Group (ASX:GPT)",
+    "name": "Paiden Bromfield",
+    "email": "paiden.bromfield@gpt.com.au",
+    "position": "Marketing Executive",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "GPT Group (ASX:GPT)",
+    "name": "Scott Nugent",
+    "email": "scott.nugent@gpt.com.au",
+    "position": "Head of Retail Investment",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "GPT Group (ASX:GPT)",
+    "name": "Kristie Moran",
+    "email": "kristie.moran@gpt.com.au",
+    "position": "Talent Acquisition Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dexus (ASX:DXS)",
+    "name": "Sophie Cottle",
+    "email": "sophie.cottle@dexus.com",
+    "position": "Leasing Agent",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dexus (ASX:DXS)",
+    "name": "Ciaran Moloney",
+    "email": "ciaran.moloney@dexus.com",
+    "position": "Chief Risk Officer",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dexus (ASX:DXS)",
+    "name": "Bruce McDonald",
+    "email": "bruce.mcdonald@dexus.com",
+    "position": "Managing Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dexus (ASX:DXS)",
+    "name": "Stewart Hutcheon",
+    "email": "stewart.hutcheon@dexus.com",
+    "position": "General Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dexus (ASX:DXS)",
+    "name": "Liam Scanlan",
+    "email": "liam.scanlan@dexus.com",
+    "position": "Leasing Agent",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dexus (ASX:DXS)",
+    "name": "Warwick Negus",
+    "email": "warwick.negus@dexus.com",
+    "position": "Chairman",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dexus (ASX:DXS)",
+    "name": "Michael Bessell",
+    "email": "michael.bessell@dexus.com",
+    "position": "General Manager, Infrastructure",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dexus (ASX:DXS)",
+    "name": "Mark Ford",
+    "email": "mark.ford@dexus.com",
+    "position": "Non-Executive Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dexus (ASX:DXS)",
+    "name": "Pat Daniels",
+    "email": "pat.daniels@dexus.com",
+    "position": "Chief Human Resources Officer",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dexus (ASX:DXS)",
+    "name": "Melanie Bourke",
+    "email": "melanie.bourke@dexus.com",
+    "position": "Chief Operating Officer",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Charter Hall Group (ASX:CHC)",
+    "name": "Avi Anger",
+    "email": "avi.anger@charterhall.com.au",
+    "position": null,
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Charter Hall Group (ASX:CHC)",
+    "name": "Rachael Cowper",
+    "email": "rachael.cowper@charterhall.com.au",
+    "position": "Director of Marketing",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Charter Hall Group (ASX:CHC)",
+    "name": "Trevor Cuthbert",
+    "email": "trevor.cuthbert@charterhall.com.au",
+    "position": "Chief Risk Officer",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Charter Hall Group (ASX:CHC)",
+    "name": "Darren Beatty",
+    "email": "darren.beatty@charterhall.com.au",
+    "position": "Treasury Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Charter Hall Group (ASX:CHC)",
+    "name": "Rebekah Hourigan",
+    "email": "rebekah.hourigan@charterhall.com.au",
+    "position": "Company Secretary",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Charter Hall Group (ASX:CHC)",
+    "name": "Jessica Tompsett",
+    "email": "jessica.tompsett@charterhall.com.au",
+    "position": "Business Development Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Charter Hall Group (ASX:CHC)",
+    "name": "Monica L\u00f6ffler",
+    "email": "monica.loeffler@charterhall.com.au",
+    "position": "Finance Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Charter Hall Group (ASX:CHC)",
+    "name": "Ruth Hutchinson",
+    "email": "ruth.hutchinson@charterhall.com.au",
+    "position": "Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Charter Hall Group (ASX:CHC)",
+    "name": "Sukhdev Singh",
+    "email": "sukhdev.singh@charterhall.com.au",
+    "position": "Head of Procurement",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Charter Hall Group (ASX:CHC)",
+    "name": "Cameron Hall",
+    "email": "cameron.hall@charterhall.com.au",
+    "position": "Product Owner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Lendlease (ASX:LLC)",
+    "name": "Meagan Robertson",
+    "email": "meagan.robertson@lendlease.com",
+    "position": "Sales Executive",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Lendlease (ASX:LLC)",
+    "name": "Yvonne Hughes",
+    "email": "yvonne.reyes@lendlease.com",
+    "position": "Talent Acquisition Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Lendlease (ASX:LLC)",
+    "name": "Rozana Zainal",
+    "email": "rozana.zainal@lendlease.com",
+    "position": "Food and Beverage Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Lendlease (ASX:LLC)",
+    "name": "Ian Shepherd",
+    "email": "ian.shepherd@lendlease.com",
+    "position": "Director of Customer Care",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Lendlease (ASX:LLC)",
+    "name": "David Norman",
+    "email": "david.norman@lendlease.com",
+    "position": "Operations Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Lendlease (ASX:LLC)",
+    "name": "Steve Lakner",
+    "email": "steve.lakner@lendlease.com",
+    "position": "Vice President",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Lendlease (ASX:LLC)",
+    "name": "Cheryl Lane",
+    "email": "cheryl.lane@lendlease.com",
+    "position": "Finance Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Lendlease (ASX:LLC)",
+    "name": "Annie Hughes",
+    "email": "annie.hughes@lendlease.com",
+    "position": "Director of Technical Services",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Lendlease (ASX:LLC)",
+    "name": "Diyana Jauhari",
+    "email": "diyana.jauhari@lendlease.com",
+    "position": "Senior Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Lendlease (ASX:LLC)",
+    "name": "Jeremy Cole",
+    "email": "jeremy.cole@lendlease.com",
+    "position": "Director of Rail Assurance",
+    "linkedin": null,
+    "bio": ""
+  }
+]

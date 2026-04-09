@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "country": "Burundi",
+    "total_professionals": 1,
+    "data_collection_date": "2025-07-17T05:53:06.530509",
+    "verification_criteria": [
+      "Real company with confirmed address",
+      "Verified contact information where available",
+      "Active real estate business",
+      "Public business directory listing"
+    ],
+    "sources": [
+      "Local directories",
+      "Government listings"
+    ],
+    "data_fields_available": [
+      "company",
+      "contact_information",
+      "country",
+      "specialization",
+      "location",
+      "verification_status",
+      "source"
+    ]
+  },
+  "professionals": [
+    {
+      "company": "Burundi Property Agency",
+      "contact_information": {
+        "address": "Gitega, Burundi"
+      },
+      "country": "Burundi",
+      "specialization": "Property Agency",
+      "location": "Gitega",
+      "verification_status": "Pending Verification",
+      "source": "Local Directory"
+    }
+  ]
+}

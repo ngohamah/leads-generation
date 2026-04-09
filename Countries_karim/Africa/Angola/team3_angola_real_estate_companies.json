@@ -1,0 +1,189 @@
+[
+  {
+    "url": "https://zenkirealestate.com/en/",
+    "structured_info": {
+      "company_name": "Zenki Real Estate",
+      "description": "Zenki Real Estate supports the largest national and international companies in the Angolan real estate market through its services. Their research department offers precise, detailed, and up-to-date information concerning all sectors in the real estate market.",
+      "image of a property or logo": null,
+      "All_real_estate_projects": [
+        {
+          "name": "De Beers \u2013 Exploration Headquarters, Luanda",
+          "description": "5310 M\u00b2 Office space.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2024/08/01_20240522_112259-554x360-c-center.jpg",
+          "location": "Ingombota, Luanda"
+        },
+        {
+          "name": "Garden Towers",
+          "description": "662 M\u00b2 Office space. Sale.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2024/06/garden-07-1-554x360-c-center.jpg",
+          "location": "Alvalade, Luanda"
+        },
+        {
+          "name": "Brick Factory",
+          "description": "Industrial property for Sale.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2023/08/IMG_1692-1-554x360-c-center.png",
+          "location": "Catete, Luanda"
+        },
+        {
+          "name": "Masuika Office Plaza",
+          "description": "853 M\u00b2 Office space. Sale/Lease.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Masuika_Office_Plaza_01-554x360-c-center.jpg",
+          "location": "Talatona, Luanda"
+        },
+        {
+          "name": "Loanda Towers",
+          "description": "233 M\u00b2 Office space. Sale/Lease.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Loanda_Towers_01-554x360-c-center.jpg",
+          "location": "Kinaxixi, Luanda"
+        },
+        {
+          "name": "Edificio 4life",
+          "description": "T2 Residential property. Sale.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Edificio_4Life_01-554x360-c-center.jpg",
+          "location": "Maianga, Luanda"
+        },
+        {
+          "name": "Orquidea",
+          "description": "498 M\u00b2 Office space. Lease.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Edificio_Orquidea_01-554x360-c-center.jpg",
+          "location": "Maianga, Luanda"
+        },
+        {
+          "name": "Cidade Financeira",
+          "description": "1079 M\u00b2 Office space. Sale.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Cidade_Financeira_01-554x360-c-center.jpg",
+          "location": "Talatona, Luanda"
+        },
+        {
+          "name": "Atrium Independ\u00eancia",
+          "description": "210 M\u00b2 Office space. Sale/Lease.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Atrium_Independencia_01-554x360-c-center.jpg",
+          "location": "1\u00ba de Maio, Luanda"
+        },
+        {
+          "name": "G.E. Oil & Gas \u2013 Office",
+          "description": "Acquisition of 827 sq m of office space in Edif\u00edcio ESCOM for GE's Oil & Gas business.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/10/best_cases_office_ge-1170x0-c-center.jpg",
+          "location": "Luanda (CBD)"
+        },
+        {
+          "name": "Repsol \u2013 Office",
+          "description": "Secured 431 m\u00b2 of office space in Edif\u00edcio Amilcar Cabral for Repsol.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/10/best_cases_office_repsol-1170x0-c-center.jpg",
+          "location": "Luanda (CBD)"
+        },
+        {
+          "name": "BCG \u2013 Office",
+          "description": "Secured 170 sq m of office space in Elys\u00e9e Tower for BCG.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/10/best_cases_office_bcg-1170x0-c-center.jpg",
+          "location": "Luanda CBD"
+        },
+        {
+          "name": "Halliburton \u2013 Office",
+          "description": "Secured 1,626 sq m of office space in Metropolis Business Center for Halliburton, and assisted with relocation.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/best_cases_office_halliburton-1170x0-c-center.jpg",
+          "location": "Luanda (Zone 2)"
+        },
+        {
+          "name": "Aker Solutions \u2013 Industrial & Logistics",
+          "description": "Secured a 40,000 sq m plot of land between Cacuaco and Viana in Via-Expresso for Aker Solutions' logistic yard development.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/10/best_cases_ind_log_aker-1170x0-c-center.jpg",
+          "location": "Viana or Cacuaco (Via-Expresso)"
+        },
+        {
+          "name": "Eni \u2013 Accommodations",
+          "description": "Secured twenty villas in the compound \u201cTalatona Gold\u201d at Talatona for ENI's expats.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/best_cases_accomodation_eni-1170x0-c-center.jpg",
+          "location": "Talatona"
+        },
+        {
+          "name": "BP \u2013 Accommodations",
+          "description": "Secured two residential buildings in the compound \u201cDolce Vita\u201d at Talatona (two 2-bedroom apartments and thirty 3-bedroom apartments) for BP's expats.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/best_cases_accomodation_bp-1170x0-c-center.jpg",
+          "location": "Talatona"
+        },
+        {
+          "name": "Repsol \u2013 Accommodations",
+          "description": "Secured several apartments in Luanda City Center for Repsol employees: Five in Torre Ambiente, three in Coqueiros Luanda Living, and one in Solar de Alvalade.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/best_cases_accomodation_repsol-1170x0-c-center.jpg",
+          "location": "Luanda City Center"
+        }
+      ],
+      "current_and_future_real_estate_projects": [
+        {
+          "name": "De Beers \u2013 Exploration Headquarters, Luanda",
+          "description": "5310 M\u00b2 Office space.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2024/08/01_20240522_112259-554x360-c-center.jpg",
+          "location": "Ingombota, Luanda"
+        },
+        {
+          "name": "Garden Towers",
+          "description": "662 M\u00b2 Office space. Sale.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2024/06/garden-07-1-554x360-c-center.jpg",
+          "location": "Alvalade, Luanda"
+        },
+        {
+          "name": "Brick Factory",
+          "description": "Industrial property for Sale.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2023/08/IMG_1692-1-554x360-c-center.png",
+          "location": "Catete, Luanda"
+        },
+        {
+          "name": "Masuika Office Plaza",
+          "description": "853 M\u00b2 Office space. Sale/Lease.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Masuika_Office_Plaza_01-554x360-c-center.jpg",
+          "location": "Talatona, Luanda"
+        },
+        {
+          "name": "Loanda Towers",
+          "description": "233 M\u00b2 Office space. Sale/Lease.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Loanda_Towers_01-554x360-c-center.jpg",
+          "location": "Kinaxixi, Luanda"
+        },
+        {
+          "name": "Edificio 4life",
+          "description": "T2 Residential property. Sale.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Edificio_4Life_01-554x360-c-center.jpg",
+          "location": "Maianga, Luanda"
+        },
+        {
+          "name": "Orquidea",
+          "description": "498 M\u00b2 Office space. Lease.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Edificio_Orquidea_01-554x360-c-center.jpg",
+          "location": "Maianga, Luanda"
+        },
+        {
+          "name": "Cidade Financeira",
+          "description": "1079 M\u00b2 Office space. Sale.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Cidade_Financeira_01-554x360-c-center.jpg",
+          "location": "Talatona, Luanda"
+        },
+        {
+          "name": "Atrium Independ\u00eancia",
+          "description": "210 M\u00b2 Office space. Sale/Lease.",
+          "image": "https://zenkirealestate.com/wp-content/uploads/2017/09/Imovel_Atrium_Independencia_01-554x360-c-center.jpg",
+          "location": "1\u00ba de Maio, Luanda"
+        }
+      ],
+      "agents": [],
+      "brochures": [],
+      "expertise_areas": [
+        "residential",
+        "commercial",
+        "office",
+        "industrial",
+        "land",
+        "retail",
+        "property valuation",
+        "market research",
+        "tenant representation",
+        "negotiation",
+        "fit-out support"
+      ],
+      "contact_info": {
+        "phone": "+244 934 838 383",
+        "email": "contact@zenkirealestate.com"
+      }
+    }
+  }
+]

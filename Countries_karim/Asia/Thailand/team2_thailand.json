@@ -1,0 +1,830 @@
+[
+  {
+    "company_name": "",
+    "name": "Tanaporn Sucharitpong",
+    "email": "tanaporn@sansiri.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Desmond Chang",
+    "email": "desmond@sansiri.com",
+    "position": "International Sales Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Pakpring Karoon",
+    "email": "pakpring@sansiri.com",
+    "position": "Head of Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Samatcha Promsiri",
+    "email": "samatcha@sansiri.com",
+    "position": "Executive Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Sorapong Tulyakorn",
+    "email": "sorapong@sansiri.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Santita Wiriyachan",
+    "email": "santita@sansiri.com",
+    "position": "Vice President of Corporate Planning and Investor Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Weerawan F",
+    "email": "weerawan@sansiri.com",
+    "position": "Senior HR Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Thanaphat Kulrapawiroj",
+    "email": "thanaphat@sansiri.com",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Jirapha Rachasuthee",
+    "email": "jirapha@sansiri.com",
+    "position": "Director of Lifestyle and Luxury"
+  },
+  {
+    "company_name": "",
+    "name": "Faisal Al-Faleh",
+    "email": "cs@sansiri.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Kitti Pong",
+    "email": "kittipong@pf.co.th",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Theerathat Singnarongthon",
+    "email": "theerathatsingnarongthon@pf.co.th",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Damisa Chitanuwat",
+    "email": "damisachitanuwat@pf.co.th",
+    "position": "Accounting Director"
+  },
+  {
+    "company_name": "",
+    "name": "Someak Piyanksuwan",
+    "email": "someakpiyanksuwan@pf.co.th",
+    "position": "Assistant Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jesd Jesdpiyawong",
+    "email": "jesdjesdpiyawong@pf.co.th",
+    "position": "Chief Support Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Nongnapa Watcharamonthian",
+    "email": "nongnapawatcharamonthian@pf.co.th",
+    "position": "Assistant Director"
+  },
+  {
+    "company_name": "",
+    "name": "Aisawan J",
+    "email": "aisawan.j@pf.co.th",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Rapipun Wangsattabongkot",
+    "email": "rapipunwangsattabongkot@pf.co.th",
+    "position": "Assistant Director, Business Development"
+  },
+  {
+    "company_name": "",
+    "name": "Natthikarn Wannaphueak",
+    "email": "natthikarnwannaphueak@pf.co.th",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Rassamee Metavikul",
+    "email": "rassameemetavikul@pf.co.th",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "navarat@ananda.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "contact@ananda.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ananda-groupmail-corp.secretary@ananda.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "whistleblower@ananda.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kulnaree@ananda.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "information@ananda.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kamonwan@ananda.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kunthida@ananda.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sirichom@ananda.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "chanond@ananda.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Warunee Thacheephan",
+    "email": "warunee.t@origin.co.th",
+    "position": "Vice President of Product Development"
+  },
+  {
+    "company_name": "",
+    "name": "Thidarat Phiwkhom",
+    "email": "thidarat.p@origin.co.th",
+    "position": "Vice President of Legal"
+  },
+  {
+    "company_name": "",
+    "name": "Aung Aung",
+    "email": "aung.a@origin.co.th",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Chanin Ponpuangkid",
+    "email": "chanin.p@origin.co.th",
+    "position": "Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Kae Anantawong",
+    "email": "kae.a@origin.co.th",
+    "position": "Vice President of Product Development"
+  },
+  {
+    "company_name": "",
+    "name": "Sutin Chaisang",
+    "email": "sutin.c@origin.co.th",
+    "position": "Senior Vice President of Project Development"
+  },
+  {
+    "company_name": "",
+    "name": "Aphichat Vichitwarakun",
+    "email": "aphichat.v@origin.co.th",
+    "position": "Deputy Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Apichai Thongpoon",
+    "email": "apichai.t@origin.co.th",
+    "position": "Senior Marketing Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Chanarun Khuntisit",
+    "email": "chanarun.k@origin.co.th",
+    "position": "Vice President of Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Asava Thongprasert",
+    "email": "asava.t@origin.co.th",
+    "position": "Vice President of Sales and Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "polepawan@centralpattana.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "niwanida@centralpattana.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "prom.rama3@centralpattana.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sochonnikarn@centralpattana.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "compliancecpnreit@centralpattana.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "prom.smi@centralpattana.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hall.ayy@centralpattana.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "prom.ubn@centralpattana.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "prom.ptb@centralpattana.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "prom.nkr@centralpattana.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Konstantinos Kalogiannidis",
+    "email": "chanthima@lh.co.th",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Nopphon L",
+    "email": "nopphon@lh.co.th",
+    "position": "Sales Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Siribhorn Laophaetkit",
+    "email": "siribhornlaophaetkit@lh.co.th",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Sarunya P",
+    "email": "sarunya@lh.co.th",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Prang Lekcholaryut",
+    "email": "pranglekcholaryut@lh.co.th",
+    "position": "Assistant Vice President of Corporate Communications"
+  },
+  {
+    "company_name": "",
+    "name": "Chitpramote Sisonmane",
+    "email": "chitpramotesisonmane@lh.co.th",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Pitipat Poybee",
+    "email": "pitipatpoybee@lh.co.th",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Apichat Yamsuan",
+    "email": "apichatyamsuan@lh.co.th",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "",
+    "name": "Suddhiporn K",
+    "email": "suddhiporn@lh.co.th",
+    "position": "Assistant Vice President of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Chiratchaya Harikulrak",
+    "email": "chiratchayaharikulrak@lh.co.th",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "contactcenter@onebangkok.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "enquiry@onebangkok.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@onebangkok.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "urbanfurniture@onebangkok.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@iconsiam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pilailak.w@iconsiam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sakao.p@iconsiam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "nattaporn.p@iconsiam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "iconluxepro@iconsiam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "orawan.th@iconsiam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "arisara.t@iconsiam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "patsita.k@iconsiam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@pacedev.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hr@pacedev.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ir@pacedev.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "salesrcr@pacedev.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "nimitlangsuan@pacedev.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pr@pacedev.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "thanomlak@estarpcl.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "estar@estarpcl.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@estarpcl.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "anti-corruption@estarpcl.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "company_secretary@estarpcl.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ir@estarpcl.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pdpa@estarpcl.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info_pdpa@estarpcl.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "wasunthra@estarpcl.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Thidarat Pho",
+    "email": "thidarat.pho@supalai.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "wannisa.pat@supalai.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "varunee.lap@supalai.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "maneewan.suk@supalai.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "toopthong.hir@supalai.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "samart.boo@supalai.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "tritecha.tan@supalai.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "krid.cha@supalai.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ir_spali@supalai.com",
+    "position": "Investor"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "cg@supalai.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Wasin Worrasangasilpa",
+    "email": "wasin_w@apthai.com",
+    "position": "Digital Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Sunanya Sethakrisorn",
+    "email": "sethakrisorn_s@apthai.com",
+    "position": "Digital Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Nitipat Chuengudomsap",
+    "email": "nitipat_c@apthai.com",
+    "position": "Marketing Technology Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jessica Arteaga",
+    "email": "veerachart_u@apthai.com",
+    "position": "Supply Chain Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Trinnakorn Siranundecha",
+    "email": "trinnakorn_s@apthai.com",
+    "position": "Customer Service Director"
+  },
+  {
+    "company_name": "",
+    "name": "Sutathip Aukkarametavee",
+    "email": "sutathip_a@apthai.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Wasupon Tangyusiri",
+    "email": "wasupon_t@apthai.com",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Dewi Hariyani",
+    "email": "wannapa_s@apthai.com",
+    "position": "Director of Digital Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Sanugoon Phakdee",
+    "email": "sanugoon_p@apthai.com",
+    "position": "Vice President of Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Poonlap Wongkumchang",
+    "email": "poonlap_w@apthai.com",
+    "position": "Vice President of Business Development"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ir@pruksa.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "jiraroj_c@pruksa.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@pruksa.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "recruit@pruksa.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "webmaster@pruksa.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ekapon_k@pruksa.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pscompanysecretary@pruksa.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "peopleteam_sng@pruksa.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sukanda_m@pruksa.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "onnichcha_c@pruksa.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Wipada Kanpromma",
+    "email": "wipada.kanpromma@lpn.co.th",
+    "position": "Head of Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Phanphen Sangchanpackdee",
+    "email": "phanphensangchanpackdee@lpn.co.th",
+    "position": "Deputy Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Suwattana Sae-Tang",
+    "email": "suwattanasae-tang@lpn.co.th",
+    "position": "Assistant Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Sathit Patyachai",
+    "email": "sathitpatyachai@lpn.co.th",
+    "position": "Director of Business Engineering"
+  },
+  {
+    "company_name": "",
+    "name": "Kornkanok Yimtanorm",
+    "email": "kornkanokyimtanorm@lpn.co.th",
+    "position": "Head of Legal"
+  },
+  {
+    "company_name": "",
+    "name": "Pacharawat Thitikunsmith",
+    "email": "pacharawatthitikunsmith@lpn.co.th",
+    "position": "Art Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jan Suphakitchanusan",
+    "email": "jansuphakitchanusan@lpn.co.th",
+    "position": "Head of Communications"
+  },
+  {
+    "company_name": "",
+    "name": "Somsri None",
+    "email": "somsrilpn@lpn.co.th",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ir@lpn.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@lpn.co.th",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Naruewan Pinit",
+    "email": "pinitn@botanicaluxuryvilla.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Patcharee Wongmalamat",
+    "email": "wongmalamatp@botanicaluxuryvilla.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Kantitat Moltha",
+    "email": "molthak@botanicaluxuryvilla.com",
+    "position": "Chief Business Development Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Tanadech Janbunjong",
+    "email": "janbunjongt@botanicaluxuryvilla.com",
+    "position": "Vice President of Construction"
+  },
+  {
+    "company_name": "",
+    "name": "Acheep Thamrongthanayot",
+    "email": "thamrongthanayota@botanicaluxuryvilla.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Teerasak Yaempardit",
+    "email": "yaemparditt@botanicaluxuryvilla.com",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Onnitcha Pattarachanatanachot",
+    "email": "pattarachanatanachoto@botanicaluxuryvilla.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Kamil Keskin",
+    "email": "keawvichitm@botanicaluxuryvilla.com",
+    "position": "Marketing Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Natpapat Likhit",
+    "email": "likhitn@botanicaluxuryvilla.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@botanicaluxuryvilla.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@copacabanajomtien.com",
+    "position": null
+  }
+]

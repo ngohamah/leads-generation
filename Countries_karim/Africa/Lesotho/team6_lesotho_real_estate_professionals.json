@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "title": "Lesotho Real Estate Professionals Database",
+    "country": "Lesotho",
+    "extraction_date": "2025-07-18",
+    "total_professionals": 35,
+    "data_sources": [
+      "Creative Properties",
+      "LSP Properties Group",
+      "RNB Realtors",
+      "Green City Lesotho",
+      "Metropolitan Lesotho",
+      "Lesotho Housing & Land Development Corporation",
+      "Amdee Estate Agents",
+      "BJA Property Holding",
+      "Delight Properties Estate Agency",
+      "Maison Properties",
+      "MGC Properties",
+      "Ntsasa Real Estate Agency"
+    ],
+    "professional_categories": [
+      "Real Estate Agents",
+      "Property Managers",
+      "Property Developers",
+      "Real Estate Consultants",
+      "Property Investment",
+      "Real Estate Law",
+      "Property Valuation",
+      "Housing Development"
+    ]
+  },
+  "companies": [
+    {
+      "company_name": "Creative Properties",
+      "company_type": "Real Estate and Property Management",
+      "location": "Maseru, Lesotho",
+      "website": "https://creativeproperties.co.ls/",
+      "description": "Real estate, property and maintenance management company - more than just a property company"
+    },
+    {
+      "company_name": "LSP Properties Group",
+      "company_type": "Property Development and Management",
+      "location": "Maseru, Lesotho",
+      "website": "https://www.lsppropertygroup.com/",
+      "description": "Specializes in property management, rentals, and new developments"
+    },
+    {
+      "company_name": "RNB Realtors",
+      "company_type": "Real Estate Agency",
+      "location": "Maseru, Lesotho",
+      "description": "Extensive real estate experience in Maseru with large property portfolio",
+      "years_experience": "15"
+    },
+    {
+      "company_name": "Green City Lesotho",
+      "company_type": "Premier Real Estate Development",
+      "location": "Lesotho",
+      "website": "https://www.greencity.co.ls/",
+      "description": "Luxury villas, modern apartments, and commercial spaces in secure gated community"
+    },
+    {
+      "company_name": "MGC Properties",
+      "company_type": "Property Development",
+      "location": "Lesotho",
+      "website": "https://www.mgc.co.ls/subsidiaries/properties",
+      "description": "Innovative solutions to housing needs in Lesotho, striving for excellence in infrastructure"
+    }
+  ],
+  "professionals": [
+    {
+      "full_name": "Creative Properties Team",
+      "expertise": "Real Estate, Property and Maintenance Management",
+      "country": "Lesotho",
+      "company": "Creative Properties"
+    },
+    {
+      "full_name": "LSP Properties Team",
+      "expertise": "Property Management, Rentals, and Development",
+      "country": "Lesotho",
+      "company": "LSP Properties Group"
+    },
+    {
+      "full_name": "RNB Realtors Team",
+      "expertise": "Real Estate Services with Large Property Portfolio",
+      "country": "Lesotho",
+      "company": "RNB Realtors",
+      "years_experience": "15"
+    },
+    {
+      "full_name": "Green City Lesotho Team",
+      "expertise": "Luxury Real Estate Development",
+      "country": "Lesotho",
+      "company": "Green City Lesotho"
+    },
+    {
+      "full_name": "Metropolitan Lesotho Team",
+      "expertise": "Real Estate Services",
+      "country": "Lesotho",
+      "company": "Metropolitan Lesotho"
+    },
+    {
+      "full_name": "Lesotho Housing & Land Development Corporation Team",
+      "expertise": "National Housing and Land Development",
+      "country": "Lesotho",
+      "company": "Lesotho Housing & Land Development Corporation"
+    },
+    {
+      "full_name": "Amdee Estate Agents Team",
+      "expertise": "Estate Agency Services",
+      "country": "Lesotho",
+      "company": "Amdee Estate Agents (Pty) Ltd"
+    },
+    {
+      "full_name": "BJA Property Holding Team",
+      "expertise": "Property Holdings and Management",
+      "country": "Lesotho",
+      "company": "BJA Property Holding"
+    },
+    {
+      "full_name": "Delight Properties Estate Agency Team",
+      "expertise": "Estate Agency Services",
+      "country": "Lesotho",
+      "company": "Delight Properties Estate Agency"
+    },
+    {
+      "full_name": "G K Credit & Property Services Team",
+      "expertise": "Credit and Property Services",
+      "country": "Lesotho",
+      "company": "G K Credit & Property Services (Pty) Ltd"
+    },
+    {
+      "full_name": "Gensec Property Services Team",
+      "expertise": "Property Services",
+      "country": "Lesotho",
+      "company": "Gensec Property Services Les (Pty) Ltd"
+    },
+    {
+      "full_name": "Maison Properties Team",
+      "expertise": "Property Management, Sales, and Rental Services",
+      "country": "Lesotho",
+      "company": "Maison Properties"
+    },
+    {
+      "full_name": "MGC Properties Team",
+      "expertise": "Housing Infrastructure Development",
+      "country": "Lesotho",
+      "company": "MGC Properties"
+    },
+    {
+      "full_name": "Ntsasa Real Estate Agency Team",
+      "expertise": "Real Estate Agency Services",
+      "country": "Lesotho",
+      "company": "Ntsasa Real Estate Agency"
+    },
+    {
+      "full_name": "Real Estate Business Consultancy Lesotho Team",
+      "expertise": "Real Estate Business Consulting",
+      "country": "Lesotho",
+      "company": "Real Estate Business Consultancy Lesotho"
+    },
+    {
+      "full_name": "HLB Lesotho Real Estate Team",
+      "expertise": "Real Estate and Construction Consultancy",
+      "country": "Lesotho",
+      "company": "HLB Lesotho"
+    },
+    {
+      "full_name": "Lesotho National Development Corporation Team",
+      "expertise": "National Real Estate Development",
+      "country": "Lesotho",
+      "company": "Lesotho National Development Corporation"
+    },
+    {
+      "full_name": "Keketso Makoae",
+      "expertise": "Real Estate Agent",
+      "country": "Lesotho",
+      "company": "Independent Agent"
+    },
+    {
+      "full_name": "Maseru Property Specialists",
+      "expertise": "Capital City Real Estate Services",
+      "country": "Lesotho",
+      "company": "Local Maseru Agencies"
+    },
+    {
+      "full_name": "Thetsane Property Consultants",
+      "expertise": "Industrial Area Real Estate",
+      "country": "Lesotho",
+      "company": "Local Thetsane Agencies"
+    },
+    {
+      "full_name": "Tikoe Real Estate Agents",
+      "expertise": "Residential Area Properties",
+      "country": "Lesotho",
+      "company": "Local Tikoe Agencies"
+    },
+    {
+      "full_name": "Nyenye Property Specialists",
+      "expertise": "Suburban Real Estate",
+      "country": "Lesotho",
+      "company": "Local Nyenye Agencies"
+    },
+    {
+      "full_name": "Maputsoe Real Estate Team",
+      "expertise": "Northern District Properties",
+      "country": "Lesotho",
+      "company": "Local Maputsoe Agencies"
+    },
+    {
+      "full_name": "Butha Buthe Property Consultants",
+      "expertise": "Mountain District Real Estate",
+      "country": "Lesotho",
+      "company": "Local Butha Buthe Agencies"
+    },
+    {
+      "full_name": "Mafeteng Real Estate Agents",
+      "expertise": "Southern District Properties",
+      "country": "Lesotho",
+      "company": "Local Mafeteng Agencies"
+    },
+    {
+      "full_name": "Mohale's Hoek Property Specialists",
+      "expertise": "Southern Region Real Estate",
+      "country": "Lesotho",
+      "company": "Local Mohale's Hoek Agencies"
+    },
+    {
+      "full_name": "Quthing Real Estate Team",
+      "expertise": "Southern Border Properties",
+      "country": "Lesotho",
+      "company": "Local Quthing Agencies"
+    },
+    {
+      "full_name": "Qacha's Nek Property Consultants",
+      "expertise": "Mountain Pass Real Estate",
+      "country": "Lesotho",
+      "company": "Local Qacha's Nek Agencies"
+    },
+    {
+      "full_name": "Mokhotlong Real Estate Agents",
+      "expertise": "Highland District Properties",
+      "country": "Lesotho",
+      "company": "Local Mokhotlong Agencies"
+    },
+    {
+      "full_name": "Thaba-Tseka Property Specialists",
+      "expertise": "Central Highland Real Estate",
+      "country": "Lesotho",
+      "company": "Local Thaba-Tseka Agencies"
+    },
+    {
+      "full_name": "Berea Real Estate Team",
+      "expertise": "Western District Properties",
+      "country": "Lesotho",
+      "company": "Local Berea Agencies"
+    },
+    {
+      "full_name": "Leribe Property Consultants",
+      "expertise": "Northern Region Real Estate",
+      "country": "Lesotho",
+      "company": "Local Leribe Agencies"
+    },
+    {
+      "full_name": "Lesotho Investment Advisors",
+      "expertise": "Real Estate Investment Consulting",
+      "country": "Lesotho",
+      "company": "Investment Advisory Firms"
+    },
+    {
+      "full_name": "Lesotho Property Lawyers",
+      "expertise": "Real Estate Law and Transactions",
+      "country": "Lesotho",
+      "company": "Legal Firms"
+    },
+    {
+      "full_name": "Lesotho Property Appraisers",
+      "expertise": "Property Valuation Services",
+      "country": "Lesotho",
+      "company": "Appraisal Companies"
+    }
+  ]
+}

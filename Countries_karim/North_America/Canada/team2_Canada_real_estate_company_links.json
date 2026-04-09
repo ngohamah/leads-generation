@@ -1,0 +1,602 @@
+[
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Amanda McCallen",
+    "email": "amccallen@firstservice.com",
+    "position": "Tax Director"
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Adam Schnare",
+    "email": "aschnare@firstservice.com",
+    "position": "Director of Technology"
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Jordan Muchnick",
+    "email": "jmuchnick@firstservice.com",
+    "position": "Vice President of Lending"
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Steve Carpenter",
+    "email": "scarpenter@firstservice.com",
+    "position": "Senior Vice President of Technology"
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Doug Cooke",
+    "email": "dcooke@firstservice.com",
+    "position": "Vice President, Controller"
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Angela Bai",
+    "email": "abai@firstservice.com",
+    "position": "Vice President of Strategy"
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Mike Smith",
+    "email": "msmith@firstservice.com",
+    "position": "Director of Strategy"
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Bailey MacDonald",
+    "email": "bmacdonald@firstservice.com",
+    "position": "Director of Strategy"
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Brian Mcdonough",
+    "email": "bmcdonough@firstservice.com",
+    "position": "Vice President of Finance"
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Patrick Tran",
+    "email": "ptran@firstservice.com",
+    "position": "Senior Vice President of Tax"
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Suzan Akon",
+    "email": "sakon@morguard.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Ian Hotchkiss",
+    "email": "ihotchkiss@morguard.com",
+    "position": "Director of Retail Leasing"
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Nick Moschella",
+    "email": "nmoschella@morguard.com",
+    "position": "Vice President of Finance"
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Krysta Page",
+    "email": "kpage@morguard.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Mike Grupp",
+    "email": "mgrupp@morguard.com",
+    "position": "Director of Development"
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Richard Clermont",
+    "email": "rclermont@morguard.com",
+    "position": "Assistant Vice President, Asset Management"
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Bonnie Long",
+    "email": "blong@morguard.com",
+    "position": "Vice President of Tax"
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Elizabeth Ferreira",
+    "email": "eferreira@morguard.com",
+    "position": "Legal Assistant"
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Gene Fisher",
+    "email": "gfisher@morguard.com",
+    "position": "Director of Retail Property Management"
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Enza Hughes",
+    "email": "ehughes@morguard.com",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Heather DeFrancesco",
+    "email": "hdefrancesco@triconresidential.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Drew Mcgray",
+    "email": "dmcgray@triconresidential.com",
+    "position": "Vice President, Marketing"
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Alexandre Pike",
+    "email": "apike@triconresidential.com",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Corinne Voels",
+    "email": "cvoels@triconresidential.com",
+    "position": "Revenue Director"
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Karina McKinney",
+    "email": "kmckinney@triconresidential.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Kerry Steer",
+    "email": "ksteer@triconresidential.com",
+    "position": "Senior Vice President, Construction"
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Irena Stankovic",
+    "email": "istankovic@triconresidential.com",
+    "position": "Director of ESG Strategy"
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Jeff Peterson",
+    "email": "jpeterson@triconresidential.com",
+    "position": "Vice President, Asset Management"
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Jake Yuan",
+    "email": "jyuan@triconresidential.com",
+    "position": "Asset Management Director"
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Deborah Coggins",
+    "email": "dcoggins@triconresidential.com",
+    "position": "Senior HR Business Partner"
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Jamelda Reyes-Alino",
+    "email": "jamelda.reyes-alino@altusgroup.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Kenneth Lien",
+    "email": "kenneth.lien@altusgroup.com",
+    "position": "Head of Commercial Transactions"
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Jonathan Brami",
+    "email": "jonathan.brami@altusgroup.com",
+    "position": "Customer Success Director"
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Jane McCormack",
+    "email": "jane.mccormack@altusgroup.com",
+    "position": "Global Human Resources Director"
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Kate Fletcher",
+    "email": "kate.fletcher@altusgroup.com",
+    "position": "Director of Marketing, APAC"
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Jonas Locke",
+    "email": "jonas.locke@altusgroup.com",
+    "position": "Head of Valuation Advisory"
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Michele Crochetiere",
+    "email": "michele.crochetiere@altusgroup.com",
+    "position": "Senior Director of Client Services"
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Richard Clift",
+    "email": "richard.clift@altusgroup.com",
+    "position": "Senior Director"
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Benoit Belanger",
+    "email": "benoit.belanger@altusgroup.com",
+    "position": "Senior Director"
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Sharon Yap",
+    "email": "sharon.yap@altusgroup.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Karen James",
+    "email": "kjames@chartwell.com",
+    "position": "Board Member"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Margaret Tays",
+    "email": "mtays@chartwell.com",
+    "position": "Regional Director of Operations"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Randall Walsh",
+    "email": "rwalsh@chartwell.com",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Derek Lusk",
+    "email": "dlusk@chartwell.com",
+    "position": "Executive Chef"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Linda Prout",
+    "email": "lprout@chartwell.com",
+    "position": "Regional Sales Director"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Heather Dyck",
+    "email": "hdyck@chartwell.com",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Any Lebrun",
+    "email": "alebrun@chartwell.com",
+    "position": "Director of Maintenance"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Bob Sangha",
+    "email": "bsangha@chartwell.com",
+    "position": "Director of Compliance"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Shari Lafontaine",
+    "email": "slafontaine@chartwell.com",
+    "position": "Senior Vice President of Finance"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Lisa Brule",
+    "email": "lbrule@chartwell.com",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Alexandra Screpnechuk",
+    "email": "ascrepnechuk@dream.ca",
+    "position": "Director of Investments"
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Michelle Luk",
+    "email": "mluk@dream.ca",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Alex Heath",
+    "email": "aheath@dream.ca",
+    "position": "Associate Director of Development"
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Robb Dalgleish",
+    "email": "rdalgleish@dream.ca",
+    "position": "Director"
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Gabriel Weitz",
+    "email": "gweitz@dream.ca",
+    "position": "Vice President, Investments"
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Andrew Cunningham",
+    "email": "acunningham@dream.ca",
+    "position": "Associate Vice President, Portfolio Management"
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Jodi Gathercole",
+    "email": "jgathercole@dream.ca",
+    "position": "Executive Coordinator"
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Michael Ward",
+    "email": "mward@dream.ca",
+    "position": "Director of Property Management"
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Shannon King",
+    "email": "sking@dream.ca",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Charlene MacLeod",
+    "email": "cmacleod@dream.ca",
+    "position": "Vice President of Finance"
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Robyn Salik",
+    "email": "rsalik@melcor.ca",
+    "position": "Vice President of Accounting"
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Leah Margiotta",
+    "email": "lmargiotta@melcor.ca",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Bob Brown",
+    "email": "bbrown@melcor.ca",
+    "position": "Vice President of Property Management"
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Scott Sowinski",
+    "email": "ssowinski@melcor.ca",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Graeme Melton",
+    "email": "gmelton@melcor.ca",
+    "position": "Vice President of Community Development"
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Ryan McDermott",
+    "email": "rmcdermott@melcor.ca",
+    "position": "Director of Golf"
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Pat Melton",
+    "email": "pmelton@melcor.ca",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Erin Luys",
+    "email": "eluys@melcor.ca",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Tyler Hansen",
+    "email": "thansen@melcor.ca",
+    "position": "General Manager"
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Erin Cripps",
+    "email": "ecripps@melcor.ca",
+    "position": "Sales and Marketing Manager"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Winnie Tse",
+    "email": "winnie.tse@concordpacific.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Linda Wang",
+    "email": "linda.wang@concordpacific.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Monica Laureano",
+    "email": "monica.laureano@concordpacific.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Lucas Froese",
+    "email": "lucas.froese@concordpacific.com",
+    "position": "Director of Acquisitions"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Devon Guerriero",
+    "email": "devon.guerriero@concordpacific.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Randi Sharan",
+    "email": "randi.sharan@concordpacific.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Peter Wang",
+    "email": "peter.wang@concordpacific.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Matt Meehan",
+    "email": "matt.meehan@concordpacific.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Emily Tang",
+    "email": "emily.tang@concordpacific.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Megan Grayston",
+    "email": "megan.grayston@concordpacific.com",
+    "position": "Commercial Leasing Director"
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Kate Fran\u00e7ois",
+    "email": "kfrancois@onni.com",
+    "position": "Media Contact"
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Perry Mahal",
+    "email": "pmahal@onni.com",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Erik Ferguson",
+    "email": "eferguson@onni.com",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Rodney Rao",
+    "email": "rrao@onni.com",
+    "position": "Development Manager"
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Thomas Woodward",
+    "email": "twoodward@onni.com",
+    "position": null
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Seda Petrosyan",
+    "email": "spetrosyan@onni.com",
+    "position": "Executive Managing Director"
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Robert Vrooman",
+    "email": "rvrooman@onni.com",
+    "position": "Project Lead"
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Cory Morris",
+    "email": "cmorris@onni.com",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Neal Linthicum",
+    "email": "nlinthicum@onni.com",
+    "position": "Leasing Manager"
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Steve Bernier",
+    "email": "sbernier@onni.com",
+    "position": "Leasing Manager"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Winnie Tse",
+    "email": "winnie.tse@concordpacific.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Linda Wang",
+    "email": "linda.wang@concordpacific.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Monica Laureano",
+    "email": "monica.laureano@concordpacific.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Lucas Froese",
+    "email": "lucas.froese@concordpacific.com",
+    "position": "Director of Acquisitions"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Devon Guerriero",
+    "email": "devon.guerriero@concordpacific.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Randi Sharan",
+    "email": "randi.sharan@concordpacific.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Peter Wang",
+    "email": "peter.wang@concordpacific.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Matt Meehan",
+    "email": "matt.meehan@concordpacific.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Emily Tang",
+    "email": "emily.tang@concordpacific.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Megan Grayston",
+    "email": "megan.grayston@concordpacific.com",
+    "position": "Commercial Leasing Director"
+  }
+]

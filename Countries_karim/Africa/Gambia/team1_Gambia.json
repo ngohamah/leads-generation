@@ -1,0 +1,73 @@
+[
+  {
+    "name": "GamRealty",
+    "website": "https://gamrealty.com/",
+    "address": "Hendon Court Kololi, Bertil Harding Highway, The Gambia",
+    "email": "info@gamrealty.com",
+    "phone": "+220 2696613"
+  },
+  {
+    "name": "Properties Gambia Real Estate",
+    "website": "https://www.properties-gambia.com/",
+    "address": null,
+    "email": "contact@properties-gambia.com",
+    "phone": "+2207928625"
+  },
+  {
+    "name": "Blue Ocean Properties",
+    "website": "https://www.blueocean.gm",
+    "address": "Village Complex, Kololi, Bertil Harding Highway, Greater Banjul area, The Gambia",
+    "email": "info@blueoceanproperties.net",
+    "phone": "+220 3972583"
+  },
+  {
+    "name": "Global Properties",
+    "website": null,
+    "address": "2 Kairaba Avenue, FIB House, Serrekunda, The Gambia",
+    "email": "info@globalproperties.gm",
+    "phone": "(+220) 439 1944"
+
+  },
+  {
+    "name": "The Property Shop",
+    "website": "https://gambiapropertyshop.com/",
+    "address": "Emporium 3, 114 Kairaba Avenue, Fajara, The Gambia",
+    "email": "info@gambiapropertyshop.com",
+    "phone": "+220 7461000"
+  },
+  {
+    "name": "TAF Africa Global",
+    "website": "http://www.tafafricaglobal.com",
+    "address": "15-17 Kairaba Avenue, Madiba Mall, Brufut Gardens Estate, P.O Box 121, The Gambia",
+    "email": "info@tafafricaglobal.com",
+    "phone": "+220776-2333"
+  },
+  {
+    "name": "Habita Gambia",
+    "website": null,
+    "address": "Serrekunda, The Gambia",
+    "email": null,
+    "phone": "+220 2939 719"
+  },
+  {
+    "name": "Velvet Properties",
+    "website": "https://www.facebook.com/velvetproperties",
+    "address": "Serrekunda, The Gambia",
+    "email": null,
+    "phone": "+220 7008809"
+  },
+  {
+    "name": "Dalaba Estate",
+    "website": null,
+    "address": null,
+    "email": null,
+    "phone": null
+  },
+  {
+    "name": "Deka",
+    "website": "https://deka.gm/",
+    "address": null,
+    "email": "info@deka.gm",
+    "phone": "+220 3515151"
+  }
+]

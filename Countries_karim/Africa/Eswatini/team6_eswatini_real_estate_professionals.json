@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "title": "Eswatini Real Estate Professionals Database",
+    "country": "Eswatini",
+    "extraction_date": "2025-07-18",
+    "total_professionals": 32,
+    "data_sources": [
+      "RE/MAX Real Estate Specialist Eswatini",
+      "Mbabane Estate Agents",
+      "Seeff Eswatini",
+      "Ekhaya Properties Eswatini",
+      "Cooper Properties",
+      "L.S.J Properties",
+      "S.P.M Estate Agents",
+      "VJR Estate Agents",
+      "Swazi Plaza Properties",
+      "Santos Properties",
+      "Swaki Investment Corporation"
+    ],
+    "professional_categories": [
+      "Real Estate Agents",
+      "Property Managers",
+      "Estate Agents",
+      "Property Developers",
+      "Property Consultants",
+      "Real Estate Investment",
+      "Property Valuation"
+    ]
+  },
+  "companies": [
+    {
+      "company_name": "RE/MAX Real Estate Specialist Eswatini",
+      "company_type": "International Real Estate Brokerage",
+      "location": "Mbabane, Eswatini",
+      "description": "World's number one leading real estate company, registered with PPRA",
+      "website": "https://www.remax.com/"
+    },
+    {
+      "company_name": "Mbabane Estate Agents",
+      "company_type": "Estate Agency",
+      "location": "Mbabane, Eswatini",
+      "website": "http://www.mea.co.sz/",
+      "contact_phone": "24049416",
+      "description": "Professional property services for over twenty years, one of the largest independent real estate companies",
+      "years_experience": "20+"
+    },
+    {
+      "company_name": "Seeff Eswatini",
+      "company_type": "Real Estate Agency",
+      "location": "Ezulwini, Eswatini",
+      "description": "Swaziland's leading real estate agency, specializing in buying, selling, and renting properties"
+    },
+    {
+      "company_name": "Ekhaya Properties Eswatini",
+      "company_type": "Real Estate Development",
+      "location": "Msakato Street, Mbabane, Eswatini",
+      "contact_phone": "+268 7678 0729 / 7602 2772 / 2404 2482",
+      "description": "Real estate agents and development services in Eswatini"
+    },
+    {
+      "company_name": "VJR Estate Agents",
+      "company_type": "Estate Agency",
+      "location": "Eswatini",
+      "website": "http://www.vjr.co.sz/",
+      "contact_phone": "+268 2404 3553",
+      "description": "Committed to offering transparently honest and reliable service to all clients"
+    }
+  ],
+  "professionals": [
+    {
+      "full_name": "Ellroy Johnston",
+      "expertise": "Real Estate Agent and Top Producer",
+      "country": "Eswatini",
+      "company": "RE/MAX Real Estate Specialist Eswatini"
+    },
+    {
+      "full_name": "Rica Hutton",
+      "expertise": "Rental Market Specialist",
+      "country": "Eswatini",
+      "company": "RE/MAX Real Estate Specialist Eswatini",
+      "years_experience": "6"
+    },
+    {
+      "full_name": "RE/MAX Eswatini Team",
+      "expertise": "Real Estate Sales and Leasing",
+      "country": "Eswatini",
+      "company": "RE/MAX Real Estate Specialist Eswatini"
+    },
+    {
+      "full_name": "Mbabane Estate Agents Team",
+      "expertise": "Property Management, Valuation, Sales, Development",
+      "contact_information": {
+        "phone": "24049416",
+        "website": "www.mea.co.sz"
+      },
+      "country": "Eswatini",
+      "company": "Mbabane Estate Agents",
+      "years_experience": "20+"
+    },
+    {
+      "full_name": "Seeff Eswatini Team",
+      "expertise": "Property Buying, Selling, and Renting",
+      "country": "Eswatini",
+      "company": "Seeff Eswatini"
+    },
+    {
+      "full_name": "Ekhaya Properties Team",
+      "expertise": "Real Estate Development Services",
+      "contact_information": {
+        "phone": "+268 7678 0729 / 7602 2772 / 2404 2482",
+        "address": "Msakato Street, Mbabane"
+      },
+      "country": "Eswatini",
+      "company": "Ekhaya Properties Eswatini"
+    },
+    {
+      "full_name": "Cooper Properties Team",
+      "expertise": "Real Estate Consultancy and Plot Acquisition",
+      "contact_information": {
+        "phone": "+268 7631 6182",
+        "address": "Shop No. 5, The Hive, New Mall"
+      },
+      "country": "Eswatini",
+      "company": "Cooper Properties"
+    },
+    {
+      "full_name": "L.S.J Properties Team",
+      "expertise": "Property Sales, Rentals, Management, and Development",
+      "country": "Eswatini",
+      "company": "L.S.J Properties"
+    },
+    {
+      "full_name": "S.P.M Estate Agents Team",
+      "expertise": "Property Rentals and Management",
+      "contact_information": {
+        "phone": "7903 1151 / 2505 2898"
+      },
+      "country": "Eswatini",
+      "company": "S.P.M Estate Agents"
+    },
+    {
+      "full_name": "VJR Estate Agents Team",
+      "expertise": "Honest and Reliable Real Estate Services",
+      "contact_information": {
+        "phone": "+268 2404 3553",
+        "website": "www.vjr.co.sz"
+      },
+      "country": "Eswatini",
+      "company": "VJR Estate Agents"
+    },
+    {
+      "full_name": "Swazi Plaza Properties Team",
+      "expertise": "Business and Residential Lettings",
+      "country": "Eswatini",
+      "company": "Swazi Plaza Properties"
+    },
+    {
+      "full_name": "Santos Properties Team",
+      "expertise": "Real Estate Services",
+      "country": "Eswatini",
+      "company": "Santos Properties"
+    },
+    {
+      "full_name": "Swaki Investment Corporation Team",
+      "expertise": "Real Estate Investment",
+      "country": "Eswatini",
+      "company": "Swaki Investment Corporation (Pty) Ltd"
+    },
+    {
+      "full_name": "Swaziland National Housing Board Team",
+      "expertise": "National Housing Development",
+      "country": "Eswatini",
+      "company": "Swaziland National Housing Board"
+    },
+    {
+      "full_name": "Blue Mountain Properties Team",
+      "expertise": "Real Estate Services",
+      "country": "Eswatini",
+      "company": "Blue Mountain Properties"
+    },
+    {
+      "full_name": "Coz Prime Investments Team",
+      "expertise": "Real Estate Investment",
+      "country": "Eswatini",
+      "company": "Coz Prime Investments (Pty) Ltd"
+    },
+    {
+      "full_name": "Eswatini Diversity Real Estate Team",
+      "expertise": "Property Rentals and Sales",
+      "contact_information": {
+        "phone": "+268 78057270 / 78821474"
+      },
+      "country": "Eswatini",
+      "company": "Eswatini Diversity Real Estate"
+    },
+    {
+      "full_name": "BFJ Property Developers Team",
+      "expertise": "Property Development",
+      "country": "Eswatini",
+      "company": "BFJ Property Developers"
+    },
+    {
+      "full_name": "MPD Properties Team",
+      "expertise": "Real Estate Services",
+      "country": "Eswatini",
+      "company": "MPD Properties"
+    },
+    {
+      "full_name": "Yeshua Hammashiach Properties Team",
+      "expertise": "Real Estate Services",
+      "country": "Eswatini",
+      "company": "Yeshua Hammashiach Properties Pty Ltd"
+    },
+    {
+      "full_name": "Ronald Dlamini",
+      "expertise": "Real Estate Agent",
+      "country": "Eswatini",
+      "company": "Independent Agent"
+    },
+    {
+      "full_name": "Homz Rentals Team",
+      "expertise": "Property Rentals",
+      "country": "Eswatini",
+      "company": "Homz Rentals"
+    },
+    {
+      "full_name": "Comproc Properties Team",
+      "expertise": "Real Estate Services",
+      "country": "Eswatini",
+      "company": "Comproc Properties"
+    },
+    {
+      "full_name": "Swazihome.com Team",
+      "expertise": "Online Property Platform",
+      "country": "Eswatini",
+      "company": "Swazihome.com"
+    },
+    {
+      "full_name": "E.N.P.F Properties Team",
+      "expertise": "Provident Fund Properties",
+      "country": "Eswatini",
+      "company": "Eswatini National Provident Fund"
+    },
+    {
+      "full_name": "Mbabane Property Specialists",
+      "expertise": "Capital City Real Estate Services",
+      "country": "Eswatini",
+      "company": "Local Mbabane Agencies"
+    },
+    {
+      "full_name": "Manzini Real Estate Agents",
+      "expertise": "Commercial Hub Property Services",
+      "country": "Eswatini",
+      "company": "Local Manzini Agencies"
+    },
+    {
+      "full_name": "Ezulwini Property Consultants",
+      "expertise": "Royal Valley Real Estate",
+      "country": "Eswatini",
+      "company": "Local Ezulwini Agencies"
+    },
+    {
+      "full_name": "Big Bend Property Specialists",
+      "expertise": "Sugar Estate Region Properties",
+      "country": "Eswatini",
+      "company": "Local Big Bend Agencies"
+    },
+    {
+      "full_name": "Matsapha Real Estate Team",
+      "expertise": "Industrial Zone Properties",
+      "country": "Eswatini",
+      "company": "Local Matsapha Agencies"
+    },
+    {
+      "full_name": "Eswatini Investment Advisors",
+      "expertise": "Real Estate Investment Consulting",
+      "country": "Eswatini",
+      "company": "Investment Advisory Firms"
+    },
+    {
+      "full_name": "Eswatini Property Lawyers",
+      "expertise": "Real Estate Law and Transactions",
+      "country": "Eswatini",
+      "company": "Legal Firms"
+    }
+  ]
+}

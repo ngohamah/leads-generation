@@ -1,0 +1,296 @@
+[
+  {
+    "company_name": "Prime Property",
+    "name": "None None",
+    "email": "info@primepropertyinter.com",
+    "position": null
+  },
+  {
+    "company_name": "B2D Immobilier Guin\u00e9e",
+    "name": "None None",
+    "email": "info@b2dguinee.com",
+    "position": null
+  },
+  {
+    "company_name": "B2D Immobilier Guin\u00e9e",
+    "name": "None None",
+    "email": "commercial@b2dguinee.com",
+    "position": null
+  },
+  {
+    "company_name": "Kakande Immo",
+    "name": "None None",
+    "email": "info@kakande-immo.com",
+    "position": null
+  },
+  {
+    "company_name": "ALN Guinea (ADNA)",
+    "name": "Dominic Rebelo",
+    "email": "dominic.rebelo@aln.africa",
+    "position": "Partner"
+  },
+  {
+    "company_name": "ALN Guinea (ADNA)",
+    "name": "Margaret Mwendwa",
+    "email": "margaret.mwendwa@aln.africa",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "ALN Guinea (ADNA)",
+    "name": "Akash Devani",
+    "email": "akash.devani@aln.africa",
+    "position": "Partner"
+  },
+  {
+    "company_name": "ALN Guinea (ADNA)",
+    "name": "James Karanja",
+    "email": "james.karanja@aln.africa",
+    "position": "Tax Director"
+  },
+  {
+    "company_name": "ALN Guinea (ADNA)",
+    "name": "Sammy Mate",
+    "email": "sammy.mate@aln.africa",
+    "position": "Head of Innovation and Technology"
+  },
+  {
+    "company_name": "ALN Guinea (ADNA)",
+    "name": "Mona Doshi",
+    "email": "mona.doshi@aln.africa",
+    "position": "Partner"
+  },
+  {
+    "company_name": "ALN Guinea (ADNA)",
+    "name": "Abbas Esmail",
+    "email": "abbas.esmail@aln.africa",
+    "position": "Partner"
+  },
+  {
+    "company_name": "ALN Guinea (ADNA)",
+    "name": "Nora Albadri",
+    "email": "faith.macharia@aln.africa",
+    "position": "Partner"
+  },
+  {
+    "company_name": "ALN Guinea (ADNA)",
+    "name": "Pitchawat Chanchadnarong",
+    "email": "adnan.khan@aln.africa",
+    "position": "Partner"
+  },
+  {
+    "company_name": "ALN Guinea (ADNA)",
+    "name": "Sonal Sejpal",
+    "email": "sonal.tejpar@aln.africa",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Aguimmo (Afrique Guin\u00e9e Immobilier)",
+    "name": "None None",
+    "email": "info@aguimmo.com",
+    "position": null
+  },
+  {
+    "company_name": "Tigui Mining Group (Real Estate Development)",
+    "name": "None None",
+    "email": "media@tiguimininggroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Tigui Mining Group (Real Estate Development)",
+    "name": "None None",
+    "email": "tigui@tiguimininggroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Sydram & Saliou Bah Associ\u00e9s",
+    "name": "Bakary Berete",
+    "email": "bakary.berete@avocatsydram-saliou.com",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Sydram & Saliou Bah Associ\u00e9s",
+    "name": "Saliou Bah",
+    "email": "saliou.bah@avocatsydram-saliou.com",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Sydram & Saliou Bah Associ\u00e9s",
+    "name": "Sekou Traore",
+    "email": "sekou.traore@avocatsydram-saliou.com",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Sydram & Saliou Bah Associ\u00e9s",
+    "name": "Mamoudou Keita",
+    "email": "mamoudou.keita@avocatsydram-saliou.com",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Sydram & Saliou Bah Associ\u00e9s",
+    "name": "Mamady Doumbouya",
+    "email": "mamady.doumbouya@avocatsydram-saliou.com",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Sydram & Saliou Bah Associ\u00e9s",
+    "name": "None None",
+    "email": "fassoudaniel.haba@avocatsydram-saliou.com",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Sydram & Saliou Bah Associ\u00e9s",
+    "name": "None None",
+    "email": "contact@avocatsydram-saliou.com",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Sydram & Saliou Bah Associ\u00e9s",
+    "name": "None None",
+    "email": "kamankekoura.bah@avocatsydram-saliou.com",
+    "position": null
+  },
+  {
+    "company_name": "Cabinet Sydram & Saliou Bah Associ\u00e9s",
+    "name": "None None",
+    "email": "beatricesia.leno@avocatsydram-saliou.com",
+    "position": null
+  },
+  {
+    "company_name": "Guilex Avocats",
+    "name": "Hamidou Dram\u00e9",
+    "email": "hdrame@guilex-avocats.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Guilex Avocats",
+    "name": "Fadama Oulare",
+    "email": "foulare@guilex-avocats.com",
+    "position": "Attorney"
+  },
+  {
+    "company_name": "Guilex Avocats",
+    "name": "Lamine Camara",
+    "email": "lcamara@guilex-avocats.com",
+    "position": "Legal Advisor"
+  },
+  {
+    "company_name": "Guilex Avocats",
+    "name": "Amadou Diop",
+    "email": "adiop@guilex-avocats.com",
+    "position": "Legal Counsel"
+  },
+  {
+    "company_name": "Guilex Avocats",
+    "name": "None None",
+    "email": "msylla@guilex-avocats.com",
+    "position": null
+  },
+  {
+    "company_name": "Guilex Avocats",
+    "name": "None None",
+    "email": "contact@guilex-avocats.com",
+    "position": null
+  },
+  {
+    "company_name": "Guilex Avocats",
+    "name": "Me Hamidou-Drame",
+    "email": "mhamidou-drame@guilex-avocats.com",
+    "position": null
+  },
+  {
+    "company_name": "BPMG (Banque Populaire Maroco Guin\u00e9enne)",
+    "name": "None None",
+    "email": "bpmg@bpmgbank.com",
+    "position": null
+  },
+  {
+    "company_name": "FirstBank Guinea",
+    "name": "Celestin Dramou",
+    "email": "celestin@fbnbankguinea.com",
+    "position": "Head of Information Technology"
+  },
+  {
+    "company_name": "FirstBank Guinea",
+    "name": "Camara Seydouba",
+    "email": "camara@fbnbankguinea.com",
+    "position": "Branch Manager"
+  },
+  {
+    "company_name": "FirstBank Guinea",
+    "name": "Mamadou Bah",
+    "email": "mamadou@fbnbankguinea.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "FirstBank Guinea",
+    "name": "None None",
+    "email": "recruitment@fbnbankguinea.com",
+    "position": null
+  },
+  {
+    "company_name": "FirstBank Guinea",
+    "name": "None None",
+    "email": "hr_guinea@fbnbankguinea.com",
+    "position": null
+  },
+  {
+    "company_name": "YAC & Partners",
+    "name": "Chad Chambers",
+    "email": "chad.chambers@chambers.com",
+    "position": null
+  },
+  {
+    "company_name": "YAC & Partners",
+    "name": "Robert Drummond",
+    "email": "robert.drummond@chambers.com",
+    "position": "Customer Success Manager"
+  },
+  {
+    "company_name": "YAC & Partners",
+    "name": "Mikael Junior",
+    "email": "mikael.junior@chambers.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "YAC & Partners",
+    "name": "Melanie Hill",
+    "email": "melanie.hill@chambers.com",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "YAC & Partners",
+    "name": "Emilia Walker",
+    "email": "emilia.walker@chambers.com",
+    "position": "Business Development Manager"
+  },
+  {
+    "company_name": "YAC & Partners",
+    "name": "Oliver Dimsdale",
+    "email": "oliver.dimsdale@chambers.com",
+    "position": "Director of Research"
+  },
+  {
+    "company_name": "YAC & Partners",
+    "name": "Luis Zuluaga",
+    "email": "luis.zuluaga@chambers.com",
+    "position": "Customer Success Manager"
+  },
+  {
+    "company_name": "YAC & Partners",
+    "name": "Robert Thomson",
+    "email": "robert.thomson@chambers.com",
+    "position": "Business Development Manager"
+  },
+  {
+    "company_name": "YAC & Partners",
+    "name": "Felipe Poveda",
+    "email": "felipe.poveda@chambers.com",
+    "position": "Chief Commercial Officer"
+  },
+  {
+    "company_name": "YAC & Partners",
+    "name": "Simon Christian",
+    "email": "simon.christian@chambers.com",
+    "position": "Director of Research"
+  }
+]

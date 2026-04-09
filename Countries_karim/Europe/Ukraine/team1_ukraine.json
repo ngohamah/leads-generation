@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Proriat Real Estate",
+    "website": "https://proriat-realestate.com",
+    "address": "03124, Kyiv, st. Nikolai Vasilenko, 7‑a, Ukraine",
+    "email": "info@proriat.com",
+    "phone": "+38 097 050 52 54"
+  },
+  {
+    "name": "Leopolis Realty",
+    "website": "https://leo-realty.com.ua",
+    "address": "Lviv, вул. Антоновича, 102В, Ukraine",
+    "email": null,
+    "phone": "+38 067 523 63 77"
+  },
+  {
+    "name": "KvadratGroup Realty",
+    "website": "https://kvadratgroup.com",
+    "address": "Dnipro, вул. Комсомольська 6, Ukraine",
+    "email": null,
+    "phone": "+38 097 089 10 10"
+  }
+]

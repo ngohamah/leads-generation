@@ -1,0 +1,72 @@
+ [
+    {
+      "name": "home i Carlsberg Byen",
+      "website": "https://www.home.dk/boliger-til-salg/koebenhavn-v/carlsberg-byen",
+      "address": "Bryggernes Plads 14, 1. sal, 1799 København V, Denmark",
+      "email": "carlsbergbyen@home.dk",
+      "phone_number": "+45 33 26 02 60"
+    },
+    {
+      "name": "LILIENHOFF",
+      "website": "https://lilienhoff.dk/",
+      "address": "Strandvejen 153, 2900 Hellerup, Denmark",
+      "email": "kontakt@lilienhoff.dk",
+      "phone_number": "70 22 12 35"
+    },
+    {
+      "name": "Estate brokers Valby",
+      "website": "https://www.estate.dk/maeglere/valby",
+      "address": "Valby Langgade 125, 2500 Valby, Denmark",
+      "email": null,
+      "phone_number": "3646 9022"
+    },
+    {
+      "name": "DK-Estate Erhvervsmægler",
+      "website": "https://dk-estate.dk/",
+      "address": "Prinsessegade 39A, 7000 Fredericia, Denmark",
+      "email": "kontakt@dk-estate.dk",
+      "phone_number": "+45 70 60 29 99"
+    },
+    {
+      "name": "RED Property Advisers",
+      "website": "https://red.dk/en/",
+      "address": "Store Kongensgade 118, 1264 København K, Denmark",
+      "email": "red@red.dk",
+      "phone_number": "+45 33 13 13 99"
+    },
+    {
+      "name": "Homes and Housing",
+      "website": "https://homesandhousing.dk/en/",
+      "address": null,
+      "email": "camilla@homesandhousing.dk",
+      "phone_number": "(+45) 20 45 51 45"
+    },
+    {
+      "name": "Estate Algren",
+      "website": "https://www.estate.dk/ejendomsmaeglere/nordjylland/estate-algren-aalborg?utm_medium=organic&utm_source=google&utm_campaign=gmb&utm_content=983010",
+      "address": "Kastetvej 39, 9000 Aalborg, Denmark",
+      "email": null,
+      "phone_number": "+45 98 13 40 20"
+    },
+    {
+      "name": "Danish Housing assistance v / Peter Sander",
+      "website": "https://danishhomes.com/",
+      "address": "Hellerupvej 78, 2900 Hellerup, Denmark",
+      "email": "email@danskboligformidling.dk",
+      "phone_number": "+45 70 15 90 07"
+    },
+    {
+      "name": "Housing Company Ltd.",
+      "website": "https://www.housingcompany.dk/",
+      "address": null,
+      "email": "info@housingcompany.dk",
+      "phone_number": "+45 39 64 64 46"
+    },
+    {
+      "name": "ALFA Development A/S",
+      "website": "https://www.alfadev.dk/en/home/",
+      "address": "multiple local offices, central contact on website",
+      "email": "info@alfadev.dk",
+      "phone_number": "+45 39 200 250"
+    }
+  ]

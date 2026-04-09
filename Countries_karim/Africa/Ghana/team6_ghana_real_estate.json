@@ -1,0 +1,726 @@
+{
+  "metadata": {
+    "title": "Combined Ghana Real Estate Professionals Database",
+    "country": "Ghana",
+    "extraction_date": "2025-07-28",
+    "total_professionals": 118,
+    "data_sources": [
+      "Ghana Real Estate Professionals Association (GREPA)",
+      "Ghana Association of Real Estate Brokers (GAREB)",
+      "Ghana Real Estate Developers Association (GREDA)",
+      "Major Real Estate Companies",
+      "Independent Real Estate Agents"
+    ],
+    "professional_categories": [
+      "Real Estate Developers",
+      "Property Managers", 
+      "Real Estate Agents",
+      "Real Estate Brokers",
+      "Property Consultants",
+      "Construction Managers",
+      "Real Estate Investment"
+    ]
+  },
+  "companies": [
+    {
+      "company_name": "Ghana Real Estate Developers Association (GREDA)",
+      "company_type": "Professional Association",
+      "location": "North Kaneshie, Accra",
+      "contact_phone": "0241301973 / 0248031533",
+      "website": "https://gredaghana.org/",
+      "description": "Association of Real Estate Developers in Ghana formed in 1988, recognized by the government for Real Estate activities on national and international platforms",
+      "established": "1988"
+    },
+    {
+      "company_name": "Devtraco Limited",
+      "company_type": "Real Estate Development",
+      "location": "Accra, Ghana",
+      "website": "https://devtraco.com/",
+      "description": "Leading real estate company in Ghana since 1993 with up to 1,800 properties built",
+      "established": "1993"
+    },
+    {
+      "company_name": "Adom City Estate",
+      "company_type": "Real Estate Development",
+      "location": "Ghana",
+      "description": "Real estate development company that develops houses for sale to the public, providing quality and affordable housing"
+    },
+    {
+      "company_name": "Appolonia City",
+      "company_type": "Real Estate Development",
+      "location": "Ghana",
+      "description": "Major real estate development company"
+    },
+    {
+      "company_name": "Emerald Properties",
+      "company_type": "Real Estate Development",
+      "location": "Ghana",
+      "description": "Quality Homes, Great Value - Real estate development company"
+    }
+  ],
+  "professionals": [
+    {
+      "full_name": "REINDOLF T ASANTE",
+      "contact_information": {
+        "phone": "0547682330",
+        "mobile": "0547682330",
+        "email": "Reindorf09@gmail.com"
+      },
+      "address": "Bubuashie, G-295-7504, Accra, Ghana 00233",
+      "country": "Ghana",
+      "expertise": "Real Estate Professional",
+      "qualifications": "GREPA Member"
+    },
+    {
+      "full_name": "Richlove Assan",
+      "contact_information": {
+        "phone": "0549785479",
+        "mobile": "0204521707",
+        "email": "richloveassan2013@gmail.com"
+      },
+      "address": "Spintex, Accra, Spintex, Ghana 233",
+      "country": "Ghana",
+      "expertise": "Real Estate Professional",
+      "qualifications": "GREPA Member"
+    },
+    {
+      "full_name": "Mark T Ayumu",
+      "contact_information": {
+        "phone": "0245731371",
+        "mobile": "0245731371",
+        "email": "markayumu@yahoo.com"
+      },
+      "address": "EG-276-1480, Soldier Line, Hebron, Accra, Ghana 233",
+      "country": "Ghana",
+      "expertise": "Real Estate Professional",
+      "qualifications": "GREPA Member"
+    },
+    {
+      "full_name": "Joseph A Boasiako",
+      "contact_information": {
+        "phone": "024-086-8557",
+        "email": "joehighmarks@yahoo.com"
+      },
+      "address": "P.O. Box 8394 Accra North, Accra, Ghana",
+      "country": "Ghana",
+      "expertise": "Real Estate Broker",
+      "qualifications": "GREPA Member"
+    },
+    {
+      "full_name": "Gifty Fuachie",
+      "contact_information": {
+        "phone": "+233 24 463 6427",
+        "mobile": "+233 24 463 6427",
+        "email": "seekingdiscovsuit41@gmail.com"
+      },
+      "address": "15 Osu Badu St Airport West, Airport, Ghana 233",
+      "country": "Ghana",
+      "expertise": "Real Estate Professional",
+      "qualifications": "GREPA Member"
+    },
+    {
+      "full_name": "James Gawuso",
+      "contact_information": {
+        "phone": "0503619158",
+        "email": "gawusojames@gmail.com"
+      },
+      "address": "Ghana",
+      "country": "Ghana",
+      "expertise": "Real Estate Professional",
+      "qualifications": "GREPA Member"
+    },
+    {
+      "full_name": "Julius H Kinih",
+      "contact_information": {
+        "phone": "+233 267558752",
+        "mobile": "+233 54 312 9778",
+        "email": "julhorskin@gmail.com"
+      },
+      "address": "GA-128-5467, Tesano, Ghana +233",
+      "country": "Ghana",
+      "expertise": "Real Estate Professional",
+      "qualifications": "GREPA Member"
+    },
+    {
+      "full_name": "Irene Mensah",
+      "contact_information": {
+        "phone": "+2335000009762",
+        "mobile": "+233 5000009762",
+        "email": "I.irenemensah@gmail.com"
+      },
+      "address": "12 Senchi Street, Accra, Ghana 233",
+      "country": "Ghana",
+      "expertise": "Real Estate Professional",
+      "qualifications": "GREPA Member"
+    },
+    {
+      "full_name": "Benjamin O Agyemang",
+      "company": "3rd Avenue Realty",
+      "contact_information": {
+        "phone": "+233 54 866 1706",
+        "email": "agyemanbenjamin97@gmail.com"
+      },
+      "country": "Ghana",
+      "expertise": "Real Estate Broker",
+      "qualifications": "GAREB 0024/0421"
+    },
+    {
+      "full_name": "Ebenezer Oppong Aboagye",
+      "company": "De Telle Company Ltd.",
+      "contact_information": {
+        "phone": "054 603 4809",
+        "email": "ebenezeraboagye93@gmail.com"
+      },
+      "country": "Ghana",
+      "expertise": "Real Estate Professional",
+      "qualifications": "GAREB 0028/0921"
+    },
+    {
+      "full_name": "Jesse Hammond",
+      "company": "TMANNEX",
+      "contact_information": {
+        "email": "jessehammond94@gmail.com"
+      },
+      "country": "Ghana",
+      "expertise": "Real Estate Professional",
+      "qualifications": "GAREB Member"
+    },
+    {
+      "full_name": "Jacob A Ansong",
+      "company": "Radof Properties Consult",
+      "contact_information": {
+        "phone": "+233 57 748 2311",
+        "email": "radofconsult@yahoo.com"
+      },
+      "country": "Ghana",
+      "expertise": "Real Estate Consultant",
+      "qualifications": "GAREB 0007/1018"
+    },
+    {
+      "full_name": "Mohammed Abass Mamudu",
+      "company": "Sandu-Bu Real Estate",
+      "contact_information": {
+        "phone": "+233 24 693 5600",
+        "email": "sandubureal256@gmail.com"
+      },
+      "country": "Ghana",
+      "expertise": "Real Estate Professional",
+      "qualifications": "GAREB 0042/0722"
+    },
+    {
+      "full_name": "James Orleans-Lindsay",
+      "expertise": "Real Estate Leadership",
+      "contact_information": {
+        "phone": "0241301973 / 0248031533"
+      },
+      "country": "Ghana",
+      "company": "Ghana Real Estate Developers Association (GREDA)",
+      "qualifications": "President of GREDA"
+    },
+    {
+      "full_name": "Freda Appiah",
+      "expertise": "Real Estate Finance",
+      "contact_information": {
+        "phone": "0241301973 / 0248031533"
+      },
+      "country": "Ghana",
+      "company": "Ghana Real Estate Developers Association (GREDA)",
+      "qualifications": "Accountant at GREDA"
+    },
+    {
+      "full_name": "Bernice Tetteh",
+      "company": "Bernice Tetteh",
+      "contact_information": {},
+      "address": "Comm.9, tema",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "registered company that provides its clients with all real estate needs, which includes sale of ..."
+    },
+    {
+      "full_name": "Adomah",
+      "company": "Adomah",
+      "contact_information": {},
+      "address": "Dodowa",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Our Mission is to provide an outstanding level of service, excellence and expertise in the real ..."
+    },
+    {
+      "full_name": "O2A PROPERTIES AND LAND SURVEYS",
+      "company": "O2A PROPERTIES AND LAND SURVEYS",
+      "contact_information": {},
+      "address": "NUNGUA JUNCTION MALL",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "O2A Properties and Land Surveys is a private Land Surveying, Engineering and Real Estate Brokers..."
+    },
+    {
+      "full_name": "Ideal Real Estate",
+      "company": "Dela Nutsugah",
+      "contact_information": {},
+      "address": "Accra, Ghana",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Ideal Real Estates Limited (IDEAL) is a dynamic Real Estates Management/Consultancy Company inco..."
+    },
+    {
+      "full_name": "Zahra Abasheikh",
+      "company": "Zahra Abasheikh",
+      "contact_information": {},
+      "address": "Labone, Cantonments, Osu, Airport, East Legon, Adjiringanor",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "With over two decades of international experience in the real estate industry, Rosewood has hone..."
+    },
+    {
+      "full_name": "Gloria Kwei",
+      "company": "Gloria Kwei",
+      "contact_information": {},
+      "address": "Airport",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Gloria Kwei Real estate is a specialist real estate company dealing exclusively with luxury pro..."
+    },
+    {
+      "full_name": "THE MATTEWS REAL ESTATES LTD",
+      "company": "THE MATTEWS REAL ESTATES LTD",
+      "contact_information": {},
+      "address": "TEMA COMMUNITY 25, PRAMPRAM, DAWHENYA, TSOPOLI, DODOWA",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "We are Ghana's most reliable company that provide its clients with most affordable promotional l..."
+    },
+    {
+      "full_name": "Realtor & Tours",
+      "company": "Realtor & Tours",
+      "contact_information": {},
+      "address": "Airport Residential, Cantonments, Ridge, North Ridge, Dzowulu, East Legon, Ringw",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "With almost a decades experience in the Industry. Realtor & Tours is a real estate company t..."
+    },
+    {
+      "full_name": "j-complex Limited",
+      "company": "j-complex Limited",
+      "contact_information": {},
+      "address": "I'm an experienced property agent with the reputable career of 20 years, seeking to find more cu...",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": ""
+    },
+    {
+      "full_name": "DE TELLE COMPANY LTD.",
+      "company": "De Telle",
+      "contact_information": {},
+      "address": "Accra",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "A Real Estate Brokerage firm that is into Property Management, Brokerage and Building Materials ..."
+    },
+    {
+      "full_name": "Isidore Ekow Omara",
+      "company": "Isidore Ekow Omara",
+      "contact_information": {},
+      "address": "North legon, Haatso, West legon, East legon, Adenta, Dome Kwabenya, Taifa, Achim",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Omara Properties Agency is a well-defined real estate company. We provide consultancy in propert..."
+    },
+    {
+      "full_name": "Treasure Logistics",
+      "company": "Treasure Logistics",
+      "contact_information": {},
+      "address": "Accra Metropolitan (East Legon, Airport, Cantoments, Dworwulu, Ridge, Spintex,",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "A real estate and logistics consult, Houses/Apartments for sale/rent, furnished/unfurnished, lon..."
+    },
+    {
+      "full_name": "KANEA HOMES",
+      "company": "KANEA HOMES",
+      "contact_information": {},
+      "address": "Tesano, Achimota, kwabenya, Amasaman, Lakeside, East legon, Adjiringanor, Tse ad",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Kanea homes is a real estate company who specialises in property aquisition, sale and rental,dev..."
+    },
+    {
+      "full_name": "LINDA A.",
+      "company": "LINDA A.",
+      "contact_information": {},
+      "address": "East Legon",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "We are a realestate company with over 6years experience in the Industry. We have the ability to ..."
+    },
+    {
+      "full_name": "OneAfrica Properties",
+      "company": "Aurelia Peart",
+      "contact_information": {},
+      "address": "Greater Accra Region",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "OneAfrica Properties is an International boutique real estate brokerage specializing in sales, r..."
+    },
+    {
+      "full_name": "NOVELLA PROPERTIES",
+      "company": "NOVELLA PROPERTIES",
+      "contact_information": {},
+      "address": "Cantonments, Airport Residential Area, Labone, Osu,East Legon",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Novella Properties is a real estate and property management company based in Accra, Ghana. They ..."
+    },
+    {
+      "full_name": "Sam Omane",
+      "company": "Sam Omane",
+      "contact_information": {},
+      "address": "Omane the REALTOR (Sam Omane) as known by many in the Property Sales Industry is a credible Real...",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": ""
+    },
+    {
+      "full_name": "Andrews Yemoh",
+      "company": "Andrews Yemoh",
+      "contact_information": {},
+      "address": "TALK REAL ESTATE TO ME...",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": ""
+    },
+    {
+      "full_name": "SB BERTJO VENTURES",
+      "company": "Joseph Hukpati",
+      "contact_information": {},
+      "address": "East legon Cantoment Spintex east airport east Legon hills",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "A real estate broker..."
+    },
+    {
+      "full_name": "Global Properties Limited",
+      "company": "Global Properties Limited",
+      "contact_information": {},
+      "address": "East legon Hills",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Global Properties is a young and dynamic company with 2 office locations within the Gambia, one ..."
+    },
+    {
+      "full_name": "Montego Properties",
+      "company": "Montego Properties",
+      "contact_information": {},
+      "address": "Tesano",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Montego properties limited company is a real estate agency firm established to provide high qual..."
+    },
+    {
+      "full_name": "GF HOMES",
+      "company": "GF HOMES",
+      "contact_information": {},
+      "address": "Adjacent Lands commission,2nd circular cantonment, Accra",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "GF Homes Ghana understands that buying and selling of property can be stressful. As a full-time ..."
+    },
+    {
+      "full_name": "Pegasus Realty",
+      "company": "Antwi",
+      "contact_information": {},
+      "address": "Airport Residential",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Established in 2018 and headquartered in Accra, Ghana, Pegasus Realty is a premier real estate c..."
+    },
+    {
+      "full_name": "Rovilas Agency & Properties",
+      "company": "Rhoda",
+      "contact_information": {},
+      "address": "Spintex ,Cantonments, tseaddo,eastlegon,airport residential,tema 25,eastlegon hi",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Real estate agency Sales /rental of houses/apartments /lands for both commercial and residenti..."
+    },
+    {
+      "full_name": "LIVING GHANA LIMITED",
+      "company": "Living Ghana Limited",
+      "contact_information": {},
+      "address": "Cantonments, East Legon, Tse Addo, Airport",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "As your trusted real estate advisor, I specialize in finding outstanding properties that fit you..."
+    },
+    {
+      "full_name": "Fairwin Properties",
+      "company": "Fairwin Properties",
+      "contact_information": {},
+      "address": "Cantonments, Labone, Ridge, Osu, Airport Residential Area, Dzorwulu, Roman Ridge",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "We are the solution to all your property and accommodation needs...."
+    },
+    {
+      "full_name": "Regus Ghana",
+      "company": "Regus Ghana",
+      "contact_information": {},
+      "address": "**Regus Ghana**",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": ""
+    },
+    {
+      "full_name": "Holger Adam",
+      "company": "Holger Adam",
+      "contact_information": {},
+      "address": "Accra, Ghana",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Architect and real estate developer..."
+    },
+    {
+      "full_name": "Charles Ani - Johnson",
+      "company": "Charles Ani - Johnson",
+      "contact_information": {},
+      "address": "East Legon ,Mempeaeem ,north and west Legon",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "PRAEMUS PROPERTIES is one of the fastest growing real estate Company in ghana???????? .we are re..."
+    },
+    {
+      "full_name": "Avenue Properties Ltd",
+      "company": "Avenue Properties Ltd",
+      "contact_information": {},
+      "address": "East Legon, Airport, Cantonments, Labone & N.Ridge",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Avenue Properties is an asset/ facility management company registered in Ghana under ACT 1962 (N..."
+    },
+    {
+      "full_name": "Kwesi",
+      "company": "Kwesi",
+      "contact_information": {},
+      "address": "Spintex",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Terra Firma Properties Co. Ltd. is a wholly owned Ghanaian service company registered under the ..."
+    },
+    {
+      "full_name": "Kankam Emmanuel",
+      "company": "Kankam Emmanuel",
+      "contact_information": {},
+      "address": "Teshie camp2",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Looking for the interest for my clients and creating strong bond relationship..."
+    },
+    {
+      "full_name": "Tankoz Thrive",
+      "company": "Tankoz Thrive",
+      "contact_information": {},
+      "address": "East Legon, Airport, Cantonment, East Airport, North Legon, Adenta, Oyarifa",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": ""
+    },
+    {
+      "full_name": "Traiano Estate and Property Management",
+      "company": "Traiano Estate and Property Management",
+      "contact_information": {},
+      "address": "**Traiano Estate and Property Management**",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": ""
+    },
+    {
+      "full_name": "Stardom Real Estate",
+      "company": "Stardom Real Estate",
+      "contact_information": {},
+      "address": "Accra",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Stardom Real Estate is a Legally Registered Real Estate Development and Brokerage Company locate..."
+    },
+    {
+      "full_name": "NOAH CLAYPOLE PROPERTIES",
+      "company": "NOAH CLAYPOLE PROPERTIES",
+      "contact_information": {},
+      "address": "Haatso, Tse Addo, East legon, Oyarifa,Dzworulu, Abelemkpe, Kwabenya, Ashaley Bot",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Noah Claypole Properties is one of the best Agencies that make your house dream comes true you c..."
+    },
+    {
+      "full_name": "KINGSGATE PREMIUM HOMES",
+      "company": "jefferson odai",
+      "contact_information": {},
+      "address": "Spintex ,Nungua ,Tema, Lashibie, Okpoi gonno, East legon",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Kingsgate Premium Homes???? Provides access to luxury Real Estate and Homes, That meets the stan..."
+    },
+    {
+      "full_name": "Optera Homes",
+      "company": "Terence Keddey Moses",
+      "contact_information": {},
+      "address": "Tesano",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "we believe in building preferred homes that exceeds the feel of a home. Simply more than just a ..."
+    },
+    {
+      "full_name": "Kennedy Kwaku",
+      "company": "Kennedy Kwaku",
+      "contact_information": {},
+      "address": "Acccra/Tema/Takoradi",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Altair Properties has been in existence for past 5yrs and are willing to help give you the best ..."
+    },
+    {
+      "full_name": "PEARSON PROPERTIES",
+      "company": "Pearson Properties",
+      "contact_information": {},
+      "address": "East Legon",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": ""
+    },
+    {
+      "full_name": "ACCENTIAL CONSULT",
+      "company": "Catherine",
+      "contact_information": {},
+      "address": "Accra",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Accential Properties is a trusted and dynamic real estate and insurance brokerage firm headquart..."
+    },
+    {
+      "full_name": "Cobblestone Realty",
+      "company": "Emmanuel Adjetey",
+      "contact_information": {},
+      "address": "Accra ( Cantonment, Spintex, Labone, Airport Residential Area, Airport City, Dzo",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "COBBLESTONE REALTY is a real estate agency and inter-middle business company. We do..."
+    },
+    {
+      "full_name": "Daniel larbi",
+      "company": "Daniel larbi",
+      "contact_information": {},
+      "address": "Accra",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "To serve my clients and partners with integrity,professionalism and innovation that exceed their..."
+    },
+    {
+      "full_name": "Exotiq Properties Limited",
+      "company": "Exotiq Properties Team",
+      "contact_information": {},
+      "address": "Labor, Cantonment, Airport, East Legon, Spintex, Tema etc",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "In order to meet your expectations, we place high value on exclusivity, commitment and expertise..."
+    },
+    {
+      "full_name": "DiaServe GH LIMITED",
+      "company": "DiaServe GH",
+      "contact_information": {},
+      "address": "**DiaServe GH**",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "We provide a comprehensive range of commercial and residential leasing services, investment/sale..."
+    },
+    {
+      "full_name": "JOA PROPERTY MANAGEMENT SERVICES",
+      "company": "JOA PROPERTY MANAGEMENT",
+      "contact_information": {},
+      "address": "Cantonments, Labone, Airport, Dzorwulu, Ridge, East legon, north Legon , Westlan",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Looking for homes is stressful . JOA properties is here to assist you a stress free property sea..."
+    },
+    {
+      "full_name": "MOLDERS DEVELOPERS",
+      "company": "Molders Developers",
+      "contact_information": {},
+      "address": "**Molders Developers**",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Molders Group, a Ghanaian-owned company, has grown steadily to become a market leader in the Rea..."
+    },
+    {
+      "full_name": "Brainy Luxury Home",
+      "company": "Brainy Luxury Homes",
+      "contact_information": {},
+      "address": "Accra",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Brainy Luxury Homes is a Real Estate Company. We are into Property Management, Development and C..."
+    },
+    {
+      "full_name": "L-HOST ENGINEERING AND CONSTRUCTION",
+      "company": "L-HOST PROPERTIES",
+      "contact_information": {},
+      "address": "Tema - Ghana",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "L-HOST PROPERTIES is a full service real estate company, providing good return on investment for..."
+    },
+    {
+      "full_name": "JONARSAC CONSTRUCTION WORKS",
+      "company": "Jonsarc Construction",
+      "contact_information": {},
+      "address": "Tema Community 8, Adjacent Vienna City",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Jonarsac Construction Works is a legally registered firm offering issue free properties in fast ..."
+    },
+    {
+      "full_name": "Axe Real Estate And Property Management",
+      "company": "Kwame",
+      "contact_information": {},
+      "address": "GREATER ACCRA",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "AXE REAL ESTATE AND PROPERTY MANAGEMENT IS A REGISTERED REAL ESTATE FIRM UNDER THE BUSINESS REGI..."
+    },
+    {
+      "full_name": "J-Y ESTATES AND CONSTUCTION LTD",
+      "company": "Joseph Yeboah",
+      "contact_information": {},
+      "address": "Oyarifa",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "JY Estate and Construction Ltd..."
+    },
+    {
+      "full_name": "GREENTRACO REAL ESTATE",
+      "company": "GreenTraco Real Estate",
+      "contact_information": {},
+      "address": "Devtraco Court Road Community 25, Tema",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "Greentraco Real Estate is a company that deals in sale of affordable & genuine lands and hou..."
+    },
+    {
+      "full_name": "NYAMEKE ESTATE AGENCY",
+      "company": "Thomas",
+      "contact_information": {},
+      "address": "Dansoman,kasoa,east legon,westland",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": "This thomas rentals base in accra Dansoman and that where am stationed , I sale house , rent, ex..."
+    },
+    {
+      "full_name": "Broll Ghana LTD",
+      "company": "Broll Ghana LTD",
+      "contact_information": {},
+      "address": "Ridge",
+      "country": "Ghana",
+      "expertise": "Real Estate Agent",
+      "description": ""
+    },
+    {
+      "full_

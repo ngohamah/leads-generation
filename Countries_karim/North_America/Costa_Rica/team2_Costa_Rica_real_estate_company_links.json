@@ -1,0 +1,452 @@
+[
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Willie Knoetze",
+    "email": "willie.knoetze@jll.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Renee Holt",
+    "email": "renee.holt@jll.com",
+    "position": "Senior Director of Business Intelligence"
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Michael Sanders",
+    "email": "michael.sanders@jll.com",
+    "position": "Director of Systems Integration"
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Joaquin Salpurido",
+    "email": "joaquin.salpurido@jll.com",
+    "position": "Director of Portfolio and Location Strategy"
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Guillaume Bourdon",
+    "email": "guillaume.bourdon@jll.com",
+    "position": "Director of Project Management"
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Andres Garc\u00eda",
+    "email": "andres.garcia@jll.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Greg Spivey",
+    "email": "greg.spivey@jll.com",
+    "position": "Senior Vice President, Project Management"
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Agnieszka Biskupska",
+    "email": "agnieszka.biskupska@jll.com",
+    "position": "Senior Director of Business Development"
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Michelle Bennie",
+    "email": "michelle.bennie@jll.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Dana Luciani",
+    "email": "dana.luciani@jll.com",
+    "position": "Account Director"
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "Marcela Cano",
+    "email": "mcano@garnier.cr",
+    "position": "Sustainability Manager"
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "Alberto Bonilla",
+    "email": "abonilla@garnier.cr",
+    "position": "General Manager"
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "Auxiliadora Montoya",
+    "email": "amontoya@garnier.cr",
+    "position": "Manager"
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "Andrea Hidalgo",
+    "email": "ahidalgo@garnier.cr",
+    "position": "Executive Operations"
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "None None",
+    "email": "info@garnier.cr",
+    "position": null
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "None None",
+    "email": "pgarnier@garnier.cr",
+    "position": null
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "None None",
+    "email": "jgarnier@garnier.cr",
+    "position": null
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "None None",
+    "email": "empleos@garnier.cr",
+    "position": null
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Silvia Alvarado",
+    "email": "salvarado@portafolio.cr",
+    "position": "Environmental Manager"
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Jose Baltodano",
+    "email": "jbaltodano@portafolio.cr",
+    "position": "Construction Director"
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Daniel Villafranca",
+    "email": "dvillafranca@portafolio.cr",
+    "position": "Director of Sustainability"
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Agustin Morales",
+    "email": "amorales@portafolio.cr",
+    "position": "Design Director"
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Alfredo Volio",
+    "email": "avolio@portafolio.cr",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Nagisa Arce",
+    "email": "narce@portafolio.cr",
+    "position": "Corporate Division Manager"
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Silvia Fallas",
+    "email": "sfallas@portafolio.cr",
+    "position": "Marketing Lead"
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Danilo Manzanares",
+    "email": "dmanzanares@portafolio.cr",
+    "position": "Development Manager"
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Pablo Mora",
+    "email": "pmora@portafolio.cr",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Kevin Ocampo",
+    "email": "kocampo@portafolio.cr",
+    "position": "Head of Residential Marketing"
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Jaroslaw Witek",
+    "email": "jaroslaw.witek@cbre.com",
+    "position": "Associate Director, ESG"
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Josh Stanley",
+    "email": "josh.stanley@cbre.com",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Laura Dobson",
+    "email": "laura.dobson@cbre.com",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Nicol\u00f2 Bongiovanni",
+    "email": "nicolo.bongiovanni@cbre.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Valerie Kerin",
+    "email": "valerie.kerin@cbre.com",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Hans Huck",
+    "email": "hans.huck@cbre.com",
+    "position": "Chief Information Officer"
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Sujata Chowdhury",
+    "email": "sujata.chowdhury@cbre.com",
+    "position": "Purchasing Director"
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "William Smart",
+    "email": "william.smart@cbre.com",
+    "position": "Chief Engineer"
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Matthew Butkus",
+    "email": "matthew.butkus@cbre.com",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Jane Blair",
+    "email": "jane.blair@cbre.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Greg McEneny",
+    "email": "greg.mceneny@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Anja Lachmann",
+    "email": "anja.lachmann@dentons.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Neil McKnight",
+    "email": "neil.mcknight@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Kanishka Singh",
+    "email": "kanishka.singh@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Hope Dixon",
+    "email": "hope.dixon@dentons.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Charles Beattie",
+    "email": "charles.beattie@dentons.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Erika Nahrgang",
+    "email": "erika.nahrgang@dentons.com",
+    "position": "Director of Client Acquisition"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Wade Boeckmann",
+    "email": "wade.boeckmann@dentons.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Melissa Minix",
+    "email": "melissa.minix@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "John Daniluck",
+    "email": "john.daniluck@dentons.com",
+    "position": "Patent Attorney"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Vicente Lines",
+    "email": "vicente.lines@ariaslaw.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Gustavo Vargas",
+    "email": "gustavo.vargas@ariaslaw.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Ivon Hernandez",
+    "email": "ivon.hernandez@ariaslaw.com",
+    "position": "Director of Intellectual Property"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Armando Arias",
+    "email": "armando.arias@ariaslaw.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Rodrigo R",
+    "email": "rodrigo.ibarra@ariaslaw.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Sonia Urbina",
+    "email": "sonia.urbina@ariaslaw.com",
+    "position": "Head of Intellectual Property"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Yuri Moreno",
+    "email": "yuri.moreno@ariaslaw.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Diego Gallegos",
+    "email": "diego.gallegos@ariaslaw.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Carolina Flores",
+    "email": "carolina.flores@ariaslaw.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Evangelina Lardizabal",
+    "email": "evangelina.lardizabal@ariaslaw.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Coldwell Banker Costa Rica",
+    "name": "Aaron Dyer",
+    "email": "aaron@coldwellbankercostarica.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "Coldwell Banker Costa Rica",
+    "name": "Kevin Tinoco",
+    "email": "kevin@coldwellbankercostarica.com",
+    "position": "Digital Marketing Manager"
+  },
+  {
+    "company_name": "Coldwell Banker Costa Rica",
+    "name": "None None",
+    "email": "info@coldwellbankercostarica.com",
+    "position": null
+  },
+  {
+    "company_name": "Coldwell Banker Costa Rica",
+    "name": "None None",
+    "email": "team@coldwellbankercostarica.com",
+    "position": null
+  },
+  {
+    "company_name": "Exclusive Homes Costa Rica",
+    "name": "None None",
+    "email": "melanie@exclusivehomescostarica.com",
+    "position": null
+  },
+  {
+    "company_name": "Exclusive Homes Costa Rica",
+    "name": "None None",
+    "email": "shawn@exclusivehomescostarica.com",
+    "position": null
+  },
+  {
+    "company_name": "Exclusive Homes Costa Rica",
+    "name": "None None",
+    "email": "info@exclusivehomescostarica.com",
+    "position": null
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Greg McEneny",
+    "email": "greg.mceneny@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Anja Lachmann",
+    "email": "anja.lachmann@dentons.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Neil McKnight",
+    "email": "neil.mcknight@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Kanishka Singh",
+    "email": "kanishka.singh@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Hope Dixon",
+    "email": "hope.dixon@dentons.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Charles Beattie",
+    "email": "charles.beattie@dentons.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Erika Nahrgang",
+    "email": "erika.nahrgang@dentons.com",
+    "position": "Director of Client Acquisition"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Wade Boeckmann",
+    "email": "wade.boeckmann@dentons.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Melissa Minix",
+    "email": "melissa.minix@dentons.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "John Daniluck",
+    "email": "john.daniluck@dentons.com",
+    "position": "Patent Attorney"
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "company_name": "",
+    "name": "Anoeska Leeuwen",
+    "email": "a.leeuwen@bpd.nl",
+    "position": "Director of Corporate Communications"
+  },
+  {
+    "company_name": "",
+    "name": "Lorraine Wessels",
+    "email": "l.wessels@bpd.nl",
+    "position": "Marketing and Communications Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Harm Jan\u00dfen",
+    "email": "h.janssen@bpd.nl",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Christian Geerdink",
+    "email": "c.geerdink@bpd.nl",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Han Joosten",
+    "email": "h.joosten@bpd.nl",
+    "position": "Market Research Director"
+  },
+  {
+    "company_name": "",
+    "name": "Manon Fijma",
+    "email": "m.fijma@bpd.nl",
+    "position": "Salesforce Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Jan Werkman",
+    "email": "j.werkman@bpd.nl",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "Mark Harmsen",
+    "email": "m.harmsen@bpd.nl",
+    "position": "Data Analyst"
+  },
+  {
+    "company_name": "",
+    "name": "Tessa Dekkers",
+    "email": "t.dekkers@bpd.nl",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Bas Kalter",
+    "email": "b.kalter@bpd.nl",
+    "position": "Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Anton Koomen",
+    "email": "akoomen@provast.nl",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Patrick Huisman",
+    "email": "phuisman@provast.nl",
+    "position": "CFO"
+  },
+  {
+    "company_name": "",
+    "name": "Hans Jong",
+    "email": "hjong@provast.nl",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Niek Roet",
+    "email": "nroet@provast.nl",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Boudewijn Hellingman",
+    "email": "bhellingman@provast.nl",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Jurjen Thomas",
+    "email": "jthomas@provast.nl",
+    "position": "Real Estate Developer"
+  },
+  {
+    "company_name": "",
+    "name": "Stefanie Berendse",
+    "email": "sberendse@provast.nl",
+    "position": "Financial Accountant"
+  },
+  {
+    "company_name": "",
+    "name": "Tessa Scheenhouwer",
+    "email": "tscheenhouwer@provast.nl",
+    "position": "Office Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Fokkeline Lakerveld",
+    "email": "flakerveld@provast.nl",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Tim Hoeberechts",
+    "email": "thoeberechts@provast.nl",
+    "position": "Commercial Real Estate Developer"
+  },
+  {
+    "company_name": "",
+    "name": "Marnix Woertink",
+    "email": "m.woertink@vormvastgoed.nl",
+    "position": "Assistant Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Alexandre Bello",
+    "email": "a.bello@vormvastgoed.nl",
+    "position": "Investment Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Dennis Hoek",
+    "email": "d.hoek@vormvastgoed.nl",
+    "position": "Portfolio Manager Retail & Hotels"
+  },
+  {
+    "company_name": "",
+    "name": "Tim Aalders",
+    "email": "t.aalders@vormvastgoed.nl",
+    "position": "Chairman of the Management Team"
+  },
+  {
+    "company_name": "",
+    "name": "Brian Martens",
+    "email": "b.martens@vormvastgoed.nl",
+    "position": "Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Pim Liebregts",
+    "email": "p.liebregts@vormvastgoed.nl",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@vormvastgoed.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "servicedesk@vormvastgoed.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "d.vannieuwenhuizen@vormvastgoed.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "facturen@vormvastgoed.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@volkerwessels.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Heleen Herbert",
+    "email": "hherbert@heijmans.nl",
+    "position": "Chief Commercial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Hans Brinke",
+    "email": "hbrinke@heijmans.nl",
+    "position": "Director of Design and Engineering"
+  },
+  {
+    "company_name": "",
+    "name": "Floor Felten",
+    "email": "ffelten@heijmans.nl",
+    "position": "Director of Infrastructure"
+  },
+  {
+    "company_name": "",
+    "name": "Michiel Bottema",
+    "email": "mbottema@heijmans.nl",
+    "position": "Director of Construction"
+  },
+  {
+    "company_name": "",
+    "name": "Marcel Wielenga",
+    "email": "mwielenga@heijmans.nl",
+    "position": "Chief Administrative Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Dirk Rooij",
+    "email": "drooij@heijmans.nl",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Dennis Weijers",
+    "email": "dweijers@heijmans.nl",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Patrick Geffen",
+    "email": "pgeffen@heijmans.nl",
+    "position": "Program Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Thomas Thunnissen",
+    "email": "tthunnissen@heijmans.nl",
+    "position": "Director of Smart City"
+  },
+  {
+    "company_name": "",
+    "name": "Pleun Story",
+    "email": "pstory@heijmans.nl",
+    "position": "Facility Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@wanrooijbouw.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Manouk Witt",
+    "email": "m.witt@vanwijnen.nl",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Ivar Lange",
+    "email": "i.lange@vanwijnen.nl",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Vera Rouwhorst",
+    "email": "v.rouwhorst@vanwijnen.nl",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Chantal Baan",
+    "email": "c.baan@vanwijnen.nl",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Lisa Tol",
+    "email": "l.tol@vanwijnen.nl",
+    "position": "Recruitment Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Marco Fikse",
+    "email": "m.fikse@vanwijnen.nl",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Julian Bos",
+    "email": "j.bos@vanwijnen.nl",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Gerben Bouwman",
+    "email": "g.bouwman@vanwijnen.nl",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "John Muyres",
+    "email": "j.muyres@vanwijnen.nl",
+    "position": "Head of Calculation"
+  },
+  {
+    "company_name": "",
+    "name": "Ate Kosters",
+    "email": "a.kosters@vanwijnen.nl",
+    "position": "Work Preparation Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Mukund Kumar",
+    "email": "ag@edge.tech",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Alexander Karrenstein",
+    "email": "ak@edge.tech",
+    "position": "Director of International Transactions"
+  },
+  {
+    "company_name": "",
+    "name": "Nicolette Speerstra",
+    "email": "ns@edge.tech",
+    "position": "Chief People Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Imke K\u00f6ster",
+    "email": "ik@edge.tech",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Sander Grouw",
+    "email": "sg@edge.tech",
+    "position": "Head of Tax"
+  },
+  {
+    "company_name": "",
+    "name": "Okko Tijnagel",
+    "email": "ot@edge.tech",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "cvds@edge.tech",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "press@edge.tech",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "fj@edge.tech",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "people@edge.tech",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@maxwellinvest.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "contact@zuidas.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "omgevingscoordinatie@zuidas.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "redactie@zuidas.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "communicatie@zuidas.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "omgevingscoordinator@zuidas.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "denkzuidas@zuidas.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "socialmedia@zuidas.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Mirjam Kolk",
+    "email": "m.kolk@buurtteamamsterdam.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Mary Hessing",
+    "email": "m.hessing@thehague.com",
+    "position": "Program Director"
+  },
+  {
+    "company_name": "",
+    "name": "Sander Hanenberg",
+    "email": "s.hanenberg@thehague.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Laurens Kok",
+    "email": "l.kok@thehague.com",
+    "position": "Director of Foreign Investments"
+  },
+  {
+    "company_name": "",
+    "name": "Bas Schot",
+    "email": "b.schot@thehague.com",
+    "position": "Director of Convention Bureau"
+  },
+  {
+    "company_name": "",
+    "name": "Jesse Mulder",
+    "email": "j.mulder@thehague.com",
+    "position": "Tourist Information Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Claudia Becks",
+    "email": "c.becks@thehague.com",
+    "position": "Content Creator"
+  },
+  {
+    "company_name": "",
+    "name": "Tracy Zhao",
+    "email": "t.zhao@thehague.com",
+    "position": "Business Advisor"
+  },
+  {
+    "company_name": "",
+    "name": "Guusje Thijs",
+    "email": "g.thijs@thehague.com",
+    "position": "Market Research Analyst"
+  },
+  {
+    "company_name": "",
+    "name": "Mijke Braam",
+    "email": "m.braam@thehague.com",
+    "position": "Content Team Leader"
+  },
+  {
+    "company_name": "",
+    "name": "Marco E\u00dfer",
+    "email": "m.esser@thehague.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@markthal.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Paula Arts",
+    "email": "paula.arts@eindhoven.nl",
+    "position": "IT Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Martijn Groenewegen",
+    "email": "martijn.groenewegen@eindhoven.nl",
+    "position": "Chief Information Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Edwin Persaud",
+    "email": "edwin.persaud@eindhoven.nl",
+    "position": "Project Manager, Urban Development"
+  },
+  {
+    "company_name": "",
+    "name": "Ronald Klaver",
+    "email": "ronald.klaver@eindhoven.nl",
+    "position": "IT Solutions Architect"
+  },
+  {
+    "company_name": "",
+    "name": "Jessy Cornelissen",
+    "email": "jessy.cornelissen@eindhoven.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Joyce Bokhoven",
+    "email": "joyce.bokhoven@eindhoven.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Sharon Augustus",
+    "email": "sharon.augustus@eindhoven.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Roy Willems",
+    "email": "roy.willems@eindhoven.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Florian Lamberts",
+    "email": "florian.lambert@eindhoven.nl",
+    "position": "Software Team Lead"
+  },
+  {
+    "company_name": "",
+    "name": "Erik Hal",
+    "email": "e.van.hal@eindhoven.nl",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "welcome@rotterdambuilding.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "receptie@rotterdambuilding.com",
+    "position": null
+  }
+]

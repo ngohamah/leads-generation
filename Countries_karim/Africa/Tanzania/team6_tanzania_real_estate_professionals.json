@@ -1,0 +1,507 @@
+{
+  "metadata": {
+    "title": "Tanzania Real Estate Professionals Database",
+    "country": "Tanzania",
+    "extraction_date": "2025-07-18",
+    "total_professionals": 65,
+    "data_sources": [
+      "Property International Ltd (PIL)",
+      "RE/MAX Tanzania",
+      "Knight Frank Tanzania",
+      "AREPTA (Association of Real Estate Professionals Tanzania)",
+      "Coldwell Banker Tanzania",
+      "LGV Real Estate Consultants",
+      "Ruaha Assets Ltd",
+      "Endow Management",
+      "Comfort Zone Real Estate",
+      "POREC Limited",
+      "Zanzibar Real Estate Agency",
+      "Zanzipalms Real Estate",
+      "Perfect Property Company",
+      "TZ Agents",
+      "Gimco Africa Property Management"
+    ],
+    "professional_categories": [
+      "Real Estate Agents",
+      "Property Managers",
+      "Real Estate Consultants",
+      "Property Developers",
+      "Real Estate Investment",
+      "Property Valuation",
+      "Commercial Real Estate",
+      "Luxury Real Estate",
+      "Property Management",
+      "Real Estate Law"
+    ]
+  },
+  "companies": [
+    {
+      "company_name": "Property International Ltd (PIL)",
+      "company_type": "Full Service Real Estate",
+      "location": "Dar es Salaam, Tanzania",
+      "website": "https://www.pil.co.tz/",
+      "description": "Full service real estate company serving private property owners to large corporations"
+    },
+    {
+      "company_name": "RE/MAX Tanzania",
+      "company_type": "International Real Estate Brokerage",
+      "location": "Zanzibar & Tanzania",
+      "website": "https://www.remax.com/",
+      "description": "World's largest real estate brokerage network, established in Tanzania in 2014"
+    },
+    {
+      "company_name": "Knight Frank Tanzania",
+      "company_type": "Property Consultancy",
+      "location": "Tanzania",
+      "website": "https://www.knightfrank.co.tz/",
+      "description": "One of the country's most active and experienced property consultancies",
+      "years_experience": "30"
+    },
+    {
+      "company_name": "AREPTA",
+      "company_type": "Professional Association",
+      "location": "Tanzania",
+      "website": "https://www.arepta.or.tz/",
+      "description": "Leading professional organization for real estate professionals in Tanzania"
+    },
+    {
+      "company_name": "Coldwell Banker Tanzania",
+      "company_type": "Luxury Real Estate",
+      "location": "Zanzibar & Tanzania",
+      "website": "https://coldwellbanker.tz/",
+      "description": "Premium real estate services for luxury homes, apartments, and investment opportunities"
+    },
+    {
+      "company_name": "LGV Real Estate Consultants Ltd",
+      "company_type": "Real Estate Consultancy",
+      "location": "Tanzania",
+      "website": "https://www.lgvrealestateconsultants.com/",
+      "description": "Leading real estate company specializing in property sales, lettings, management, and consultancy"
+    }
+  ],
+  "professionals": [
+    {
+      "full_name": "Property International Ltd Team",
+      "expertise": "Full Service Real Estate Solutions",
+      "country": "Tanzania",
+      "company": "Property International Ltd (PIL)"
+    },
+    {
+      "full_name": "RE/MAX Tanzania Agents",
+      "expertise": "International Real Estate Brokerage",
+      "country": "Tanzania",
+      "company": "RE/MAX Tanzania"
+    },
+    {
+      "full_name": "Knight Frank Tanzania Team",
+      "expertise": "Property Consultancy and Valuation",
+      "country": "Tanzania",
+      "company": "Knight Frank Tanzania",
+      "years_experience": "30"
+    },
+    {
+      "full_name": "AREPTA Members",
+      "expertise": "Professional Real Estate Services",
+      "country": "Tanzania",
+      "company": "AREPTA"
+    },
+    {
+      "full_name": "Coldwell Banker Tanzania Team",
+      "expertise": "Luxury Real Estate and Investment",
+      "country": "Tanzania",
+      "company": "Coldwell Banker Tanzania"
+    },
+    {
+      "full_name": "LGV Real Estate Consultants",
+      "expertise": "Property Sales, Lettings and Management",
+      "country": "Tanzania",
+      "company": "LGV Real Estate Consultants Ltd"
+    },
+    {
+      "full_name": "Ruaha Assets Team",
+      "expertise": "Property Listings and Real Estate Services",
+      "country": "Tanzania",
+      "company": "Ruaha Assets Ltd"
+    },
+    {
+      "full_name": "Endow Management Team",
+      "expertise": "Professional Property Management",
+      "country": "Tanzania",
+      "company": "Endow Management"
+    },
+    {
+      "full_name": "Comfort Zone Real Estate Team",
+      "expertise": "Residential and Commercial Property Sales",
+      "country": "Tanzania",
+      "company": "Comfort Zone Real Estate"
+    },
+    {
+      "full_name": "POREC Limited Team",
+      "expertise": "Architecture, Construction, Valuation, and Property Management",
+      "country": "Tanzania",
+      "company": "POREC Limited"
+    },
+    {
+      "full_name": "Zanzibar Real Estate Agency Team",
+      "expertise": "Luxury Villas, Condominiums, and Hotels",
+      "country": "Tanzania",
+      "company": "Zanzibar Real Estate Agency"
+    },
+    {
+      "full_name": "Zanzipalms Real Estate Team",
+      "expertise": "Plots, Hotels, Resorts, and Private Residences",
+      "country": "Tanzania",
+      "company": "Zanzipalms Real Estate"
+    },
+    {
+      "full_name": "Perfect Property Company Team",
+      "expertise": "Buying, Selling, Renting, Investing, and Development",
+      "country": "Tanzania",
+      "company": "Perfect Property Company"
+    },
+    {
+      "full_name": "TZ Agents Team",
+      "expertise": "Property Brokerage to Global Standards",
+      "country": "Tanzania",
+      "company": "TZ Agents"
+    },
+    {
+      "full_name": "Gimco Africa Property Management Team",
+      "expertise": "Property Management and Valuation",
+      "country": "Tanzania",
+      "company": "Gimco Africa Property Management Limited"
+    },
+    {
+      "full_name": "BR Real Estate Agent Team",
+      "expertise": "Property Sales and Management",
+      "contact_information": {
+        "phone": "+255 621 900 333 / +255 624 000 333",
+        "email": "info@brrealestate.co.tz"
+      },
+      "country": "Tanzania",
+      "company": "BR Real Estate Agent Ltd"
+    },
+    {
+      "full_name": "MyDalali Real Estate Professionals",
+      "expertise": "Buy, Sell, Lease Services",
+      "country": "Tanzania",
+      "company": "MyDalali"
+    },
+    {
+      "full_name": "Yusria Realty Team",
+      "expertise": "Top Real Estate Agency Services",
+      "contact_information": {
+        "phone": "+255 22"
+      },
+      "country": "Tanzania",
+      "company": "Yusria Realty"
+    },
+    {
+      "full_name": "7 Estate Agent Team",
+      "expertise": "Property Sales and Rentals",
+      "country": "Tanzania",
+      "company": "7 Estate Agent Ltd"
+    },
+    {
+      "full_name": "REJAA Real Estate Team",
+      "expertise": "Real Estate Experts",
+      "contact_information": {
+        "phone": "0743 930 000 (Dar es Salaam), 0760 193 333 (Dodoma)"
+      },
+      "country": "Tanzania",
+      "company": "REJAA Real Estate Company"
+    },
+    {
+      "full_name": "Abby Properties Team",
+      "expertise": "Property Sale, Rent, and Search Services",
+      "country": "Tanzania",
+      "company": "Abby Properties Real Estate"
+    },
+    {
+      "full_name": "MetaView Limited Team",
+      "expertise": "Commercial and Residential Sales and Rentals",
+      "country": "Tanzania",
+      "company": "MetaView Limited"
+    },
+    {
+      "full_name": "Tanzania Prestige Properties Team",
+      "expertise": "Diaspora Real Estate Services",
+      "country": "Tanzania",
+      "company": "Tanzania Prestige Properties"
+    },
+    {
+      "full_name": "MNF Management Team",
+      "expertise": "Full-Service Property Management",
+      "country": "Tanzania",
+      "company": "MNF Management"
+    },
+    {
+      "full_name": "Apex Zanzibar Team",
+      "expertise": "Zanzibar and Tanzanian Property Management",
+      "country": "Tanzania",
+      "company": "Apex Zanzibar"
+    },
+    {
+      "full_name": "Pangani Real Estate Services Team",
+      "expertise": "Property Management in Tanzania and East Africa",
+      "country": "Tanzania",
+      "company": "Pangani Real Estate Services Limited"
+    },
+    {
+      "full_name": "Proper Consult Team",
+      "expertise": "Property Management and Consulting",
+      "contact_information": {
+        "email": "pconsult@properconsult.co.tz",
+        "phone": "0713 352993, 0713 325170"
+      },
+      "country": "Tanzania",
+      "company": "Proper Consult"
+    },
+    {
+      "full_name": "Peponi Property Management Team",
+      "expertise": "Luxury Home Rentals and Property Management",
+      "contact_information": {
+        "email": "info@peponi.biz"
+      },
+      "country": "Tanzania",
+      "company": "Peponi Property Management Ltd"
+    },
+    {
+      "full_name": "Estia Real Estate Team",
+      "expertise": "Residential and Commercial Sales and Lease",
+      "contact_information": {
+        "phone": "+255 22 260 2395, +255 757 368 257"
+      },
+      "country": "Tanzania",
+      "company": "Estia Real Estate"
+    },
+    {
+      "full_name": "RINAZ Property Management Team",
+      "expertise": "Property Management and Space Marketing",
+      "country": "Tanzania",
+      "company": "RINAZ Property Consultants Ltd"
+    },
+    {
+      "full_name": "Mephics Property Management Team",
+      "expertise": "Property Management Systems and Technology",
+      "country": "Tanzania",
+      "company": "Mephics (T) Ltd"
+    },
+    {
+      "full_name": "Trace Associates Team",
+      "expertise": "Property Management and Land Administration",
+      "country": "Tanzania",
+      "company": "Trace Associates"
+    },
+    {
+      "full_name": "City Properties Ltd Team",
+      "expertise": "Real Estate Services",
+      "country": "Tanzania",
+      "company": "City Properties Ltd"
+    },
+    {
+      "full_name": "Baobab Developments Team",
+      "expertise": "Property Development",
+      "country": "Tanzania",
+      "company": "Baobab Developments"
+    },
+    {
+      "full_name": "My Beach Team",
+      "expertise": "Beach and Coastal Properties",
+      "country": "Tanzania",
+      "company": "My Beach"
+    },
+    {
+      "full_name": "City Plan Consultants Team",
+      "expertise": "Urban Planning and Real Estate",
+      "country": "Tanzania",
+      "company": "City Plan Consultants (T) Limited"
+    },
+    {
+      "full_name": "Zipo Homes Team",
+      "expertise": "Residential Real Estate",
+      "country": "Tanzania",
+      "company": "Zipo Homes"
+    },
+    {
+      "full_name": "Goldberg Company Team",
+      "expertise": "Real Estate Services",
+      "country": "Tanzania",
+      "company": "Goldberg Company Ltd"
+    },
+    {
+      "full_name": "New Day Property Agency Team",
+      "expertise": "Property Agency Services",
+      "country": "Tanzania",
+      "company": "New Day Property Agency Company"
+    },
+    {
+      "full_name": "Key Real Estate Team",
+      "expertise": "Real Estate Services",
+      "country": "Tanzania",
+      "company": "Key Real Estate"
+    },
+    {
+      "full_name": "MJOMBA Real Estate Team",
+      "expertise": "Real Estate Services",
+      "country": "Tanzania",
+      "company": "MJOMBA Real Estate"
+    },
+    {
+      "full_name": "Lucy Gelas",
+      "expertise": "Real Estate Agent",
+      "country": "Tanzania",
+      "company": "Independent Agent"
+    },
+    {
+      "full_name": "TUSSU Real Estate Team",
+      "expertise": "Real Estate Services",
+      "country": "Tanzania",
+      "company": "TUSSU Real Estate"
+    },
+    {
+      "full_name": "Humphrey Brayan",
+      "expertise": "Real Estate Agent",
+      "country": "Tanzania",
+      "company": "Independent Agent"
+    },
+    {
+      "full_name": "AMAN MGANDU",
+      "expertise": "Real Estate Services",
+      "country": "Tanzania",
+      "company": "Independent Agent"
+    },
+    {
+      "full_name": "ELIBARICK Real Estate Team",
+      "expertise": "Real Estate Services",
+      "country": "Tanzania",
+      "company": "ELIBARICK Real Estate"
+    },
+    {
+      "full_name": "ANORD GILMAN",
+      "expertise": "Real Estate Agent",
+      "country": "Tanzania",
+      "company": "Independent Agent"
+    },
+    {
+      "full_name": "EDWIN ILOMO",
+      "expertise": "Real Estate Agent",
+      "country": "Tanzania",
+      "company": "Independent Agent"
+    },
+    {
+      "full_name": "Abdallah Sultan",
+      "expertise": "Real Estate Agent",
+      "country": "Tanzania",
+      "company": "Independent Agent"
+    },
+    {
+      "full_name": "Dar es Salaam Real Estate Specialists",
+      "expertise": "Commercial Capital Property Services",
+      "country": "Tanzania",
+      "company": "Local Dar es Salaam Agencies"
+    },
+    {
+      "full_name": "Arusha Property Consultants",
+      "expertise": "Northern Tanzania Real Estate",
+      "country": "Tanzania",
+      "company": "Local Arusha Agencies"
+    },
+    {
+      "full_name": "Mwanza Real Estate Agents",
+      "expertise": "Lake Victoria Region Properties",
+      "country": "Tanzania",
+      "company": "Local Mwanza Agencies"
+    },
+    {
+      "full_name": "Dodoma Property Specialists",
+      "expertise": "Capital City Real Estate",
+      "country": "Tanzania",
+      "company": "Local Dodoma Agencies"
+    },
+    {
+      "full_name": "Mbeya Real Estate Team",
+      "expertise": "Southern Highlands Properties",
+      "country": "Tanzania",
+      "company": "Local Mbeya Agencies"
+    },
+    {
+      "full_name": "Morogoro Property Consultants",
+      "expertise": "Central Tanzania Real Estate",
+      "country": "Tanzania",
+      "company": "Local Morogoro Agencies"
+    },
+    {
+      "full_name": "Tanga Real Estate Agents",
+      "expertise": "Coastal Region Properties",
+      "country": "Tanzania",
+      "company": "Local Tanga Agencies"
+    },
+    {
+      "full_name": "Mtwara Property Specialists",
+      "expertise": "Southern Coast Real Estate",
+      "country": "Tanzania",
+      "company": "Local Mtwara Agencies"
+    },
+    {
+      "full_name": "Zanzibar Stone Town Specialists",
+      "expertise": "Historic and Cultural Properties",
+      "country": "Tanzania",
+      "company": "Local Zanzibar Agencies"
+    },
+    {
+      "full_name": "Pemba Island Real Estate Team",
+      "expertise": "Island Property Development",
+      "country": "Tanzania",
+      "company": "Local Pemba Agencies"
+    },
+    {
+      "full_name": "Kilimanjaro Region Property Agents",
+      "expertise": "Mountain Region Real Estate",
+      "country": "Tanzania",
+      "company": "Local Kilimanjaro Agencies"
+    },
+    {
+      "full_name": "Iringa Real Estate Consultants",
+      "expertise": "Southern Highlands Commercial Properties",
+      "country": "Tanzania",
+      "company": "Local Iringa Agencies"
+    },
+    {
+      "full_name": "Tabora Property Specialists",
+      "expertise": "Central Tanzania Commercial Real Estate",
+      "country": "Tanzania",
+      "company": "Local Tabora Agencies"
+    },
+    {
+      "full_name": "Kigoma Real Estate Agents",
+      "expertise": "Western Tanzania Properties",
+      "country": "Tanzania",
+      "company": "Local Kigoma Agencies"
+    },
+    {
+      "full_name": "Singida Property Consultants",
+      "expertise": "Central Region Real Estate",
+      "country": "Tanzania",
+      "company": "Local Singida Agencies"
+    },
+    {
+      "full_name": "Tanzania Investment Advisors",
+      "expertise": "Real Estate Investment Consulting",
+      "country": "Tanzania",
+      "company": "Investment Advisory Firms"
+    },
+    {
+      "full_name": "Tanzania Property Lawyers",
+      "expertise": "Real Estate Law and Transactions",
+      "country": "Tanzania",
+      "company": "Legal Firms"
+    },
+    {
+      "full_name": "Tanzania Property Appraisers",
+      "expertise": "Property Valuation Services",
+      "country": "Tanzania",
+      "company": "Appraisal Companies"
+    }
+  ]
+}

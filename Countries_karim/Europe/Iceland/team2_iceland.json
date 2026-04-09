@@ -1,0 +1,698 @@
+[
+  {
+    "company_name": "",
+    "name": "J\u00f3n Gu\u00f0j\u00f3nsson",
+    "email": "jon@reitir.is",
+    "position": "Director of Assets"
+  },
+  {
+    "company_name": "",
+    "name": "Einar \u00deorsteinsson",
+    "email": "einar@reitir.is",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Margr\u00e9t J\u00f3hannsd\u00f3ttir",
+    "email": "margret@reitir.is",
+    "position": "Director of Services"
+  },
+  {
+    "company_name": "",
+    "name": "Ingveldur Bj\u00f6rnsd\u00f3ttir",
+    "email": "ingveldur@reitir.is",
+    "position": "Director of Customer Service and Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Birgir Birgisson",
+    "email": "birgir@reitir.is",
+    "position": "Director of Development"
+  },
+  {
+    "company_name": "",
+    "name": "Halldor Jensson",
+    "email": "halldor@reitir.is",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Brynjar Olafsson",
+    "email": "brynjar@reitir.is",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Heimir Bates",
+    "email": "heimir@reitir.is",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "lara@reitir.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kristofer@reitir.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Sturla E\u00f0var\u00f0sson",
+    "email": "sturla@eik.is",
+    "position": "Business Development Director"
+  },
+  {
+    "company_name": "",
+    "name": "Arni Bodvarsson",
+    "email": "arni@eik.is",
+    "position": "Director of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Gudbjartur Magnusson",
+    "email": "gm@eik.is",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jenny Einarsd\u00f3ttir",
+    "email": "jenny@eik.is",
+    "position": "Business Administrator"
+  },
+  {
+    "company_name": "",
+    "name": "J\u00fal\u00eda Brekkan",
+    "email": "julia@eik.is",
+    "position": "Business Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Krist\u00edn P\u00e9tursd\u00f3ttir",
+    "email": "kristin@eik.is",
+    "position": "Human Resources Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Elva \u00ddr Kristj\u00e1nsd\u00f3ttir",
+    "email": "elvak@eik.is",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Ingimar Ragnarsson",
+    "email": "ingimar@eik.is",
+    "position": "Attorney"
+  },
+  {
+    "company_name": "",
+    "name": "Sindri V\u00f6luson",
+    "email": "sindrif@eik.is",
+    "position": "System Administrator"
+  },
+  {
+    "company_name": "",
+    "name": "Finnur Hermannsson",
+    "email": "finnur@eik.is",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Mar\u00eda R\u00fanarsd\u00f3ttir",
+    "email": "maria@heimar.is",
+    "position": "Director of Sustainability"
+  },
+  {
+    "company_name": "",
+    "name": "R\u00fanar Bridde",
+    "email": "runar@heimar.is",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "",
+    "name": "P\u00e1ll Bjarnason",
+    "email": "pall@heimar.is",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Baldur Helgason",
+    "email": "baldur@heimar.is",
+    "position": "Chief Business Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Gudmundur Omarsson",
+    "email": "gudmunduro@heimar.is",
+    "position": "IT Director"
+  },
+  {
+    "company_name": "",
+    "name": "Olafur Baldursson",
+    "email": "olafur@heimar.is",
+    "position": "Director of Construction"
+  },
+  {
+    "company_name": "",
+    "name": "P\u00e9tur Heimisson",
+    "email": "petur@heimar.is",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Thorunn Ulfarsdottir",
+    "email": "thorunn@heimar.is",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Gudmundur Atlason",
+    "email": "gudmundur@heimar.is",
+    "position": "Energy Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "iris@heimar.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Samantha Hughes",
+    "email": "samantha.hughes@knightfrank.com",
+    "position": "Director of Placemaking"
+  },
+  {
+    "company_name": "",
+    "name": "William Freston",
+    "email": "william.freston@knightfrank.com",
+    "position": "Associate Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Kim Wiggins",
+    "email": "kim.wiggins@knightfrank.com",
+    "position": "Operations Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Tommy Lam",
+    "email": "tommy.lam@knightfrank.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Nick More",
+    "email": "nick.more@knightfrank.com",
+    "position": "Department Head"
+  },
+  {
+    "company_name": "",
+    "name": "Louie-Mae Gibson",
+    "email": "louie-mae.gibson@knightfrank.com",
+    "position": "Director of Estate Management"
+  },
+  {
+    "company_name": "",
+    "name": "Will Garner",
+    "email": "will.garner@knightfrank.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Sophie McCarthy",
+    "email": "sophie.mccarthy@knightfrank.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Zeinah Cooper",
+    "email": "zeinah.cooper@knightfrank.com",
+    "position": "Operations Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Elsa Karoly",
+    "email": "elsa.karoly@knightfrank.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Kristjan Andresson",
+    "email": "kristjan@klasi.is",
+    "position": "Project Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Geir Andri",
+    "email": "andri@klasi.is",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "klasi@klasi.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hanna@klasi.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "solveig@klasi.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pall@klasi.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sindri@klasi.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kristjana@klasi.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hildur@klasi.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ingvi@klasi.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Robert Robertsson",
+    "email": "robert@festir.is",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sveinn@isfast.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pall@bergfesta.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "asgeir@bergfesta.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "bergfesta@bergfesta.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sh@bergfesta.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hlynur@bergfesta.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "orn@m3.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@northranga.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@titaya.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Gunnar Gunnarsson",
+    "email": "gunnarg@creditinfo.is",
+    "position": "Director of Analytics"
+  },
+  {
+    "company_name": "",
+    "name": "K\u00e1ri Finnsson",
+    "email": "karif@creditinfo.is",
+    "position": "Business Development Director"
+  },
+  {
+    "company_name": "",
+    "name": "Asa Olafsdottir",
+    "email": "asa@creditinfo.is",
+    "position": "Director of Customer Service"
+  },
+  {
+    "company_name": "",
+    "name": "Dagny Franklinsdottir",
+    "email": "dagny@creditinfo.is",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "Hrefna Sigfinnsdottir",
+    "email": "hrefna@creditinfo.is",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Steinunn Bj\u00f6rnsd\u00f3ttir",
+    "email": "steinunn@creditinfo.is",
+    "position": "Business Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Eir\u00edkur Gestsson",
+    "email": "eirikurg@creditinfo.is",
+    "position": "Chief Technology and Information Officer"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "creditinfo@creditinfo.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "vidskiptastyring@creditinfo.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hakon@creditinfo.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Skorri Rafnsson",
+    "email": "skorri@alvacapital.is",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "alvacapital@alvacapital.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Ingi Ingolfsson",
+    "email": "ingi.ingolfsson@centra.is",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "karl@centra.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sig.hardarson@centra.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@centra.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hermann.baldursson@centra.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ingvar.gardarsson@centra.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kristjan.arason@centra.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "karl.thorsteins@centra.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Bjorgvin Oskarsson",
+    "email": "bjorgvin@atv.is",
+    "position": "Managing Broker"
+  },
+  {
+    "company_name": "",
+    "name": "Oskar Masson",
+    "email": "oskar@atv.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sunna@reginn.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "heida@reginn.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "helgi@reginn.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "helgak@reginn.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hafnartorg@reginn.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "svanur@reginn.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "leiga@reginn.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "dagbjort@reginn.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "fjarfestatengsl@reginn.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Oskar Josefsson",
+    "email": "oskar.josefsson@fsre.is",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Stefan\u00eda Nindel",
+    "email": "stefania.nindel@fsre.is",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "\u00d3lafur Dan\u00edelsson",
+    "email": "olafur.danielsson@fsre.is",
+    "position": "Director of Construction"
+  },
+  {
+    "company_name": "",
+    "name": "Hildur Georgsdottir",
+    "email": "hildur.georgsdottir@fsre.is",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Gudmundur Moller",
+    "email": "gudmundur.moller@fsre.is",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Nina Baldursdottir",
+    "email": "nina.baldursdottir@fsre.is",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Sverrir Bollason",
+    "email": "sverrir.bollason@fsre.is",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "",
+    "name": "Helgi Bragason",
+    "email": "helgi.bragason@fsre.is",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Hannes Arnason",
+    "email": "hannes.arnason@fsre.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Jon Sigurdsson",
+    "email": "jon.sigurdsson@fsre.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "vera@groska.is",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Elias Sigurdsson",
+    "email": "elias@dagar.is",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Inga Erlingsd\u00f3ttir",
+    "email": "ingae@dagar.is",
+    "position": "Director of Property Management"
+  },
+  {
+    "company_name": "",
+    "name": "Brynhildur Gudmundsdottir",
+    "email": "brynhildur@dagar.is",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Sigur\u00f0ur \u00de\u00f3risson",
+    "email": "sh@dagar.is",
+    "position": "Sales and Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Hafr\u00fan Haraldsd\u00f3ttir",
+    "email": "hafrun@dagar.is",
+    "position": "Sales and Marketing Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "Elin Bogga",
+    "email": "elinbogga@dagar.is",
+    "position": "Business Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Erna Karen",
+    "email": "erna@dagar.is",
+    "position": "Supervisor"
+  },
+  {
+    "company_name": "",
+    "name": "Agata Teresa",
+    "email": "agata@dagar.is",
+    "position": "Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Thelma Rut",
+    "email": "thelma@dagar.is",
+    "position": "Account Manager Sales And Business Development"
+  },
+  {
+    "company_name": "",
+    "name": "Malgorzata Anna",
+    "email": "malgorzata@dagar.is",
+    "position": "Supervisor"
+  },
+  {
+    "company_name": "",
+    "name": "Helga Halld\u00f3rsd\u00f3ttir",
+    "email": "helga@kaldalon.is",
+    "position": "Accounting Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jon Gunnarsson",
+    "email": "jon.gunnarsson@kaldalon.is",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Herd\u00eds Kristinsd\u00f3ttir",
+    "email": "herdis@kaldalon.is",
+    "position": "Accounting Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sigurbjorg.olafsdottir@kaldalon.is",
+    "position": null
+  }
+]

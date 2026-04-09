@@ -1,0 +1,758 @@
+[
+  {
+    "company_name": "",
+    "name": "Bjorn Hallin",
+    "email": "hallin@ncap.se",
+    "position": "Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "douglas@ncap.se",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@ncap.se",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "so@ncap.se",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Susann Linde",
+    "email": "susann.linde@wallenstam.se",
+    "position": "CFO"
+  },
+  {
+    "company_name": "",
+    "name": "Elisabeth Vansvik",
+    "email": "elisabeth.vansvik@wallenstam.se",
+    "position": "Director of Communications"
+  },
+  {
+    "company_name": "",
+    "name": "Jonas Petri",
+    "email": "jonas.petri@wallenstam.se",
+    "position": "Commercial Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Lisette Wik",
+    "email": "lisette.wik@wallenstam.se",
+    "position": "Customer Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Marina Fritsche",
+    "email": "marina.fritsche@wallenstam.se",
+    "position": "Regional Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Annica Modin",
+    "email": "annica.modin@wallenstam.se",
+    "position": "Social Media Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Magnus Bogren",
+    "email": "magnus.bogren@wallenstam.se",
+    "position": "Finance Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Daniel Peterson",
+    "email": "daniel.peterson@wallenstam.se",
+    "position": "Commercial Leasing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Henrik Olsson",
+    "email": "henrik.olsson@wallenstam.se",
+    "position": "Head Chef"
+  },
+  {
+    "company_name": "",
+    "name": "Emma Carlsson",
+    "email": "emma.carlsson@wallenstam.se",
+    "position": "Commercial Rental Group Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jithinkumar Thulaseedharan",
+    "email": "sara.svedjedal@brunswickrealestate.com",
+    "position": "Change Management Director"
+  },
+  {
+    "company_name": "",
+    "name": "Patrik Andersson",
+    "email": "patrik.andersson@brunswickrealestate.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Markus Mittler",
+    "email": "markus.mittler@brunswickrealestate.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Anthony Romano",
+    "email": "anthony.romano@brunswickrealestate.com",
+    "position": "Country Head"
+  },
+  {
+    "company_name": "",
+    "name": "Josefin Bergholtz",
+    "email": "josefin.bergholtz@brunswickrealestate.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Erik Widmark",
+    "email": "erik.widmark@brunswickrealestate.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Annika Fridolf",
+    "email": "annika.fridolf@brunswickrealestate.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Mathias Vuorelma",
+    "email": "mathias.vuorelma@brunswickrealestate.com",
+    "position": "Country Head"
+  },
+  {
+    "company_name": "",
+    "name": "Kristina Agild",
+    "email": "kristina.agild@brunswickrealestate.com",
+    "position": "Partner Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Niklas Torwald",
+    "email": "niklas.torwald@brunswickrealestate.com",
+    "position": "Chief Investment Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Louise Frankenberg",
+    "email": "louise.frankenberg@niam.com",
+    "position": "Director of Investor Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Christian Stenberg",
+    "email": "christian.stenberg@niam.com",
+    "position": "Co-Head of Investor Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Hans Lisserkers",
+    "email": "hans.lisserkers@niam.com",
+    "position": "Director of Project Development"
+  },
+  {
+    "company_name": "",
+    "name": "Rikard Henriksson",
+    "email": "rikard.henriksson@niam.com",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Elin Ericson",
+    "email": "elin.ericson@niam.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "",
+    "name": "Ekaterina Hultberg",
+    "email": "ekaterina.hultberg@niam.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Erika Sydow",
+    "email": "erika.sydow@niam.com",
+    "position": "Director of Acquisitions"
+  },
+  {
+    "company_name": "",
+    "name": "Antti Muilu",
+    "email": "antti.muilu@niam.com",
+    "position": "Senior Director"
+  },
+  {
+    "company_name": "",
+    "name": "Daniel Andersson",
+    "email": "daniel.andersson@niam.com",
+    "position": "Head of Acquisitions"
+  },
+  {
+    "company_name": "",
+    "name": "Thomas Fiskerstrand",
+    "email": "thomas.fiskerstrand@niam.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sagaxsef@sagax.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Sverker Gullberg",
+    "email": "sverker.gullberg@wihlborgs.se",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Hannes Ivarsson",
+    "email": "hannes.ivarsson@wihlborgs.se",
+    "position": "Commercial Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Lovisa Lindskog",
+    "email": "lovisa.lindskog@wihlborgs.se",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Tobias Nilsson",
+    "email": "tobias.nilsson@wihlborgs.se",
+    "position": "Real Estate Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Frida Wahlberg",
+    "email": "frida.wahlberg@wihlborgs.se",
+    "position": "Real Estate Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jimmy Johansson",
+    "email": "jimmy.johansson@wihlborgs.se",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Christian Westerberg",
+    "email": "christian.westerberg@wihlborgs.se",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Henrik Strelert",
+    "email": "henrik.strelert@wihlborgs.se",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Agneta Axelsson",
+    "email": "agneta.axelsson@wihlborgs.se",
+    "position": "Economist"
+  },
+  {
+    "company_name": "",
+    "name": "Sonny Cervin",
+    "email": "sonny.cervin@wihlborgs.se",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Annelie Svensson",
+    "email": "annelie.svensson@catena.se",
+    "position": "Head of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Jonna Lindberg",
+    "email": "jonna.kure-lindberg@catena.se",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Sol Flink",
+    "email": "sol.flink@catena.se",
+    "position": "Drift Technician"
+  },
+  {
+    "company_name": "",
+    "name": "Malin Hansen",
+    "email": "malin.hansen@catena.se",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "",
+    "name": "Mats Dunder",
+    "email": "mats.dunder@catena.se",
+    "position": "Energy and Technology Developer"
+  },
+  {
+    "company_name": "",
+    "name": "Ulf Stanley",
+    "email": "ulf.stanley@catena.se",
+    "position": "Project Developer"
+  },
+  {
+    "company_name": "",
+    "name": "Stefan Gustafsson",
+    "email": "stefan.gustafsson@catena.se",
+    "position": "Technician"
+  },
+  {
+    "company_name": "",
+    "name": "Fredrik Cervin",
+    "email": "fredrik.cervin@catena.se",
+    "position": "Technical Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Hel\u00e9n Lindskog",
+    "email": "helen.lindskog@catena.se",
+    "position": "Business Controller"
+  },
+  {
+    "company_name": "",
+    "name": "Annie Nyblom",
+    "email": "annie.nyblom@catena.se",
+    "position": "Marketing and Communications Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Helena Skoglund",
+    "email": "helena.skoglund@al.se",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Heiko Bechtel",
+    "email": "heiko.bechtel@al.se",
+    "position": "Head of Treasury"
+  },
+  {
+    "company_name": "",
+    "name": "Thomas Levander",
+    "email": "thomas.levander@al.se",
+    "position": "Property Director"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Jepson",
+    "email": "anna.jepson@al.se",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Emelie Gustafsson",
+    "email": "emelie.gustafsson@al.se",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Romel Ayalew",
+    "email": "romel.ayalew@al.se",
+    "position": "IT Architect"
+  },
+  {
+    "company_name": "",
+    "name": "Robert Danielsson",
+    "email": "robert.danielsson@al.se",
+    "position": "IT Infrastructure Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Haag",
+    "email": "anna.haag@al.se",
+    "position": "Business Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Aleksandra Siljegovic",
+    "email": "aleksandra.siljegovic@al.se",
+    "position": "Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Eva Fryxell",
+    "email": "eva.fryxell@al.se",
+    "position": "IT Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Mari-louise Hedbys",
+    "email": "mari-louise.hedbys@trianon.se",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "James Wood",
+    "email": "nina.wallenberg@trianon.se",
+    "position": "Director of Communications"
+  },
+  {
+    "company_name": "",
+    "name": "Maria Lantz",
+    "email": "maria.lantz@trianon.se",
+    "position": "Lease Administrator"
+  },
+  {
+    "company_name": "",
+    "name": "Jens Bergman",
+    "email": "jens.bergman@trianon.se",
+    "position": "IT and Accounting Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Tom Fagerlund",
+    "email": "tom.fagerlund@trianon.se",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jenny Moberg",
+    "email": "jenny.moberg@trianon.se",
+    "position": "Interim Investment Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Therese Lindsley",
+    "email": "therese.lindsley@trianon.se",
+    "position": "Center Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Lina Svensson",
+    "email": "lina.svensson@trianon.se",
+    "position": "Accountant"
+  },
+  {
+    "company_name": "",
+    "name": "Mats Wessman",
+    "email": "mats.wessman@trianon.se",
+    "position": "Interim Purchasing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Elisabet Nilsson",
+    "email": "elisabet.nilsson@trianon.se",
+    "position": "Controller"
+  },
+  {
+    "company_name": "",
+    "name": "Peter Kangert",
+    "email": "peter.kangert@fabege.se",
+    "position": "Director of Investor Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Mats Berg",
+    "email": "mats.berg@fabege.se",
+    "position": "Director of Communications"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Marmg\u00e5rd",
+    "email": "annam@fabege.se",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Per Ekstrand",
+    "email": "per.ekstrand@fabege.se",
+    "position": "Chief Security Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Hanna Westergren",
+    "email": "hanna.westergren@fabege.se",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Pontus Nylander",
+    "email": "pontus.nylander@fabege.se",
+    "position": "Senior Project Manager Marketing & Communication"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Nyberg",
+    "email": "anna.nyberg@fabege.se",
+    "position": "Business Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Charlotte Eklund",
+    "email": "charlotte.eklund@fabege.se",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Per Lindgren",
+    "email": "per.lindgren@fabege.se",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Christina Ericson",
+    "email": "christina.ericson@fabege.se",
+    "position": "Marketing Strategist, Urban and Property Development"
+  },
+  {
+    "company_name": "",
+    "name": "Niklas Engvall",
+    "email": "niklas.engvall@hufvudstaden.se",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Josefin Alteby",
+    "email": "josefin.alteby@hufvudstaden.se",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Louise Kihlberg",
+    "email": "louise.kihlberg@hufvudstaden.se",
+    "position": "Marketing and Communications Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Gustafsson",
+    "email": "anna.gustafsson@hufvudstaden.se",
+    "position": "Chef"
+  },
+  {
+    "company_name": "",
+    "name": "Nina Hag",
+    "email": "nina.hag@hufvudstaden.se",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Ulf Birk",
+    "email": "ulf.birk@hufvudstaden.se",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@hufvudstaden.se",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Asa Roslund",
+    "email": "asa.roslund@hufvudstaden.se",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Karl Wall",
+    "email": "karl-johan.wall@hufvudstaden.se",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "infofemman@hufvudstaden.se",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Ann-Sofie Lindroth",
+    "email": "ann-sofie.lindroth@nyfosa.se",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Elin Flamand",
+    "email": "elin.flamand@nyfosa.se",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Lisa Lundberg",
+    "email": "lisa.lundberg@nyfosa.se",
+    "position": "Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Henrik Andr\u00e9",
+    "email": "henrik.andre@nyfosa.se",
+    "position": "Regional Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Christer Gran",
+    "email": "christer.gran@nyfosa.se",
+    "position": "Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Johan Rydberg",
+    "email": "johan.rydberg@nyfosa.se",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Saga Zheng",
+    "email": "saga.zheng@nyfosa.se",
+    "position": "Financial Analyst"
+  },
+  {
+    "company_name": "",
+    "name": "Fredrik Nilsson",
+    "email": "fredrik.nilsson@nyfosa.se",
+    "position": "Technical Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Marianne Hagen",
+    "email": "marianne.hagen@nyfosa.se",
+    "position": "Finance Administrator"
+  },
+  {
+    "company_name": "",
+    "name": "Agnes Karlsson",
+    "email": "agnes.karlsson@nyfosa.se",
+    "position": "Transaction Analyst"
+  },
+  {
+    "company_name": "",
+    "name": "Johan Dernmar",
+    "email": "johan.dernmar@dios.se",
+    "position": "Director of Investor Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Tomas Mellberg",
+    "email": "tomas.mellberg@dios.se",
+    "position": "Project Controller"
+  },
+  {
+    "company_name": "",
+    "name": "Susanne Holm",
+    "email": "susanne.holm@dios.se",
+    "position": "Accountant"
+  },
+  {
+    "company_name": "",
+    "name": "Christina Hedin",
+    "email": "christina.hedin@dios.se",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Annie Franzon",
+    "email": "annie.franzon@dios.se",
+    "position": "Transaction Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jesper Gabrielli",
+    "email": "jesper.gabrielli@dios.se",
+    "position": "Technical Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Krister Palm",
+    "email": "krister.palm@dios.se",
+    "position": "Technical Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Stefan Carlsson",
+    "email": "stefan.carlsson@dios.se",
+    "position": "Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Markus Westman",
+    "email": "markus.westman@dios.se",
+    "position": "Commercial Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "David Nygren",
+    "email": "david.nygren@dios.se",
+    "position": "Commercial Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Niklas Bengtsson",
+    "email": "niklas.bengtsson@besqab.se",
+    "position": "Art Director"
+  },
+  {
+    "company_name": "",
+    "name": "Therese Lund\u00e9n",
+    "email": "therese.lunden@besqab.se",
+    "position": "Chief Human Resources Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Per Lidstr\u00f6m",
+    "email": "per.lidstroem@besqab.se",
+    "position": "Chief Digital Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Emmy Fredenkl",
+    "email": "emmy.fredenklo@besqab.se",
+    "position": "Chief Legal Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Anna \u00c5kerlund",
+    "email": "anna.aakerlund@besqab.se",
+    "position": "Director of Communications and Human Resources"
+  },
+  {
+    "company_name": "",
+    "name": "Daniel Bergstr\u00f6m",
+    "email": "daniel.bergstroem@besqab.se",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Andreas Wik",
+    "email": "andreas.wik@besqab.se",
+    "position": "Business Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Christina Durling",
+    "email": "christina.durling@besqab.se",
+    "position": "Head of Communications"
+  },
+  {
+    "company_name": "",
+    "name": "Oskar Andersson",
+    "email": "oskar.andersson@besqab.se",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Hanna Bodbacka",
+    "email": "hanna.bodbacka@besqab.se",
+    "position": "Sustainability Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Andreas Bonnier",
+    "email": "andreas@bohogroup.com",
+    "position": "CEO"
+  }
+]

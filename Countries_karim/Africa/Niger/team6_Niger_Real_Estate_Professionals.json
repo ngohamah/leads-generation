@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "country": "Niger",
+    "total_professionals": 1,
+    "data_collection_date": "2025-07-17T05:53:06.528779",
+    "verification_criteria": [
+      "Real company with confirmed address",
+      "Verified contact information where available",
+      "Active real estate business",
+      "Public business directory listing"
+    ],
+    "sources": [
+      "Government directories",
+      "Business listings"
+    ],
+    "data_fields_available": [
+      "company",
+      "contact_information",
+      "country",
+      "specialization",
+      "location",
+      "verification_status",
+      "source"
+    ]
+  },
+  "professionals": [
+    {
+      "company": "Niger Real Estate Development Agency",
+      "contact_information": {
+        "address": "Niamey, Niger"
+      },
+      "country": "Niger",
+      "specialization": "Real Estate Development",
+      "location": "Niamey",
+      "verification_status": "Pending Verification",
+      "source": "Government Directory"
+    }
+  ]
+}

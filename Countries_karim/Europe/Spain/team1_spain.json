@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Henley & Partners (Spain)",
+    "website": "https://www.henleyglobal.com/contact/office-spain",
+    "address": "33 Rambla Catalunya, Barcelona 08007, Spain",
+    "email": null,
+    "phone": "+34 931 22 21 64"
+  },
+  {
+    "name": "Lucas Fox",
+    "website": "https://www.lucasfox.com",
+    "address": "C/ Pau Claris 108, Pral 2a, 08009 Barcelona, Spain",
+    "email": "info@lucasfox.com",
+    "phone": "+34 933 562 989"
+  },
+  {
+    "name": "Coldwell Banker España",
+    "website": "https://www.coldwellbanker.es/en/contact",
+    "address": "Avinguda Diagonal 433, 08036 Barcelona, Spain",
+    "email": "info@coldwellbanker.es",
+    "phone": "+34 935 950 135"
+  },
+  {
+    "name": "Premium Houses",
+    "website": "https://premiumhouses.es",
+    "address": "Av. Camí dels Capellans 75, Sitges 08870, Barcelona, Spain",
+    "email": "contacto@premiumhouse.es",
+    "phone": "+34 93 809 72 40"
+  },
+  {
+    "name": "Renew Realty S.L.",
+    "website": "https://www.renew-realty.com",
+    "address": "Edif Los Arqueros Beach, Av. Salamanca, Local 13 A, 29670 San Pedro Alcántara, Málaga, Spain",
+    "email": "enquiries@renew-realty.com",
+    "phone": "+34 951 571 049"
+  },
+  {
+    "name": "Direct Property Investments",
+    "website": "https://directpropertyinvestments.com",
+    "address": "Avenida Litoral, Bloque 3, Estepona, Málaga 29680, Spain",
+    "email": "enquiries@directpropertyinvestments.com",
+    "phone": "+34 952 806 609"
+  },
+  {
+    "name": "Neinor Homes",
+    "website": "https://www.neinorhomes.com",
+    "address": "Calle Henao 20, Bilbao 48009, Spain",
+    "email": "info@neinorhomes.com",
+    "phone": "900 11 00 22"
+  },
+  {
+    "name": "Repiso",
+    "website": "https://www.redpiso.es/",
+    "address": null,
+    "email": null,
+    "phone": null
+  },
+  {
+    "name": "Imolux Group",
+    "website": "https://inmoluxgroup.com/",
+    "address": "Av. Ricardo Soriano, 55, 29602 Marbella, Málaga, Spain",
+    "email": null,
+    "phone": "+34 952 77 07 82"
+  },
+  {
+    "name": "Grupo Avintia",
+    "website": "https://grupoavintia.com/",
+    "address": "C. Emisora, 20, 28224 Pozuelo de Alarcón, Madrid, Spain",
+    "email": null,
+    "phone": "+34 915 12 27 11"
+  }
+]

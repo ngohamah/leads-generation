@@ -1,0 +1,410 @@
+[
+  {
+    "company_name": "",
+    "name": "Ricardo Valente",
+    "email": "ricardo.valente@savills.pt",
+    "position": "Port Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Rita Bueri",
+    "email": "rita.bueri@savills.pt",
+    "position": "Director of Residential Services"
+  },
+  {
+    "company_name": "",
+    "name": "C\u00e9lia Sampaio",
+    "email": "celia.sampaio@savills.pt",
+    "position": "Senior Analyst"
+  },
+  {
+    "company_name": "",
+    "name": "Andreia Silva",
+    "email": "andreia.silva@savills.pt",
+    "position": "Digital Marketing Consultant"
+  },
+  {
+    "company_name": "",
+    "name": "Alexandra Camar\u00e3o",
+    "email": "alexandra.camarao@savills.pt",
+    "position": "Marketing Consultant"
+  },
+  {
+    "company_name": "",
+    "name": "Marta Coelho",
+    "email": "marta.coelho@savills.pt",
+    "position": "Marketing Consultant"
+  },
+  {
+    "company_name": "",
+    "name": "Alexandre Coelho",
+    "email": "alexandre.coelho@savills.pt",
+    "position": "Architect"
+  },
+  {
+    "company_name": "",
+    "name": "Francisco Machado",
+    "email": "francisco.machado@savills.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Ana Jordao",
+    "email": "ana.jordao@savills.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Joao Inacio",
+    "email": "joao.inacio@savills.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@myportugalrealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Maria Canha",
+    "email": "maria.canha@worx.pt",
+    "position": "Consulting Director"
+  },
+  {
+    "company_name": "",
+    "name": "Silvia Dragomir",
+    "email": "silvia.dragomir@worx.pt",
+    "position": "Director of Research"
+  },
+  {
+    "company_name": "",
+    "name": "Marta Falc\u00e3o",
+    "email": "marta.falcao@worx.pt",
+    "position": "Urban Planning Director"
+  },
+  {
+    "company_name": "",
+    "name": "Francisco Caldeira",
+    "email": "francisco.caldeira@worx.pt",
+    "position": "Head of Capital Markets"
+  },
+  {
+    "company_name": "",
+    "name": "In\u00eas Santos",
+    "email": "ines.santos@worx.pt",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "S\u00f3nia Ildefonso",
+    "email": "sonia.ildefonso@worx.pt",
+    "position": "Architect"
+  },
+  {
+    "company_name": "",
+    "name": "Patr\u00edcia Dur\u00e3o",
+    "email": "patricia.durao@worx.pt",
+    "position": "Marketing Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Pedro Rutkowski",
+    "email": "pedro.rutkowski@worx.pt",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "Bernardo Vasconcelos",
+    "email": "bernardo.vasconcelos@worx.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Neuza Ferreira",
+    "email": "neuza.ferreira@worx.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Pedro Lanita",
+    "email": "planita@remax.pt",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Ant\u00f3nio Santos",
+    "email": "antonio.santos@remax.pt",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jo\u00e3o Pedroso",
+    "email": "jpedroso@remax.pt",
+    "position": "Social Media Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Arlindo Silva",
+    "email": "asilva@remax.pt",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "Dora Esteves",
+    "email": "dora.esteves@remax.pt",
+    "position": "IT Director"
+  },
+  {
+    "company_name": "",
+    "name": "Luis Camoes",
+    "email": "lcamoes@remax.pt",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Filipe Gon\u00e7alves",
+    "email": "filipe.goncalves@remax.pt",
+    "position": "Department Head"
+  },
+  {
+    "company_name": "",
+    "name": "Jos\u00e9 Peixoto",
+    "email": "jpeixoto@remax.pt",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Beatriz Rubio",
+    "email": "brubio@remax.pt",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "Norberto Massa",
+    "email": "nmassa@remax.pt",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Sergio Martinez",
+    "email": "sergio.martinez@engelvoelkers.com",
+    "position": "Regional Director"
+  },
+  {
+    "company_name": "",
+    "name": "Tracy Watts",
+    "email": "tracy.watts@engelvoelkers.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Andreas B\u00fchler",
+    "email": "andreas.buehler@engelvoelkers.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "Sean Mcconnon",
+    "email": "sean.mcconnon@engelvoelkers.com",
+    "position": "Vice Chairman"
+  },
+  {
+    "company_name": "",
+    "name": "Jose Mier",
+    "email": "jose.mier@engelvoelkers.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Gregg Baker",
+    "email": "gregg.baker@engelvoelkers.com",
+    "position": "Real Estate Advisor"
+  },
+  {
+    "company_name": "",
+    "name": "Steve Micheletti",
+    "email": "steve.micheletti@engelvoelkers.com",
+    "position": "License Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Colleen Holmes",
+    "email": "colleen.holmes@engelvoelkers.com",
+    "position": "Real Estate Broker"
+  },
+  {
+    "company_name": "",
+    "name": "Alfonso Casillas",
+    "email": "alfonso.casillas@engelvoelkers.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Alexander Kirchmann",
+    "email": "alexander.kirchmann@engelvoelkers.com",
+    "position": "Director of Sales"
+  },
+  {
+    "company_name": "",
+    "name": "Mariana Coimbra",
+    "email": "coimbra@era.pt",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "In\u00eas Sousa",
+    "email": "sines@era.pt",
+    "position": "Legal Advisor"
+  },
+  {
+    "company_name": "",
+    "name": "Santiago Tavira",
+    "email": "tavira@era.pt",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "",
+    "name": "Amadora Morada",
+    "email": "amadora@era.pt",
+    "position": "Media Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Vendas Malveira",
+    "email": "malveira@era.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Agueda Albergaria",
+    "email": "agueda@era.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Misericordia Sintra",
+    "email": "sintra@era.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "gaia2@era.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "lagos@era.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Miranda Lousa",
+    "email": "lousa@era.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Miguel Vasconcelos",
+    "email": "miguel.vasconcelos@ceiia.com",
+    "position": "Talent Acquisition Specialist"
+  },
+  {
+    "company_name": "",
+    "name": "Lu\u00eds Pardal",
+    "email": "luis.pardal@ceiia.com",
+    "position": "Director of Flight Sciences"
+  },
+  {
+    "company_name": "",
+    "name": "Pedro Gaspar",
+    "email": "pedro.gaspar@ceiia.com",
+    "position": "Director of Business Technology"
+  },
+  {
+    "company_name": "",
+    "name": "Catarina Selada",
+    "email": "catarina.selada@ceiia.com",
+    "position": "Director of Policy"
+  },
+  {
+    "company_name": "",
+    "name": "Miguel Braga",
+    "email": "miguel.braga@ceiia.com",
+    "position": "Director of Aeronautics and Defense"
+  },
+  {
+    "company_name": "",
+    "name": "Filipa Zenha",
+    "email": "filipa.zenha@ceiia.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Helena Silva",
+    "email": "helena.silva@ceiia.com",
+    "position": "Chief Technology Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Andr\u00e9 Jo\u00e3o",
+    "email": "andre.joao@ceiia.com",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "",
+    "name": "Daniela Vieira",
+    "email": "daniela.vieira@ceiia.com",
+    "position": "Learning and Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Nuno Catarino",
+    "email": "nuno.catarino@ceiia.com",
+    "position": "Business Unit Head"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@lisboncruiseport.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "reservations@lisboncruiseport.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "eventos@lisboncruiseport.pt",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@visitportugal.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "media@visitportugal.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "reservations@quintadamarinha.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "dpo@quintadamarinha.com",
+    "position": null
+  }
+]

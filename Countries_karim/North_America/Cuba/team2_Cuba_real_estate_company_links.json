@@ -1,0 +1,26 @@
+[
+  {
+    "company_name": "Expat.com",
+    "name": "Julie Cramier",
+    "email": "julie@expat.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "Expat.com",
+    "name": "Javier Alguacil",
+    "email": "javier@expat.com",
+    "position": "Lecturer"
+  },
+  {
+    "company_name": "Expat.com",
+    "name": "None None",
+    "email": "contact@expat.com",
+    "position": null
+  },
+  {
+    "company_name": "Expat.com",
+    "name": "None None",
+    "email": "julien@expat.com",
+    "position": null
+  }
+]

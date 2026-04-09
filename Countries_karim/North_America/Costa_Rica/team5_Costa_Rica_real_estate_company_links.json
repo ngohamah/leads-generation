@@ -1,0 +1,530 @@
+[
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Willie Knoetze",
+    "email": "willie.knoetze@jll.com",
+    "position": "Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Renee Holt",
+    "email": "renee.holt@jll.com",
+    "position": "Senior Director of Business Intelligence",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Michael Sanders",
+    "email": "michael.sanders@jll.com",
+    "position": "Director of Systems Integration",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Joaquin Salpurido",
+    "email": "joaquin.salpurido@jll.com",
+    "position": "Director of Portfolio and Location Strategy",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Guillaume Bourdon",
+    "email": "guillaume.bourdon@jll.com",
+    "position": "Director of Project Management",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Andres Garc\u00eda",
+    "email": "andres.garcia@jll.com",
+    "position": "Associate Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Greg Spivey",
+    "email": "greg.spivey@jll.com",
+    "position": "Senior Vice President, Project Management",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Agnieszka Biskupska",
+    "email": "agnieszka.biskupska@jll.com",
+    "position": "Senior Director of Business Development",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Michelle Bennie",
+    "email": "michelle.bennie@jll.com",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "JLL Costa Rica",
+    "name": "Dana Luciani",
+    "email": "dana.luciani@jll.com",
+    "position": "Account Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "Marcela Cano",
+    "email": "mcano@garnier.cr",
+    "position": "Sustainability Manager",
+    "linkedin": "https://gt.linkedin.com/in/marcela-cano-561130243",
+    "bio": "Registered Scrum Master | Project Manager | Software &amp; System Quality Assurance Analyst \u00b7 Tengo experiencia en la gesti\u00f3n de sistemas, en el an\u00e1lisis de la informaci\u00f3n y en la gesti\u00f3n de equipos. \u00b7 Experiencia: Grupo TRT \u00b7 Educaci\u00f3n: Universidad del Valle de Guatemala \u00b7 Ubicaci\u00f3n: Guatemala \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Marcela Cano en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "Alberto Bonilla",
+    "email": "abonilla@garnier.cr",
+    "position": "General Manager",
+    "linkedin": "https://cr.linkedin.com/in/alberto-bonilla-43069a11a",
+    "bio": "Managing Director at Garnier&amp;Garnier Desarrollos Inmobiliarios \u00b7 Experiencia: Garnier&amp;Garnier Desarrollos Inmobiliarios \u00b7 Ubicaci\u00f3n: San Jos\u00e9 Metropolitan Area \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Alberto Bonilla en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "Auxiliadora Montoya",
+    "email": "amontoya@garnier.cr",
+    "position": "Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "name": "Andrea Hidalgo",
+    "email": "ahidalgo@garnier.cr",
+    "position": "Executive Operations",
+    "linkedin": "https://cr.linkedin.com/in/andrea-hidalgo-06870250",
+    "bio": "Gerente Finanzas Corporativa en Corporaci\u00f3n Garnier \u00b7 Experiencia: Corporaci\u00f3n Garnier \u00b7 Educaci\u00f3n: Universidad de Costa Rica UCR \u00b7 Ubicaci\u00f3n: Costa Rica \u00b7 235 contactos en LinkedIn. Mira el perfil de Andrea Hidalgo en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Silvia Alvarado",
+    "email": "salvarado@portafolio.cr",
+    "position": "Environmental Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Jose Baltodano",
+    "email": "jbaltodano@portafolio.cr",
+    "position": "Construction Director",
+    "linkedin": "https://cr.linkedin.com/in/jose-baltodano-2219719",
+    "bio": "Experiencia: Portafolio Inmobiliario \u00b7 Ubicaci\u00f3n: San Jos\u00e9 \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Ver el perfil de Jose Baltodano en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Daniel Villafranca",
+    "email": "dvillafranca@portafolio.cr",
+    "position": "Director of Sustainability",
+    "linkedin": "https://cr.linkedin.com/in/daniel-villafranca-661898109",
+    "bio": "Chief Sustainability Officer (CSO) at Portafolio Inmobiliario \u00b7 Extensive experience in multi-stakeholder dialogue, project management, human development, community psychology, local economic development strategies and design of strategic sustainable development strategies. Auditor of different norms, procedures and management systems of sustainable development and social responsibility at national and international level. \u00b7 Experiencia: Portafolio Inmobiliario \u00b7 Educaci\u00f3n: Blekinge Institute of Technology \u00b7 Ubicaci\u00f3n: San Jos\u00e9 Metropolitan Area \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Daniel Villafranca en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Agustin Morales",
+    "email": "amorales@portafolio.cr",
+    "position": "Design Director",
+    "linkedin": "https://cr.linkedin.com/in/agustin-morales-37babb45",
+    "bio": "Design Director, \nMBA, Architect \u00b7 Influence \u00b7 Experiencia: Portafolio Inmobiliario \u00b7 Ubicaci\u00f3n: Costa Rica \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Agustin Morales en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Alfredo Volio",
+    "email": "avolio@portafolio.cr",
+    "position": "Managing Director",
+    "linkedin": "https://cr.linkedin.com/in/avolio",
+    "bio": "Experiencia: Portafolio Inmobiliario \u00b7 Educaci\u00f3n: Texas A&amp;M University - Mays Business School \u00b7 Ubicaci\u00f3n: Costa Rica \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Ver el perfil de Alfredo Volio en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Nagisa Arce",
+    "email": "narce@portafolio.cr",
+    "position": "Corporate Division Manager",
+    "linkedin": "https://cr.linkedin.com/in/nagisa-arce-m-6b1ba91a6",
+    "bio": "Jefe de Comercializaci\u00f3n at Portafolio Inmobiliario \u00b7 Experiencia: Portafolio Inmobiliario \u00b7 Educaci\u00f3n: Universidad Latina de Costa Rica \u00b7 Ubicaci\u00f3n: Alajuela \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Nagisa Arce M en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Silvia Fallas",
+    "email": "sfallas@portafolio.cr",
+    "position": "Marketing Lead",
+    "linkedin": "https://cr.linkedin.com/in/silvia-fallas-3045b5100",
+    "bio": "Marketing Lead en Portafolio Inmobiliario \u00b7 Experiencia: Portafolio Inmobiliario \u00b7 Educaci\u00f3n: EUDE Business School \u00b7 Ubicaci\u00f3n: San Jos\u00e9 \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Silvia Fallas en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Danilo Manzanares",
+    "email": "dmanzanares@portafolio.cr",
+    "position": "Development Manager",
+    "linkedin": "https://hn.linkedin.com/in/danilo-manzanares-3b6644135",
+    "bio": "Coordinador en Mesa Seguridad Alimentaria y Nutricional Golfo de Fonseca, Honduras \u00b7 Experiencia: Mesa Seguridad Alimentaria y Nutricional Golfo de Fonseca, Honduras \u00b7 Ubicaci\u00f3n: Honduras. Mira el perfil de Danilo Manzanares en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Pablo Mora",
+    "email": "pmora@portafolio.cr",
+    "position": "Project Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "name": "Kevin Ocampo",
+    "email": "kocampo@portafolio.cr",
+    "position": "Head of Residential Marketing",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Jaroslaw Witek",
+    "email": "jaroslaw.witek@cbre.com",
+    "position": "Associate Director, ESG",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Josh Stanley",
+    "email": "josh.stanley@cbre.com",
+    "position": "Vice President",
+    "linkedin": "https://www.linkedin.com/in/josh-stanley-01b45811",
+    "bio": "Experience: self \u00b7 Location: Denver \u00b7 500+ connections on LinkedIn. View Josh Stanley\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Laura Dobson",
+    "email": "laura.dobson@cbre.com",
+    "position": "Director of Engineering",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Nicol\u00f2 Bongiovanni",
+    "email": "nicolo.bongiovanni@cbre.com",
+    "position": "Associate Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Valerie Kerin",
+    "email": "valerie.kerin@cbre.com",
+    "position": "Director of Human Resources",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Hans Huck",
+    "email": "hans.huck@cbre.com",
+    "position": "Chief Information Officer",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Sujata Chowdhury",
+    "email": "sujata.chowdhury@cbre.com",
+    "position": "Purchasing Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "William Smart",
+    "email": "william.smart@cbre.com",
+    "position": "Chief Engineer",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Matthew Butkus",
+    "email": "matthew.butkus@cbre.com",
+    "position": "Vice President",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "name": "Jane Blair",
+    "email": "jane.blair@cbre.com",
+    "position": "Senior Vice President",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Greg McEneny",
+    "email": "greg.mceneny@dentons.com",
+    "position": "Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Anja Lachmann",
+    "email": "anja.lachmann@dentons.com",
+    "position": "Finance Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Neil McKnight",
+    "email": "neil.mcknight@dentons.com",
+    "position": "Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Kanishka Singh",
+    "email": "kanishka.singh@dentons.com",
+    "position": "Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Hope Dixon",
+    "email": "hope.dixon@dentons.com",
+    "position": "HR Business Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Charles Beattie",
+    "email": "charles.beattie@dentons.com",
+    "position": "Chief Operating Officer",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Erika Nahrgang",
+    "email": "erika.nahrgang@dentons.com",
+    "position": "Director of Client Acquisition",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Wade Boeckmann",
+    "email": "wade.boeckmann@dentons.com",
+    "position": "Finance Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Melissa Minix",
+    "email": "melissa.minix@dentons.com",
+    "position": "Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "John Daniluck",
+    "email": "john.daniluck@dentons.com",
+    "position": "Patent Attorney",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Vicente Lines",
+    "email": "vicente.lines@ariaslaw.com",
+    "position": "Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Gustavo Vargas",
+    "email": "gustavo.vargas@ariaslaw.com",
+    "position": "Partner",
+    "linkedin": "https://ni.linkedin.com/in/gustavo-adolfo-vargas-85a38a22",
+    "bio": "Partner at Arias \u00b7 Experiencia: Arias \u00b7 Educaci\u00f3n: Northwestern University School of Law \u00b7 Ubicaci\u00f3n: Nicaragua \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Gustavo-Adolfo Vargas en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Ivon Hernandez",
+    "email": "ivon.hernandez@ariaslaw.com",
+    "position": "Director of Intellectual Property",
+    "linkedin": "https://gt.linkedin.com/in/ivon-hernandez-2916a317",
+    "bio": "Intellectual Property Attorney - Partner at Arias  \u00b7 With over two decades of dedication to intellectual property law, my career at Arias Law has been marked by a steadfast commitment to safeguarding the creative and innovative assets of our clients. At the helm of the Intellectual Property Department, my team and I have honed our expertise in managing complex legal frameworks, ensuring robust protection for trademarks, patents, and copyrights.\n\nThe pursuit of excellence in legal writing and research underpins our success in navigating significant projects and intricate challenges. As a leader, I am driven by the mission to empower clients through the enforcement of their IP rights, leveraging my extensive experience and the recognition as a legal influencer to deliver cutting-edge solutions in a dynamic legal landscape. \u00b7 Experiencia: Arias Law \u00b7 Educaci\u00f3n: Universit\u00e0 degli Studi di Torino / University of Turin \u00b7 Ubicaci\u00f3n: Guatemala \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Ivon Hernan"
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Armando Arias",
+    "email": "armando.arias@ariaslaw.com",
+    "position": "Partner",
+    "linkedin": "https://sv.linkedin.com/in/armando-arias-61a4712b",
+    "bio": "Lawyer, Partner at Arias \u00b7 Experiencia: Arias, The Law Firm for Central America. \u00b7 Educaci\u00f3n: Universidad de El Salvador \u00b7 Ubicaci\u00f3n: El Salvador \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Armando Arias en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Rodrigo R",
+    "email": "rodrigo.ibarra@ariaslaw.com",
+    "position": "Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Sonia Urbina",
+    "email": "sonia.urbina@ariaslaw.com",
+    "position": "Head of Intellectual Property",
+    "linkedin": "https://pa.linkedin.com/in/sonia-urbina-b1804824b",
+    "bio": "M\u00e9dico general \u00b7 Soy M\u00e9dico General apasionada por mi profesi\u00f3n. \nMi experiencia en el Area Quir\u00fargica me ha permitido desarrollar habilidades t\u00e9cnicas s\u00f3lidas y un enfoque meticuloso en la atenci\u00f3n Integral al paciente.\nMi compromiso con la salud y el bienestar de los dem\u00e1s es una parte fundamental de mi enfoque profesional. \u00b7 Experiencia: Profesional independiente \u00b7 Educaci\u00f3n: Universidad Nacional Experimental de los Llanos Centrales &#39;R\u00f3mulo Gallegos&#39; \u00b7 Ubicaci\u00f3n: Panam\u00e1 \u00b7 5 contactos en LinkedIn. Mira el perfil de Sonia Urbina en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Yuri Moreno",
+    "email": "yuri.moreno@ariaslaw.com",
+    "position": "Partner",
+    "linkedin": "https://pa.linkedin.com/in/yuri-moreno-6929b016b",
+    "bio": "Partner at Arias Law \u00b7 Experiencia: Arias Law \u00b7 Educaci\u00f3n: Universidad Cat\u00f3lica Santa Mar\u00eda La Antigua \u00b7 Ubicaci\u00f3n: San Francisco \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de YURI MORENO en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Diego Gallegos",
+    "email": "diego.gallegos@ariaslaw.com",
+    "position": "Partner",
+    "linkedin": "https://cr.linkedin.com/in/diego-gallegos-389958b",
+    "bio": "Partner at Arias Law \u00b7 Experiencia: Arias Law \u00b7 Educaci\u00f3n: Universidad de Costa Rica UCR \u00b7 Ubicaci\u00f3n: Costa Rica \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Diego Gallegos en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Carolina Flores",
+    "email": "carolina.flores@ariaslaw.com",
+    "position": "Partner",
+    "linkedin": "https://cr.linkedin.com/in/carolina-flores-ariaslaw",
+    "bio": "Partner at Arias \u00b7 Carolina is the  co-managing Partner at ARIAS Costa Rica.\nShe leads the Tax Department  since 2001. Carolina has more than fifteen years of experience advising on complex tax matters. One of her many strengths is successfully assisting foreign clients in establishing effective tax structures that minimize risk and meet Corporate Tax compliance requirements for their operations in Costa Rica. . She also assists multinational clients headquartered in Costa Rica to coordinate their tax efforts across Central America and the Caribbean. \nShe is authorized as a practicing Attorney and Notary Public in Costa Rica \u00b7 Experiencia: Arias Law \u00b7 Educaci\u00f3n: New York University \u00b7 Ubicaci\u00f3n: Costa Rica \u00b7 M\u00e1s de 500\u00a0contactos en LinkedIn. Mira el perfil de Carolina Flores en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Arias Law",
+    "name": "Evangelina Lardizabal",
+    "email": "evangelina.lardizabal@ariaslaw.com",
+    "position": "Partner",
+    "linkedin": "https://hn.linkedin.com/in/evangelina-lardizabal-26a82969",
+    "bio": "-- \u00b7 Experiencia: Arias Law \u00b7 Ubicaci\u00f3n: Honduras \u00b7 64 contactos en LinkedIn. Mira el perfil de Evangelina Lardizabal en LinkedIn, una red profesional de m\u00e1s de 1.000 millones de miembros."
+  },
+  {
+    "company_name": "Coldwell Banker Costa Rica",
+    "name": "Aaron Dyer",
+    "email": "aaron@coldwellbankercostarica.com",
+    "position": "Chief Operating Officer",
+    "linkedin": "https://www.linkedin.com/in/aaron-dyer",
+    "bio": "Software Firmware Engineer @ HP | Agile Project Management, Firmware \u00b7 Experienced and driven engineer, with a Computer Engineering degree from University of Washington, and years of experience as a low-level software/firmware engineer with HP Print! Passionate about using engineering and technology to improve accessibility and platform artists. I excel at finding creative solutions, leveraging AI tools and effective communication with peers, and implementing robust and forward-thinking solutions. \u00b7 Experience: HP \u00b7 Education: University of Washington \u00b7 Location: Vancouver \u00b7 18 connections on LinkedIn. View Aaron Dyer\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Coldwell Banker Costa Rica",
+    "name": "Kevin Tinoco",
+    "email": "kevin@coldwellbankercostarica.com",
+    "position": "Digital Marketing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Greg McEneny",
+    "email": "greg.mceneny@dentons.com",
+    "position": "Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Anja Lachmann",
+    "email": "anja.lachmann@dentons.com",
+    "position": "Finance Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Neil McKnight",
+    "email": "neil.mcknight@dentons.com",
+    "position": "Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Kanishka Singh",
+    "email": "kanishka.singh@dentons.com",
+    "position": "Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Hope Dixon",
+    "email": "hope.dixon@dentons.com",
+    "position": "HR Business Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Charles Beattie",
+    "email": "charles.beattie@dentons.com",
+    "position": "Chief Operating Officer",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Erika Nahrgang",
+    "email": "erika.nahrgang@dentons.com",
+    "position": "Director of Client Acquisition",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Wade Boeckmann",
+    "email": "wade.boeckmann@dentons.com",
+    "position": "Finance Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "Melissa Minix",
+    "email": "melissa.minix@dentons.com",
+    "position": "Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dentons Mu\u00f1oz",
+    "name": "John Daniluck",
+    "email": "john.daniluck@dentons.com",
+    "position": "Patent Attorney",
+    "linkedin": null,
+    "bio": ""
+  }
+]

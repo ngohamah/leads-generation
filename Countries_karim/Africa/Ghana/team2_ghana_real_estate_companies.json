@@ -1,0 +1,608 @@
+[
+  {
+    "company_name": "Broll Ghana",
+    "name": "Dennis Appiadu",
+    "email": "dappiadu@brollghana.com",
+    "position": "Chief Risk Officer"
+  },
+  {
+    "company_name": "Broll Ghana",
+    "name": "Richard Gband\u00e9",
+    "email": "rgbande@brollghana.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Broll Ghana",
+    "name": "Angelina Asante",
+    "email": "aasante@brollghana.com",
+    "position": "Head of Property Management"
+  },
+  {
+    "company_name": "Broll Ghana",
+    "name": "James Mensah",
+    "email": "jmensah@brollghana.com",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "Broll Ghana",
+    "name": "Prince Asimenu",
+    "email": "pasimenu@brollghana.com",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "Broll Ghana",
+    "name": "Evert Viljoen",
+    "email": "eviljoen@brollghana.com",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "Broll Ghana",
+    "name": "Oscar S\u00f6nne",
+    "email": "kmensah@brollghana.com",
+    "position": "Head of Valuation and Advisory Services"
+  },
+  {
+    "company_name": "Broll Ghana",
+    "name": "Kevin Boafo",
+    "email": "kboafo@brollghana.com",
+    "position": "Credit Controller"
+  },
+  {
+    "company_name": "Broll Ghana",
+    "name": "Selassie Ayitah",
+    "email": "sayitah@brollghana.com",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "Broll Ghana",
+    "name": "James Bannerman",
+    "email": "jbannerman@brollghana.com",
+    "position": "Center Manager"
+  },
+  {
+    "company_name": "Trasacco Estates Development Company Limited",
+    "name": "None None",
+    "email": "info@trasaccogroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Orient Property Consulting",
+    "name": "Isaac Dwimoh-Opoku",
+    "email": "isaac@orientghana.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Orient Property Consulting",
+    "name": "None None",
+    "email": "property@orientghana.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Orient Property Consulting",
+    "name": "None None",
+    "email": "ama@orientghana.com",
+    "position": null
+  },
+  {
+    "company_name": "ABRI Properties Ghana",
+    "name": "Tamara McHugh",
+    "email": "tmchugh@leadingre.com",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "ABRI Properties Ghana",
+    "name": "Sara McKitrick",
+    "email": "smckitrick@leadingre.com",
+    "position": "Vice President of Business Solutions"
+  },
+  {
+    "company_name": "ABRI Properties Ghana",
+    "name": "Paul Boomsma",
+    "email": "pboomsma@leadingre.com",
+    "position": "President"
+  },
+  {
+    "company_name": "ABRI Properties Ghana",
+    "name": "Tripti Kasal",
+    "email": "tkasal@leadingre.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "ABRI Properties Ghana",
+    "name": "Kate Reisinger",
+    "email": "kreisinger@leadingre.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "ABRI Properties Ghana",
+    "name": "Alan Cazzato",
+    "email": "acazzato@leadingre.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "ABRI Properties Ghana",
+    "name": "Erika Labutka",
+    "email": "elabutka@leadingre.com",
+    "position": "Vice President of Operations"
+  },
+  {
+    "company_name": "ABRI Properties Ghana",
+    "name": "Elise Daughhetee",
+    "email": "edaughhetee@leadingre.com",
+    "position": "Human Resources Director"
+  },
+  {
+    "company_name": "ABRI Properties Ghana",
+    "name": "Jenny Doolan",
+    "email": "jdoolan@leadingre.com",
+    "position": "Vice President, Business Development"
+  },
+  {
+    "company_name": "ABRI Properties Ghana",
+    "name": "Tasos Stavrou",
+    "email": "tstavrou@leadingre.com",
+    "position": "Vice President, Business Development"
+  },
+  {
+    "company_name": "Citadel Property Management",
+    "name": "Lovemark Morkli",
+    "email": "lovemark@citadelpm.com",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "Citadel Property Management",
+    "name": "None None",
+    "email": "info@citadelpm.com",
+    "position": null
+  },
+  {
+    "company_name": "Willows Property Management",
+    "name": "Janet Agyemang",
+    "email": "janet@willowsgroup.com",
+    "position": "Receptionist"
+  },
+  {
+    "company_name": "Willows Property Management",
+    "name": "Samuel Oliveira",
+    "email": "samuel@willowsgroup.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Willows Property Management",
+    "name": "Mazaya Amajida",
+    "email": "sarah@willowsgroup.com",
+    "position": "Senior Finance Executive"
+  },
+  {
+    "company_name": "Willows Property Management",
+    "name": "Emmanuel Sassraku",
+    "email": "emmanuel@willowsgroup.com",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "Willows Property Management",
+    "name": "Bright Ashong",
+    "email": "bright@willowsgroup.com",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "Willows Property Management",
+    "name": "None None",
+    "email": "cecilia@willowsgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Willows Property Management",
+    "name": "None None",
+    "email": "kweku@willowsgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Willows Property Management",
+    "name": "None None",
+    "email": "info@willowsgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Willows Property Management",
+    "name": "None None",
+    "email": "rentals@willowsgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "MMC Property Management Limited",
+    "name": "None None",
+    "email": "francisca@mmcpropertymanagement.com",
+    "position": null
+  },
+  {
+    "company_name": "Clifton Homes",
+    "name": "Gordon Bansah",
+    "email": "gordon@cliftonghana.com",
+    "position": "Quantity Surveyor"
+  },
+  {
+    "company_name": "Clifton Homes",
+    "name": "James Eni-okosun",
+    "email": "james@cliftonghana.com",
+    "position": "Quality Assurance Manager"
+  },
+  {
+    "company_name": "Clifton Homes",
+    "name": "Ann Brewin",
+    "email": "ann@cliftonghana.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Clifton Homes",
+    "name": "Holger Adam",
+    "email": "holger@cliftonghana.com",
+    "position": "Director of Real Estate Development"
+  },
+  {
+    "company_name": "Clifton Homes",
+    "name": "Richard Mensah",
+    "email": "richard@cliftonghana.com",
+    "position": "Head of Maintenance"
+  },
+  {
+    "company_name": "Clifton Homes",
+    "name": "Barbara Mahama",
+    "email": "barbara@cliftonghana.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Clifton Homes",
+    "name": "Prince Ameyaw",
+    "email": "prince@cliftonghana.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Clifton Homes",
+    "name": "Jennifer Amankwa",
+    "email": "jennifer@cliftonghana.com",
+    "position": "Senior Sales Officer"
+  },
+  {
+    "company_name": "Clifton Homes",
+    "name": "Christopher Nayo",
+    "email": "christopher@cliftonghana.com",
+    "position": "Finishing Manager"
+  },
+  {
+    "company_name": "Clifton Homes",
+    "name": "None None",
+    "email": "lettings@cliftonghana.com",
+    "position": null
+  },
+  {
+    "company_name": "Rehoboth Properties Ghana",
+    "name": "Francisca Anane",
+    "email": "francisca@rehobothpropertiesgh.com",
+    "position": "Sales and Marketing Manager"
+  },
+  {
+    "company_name": "Rehoboth Properties Ghana",
+    "name": "Eric Amartey",
+    "email": "eric.amartey@rehobothpropertiesgh.com",
+    "position": "Account Manager"
+  },
+  {
+    "company_name": "Rehoboth Properties Ghana",
+    "name": "None None",
+    "email": "abrako@rehobothpropertiesgh.com",
+    "position": null
+  },
+  {
+    "company_name": "Rehoboth Properties Ghana",
+    "name": "None None",
+    "email": "sales@rehobothpropertiesgh.com",
+    "position": null
+  },
+  {
+    "company_name": "The Greens Ghana",
+    "name": "Kiran Daswani",
+    "email": "kiran@thegreensgh.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "The Greens Ghana",
+    "name": "Juliana Ganyo",
+    "email": "juliana@thegreensgh.com",
+    "position": "Real Estate Sales Executive"
+  },
+  {
+    "company_name": "The Greens Ghana",
+    "name": "None None",
+    "email": "info@thegreensgh.com",
+    "position": null
+  },
+  {
+    "company_name": "GCB Capital",
+    "name": "None None",
+    "email": "info@gcbcapital.com.gh",
+    "position": null
+  },
+  {
+    "company_name": "African Land",
+    "name": "None None",
+    "email": "t.ceo@african.land",
+    "position": null
+  },
+  {
+    "company_name": "Bentsi-Enchill, Letsa & Ankomah",
+    "name": "Yaa Fosuaa",
+    "email": "yaa@bentsienchill.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Bentsi-Enchill, Letsa & Ankomah",
+    "name": "Divine Letsa",
+    "email": "divine@bentsienchill.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Bentsi-Enchill, Letsa & Ankomah",
+    "name": "Abena Jackson",
+    "email": "abena@bentsienchill.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Bentsi-Enchill, Letsa & Ankomah",
+    "name": "Yvonne Djangmah",
+    "email": "yvonne@bentsienchill.com",
+    "position": "Director of Administration"
+  },
+  {
+    "company_name": "Bentsi-Enchill, Letsa & Ankomah",
+    "name": "Abigail Nikoi",
+    "email": "abigail@bentsienchill.com",
+    "position": "Director of Business Development"
+  },
+  {
+    "company_name": "Bentsi-Enchill, Letsa & Ankomah",
+    "name": "Yayra Davor",
+    "email": "yayra@bentsienchill.com",
+    "position": "Administrative Executive"
+  },
+  {
+    "company_name": "Bentsi-Enchill, Letsa & Ankomah",
+    "name": "Susan-Barbara Boye",
+    "email": "susan-barbara@bentsienchill.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Bentsi-Enchill, Letsa & Ankomah",
+    "name": "Golda Denyo",
+    "email": "gdenyo@bentsienchill.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Bentsi-Enchill, Letsa & Ankomah",
+    "name": "None None",
+    "email": "info@bentsienchill.com",
+    "position": null
+  },
+  {
+    "company_name": "Bentsi-Enchill, Letsa & Ankomah",
+    "name": "None None",
+    "email": "bel@bentsienchill.com",
+    "position": null
+  },
+  {
+    "company_name": "Legalstone Solicitors",
+    "name": "Robin Lewis",
+    "email": "rlewis@primerus.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Legalstone Solicitors",
+    "name": "Katie Bundyra",
+    "email": "kbundyra@primerus.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Legalstone Solicitors",
+    "name": "Janna VandeGriend",
+    "email": "jvandegriend@primerus.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Legalstone Solicitors",
+    "name": "Paige Neirman",
+    "email": "pneirman@primerus.com",
+    "position": "Vice President of Marketing"
+  },
+  {
+    "company_name": "Legalstone Solicitors",
+    "name": "Isabelle Finn",
+    "email": "ifinn@primerus.com",
+    "position": "Digital Marketing Coordinator"
+  },
+  {
+    "company_name": "Legalstone Solicitors",
+    "name": "Hannah Horvath",
+    "email": "hhorvath@primerus.com",
+    "position": "Event Coordinator"
+  },
+  {
+    "company_name": "Legalstone Solicitors",
+    "name": "Sarah Ru\u00df",
+    "email": "sruss@primerus.com",
+    "position": "Member Services Coordinator"
+  },
+  {
+    "company_name": "Legalstone Solicitors",
+    "name": "None None",
+    "email": "hgort@primerus.com",
+    "position": "Administrative Assistant"
+  },
+  {
+    "company_name": "Legalstone Solicitors",
+    "name": "Brianna Judkins",
+    "email": "bjudkins@primerus.com",
+    "position": "Coordinator"
+  },
+  {
+    "company_name": "Legalstone Solicitors",
+    "name": "Sheila Buchanan",
+    "email": "sbuchanan@primerus.com",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "DLA Piper Africa - Reindorf Chambers",
+    "name": "Moses Kiiza",
+    "email": "moses@dlapiperafrica.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "AnL Valuation and Property Consult",
+    "name": "None None",
+    "email": "info@anlpropertyconsult.com",
+    "position": null
+  },
+  {
+    "company_name": "AnL Valuation and Property Consult",
+    "name": "None None",
+    "email": "adofonaa@anlpropertyconsult.com",
+    "position": null
+  },
+  {
+    "company_name": "RESC Real Estate",
+    "name": "None None",
+    "email": "info@rescgh.com",
+    "position": null
+  },
+  {
+    "company_name": "meQasa",
+    "name": "Rashad Seini",
+    "email": "rashad@meqasa.com",
+    "position": "Co-Founder"
+  },
+  {
+    "company_name": "meQasa",
+    "name": "Kelvin Nyame",
+    "email": "kelvin@meqasa.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "meQasa",
+    "name": "James Gyankomah",
+    "email": "james.gyankomah@meqasa.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "meQasa",
+    "name": "None None",
+    "email": "info@meqasa.com",
+    "position": null
+  },
+  {
+    "company_name": "Prebbie Group",
+    "name": "Gilbert Addo",
+    "email": "gilbert@prebbiegroup.com",
+    "position": "Chief Human Resources Officer"
+  },
+  {
+    "company_name": "Prebbie Group",
+    "name": "None None",
+    "email": "humancapital@prebbiegroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Prebbie Group",
+    "name": "None None",
+    "email": "admin@prebbiegroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Ghana Association of Real Estate Brokers (GAREB)",
+    "name": "None None",
+    "email": "info@gareb.com.gh",
+    "position": null
+  },
+  {
+    "company_name": "Leadenhall Real Estate Advisors Ghana",
+    "name": "None None",
+    "email": "info@leadenhallgh.com",
+    "position": null
+  },
+  {
+    "company_name": "Leadenhall Real Estate Advisors Ghana",
+    "name": "None None",
+    "email": "william.bobie@leadenhallgh.com",
+    "position": null
+  },
+  {
+    "company_name": "Leadenhall Real Estate Advisors Ghana",
+    "name": "None None",
+    "email": "wiiliam.bobie@leadenhallgh.com",
+    "position": null
+  },
+  {
+    "company_name": "Beaufort Ghana",
+    "name": "Ernest Hanson",
+    "email": "ernest@beaufortghana.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Beaufort Ghana",
+    "name": "None None",
+    "email": "sales@beaufortghana.com",
+    "position": null
+  },
+  {
+    "company_name": "Devtraco Limited",
+    "name": "Kwabena Atuahene",
+    "email": "kwabena.atuahene@devtraco.com",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "Devtraco Limited",
+    "name": "Ernest Asante",
+    "email": "ernest.asante@devtraco.com",
+    "position": "Construction Manager"
+  },
+  {
+    "company_name": "Devtraco Limited",
+    "name": "Francis Ackah",
+    "email": "francis.ackah@devtraco.com",
+    "position": "Quantity Surveying Manager"
+  },
+  {
+    "company_name": "Devtraco Limited",
+    "name": "Josephine Asumeng",
+    "email": "josephine.asumeng@devtraco.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "Devtraco Limited",
+    "name": "Patrick Morttey",
+    "email": "patrick.morttey@devtraco.com",
+    "position": "Sales and Marketing Manager"
+  },
+  {
+    "company_name": "Devtraco Limited",
+    "name": "None None",
+    "email": "marketing@devtraco.com",
+    "position": null
+  },
+  {
+    "company_name": "Devtraco Limited",
+    "name": "None None",
+    "email": "recruitment@devtraco.com",
+    "position": null
+  },
+  {
+    "company_name": "Devtraco Limited",
+    "name": "None None",
+    "email": "info@devtraco.com",
+    "position": null
+  },
+  {
+    "company_name": "Eden Heights",
+    "name": "None None",
+    "email": "sales@edenheights.com.gh",
+    "position": null
+  }
+]

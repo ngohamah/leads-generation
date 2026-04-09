@@ -1,0 +1,82 @@
+[
+  {
+    "country": "Azerbaijan",
+    "company_name": "RNS.AZ-ESTATE AGENCY",
+    "website": "https://rns.az/en/",
+    "contact_number": "+994 55 206 46 18",
+    "address": "Mərkəzi bulvar küçəsi, Bakı 1025, Azerbaijan",
+    "email": "office@rns.az"
+  },
+  {
+    "country": "Azerbaijan",
+    "company_name": "PASHA Real Estate",
+    "website": "https://www.pasharealestate.az/contact",
+    "contact_number": " +994 51 201 32 32",
+    "address": "147 Neftchilar Ave, Baku 1010, Azerbaijan",
+    "email": "sales.office@pre.az"
+  },
+  {
+    "country": "Azerbaijan",
+    "company_name": "Darx Company",
+    "website": "https://darx.az/",
+    "contact_number": "+994 55 308 70 01",
+    "address": "16 Keykab Khanim Safaraliyeva, Baku 1000, Azerbaijan",
+    "email": "info@darxx.az"
+  },
+  {
+    "country": "Azerbaijan",
+    "company_name": "Real Estate - Yeni Emlak - Daşınmaz Əmlak Agentliyi",
+    "website": "https://yeniemlak.az/",
+    "contact_number": "+994 77 746 46 11",
+    "address": null,
+    "email": "info@yeniemlak.az"
+  },
+  {
+    "country": "Azerbaijan",
+    "company_name": "Real Estate Capital MMC",
+    "website": "https://recapital.az/",
+    "contact_number": "+994 12 489 80 80",
+    "address": " 7th floor, Luxen Plaza، 34 Khatai ave, Bakı 1008, Azerbaijan",
+    "email": " info@recapital.az"
+  },
+  {
+    "country": "Azerbaijan",
+    "company_name": "AREA Daşınmaz Əmlak Agentliyi",
+    "website": "https://area.az/",
+    "contact_number": "+994 55 498 98 09",
+    "address": "6th Floor, Yeni Hayat plaza, 55 Zarifa Aliyeva, Bakı, Azerbaijan",
+    "email": "office@area.az"
+  },
+  {
+    "country": "Azerbaijan",
+    "company_name": "SIMFONIYA REAL ESTATE",
+    "website": null,
+    "contact_number": "+994 55 746 46 11",
+    "address": "улица Гасан Алиев 1д, Bakı, Azerbaijan",
+    "email": null
+  },
+  {
+    "country": "Azerbaijan",
+    "company_name": "Rehouse Estate",
+    "website": "http://rehouse.az/az",
+    "contact_number": "+994 50 216 42 50",
+    "address": "237 Dilara Aliyeva, Baku 1010, Azerbaijan",
+    "email": " office@rehouse.az"
+  },
+  {
+    "country": "Azerbaijan",
+    "company_name": "CRES Corporate Real Estate Solutions",
+    "website": "https://cres.az/",
+    "contact_number": "+994 50 255 04 04",
+    "address": "62 Uzeyir Hajibeyov, Baku 1000, Azerbaijan",
+    "email": null
+  },
+  {
+    "country": "Azerbaijan",
+    "company_name": "Bina.az",
+    "website": "https://bina.az/",
+    "contact_number": "(012) 526-94-94",
+    "address": "Rasul Rza, 75, Baku, Nasimi WinterPark Plaza, Baku 1014, Azerbaijan",
+    "email": "bina@bina.az"
+  }
+]

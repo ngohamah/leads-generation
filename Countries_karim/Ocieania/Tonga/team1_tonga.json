@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Royco Amalgamated Company Limited",
+    "website": "https://www.linkedin.com/company/royco-amalgamated-company-limited/about/",
+    "address": ["PO Box 431, Fatafehi Road, Kolofo'ou, Nuku'alofa, Tonga","PO Box 1667, Taufa'ahau Road, Tofoa, Nuku'alofa, Tonga"],
+    "email": null,
+    "phone": ["+676 24229","+676 7863757"],
+    "fax": "+676 24188"
+  },
+  {
+    "name": "Tonga Chamber of Commerce & Industry Inc.",
+    "website": "https://tongachamber.to/",
+    "address": "Ground Floor, FWC Fasi moe Afi‘o Tungi Building, Salote Rd, Nuku'alofa, Tonga",
+    "email": "ceo@tongachamber.org",
+    "phone": ["+676 25168","+676 22459","+676 28801"]
+  },
+  {
+    "name": "Tongaat‑Hulett (Tonga branch)",
+    "website": "https://www.tongaat.com/",
+    "address": "Amanzimnyama Hill Road Tongaat, KwaZulu-Natal South Africa",
+    "email": "info@tongaat.com",
+    "phone": "+27 32 439 4000"
+  },
+  {
+    "name": "Tonga Development Bank",
+    "website": "https://www.tdb.to",
+    "address": "Fatafehi Road, P.O. Box 126, Nuku'alofa, Tonga",
+    "email": "tdevbank@tdb.to",
+    "phone": "+676 23-333",
+    "fax": "+676 23-775"
+  }
+]

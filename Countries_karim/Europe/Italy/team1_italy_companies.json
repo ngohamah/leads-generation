@@ -1,0 +1,87 @@
+[
+  {
+    "company_name": "Freshfields",
+    "website": "https://www.freshfields.com",
+    "Language": "en"
+  },
+  {
+    "company_name": "Jones Day",
+    "website": "https://www.jonesday.com",
+    "Language": "en"
+  },
+  {
+    "company_name": "Gianni & Origoni",
+    "website": "https://www.gop.it",
+    "Language": "en"
+  },
+  {
+    "company_name": "Dentons Europe Studio Legale Tributario",
+    "website": "https://www.dentons.com",
+    "Language": "en"
+  },
+  {
+    "company_name": "Kiron Milano Teodosio",
+    "website": "https://www.kiron.it/filiali/milano-teodosio.html",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "MutuiSupermarket",
+    "website": "https://www.mutuisupermarket.it",
+    "Language": "en"
+  },
+  {
+    "company_name": "24Max",
+    "website": "https://www.24max.it",
+    "Language": "it"
+  },
+  {
+    "company_name": "Cash Flow",
+    "website": "https://www.cashflowitalia.it",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Kiron Frattamaggiore",
+    "website": "https://www.kiron.it/filiali/frattamaggiore.html",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Top Italian Mortgage",
+    "website": "https://www.topitalianmortgage.com",
+    "Language": "en"
+  },
+  {
+    "company_name": "Sprite Genix",
+    "website": "https://www.spritegenix.com/digital-marketing-for-real-estate-in-italy",
+    "Language": "en"
+  },
+  {
+    "company_name": "Proven Partners",
+    "website": "https://www.proven.partners",
+    "Language": "en"
+  },
+  {
+    "company_name": "SkyRocketMonster",
+    "website": "https://www.skyrocketmonster.com",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Great Estate",
+    "website": "https://www.greatestate.it/en/italian-agencies.html",
+    "Language": "en"
+  },
+  {
+    "company_name": "Arcanian",
+    "website": "https://arcanian.it",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Immobiliare Il Faro",
+    "website": "https://immobiliareilfaro.it/en/real-estate-appraisal/",
+    "Language": "en"
+  },
+  {
+    "company_name": "CBRE Italy",
+    "website": "https://www.cbre.it/en-gb/services/invest-finance-and-value/valuation-and-advisory",
+    "Language": "unknown"
+  }
+]

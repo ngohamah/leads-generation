@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Agentstva.TJ (Real Estate Agency of Tajikistan)",
+    "website": "http://agentstva.tj",
+    "address": "Rudaki Avenue 83, Dushanbe 734001, Republic of Tajikistan",
+    "email": "info@agentstva.tj",
+    "phone": "+992 9340 40241"
+  },
+  {
+    "name": "SUE “DIPSERVICE”",
+    "website": "https://tds.tj/en/",
+    "address": "145 Rudaki Street, Dushanbe 734054, Republic of Tajikistan",
+    "email": null,
+    "phone": "+992372240620"
+  },
+  {
+    "name": "ETAGI Tajikistan",
+    "website": "https://tj.etagi.com",
+    "address": "Moyonsho Nazarshoyeva St.1, Dushanbe, Tajikistan",
+    "email": null,
+    "phone": "+99211293232"
+  },
+  {
+    "name": "WG Gesucht",
+    "website": "https://www.wg-gesucht.de",
+    "address": null,
+    "email": null,
+    "phone": null
+  },
+  {
+    "company_name": "AAA Law Offices",
+    "website": "http://www.aaa.tj/",
+    "Language": "Russian, Tajik, English"
+  },
+  {
+    "company_name": "CENTIL",
+    "website": "https://centil.law/our-offices/tajikistan/",
+    "Language": "English, Russian, Tajik"
+  },
+  {
+    "company_name": "Himoya Legal Company",
+    "website": "http://www.himoya.tj/",
+    "Language": "Russian, Tajik"
+  },
+  {
+    "company_name": "Lex Law Firm",
+    "website": "http://www.lex.tj/",
+    "Language": "Russian, Tajik, English"
+  },
+  {
+    "company_name": "Nazrisho & Mirzoev, LLC",
+    "website": "http://www.nmlaw.tj/",
+    "Language": "English, Russian, Tajik"
+  },
+  {
+    "company_name": "M-Vector",
+    "website": "https://www.m-vector.com/",
+    "Language": "Russian, English"
+  },
+  {
+    "company_name": "Total Advertising Group",
+    "website": "http://www.tag.tj/",
+    "Language": "Russian, English"
+  },
+  {
+    "company_name": "Diar Dushanbe (Qatari Diar Real Estate Investment)",
+    "website": "https://www.qataridiar.com/project/diar-dushanbe",
+    "Language": "English"
+  },
+  {
+    "company_name": "ETAGI Tajikistan",
+    "website": "https://tj.etagi.com/en-us/",
+    "Language": "Russian, English"
+  }
+]

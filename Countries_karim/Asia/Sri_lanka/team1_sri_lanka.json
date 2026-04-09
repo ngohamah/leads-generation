@@ -1,0 +1,51 @@
+[
+  {
+    "name": "My Colombo Properties",
+    "website": "https://www.mycolomboproperties.lk/",
+    "address": "25, 24 A De Alwis Rd, Dehiwala-Mount Lavinia, Sri Lanka",
+    "email": "info@mycolomboproperties.lk",
+    "phone": "+94 763 17 84 84"
+  },
+  {
+    "name": "Real Mark Property (Pvt) Ltd",
+    "website": "https://realmark.lk",
+    "address": "Nest by HUB9, 07 Turnour Road, Colombo 08, 00800, Sri Lanka",
+    "email": null,
+    "phone": "+94 117 007 669"
+  },
+  {
+    "name": "73Avenue Realtors",
+    "website": "https://73avenuerealtors.com",
+    "address": "75/7 Ward Place, Colombo 00700, Sri Lanka",
+    "email": "info@73avenuerealtors.com",
+    "phone": "+94 76 360 7373"
+  },
+  {
+    "name": "Lanka Realty Investments PLC",
+    "website": "https://www.lriplc.com",
+    "address": "1st Floor, 464A T.B. Jayah Mawatha, Colombo 10, Sri Lanka",
+    "email": "info@lriplc.com",
+    "phone": "+94 112 040 444"
+  },
+  {
+    "name": "Elysian Realty (Pvt) Ltd",
+    "website": "https://www.elysianrealty.lk",
+    "address": "No. 7, 27th Lane, Inner Flower Road, Colombo 03, Sri Lanka",
+    "email": "info@elysian.lk",
+    "phone": "+94 77 2 444 333"
+  },
+  {
+    "name": "South Sri Lanka Property",
+    "website": "https://www.southsrilankaproperty.com",
+    "address": "Pubudu Mawatha, Seenimodara, Tangalle, 82200, Sri Lanka",
+    "email": "info@southsrilankaproperty.com",
+    "phone": "+94 77 278 3866"
+  },
+  {
+    "name": "Atlanka Realtors (Private) Limited",
+    "website": "https://www.atlanka.com",
+    "address": "Colombo, Sri Lanka",
+    "email": "contactus@atlanka.com",
+    "phone": "+94 77 514 6176"
+  }
+]

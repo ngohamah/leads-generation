@@ -1,0 +1,65 @@
+[
+    {
+      "name": "Rentahouse Colombia",
+      "website": "https://rentahouse.com.co/",
+      "address": "Edificio Cedropoint, Cl. 140 #10a-48 Oficina 208, Bogotá, Colombi",
+      "email": "colombia@rentahouse.org",
+      "phone_number": " +57 310 3168729"
+    },
+    {
+      "name": "Colliers Colombia",
+      "website": "https://www.colliers.com/es-co",
+      "address": "Capital Tower, Ak 7 #99-53, Bogotá, Colombia",
+      "email": null,
+      "phone_number": "+57 601 5942333"
+    },
+    {
+      "name": "ÉPICA® Inmobiliaria - Bogotá",
+      "website": "https://epicainmobiliaria.com/",
+      "address": "Carrera 11 #71-41 Of. 602 Bogotá - Colombia",
+      "email": null,
+      "phone_number": "+57 315 829 90 88"
+    },
+    {
+      "name": "Welcome to Medellin Real Estate Agency",
+      "website": "https://welcometomedellin.com/",
+      "address": "Tv. 5a #45-8, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+      "email": "joey@welcometomedellin.com",
+      "phone_number": "+57 318 692 8619"
+    },
+    {
+      "name": "Torres Real Estate BOG.",
+      "website": "https://torresrealestate.co/",
+      "address":  "El Polo, Cl. 86 #23-28 OF 201, Bogotá, Colombia",
+      "email": null,
+      "phone_number": " +57 310 7771378"
+    },
+    {
+      "name": "Premium Propiedades S.A.S",
+      "website": "https://propiedades.medellinadvisors.com/",
+      "address": null,
+      "email": "info@medellinadvisors.com",
+      "phone_number": "+57 310 667 1350"
+    },
+    {
+      "name": "Remax Medellin Coffee Realty Realtors Real Estate",
+      "website": "https://medellin-realestate.com/",
+      "address": "Street 10 No. 43c 22, Office 106 Medellin Antioquia, Colombia",
+      "email": "coffeerealty@remax.co",
+      "phone_number": "+57(6-04)5505957"
+    },
+    {
+      "name": "Bienes Raices S.A.S",
+      "website": "https://medellinrealestate.com.co/",
+      "address": "Cl. 7 Sur #37a - 27, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+      "email": "info@Sales@m-real.co",
+      "phone_number": "+57 301 3228521"
+    },
+    {
+      "name": "Engel & Völkers Bogotá",
+      "website": "https://www.engelvoelkers.com/co/en/shops/bogota",
+      "address": "Cl. 4 Sur #43a-117, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+      "email": null,
+      "phone_number": "+573208626266"
+    }
+  ]

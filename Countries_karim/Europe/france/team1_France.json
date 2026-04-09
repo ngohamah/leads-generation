@@ -1,0 +1,73 @@
+[
+    {
+      "name": "FLAGSHIP Commercial Real Estate",
+      "website": "https://www.flagship.fr/",
+      "address": "13 rue Léon Cogniet, 75017 Paris, France",
+      "email": null,
+      "phone_number": "+33 1 83 81 81 81"
+    },
+    {
+      "name": "Paris Vendôme Luxury International Realty",
+      "website": "https://www.parisvendomeluxury.com/",
+      "address": "231 Rue Saint-Honoré, 75001 Paris, France",
+      "email": "dp@parisvendomeluxury.com",
+      "phone_number": "+33 7 67 63 16 91"
+    },
+    {
+      "name": "A1 Paris Apartments",
+      "website": null,
+      "address": "15 rue Chapon, 75005 Paris, France",
+      "email": null,
+      "phone_number": "+33 1 86 26 02 04"
+    },
+    {
+      "name": "Kretz Family Real Estate",
+      "website": "https://kretz.fr/",
+      "address": "19 Bis Avenue Robert Schuman, 92100 Boulogne-Billancourt, France",
+      "email": "contact@kretzrealestate.com",
+      "phone_number": "+33 (0)1 41 10 91 22"
+    },
+    {
+      "name": "Nomad Homes - France",
+      "website": null,
+      "address": "9 Rue Scribe, 75009 Paris, France",
+      "email": null,
+      "phone_number": "+33 7 45 45 37 94"
+    },
+    {
+      "name": "Engel & Völkers Paris",
+      "website": "https://www.engelvoelkers.com/fr/paris/",
+      "address": "170 Rue du Faubourg Saint-Honoré, 75008 Paris, France",
+      "email": null,
+      "phone_number": "+33 1 45 64 30 30"
+    },
+    {
+      "name": "Realty'z",
+      "website": "https://www.realtyz.fr/",
+      "address": "54 rue Saint-Lazare 5009 PARIS",
+      "email": "contact@realtyz.fr",
+      "phone_number": "01 40 35 93 45"
+
+    },
+    {
+      "name": "Metrorealty by Keller Williams Fortis Immo - Agence Immobilière Paris 1",
+      "website": "https://www.metrorealty.fr/",
+      "address": "18 rue Molière, 75001 Paris, France",
+      "email": null,
+      "phone_number": "+33 1 40 20 93 95"
+    },
+    {
+      "name": "Maëlys Real Estate",
+      "website": "https://www.maelysimmobilier.com/",
+      "address": null,
+      "email": "contact@maelysimmobilier.com",
+      "phone_number": "01 71 37 35 61"
+    },
+    {
+      "name": "Agence Real Estate Immo",
+      "website":"https://www.agencerealestateimmo.com/contact/",
+      "address": null,
+      "email": "76 boulevard Richard Wallace – 92800 Puteaux",
+      "phone_number": " 07 81 14 14 49"
+    }
+  ]

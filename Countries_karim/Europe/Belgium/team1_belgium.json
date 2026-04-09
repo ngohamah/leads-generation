@@ -1,0 +1,82 @@
+[
+  {
+    "country": "Belgium",
+    "company_name": "Real Estate in Belgium - Elodie Sorgeloos",
+    "website": "https://www.real-estate-in-belgium.com",
+    "contact_number": "+32 473 70 55 53",
+    "address": null,
+    "email": "real-estate-in-belgium@hotmail.com"
+  },
+  {
+    "country": "Belgium",
+    "company_name": "Sky Realty",
+    "website": "https://www.skyrealty.be",
+    "contact_number": "+32 495 51 15 55",
+    "address": "Square Ambiorix 40 Box 67, 1000 Bruxelles, Belgium",
+    "email": "info@skyrealty.be"
+  },
+  {
+    "country": "Belgium",
+    "company_name": "Hermanns Real Estate - Agence immobilière à Etterbeek",
+    "website": "https://ahre.be",
+    "contact_number": "+32 2 735 95 18",
+    "address": "Rue de Tervaete 35, 1040 Etterbeek, Belgium",
+    "email": "info@ahre.be"
+  },
+  {
+    "country": "Belgium",
+    "company_name": "Brussels Real Estate",
+    "website": "https://brusselsrealestate.eu/en/",
+    "contact_number": "+32 2 534 24 52",
+    "address": "Rue Camille Lemonnier 68, 1050 Ixelles, Belgium",
+    "email": "info@brusselsrealestate.eu"
+  },
+  {
+    "country": "Belgium",
+    "company_name": "GROWING Real estate",
+    "website": "https://www.growing.be",
+    "contact_number": "+3228080668",
+    "address": "Rue Franklin 62, 1000 Bruxelles, Belgium",
+    "email": "info@growing.be"
+  },
+  {
+    "country": "Belgium",
+    "company_name": "Grant Properties",
+    "website": "https://www.grantproperties.be",
+    "contact_number": "+32 2 772 45 05",
+    "address": "Avenue du Roi Chevalier 67, 1200 Woluwé-St-Lambert, Belgium",
+    "email": "contact@grantproperties.be"
+  },
+  {
+    "country": "Belgium",
+    "company_name": "Espace Immo Brussels",
+    "website": "https://www.espaceimmobrussels.be",
+    "contact_number": "+32 2 219 19 55",
+    "address": "Rue De Laeken 91, 1000 Brussels, Belgium",
+    "email": "info@espaceimmobrussels.be"
+  },
+  {
+    "country": "Belgium",
+    "company_name": "ERA Artemis Schuman",
+    "website": "https://www.era.be/en/era-chatelain/bruxelles-schuman",
+    "contact_number": "+32 2 705 07 00",
+    "address": "Rue Archimède 17, 1000 Bruxelles, Belgium",
+    "email": "chatelain@era.be"
+  },
+  {
+    "country": "Belgium",
+    "company_name": "Sorimo Inthas Real Estate",
+    "website": "https://www.sorimo.be/",
+    "contact_number": "+32 2 772 80 20",
+    "address": "Val des Seigneurs 9A, 1150 Woluwe-Saint-Pierre, Belgium",
+    "email": "info@sorimo.be"
+  },
+  {
+    "country": "Belgium",
+    "company_name": "Brussels Sotheby's International Realty",
+    "website": "https://sothebysrealty.be/",
+    "contact_number": "+32 2 640 08 01",
+    "address": "Av. Louise 251, 1050 Bruxelles, Belgium",
+    "email": "brussels@sothebysrealty.be"
+  }
+]

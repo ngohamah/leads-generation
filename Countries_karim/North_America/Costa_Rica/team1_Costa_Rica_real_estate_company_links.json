@@ -1,0 +1,82 @@
+[
+
+  {
+    "company_name": "JLL Costa Rica",
+    "website": "https://www.jll.com/en-us/locations/costa-rica",
+    "access": false,
+    "language": "Spanish",
+    "description": "A leading global commercial real estate and investment management company, providing specialized real estate services for buyers, owners, and investors."
+  },
+  {
+    "company_name": "Garnier & Garnier Desarrollos Inmobiliarios",
+    "website": "https://www.garnier.cr/",
+    "access": false,
+    "language": "Spanish",
+    "description": "A prominent real estate development company in Costa Rica with a diverse portfolio of residential, commercial, and mixed-use projects. They are known for creating large-scale, master-planned communities."
+  },
+  {
+    "company_name": "Portafolio Inmobiliario",
+    "website": "https://www.portafolio.cr/",
+    "access": false,
+    "language": "Spanish",
+    "description": "A leading real estate developer in Central America with a strong presence in Costa Rica. They focus on the development, leasing, and operation of shopping centers, corporate offices, and mixed-use projects."
+  },
+  {
+    "company_name": "CBRE Costa Rica",
+    "website": "https://www.cbre.com/people#q=Costa%20Rica&sort=relevancy&numberOfResults=9",
+    "access": false,
+    "language": "Spanish",
+    "description": "The Costa Rican office of the world's largest commercial real estate services and investment firm, providing a broad range of integrated services, including facilities, transaction and project management; property management; investment management; appraisal and valuation."
+  },
+  {
+    "company_name": "Dentons Muñoz",
+    "website": "https://www.dentons.com/es/our-professionals?Filters=%26sectorid%3D%26practiceid%3D093DDC3FNOTAR%26positionid%3D%26languageid%3D%26inpid%3D%26countryid%3D%26Keywords%3DCosa%20Rica%26page%3D1",
+    "access": false,
+    "language": "Spanish/English",
+    "description": "A full-service law firm with a strong real estate practice. They advise national and international clients on all aspects of real estate law, including acquisitions, development, financing, and leasing."
+  },
+  {
+    "company_name": "Arias Law",
+    "website": "https://www.ariaslaw.com/en/practice-area-detail/21/real-estate-law",
+    "access": false,
+    "language": "Spanish/English",
+    "description": "A leading Central American law firm with a significant presence in Costa Rica. Their real estate practice group handles complex transactions, including project development, financing, and tourism-related projects."
+  },
+  {
+    "company_name": "Punta Uva Realty",
+    "website": "https://puntauvarealty.com/",
+    "access": false,
+    "language": "English",
+    "description": "A boutique real estate brokerage specializing in the sales of titled homes, land, and income-producing properties in the Caribbean coast of Costa Rica, specifically in the Punta Uva and Puerto Viejo areas."
+  },
+  {
+    "company_name": "Coldwell Banker Costa Rica",
+    "website": "https://www.coldwellbankercostarica.com/",
+    "access": false,
+    "language": "English/Spanish",
+    "description": "A major international real estate franchise with extensive operations in Costa Rica. They offer a wide range of services including residential and commercial sales, luxury properties, land, and property management across the country."
+  },
+  {
+    "company_name": "KRAIN Real Estate",
+    "website": "https://krainrealestate.com/",
+    "access": false,
+    "language": "English",
+    "description": "A real estate company with affiliations for residential, commercial, and luxury properties. They offer services in brokerage, sales, property management, and vacation rentals, primarily focused on the Guanacaste region."
+  },
+  {
+    "company_name": "Exclusive Homes Costa Rica",
+    "website": "https://www.exclusivehomescostarica.com/",
+    "access": false,
+    "language": "English",
+    "description": "A real estate agency specializing in the sale of luxury homes, villas, and estates in prime locations throughout Costa Rica, with a focus on high-end, exclusive properties."
+  },
+  {
+    "company_name": "Dentons Muñoz",
+    "website": "https://www.dentons.com/es/global-presence/latin-america-and-the-caribbean/costa-rica",
+    "access": false,
+    "language": "Spanish/English",
+    "description": "A global law firm with a strong presence in Costa Rica. Their real estate practice provides comprehensive legal services for investors, developers, and lenders, covering transactions, project finance, development, and more."
+  }
+
+
+]

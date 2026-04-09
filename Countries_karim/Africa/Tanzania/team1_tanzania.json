@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Property International Ltd",
+    "website": "https://www.pil.co.tz",
+    "address": "8th Floor, Mariam Tower, Shaurimoyo Road, Dar es Salaam, Tanzania",
+    "email": "info@pil.co.tz",
+    "phone": ["+255 222 860 974", "+255 684 633 333"],
+    "fax": null
+  },
+  {
+    "name": "Africa Luxury Properties Ltd",
+    "website": "https://www.africaluxproperties.com/",
+    "address": "R69F+WC5, Zanzibar 0000, Tanzania",
+    "email": null,
+    "phone": "+255 719 385 829"
+  },
+  {
+    "name": "LGV Real Estate Consultants Tanzania",
+    "website": "https://www.lgvrealestateconsultants.com/",
+    "address": "2nd Floor Chief House, Tegeta Dar es Salaam, 70714, Tanzania",
+    "email": null,
+    "phone": "+255 742 995 132"
+  },
+  {
+    "name": "Yusria Realty",
+    "website": "https://www.yusriarealty.com",
+    "address": "Room 15, Shoppers Plaza, Mikocheni, Dar es Salaam, Tanzania",
+    "email": "property@yusriarealty.com",
+    "phone": ["+255 754 526 535", "+255 22 270 0538"]
+  },
+  {
+    "name": "RE/MAX Omela Real Estate",
+    "website": "https://www.remax.co.tz/",
+    "address": "Mbweni Rd, Zanzibar 0000, Tanzania",
+    "email": "info@remaxomela.com",
+    "phone": "+255 677 991 103"
+  },
+  {
+    "name": "RE/MAX Coastal Realty",
+    "website": "https://www.remax.co.tz/coastal",
+    "address": "14 Mbweni Road Mazizini, Zanzibar, The United Republic of Tanzania",
+    "email": "coastalrealty@remax.co.tz",
+    "phone": "+255 748 517 777"
+  },
+  {
+    "name": "Zara Real Estate Limited",
+    "website": "https://www.zara-realestate.co.tz",
+    "address": "Toure Drive, Sea Cliff Village, Msasani Peninsula, P.O. Box 38568, Dar es Salaam, Tanzania",
+    "email": "info@zara-realestate.co.tz",
+    "phone": ["+255 22 221 4125", "+255 710 741 889"]
+  },
+  {
+    "name": "JR Real Estate Dealers Limited",
+    "website": "http://www.jrrealestatedealers.com",
+    "address": "Suite 203, 2nd Floor, Jangid Plaza, Al Hassan Mwinyi Road, Dar es Salaam, Tanzania",
+    "email": "info@jrrealestatedealers.com",
+    "phone": ["+255 766 802 803", "+255 746 877 080"]
+  },
+  {
+    "name": "Porec Limited",
+    "website": "https://www.porec.co.tz",
+    "address": "Block J, 2nd Floor, Office No.24, Urafiki Industrial Estates, Ubungo, Dar es Salaam, Tanzania",
+    "email": "admin@porec.co.tz",
+    "phone": ["+255 741 175 033"]
+  }
+]

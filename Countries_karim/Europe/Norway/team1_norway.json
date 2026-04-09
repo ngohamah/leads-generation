@@ -1,0 +1,121 @@
+[
+    {
+      "name": "Akershus Eiendom",
+      "website": "https://akershuseiendom.no/ansatte",
+      "address": "Ruseløkkveien 30 (10. etasje) P.O Box 1739 Vika, 0251 Oslo",
+      "email": "post@akershuseiendom.no",
+      "phone_number": "+47 22 41 48 00"
+    },
+    {
+      "name": "Persen Real Estate",
+      "website": "https://persenrealestate.no/en/contact/",
+      "address": "Henrik Ibsens gate 90, House of Business, 3 etasje, 0255 Oslo",
+      "email": "persen@persenrealestate.no",
+      "phone_number": "+47 93433078"
+    },
+    {
+      "name": "NæringsMegler 1",
+      "website": "https://www.naringsmegler1.no/",
+      "address": "PB 88 Lilleaker, 0216 Oslo",
+      "email": "post@naringsmegler1.no",
+      "phone_number": "+47 930 69 397"
+    },
+    {
+      "name": "Oro Eiendom",
+      "website": "https://www.oro.nl/contact/",
+      "address": "Wesselmanlaan 25A, 5707 HA Helmond (Note: This appears to be a Dutch company, not Norwegian. No direct contact for a Norwegian 'Oro Eiendom' was found.)",
+      "email": "info@oro.nl",
+      "phone_number": "0492 – 53 00 53"
+    },
+    {
+      "name": "Realkapital Investor",
+      "website": "https://realkapitalinvestor.com/forretningsomrade/alle/",
+      "address": "Kronprinsesse Märthas plass 1, 8th floor 0160 Oslo",
+      "email": "post@realkapitalinvestor.no",
+      "phone_number": "post@realkapitalinvestor.no"
+    },
+    {
+      "name": "Colliers",
+      "website": "https://www.colliers.com/en-no/norway/cities/oslo-hovedkontor",
+      "address": "3 Tjuvholmen Allé, Oslo, Oslo 0252, Norway",
+      "email": "investorrelations@colliers.com",
+      "phone_number": "+1 416-960-9500"
+    },
+    {
+      "name": "Hadrian",
+      "website": "https://en.hadrian.no/",
+      "address": "Stron Legal, The Clubhouse St James, 8 St James's Square, St James's, London, United Kingdom, SW1Y 4JU",
+      "email": "eiendom@hadrian.no",
+      "phone_number": "+ 47 22 01 40 40"
+    },
+    {
+      "name": "Olav Thon Gruppen",
+      "website": "https://thon.no/",
+      "address": "Stenersgata 2A, Postboks 489 Sentrum, 0105 Oslo",
+      "email": "companymail@olavthon.no",
+      "phone_number": "23 08 00 00"
+    },
+    {
+      "name": "KLP Eiendom",
+      "website": "https://www.klpeiendom.no/oslo/About%20KLP%20Eiendom",
+      "address": "Dronning Eufemias gate 10, Oslo. Postal address: Postboks 400 Sentrum, 0103 Oslo.",
+      "email": "kontakt@klpeiendom.no",
+      "phone_number": "+47 55 54 85 00"
+    },
+    {
+      "name": "Aberdeen Standard Investments (now abrdn)",
+      "website": "https://akershuseiendom.no/en/business-area/transactions/aberdeen-standard-norway-balanced-property-fund-acquired-a-logistic-portfolio-with-two-assets-at-vestby-and-one-at-lindeberg",
+      "address": "Ruseløkkveien 30 (10. etasje) P.O Box 1739 Vika, 0251 Oslo",
+      "email": "post@akershuseiendom.no",
+      "phone_number": "+47 22 41 48 00"
+    },
+    {
+      "name": "Oslo Airport City (managed by Avinor)",
+      "website": "https://avinor.no/en/airport/oslo-airport/",
+      "address": "Edvard Munchs veg, 2061 Gardermoen, Norway",
+      "email": "N/A (uses general Avinor contact information)",
+      "phone_number": "+47 64 81 20 00"
+    },
+    {
+      "name": "Fjordbyen (Oslo Waterfront) (Managed by Oslo Havn KF)",
+      "website": "https://www.oslohavn.no/no/meny/fjordbyen/fjordbyen/",
+      "address": "Akershusstranda 19",
+      "email": "postmottak@oslohavn.no",
+      "phone_number": "21 80 21 80 (Oslo Havnevakt - 24/7)"
+    },
+    {
+      "name": "Fornebu (Fornebu Kontorinvest AS as example real estate entity)",
+      "website": "https://abgpf.com/abgproperties/fornebu-kontorinvest-as/",
+      "address": "Ruseløkkveien 26, 0251 Oslo P.O Box 1444 Vika, 0115 Oslo (ABG Project Finance's address, as they contact for Fornebu Kontorinvest)",
+      "email": "stian.toftdahl@vikapf.no (Stian Toftdahl, ABG Project Finance)",
+      "phone_number": "+47 22 01 59 42 (Stian Toftdahl, ABG Project Finance)"
+    },
+    {
+      "name": "Skøyen (Orkla Eiendom AS as example real estate entity)",
+      "website": "https://www.orklaeiendom.no/english/",
+      "address": "Drammensveien 149, Pb 423 Skøyen, 0213 Oslo",
+      "email": "post@orklaeiendom.no",
+      "phone_number": "22 54 40 00"
+    },
+    {
+      "name": "Tjuvholmen (managed by Tjuvholmen KS and Selvaag Eiendom)",
+      "website": "https://www.tjuvholmen.no/en/personvern",
+      "address": null,
+      "email": "marked.bygulv@selvaageiendom.no",
+      "phone_number": "23 13 70 00 (Selvaag Eiendom)"
+    },
+    {
+      "name": "Aker Brygge (managed by Aker Property Group)",
+      "website": "https://www.akerproperty.com/contact",
+      "address": "Oksenøyveien 10, 1366 Lysaker, Norway",
+      "email": "post@akerproperty.com",
+      "phone_number": "+47 24 13 41 97"
+    },
+    {
+      "name": "Sørenga (Property Rental as example agent with listings in Sørenga)",
+      "website": "https://propertyrental.no/en/housing/",
+      "address": null,
+      "email": "post@propertyrental.no",
+      "phone_number": "(+47) 924 41 772"
+    }
+  ]

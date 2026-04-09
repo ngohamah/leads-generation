@@ -1,0 +1,415 @@
+{
+  "somalia_real_estate_professionals_merged": {
+    "individual_agents": [
+      {
+        "full_name": "Mohamed Nor",
+        "position": "Real Estate Agent",
+        "expertise": "Real Estate Agent, Property Sales, Real Estate Brokerage",
+        "contact_information": {
+          "location": "Mogadishu, Somalia",
+          "office_description": "Airy office in Mogadishu with chaise longue seating area",
+          "meeting_areas": "Office visits available, property showings throughout Mogadishu"
+        },
+        "country": "Somalia",
+        "city": "Mogadishu",
+        "specialization": ["Property Sales", "Real Estate Brokerage", "Property Investment", "Luxury Properties", "Properties near Sea", "Government Area Properties"],
+        "experience_years": 10,
+        "languages": ["Somali", "English"],
+        "commission_structure": "Up to $10,000 weekly commissions",
+        "bio": "Mohamed Nor is a prominent real estate agent in Mogadishu whose phone rings constantly from property hunters wanting to own a piece of Mogadishu. He operates from an airy office in the battle-scarred Somali capital, serving clients who want to invest in Mogadishu real estate. His success stems from the real estate boom following security improvements after the ouster of al-Shabab.",
+        "market_expertise": "Specializes in high-end properties near the sea and government areas",
+        "notable_transactions": "Has facilitated sales of residential houses for as much as $3 million",
+        "market_knowledge": "Properties closer to the sea or government seat command higher prices due to perceived security",
+        "working_style": "Phone-based client management, immediate property showings"
+      },
+      {
+        "full_name": "Liban Hashi",
+        "position": "Real Estate Agent",
+        "expertise": "Real Estate Agent, Property Investment Analysis",
+        "contact_information": {
+          "location": "Mogadishu, Somalia",
+          "working_method": "Street-level property sourcing, direct seller engagement"
+        },
+        "country": "Somalia",
+        "city": "Mogadishu",
+        "specialization": ["Real Estate Sales", "Market Analysis", "Property Investment"],
+        "experience_years": 8,
+        "languages": ["Somali", "English"],
+        "commission_structure": "Up to $10,000 weekly commissions",
+        "bio": "Liban Hashi is a real estate agent in Mogadishu who describes the property market as simply 'good business.' He has witnessed property prices more than quadruple in just a couple of years in Mogadishu. Like his colleague Mohamed Nor, he can make up to $10,000 in commissions weekly, compared to what they used to earn yearly when Mogadishu was under al-Shabab control.",
+        "market_insight": "Property prices have more than quadrupled in recent years due to improved security. Expert on property price trends and market dynamics",
+        "working_methods": "Obtains information by walking the streets of Mogadishu and seeking out potential sellers"
+      },
+      {
+        "full_name": "Dr. Amal Ali",
+        "position": "Head of AQN International Law Firm / Legal Expert",
+        "expertise": "International Law, Commercial Law, Real Estate Law",
+        "contact_information": {
+          "location": "Hargeisa, Somaliland",
+          "company": "AQN International Law Firm"
+        },
+        "country": "Somalia/Somaliland",
+        "city": "Hargeisa",
+        "qualifications": "International law expert from the UK",
+        "specialization": ["Commercial Law", "Trade Law", "Company Law", "Intellectual Property", "Contract Law", "Real Estate Law", "Property Contracts", "International Transactions"],
+        "education": "UK-trained international law expert",
+        "market_position": "Foremost legal consultancy and Law firm in Hargeisa",
+        "languages": ["English", "Somali", "Arabic"]
+      }
+    ],
+    "real_estate_companies": [
+      {
+        "company_name": "Solia Estate",
+        "expertise": "Real Estate Agency, Property Management, Construction Services",
+        "contact_information": {
+          "website": "https://soliaestate.com/",
+          "location": "Mogadishu, Somalia"
+        },
+        "country": "Somalia",
+        "city": "Mogadishu",
+        "specialization": ["Property Sales", "Property Rentals", "Construction", "Property Marketing", "Property Valuation"],
+        "fee_structure": {
+          "fixed_rental_fee": "10%",
+          "fixed_sales_fee": "5%"
+        },
+        "services": [
+          "Professional customer support",
+          "Property valuation",
+          "Marketing solutions", 
+          "Property value improvement",
+          "Construction and design services"
+        ],
+        "company_mission": "Help change the way people rent, buy and sell houses",
+        "commitment": "Get your property signed off and on the market within 24 hours of photographs being taken",
+        "team_expertise": "Team of professional designers, architects and engineers",
+        "response_time": "Property listed within 24 hours of photos"
+      },
+      {
+        "company_name": "Raas Real Estate Property",
+        "expertise": "Real Estate Services, Property Management, Property Appraisal",
+        "contact_information": {
+          "website": "https://raaspro.com/"
+        },
+        "country": "Somalia",
+        "specialization": ["Real Estate Agents", "Property Brokers", "Property Management", "Real Estate Inspections", "Property Appraisals", "Land opportunities", "Agricultural investments"],
+        "services": ["Land opportunities", "Property opportunities", "Agricultural investments"],
+        "company_values": ["Integrity", "Ethics", "Best judgment", "Client-centered approach"],
+        "bio": "Raas simplifies the process of finding real estate opportunities across Somalia. They are experts in the local real estate market and are known for their integrity, ethics, and best judgment in serving clients' interests.",
+        "service_areas": "Latest information on land, properties, and agricultural opportunities throughout Somalia",
+        "coverage": "Somalia-wide services"
+      },
+      {
+        "company_name": "MyProperty.so",
+        "expertise": "Real Estate Platform, Property Listings",
+        "contact_information": {
+          "website": "https://www.myproperty.so/"
+        },
+        "country": "Somalia",
+        "specialization": ["Property Listings", "Real Estate Marketplace", "Property Sales", "Property Rentals", "Agent Network", "Property Search"],
+        "service_areas": ["Mogadishu", "Hargeisa", "Kismayo", "Garowe", "Bosaso", "Beledweyne", "Baydhabo"],
+        "platform_features": ["Mobile accessible", "Tablet accessible", "Desktop accessible", "No commission listings"],
+        "property_types": ["Apartments", "Condominiums", "Houses", "Farms", "Plots of land"],
+        "partnership_network": "Partners with the best and most renowned real estate agents in the country"
+      },
+      {
+        "company_name": "Mogadishu Stars Group",
+        "expertise": "Real Estate Development, Construction",
+        "contact_information": {
+          "website": "https://www.mogadishustars.com/realestate.html",
+          "location": "Mogadishu, Somalia"
+        },
+        "country": "Somalia",
+        "city": "Mogadishu",
+        "specialization": ["Real Estate Development", "Construction", "Commercial Properties", "Residential Properties", "Retail Properties", "Hospitality Properties", "Mixed-use Properties"],
+        "market_position": "Recognized as one of Somalia's most active real estate developers",
+        "service_areas": "East Africa",
+        "team_composition": "Innovative professionals with expertise in business management, architectural, engineering, marketing, construction and real estate development",
+        "sector_experience": "Both Private and Public Sectors",
+        "project_types": ["Major construction activities", "Rehabilitation projects", "Commercial", "Residential", "Retail", "Hospitality"]
+      },
+      {
+        "company_name": "Bunyan Construction & Real Estate",
+        "expertise": "Construction, Real Estate Development, Property Management",
+        "contact_information": {
+          "website": "https://bunyanconstructionrealestate.com/",
+          "location": "Mogadishu, Somalia"
+        },
+        "country": "Somalia",
+        "city": "Mogadishu", 
+        "specialization": ["Construction", "Real Estate Development", "Land Acquisition", "Property Management"],
+        "company_relationship": "Extension arm of Dayah Modern Houses (DMHC)",
+        "approach": "Holistic approach encompassing acquiring, developing, and managing properties",
+        "commitment": "Excellence reflected in every aspect of projects from concept to completion",
+        "mission": "Building Dreams, Creating Spaces"
+      },
+      {
+        "company_name": "Amal Real Estate Limited",
+        "expertise": "Real Estate Development, Property Sales",
+        "contact_information": {
+          "website": "https://www.amalrealestate.so/",
+          "location": "Somalia (Multiple cities)"
+        },
+        "country": "Somalia",
+        "specialization": ["Real Estate Development", "Affordable Housing", "High-end Homes", "Residential Development", "Luxury Homes"],
+        "market_position": "Somalia's leading real estate developer",
+        "notable_projects": ["New Garowe", "Kismayo Developments"],
+        "property_range": "Affordable apartments to high-end homes",
+        "development_features": ["Gated communities", "Uniform designs", "Luxury tier homes", "24/7 security", "Basic amenities"],
+        "financing_partnerships": "Work with banks and home financiers for mortgage considerations"
+      },
+      {
+        "company_name": "Somproperty Construction & Real Estate",
+        "expertise": "Construction, Real Estate Development, Design Services",
+        "contact_information": {
+          "website": "https://www.somproperty.com/",
+          "location": "Hargeisa, Somaliland"
+        },
+        "country": "Somalia/Somaliland",
+        "city": "Hargeisa",
+        "specialization": ["Construction", "Design", "Consultancy", "Real Estate Development"],
+        "service_areas": "Primarily Hargeisa and surrounding areas",
+        "languages": ["Somali"],
+        "property_locations": ["Jigjiga yar", "Masalaha", "Area 150", "New Hargeisa", "Sheedaha", "Koodbuur", "Gantalaha", "Boqol-jire", "Haleeya", "Calamada"],
+        "coverage_areas": ["Jigjiga yar", "Masalaha", "New Hargeisa", "Koodbuur", "Calamada"]
+      },
+      {
+        "company_name": "Golis Real Estate",
+        "expertise": "Property Rental, Property Management, Property Sales",
+        "contact_information": {
+          "facebook": "https://www.facebook.com/Golis.real.estate/",
+          "location": "Hargeisa, Somaliland",
+          "followers": "8,396 likes · 1,591 talking about",
+          "social_reach": "8,396+ followers"
+        },
+        "country": "Somalia/Somaliland",
+        "city": "Hargeisa",
+        "specialization": ["Property Rental", "Property Management", "Property Sales", "Houses", "Offices", "Warehouses", "Farms"],
+        "social_media_presence": "Active Facebook presence with significant follower engagement",
+        "property_types": ["Houses", "Offices", "Warehouses", "Farms"]
+      },
+      {
+        "company_name": "Dahabshiil Real Estate",
+        "expertise": "Real Estate Services",
+        "contact_information": {
+          "instagram": "https://www.instagram.com/dahabshiilrealestate/",
+          "location": "Somalia/Somaliland"
+        },
+        "country": "Somalia/Somaliland",
+        "specialization": ["Real Estate Services"],
+        "brand_association": "Part of the Dahabshiil Group",
+        "social_media_presence": "Active Instagram presence"
+      },
+      {
+        "company_name": "IIBGEYN Real Estate Company",
+        "expertise": "Real Estate Services, Property Sales and Rentals",
+        "contact_information": {
+          "phone": "+252619959984",
+          "email": "maibrahim@hotmail.no",
+          "address": "Bakaaraha, Ceelasha, Mogadishu, Somalia",
+          "location": "Bakaaraha, Ceelasha, Mogadishu, Somalia"
+        },
+        "country": "Somalia",
+        "city": "Mogadishu",
+        "specialization": ["Property Sales", "Property Rentals", "Construction"],
+        "service_areas": ["Benadir", "Galmudug", "Hirshabeele", "Jubaland", "Somaliland"],
+        "property_inventory": "277 Properties in Benadir region",
+        "service_regions": ["Benadir", "Somaliland", "Jubaland"]
+      }
+    ],
+    "online_platforms": [
+      {
+        "platform_name": "SomPro",
+        "company_name": "SomPro",
+        "expertise": "Property Platform, Real Estate Services",
+        "contact_information": {
+          "website": "https://sompro.com/"
+        },
+        "country": "Somalia",
+        "specialization": ["Property Sales", "Property Rentals", "Property Listings", "Property Platform", "Mobile App", "Regional Listings"],
+        "market_position": "Somali Peninsula's first property company with extensive listings for all regions",
+        "platform_features": ["Mobile app", "Website platform", "Regional coverage"],
+        "service_promise": "Your dream property is just a click away"
+      },
+      {
+        "platform_name": "Guriiibso.so",
+        "company_name": "Guriiibso.so",
+        "expertise": "Real Estate Listings, Property Platform",
+        "contact_information": {
+          "website": "https://guriiibso.so/"
+        },
+        "country": "Somaliland",
+        "city": "Hargeisa",
+        "specialization": ["Property Listings", "Property Sales", "Property Rentals"],
+        "property_types": ["Apartments", "Condominiums", "Houses", "Farms", "Plots of land"],
+        "service_commitment": "Help customers advertise their property and help visitors find the best properties",
+        "platform_accessibility": "Mobile, tablets, desktop devices accessible",
+        "coverage": "Somaliland region"
+      }
+    ],
+    "legal_services": [
+      {
+        "firm_name": "Mogadishu Law Office (MLO)",
+        "company_name": "Mogadishu Law Office (MLO)",
+        "expertise": "Real Estate Law, Legal Services",
+        "contact_information": {
+          "address": "807 Airport Road, Wadajir District, Mogadishu, Somalia",
+          "email": "Contact@mogadishulawoffice.com",
+          "legal_email": "Legal@mogadishulawoffice.com",
+          "website": "https://mogadishulawoffice.com/"
+        },
+        "country": "Somalia",
+        "city": "Mogadishu",
+        "specialization": ["Real Estate Law", "Property Acquisition", "Property Development", "Leasing", "Dispute Resolution"],
+        "established": 1984,
+        "team_size": "Two partners with 54+ years collective experience, nine qualified lawyers as associates",
+        "languages": ["Somali", "English", "Italian", "Arabic"],
+        "certifications": "Six Advocates hold valid practicing Certificates from Somali Bar Association",
+        "service_areas": ["Southern Somalia", "Central Somalia", "Somaliland"],
+        "international_reach": ["North America", "Europe", "Middle-East", "Asia", "Africa"],
+        "experience": "54+ years collective experience",
+        "coverage": ["Southern Somalia", "Central Somalia", "Somaliland"]
+      },
+      {
+        "firm_name": "Salihi Law Office & Legal Services",
+        "company_name": "Salihi Law Office & Legal Services",
+        "expertise": "Legal Services, Real Estate Law",
+        "contact_information": {
+          "location": "Mogadishu, Somalia"
+        },
+        "country": "Somalia",
+        "city": "Mogadishu",
+        "established": 2018,
+        "team_size": "8 people",
+        "languages": ["English", "Somali"],
+        "specialization": ["Legal Services", "Real Estate Law"],
+        "market_position": "Renowned as the best law firm in Somalia and East Africa",
+        "consultation": "Free 15-minute consultation",
+        "approach": "Dynamic approach and comprehensive legal services"
+      },
+      {
+        "firm_name": "Awed Law Firm",
+        "company_name": "Awed Law Firm",
+        "expertise": "Legal Services, Real Estate Law",
+        "contact_information": {
+          "location": "Hargeisa, Somalia/Somaliland"
+        },
+        "country": "Somalia/Somaliland",
+        "city": "Hargeisa",
+        "established": 2020,
+        "team_size": "10 people",
+        "languages": ["Somali", "English", "Arabic"],
+        "specialization": ["Legal Services", "Real Estate Law"],
+        "service_approach": "High quality legal services with global accessibility"
+      },
+      {
+        "firm_name": "ABISOM IP and Law Firm",
+        "company_name": "ABISOM IP and Law Firm",
+        "expertise": "Legal Services, Intellectual Property, Real Estate Law",
+        "contact_information": {
+          "location": "Mogadishu, Somalia"
+        },
+        "country": "Somalia",
+        "city": "Mogadishu",
+        "established": 2020,
+        "team_size": "10 people",
+        "languages": ["English", "Somali"],
+        "specialization": ["Legal Services", "Intellectual Property", "Real Estate Law"],
+        "consultation": "Free 1-hour consultation",
+        "market_position": "Leading provider of legal and intellectual property services"
+      },
+      {
+        "firm_name": "AQN International Law Firm",
+        "company_name": "AQN International Law Firm",
+        "expertise": "International Law, Commercial Law, Real Estate Law",
+        "contact_information": {
+          "location": "Hargeisa, Somaliland",
+          "head": "Dr. Amal Ali"
+        },
+        "country": "Somalia/Somaliland",
+        "city": "Hargeisa",
+        "specialization": ["Commercial Law", "Trade Law", "Company Law", "Intellectual Property", "Contract Law", "Real Estate Law", "International Law"],
+        "market_position": "Foremost legal consultancy and Law firm in Hargeisa",
+        "head_qualifications": "International law expert from the UK",
+        "expertise_focus": "UK-trained international law expert"
+      },
+      {
+        "firm_name": "Somlegal Services",
+        "company_name": "Somlegal Services",
+        "expertise": "Legal Services, Real Estate Law, Employment Law",
+        "contact_information": {
+          "address": "Strt No 2, Ibrahim Kodbur District, Opposite Dubai Motors, Hargeisa, Somaliland",
+          "website": "https://somlegal.so/"
+        },
+        "country": "Somalia/Somaliland",
+        "city": "Hargeisa",
+        "experience_years": 10,
+        "specialization": ["Real Estate Law", "Employment Law", "Legal Services"],
+        "service_areas": ["Somaliland", "Mogadishu"],
+        "approach": "Professional, effective and efficient legal services",
+        "client_range": "Private individuals to major corporate clients",
+        "coverage": ["Somaliland", "Mogadishu"]
+      }
+    ],
+    "market_insights": {
+      "major_cities": ["Mogadishu", "Hargeisa", "Garowe", "Kismayo", "Bosaso", "Beledweyne", "Baydhabo"],
+      "key_regions": {
+        "mogadishu": ["Wadajir District", "Bakaaraha", "Ceelasha", "Hodan District"],
+        "hargeisa": ["Jigjiga yar", "Masalaha", "Area 150", "New Hargeisa", "Sheedaha", "Koodbuur", "Gantalaha", "Boqol-jire", "Haleeya", "Calamada"],
+        "garowe": ["New Garowe development area"],
+        "kismayo": ["Kismayo development areas"]
+      },
+      "market_characteristics": {
+        "mogadishu_price_range": "Residential houses sold for up to $3 million",
+        "price_trend": "Property prices more than quadrupled in recent years",
+        "commission_levels": "Top agents earn up to $10,000 weekly",
+        "preferred_locations": "Properties closer to sea or government areas command premium prices",
+        "security_impact": "Real estate boom driven by security improvements post-al-Shabab",
+        "rental_market": "One-bedroom apartments rent for around $500/month",
+        "housing_deficit": "2 million housing units deficit nationally"
+      },
+      "market_drivers": [
+        "Improved security conditions",
+        "Diaspora investment",
+        "Aid agency presence", 
+        "Urbanization trends",
+        "Government reconstruction efforts",
+        "International infrastructure projects"
+      ],
+      "communication_patterns": {
+        "mogadishu_market": "Agents typically work through phone calls and street-level networking. Properties are not advertised in media.",
+        "hargeisa_market": "More formal business structures with established offices and online presence.",
+        "communication_languages": "Somali is primary, English widely used in business, Arabic in legal contexts.",
+        "meeting_preferences": "Face-to-face meetings preferred, office visits common for serious inquiries.",
+        "business_hours": "Generally align with local business hours, but agents often available for urgent property matters.",
+        "payment_methods": "Cash transactions common, some companies work with banks for financing."
+      }
+    },
+    "investment_opportunities": {
+      "buy_to_let": "Properties bought and rented out for steady income",
+      "house_flipping": "Buy, renovate, and resell for profit",
+      "property_development": "Capital intensive, reserved for established developers",
+      "land_speculation": "Buying land in prime areas for future development",
+      "commercial_real_estate": "Retail spaces, malls, leisure and recreational facilities"
+    },
+    "challenges": {
+      "land_acquisition": "Complex land acquisition processes",
+      "regulation": "Limited proper regulation framework",
+      "material_costs": "High cost of construction materials",
+      "pricing": "Unregulated pricing schemes",
+      "legal_framework": "Combination of Islamic law, customary law, and modern legislation"
+    },
+    "contact_guidelines": {
+      "verification_note": "Always verify credentials and property ownership through multiple sources due to informal market nature.",
+      "preferred_communication": "Phone calls and face-to-face meetings are most effective",
+      "language_considerations": "Somali is essential for local dealings, English for business transactions",
+      "cultural_considerations": "Respect for local customs and Islamic business practices important",
+      "documentation_requirements": "Ensure proper legal documentation through registered law firms"
+    },
+    "data_limitations": {
+      "note": "Somalia's real estate market is largely informal with limited online professional disclosure. Many professionals operate through personal networks, word-of-mouth referrals, and street-level information gathering rather than formal marketing channels.",
+      "missing_common_data": ["Detailed professional certifications", "Comprehensive contact databases", "Extensive LinkedIn profiles", "Formal licensing information"],
+      "market_characteristics": "Properties not advertised in media; agents obtain information by walking streets and seeking potential sellers",
+      "recommendation": "For comprehensive data collection, direct outreach to local real estate professionals, chambers of commerce, and informal market networks would be necessary."
+    }
+  }
+}

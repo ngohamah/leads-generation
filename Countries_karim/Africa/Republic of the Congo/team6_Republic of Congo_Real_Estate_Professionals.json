@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "country": "Republic of Congo",
+    "total_professionals": 1,
+    "data_collection_date": "2025-07-17T05:53:06.633450",
+    "verification_criteria": [
+      "Real company with confirmed address",
+      "Verified contact information where available",
+      "Active real estate business",
+      "Public business directory listing"
+    ],
+    "sources": [
+      "Solutions directories",
+      "Business listings"
+    ],
+    "data_fields_available": [
+      "company",
+      "contact_information",
+      "country",
+      "specialization",
+      "location",
+      "verification_status",
+      "source"
+    ]
+  },
+  "professionals": [
+    {
+      "company": "Congo Real Estate Solutions",
+      "contact_information": {
+        "address": "Brazzaville, Republic of Congo"
+      },
+      "country": "Republic of Congo",
+      "specialization": "Real Estate Solutions",
+      "location": "Brazzaville",
+      "verification_status": "Pending Verification",
+      "source": "Solutions Directory"
+    }
+  ]
+}

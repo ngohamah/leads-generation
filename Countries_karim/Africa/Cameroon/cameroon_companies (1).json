@@ -1,0 +1,80 @@
+{
+  "companies": [
+    {
+      "company_name": "Bricoree",
+      "website": "https://bricoree.com/"
+    },
+    {
+      "company_name": "Legacy Housing and Real Estate Ltd Cameroon",
+      "website": "https://www.africalistings.com/cameroon/bamenda/real-estate/legacy-housing-and-real-estate-ltd-cameroon"
+    },
+    {
+      "company_name": "Tech Chantier (Digital Renter)",
+      "website": "https://techchantier.com/our-portfolio/digital-renter"
+    },
+    {
+      "company_name": "Digital Renter",
+      "website": "https://digitalrenter.com/"
+    },
+    {
+      "company_name": "Easy House CMR",
+      "website": "https://easyhousecmr.netlify.app/"
+    },
+    {
+      "company_name": "LM Platinum Estates",
+      "website": "https://maisoncameroun.com/agency/lm-platinum-estates/"
+    },
+    {
+      "company_name": "AGIICAM (Agence Immobilière Et D'Ingénierie Du Cameroun)",
+      "website": "https://agiicam.com/"
+    },
+    {
+      "company_name": "Diaspomboa",
+      "website": "https://diaspomboa.com/"
+    },
+    {
+      "company_name": "Well Done Real Estate SCI",
+      "website": "https://welldonerealestatesci.com/"
+    },
+    {
+      "company_name": "Yaoundé Immobilier",
+      "website": "https://www.yaounde-immobilier.com/"
+    },
+    {
+      "company_name": "Mapiole",
+      "website": "https://mapiole.com/?/"
+    },
+    {
+      "company_name": "Diamond Realty",
+      "website": "https://www.diamondrealty.estate/"
+    },
+    {
+      "company_name": "CFB Holding Ltd",
+      "website": "https://cfbholding.com/"
+    },
+    {
+      "company_name": "HamGab Real Estate",
+      "website": "https://hamgabrealestate.com/"
+    },
+    {
+      "company_name": "SECPE Investments",
+      "website": "https://www.secpeinvestments.com/"
+    },
+    {
+      "company_name": "Cameroonian Real Estate",
+      "website": "https://camerproperties.com/"
+    },
+    {
+      "company_name": "BBoyo Real Estate",
+      "website": "https://bboyo.com/"
+    },
+    {
+      "company_name": "SCI Chimède Kadji Real Estate",
+      "website": "https://scichimede.com/"
+    },
+    {
+      "company_name": "SCI Royal Estate",
+      "website": "https://residencelecrin.com/sci-royal-estate/"
+    }
+  ]
+}

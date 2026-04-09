@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Dubai Marina Yacht Club",
+    "website": "https://www.dubaimarinayachtclub.com",
+    "address": "Dubai Marina, P.O. Box 214019, Dubai, UAE",
+    "email": "info@dubaimarinayachtclub.com",
+    "phone": "+971 4 362 7900"
+  },
+  {
+    "name": "Nakheel Residential Leasing Office (Palm Jumeirah)",
+    "website": "https://www.nakheel.com/en/contact-us",
+    "address": "Home Rental Office, 1st Floor, Persia Court, Ibn Battuta Mall, Dubai, UAE",
+    "email": "leasing@nakheel.com",
+    "phone": "+971 4 390 3333"
+  },
+  {
+    "name": "Nakheel Marinas",
+    "website": "https://www.nakheelmarinas.com",
+    "address": null,
+    "email": null,
+    "phone": "+971 4 777 3934"
+  },
+  {
+    "name": "Palm Monorail (Nakheel)",
+    "website": "https://beta.palmmonorail.com",
+    "address": "Palm Jumeirah, Dubai, UAE",
+    "email": "inquiries@palmmonorail.com",
+    "phone": "800-NAKHEEL"
+  },
+  {
+    "name": "Bluewaters Island (Retail)",
+    "website": "https://bluewatersdubai.ae",
+    "address": "Bluewaters Island, Dubai, UAE",
+    "email": "customercare@dubairetail.ae",
+    "phone": "800 738245"
+  },
+  {
+    "name": "Bluewaters Island (Leisure / Beach Hotel)",
+    "website": "https://bluewatersbeachhotel.com",
+    "address": "Bluewaters Island, Dubai, UAE",
+    "email": "reservations-dubai@delanohotels.com",
+    "phone": "+971 4 556 6255"
+  },
+  {
+    "name": "Creek Marina Yacht Club (Dubai Creek Harbour)",
+    "website": "https://www.creekmarinayachtclub.com",
+    "address": "Dubai Creek Harbour, P.O. Box 214019, Dubai, UAE",
+    "email": null,
+    "phone": "+97144288890"
+  },
+  {
+    "name": "Dubai Creek Harbour Community Office (Emaar)",
+    "website": "https://www.ecm.ae",
+    "address": "Creek Gate 1, Ground Level, Dubai Creek Harbour, Dubai, UAE",
+    "email": null,
+    "phone": "+971 4 367 3150"
+  },
+  {
+    "name": "Address Downtown Dubai (Hotel)",
+    "website": "https://www.addresshotels.com/en/hotels/address-downtown/",
+    "address": "Sheikh Mohammed Bin Rashid Blvd, Downtown Dubai, P.O. Box 123234, Dubai, UAE",
+    "email": "info.addth@addresshotels.com",
+    "phone": "+971 4 436 8888"
+  },
+  {
+    "name": "Address Grand Creek Harbour (Hotel)",
+    "website": "https://www.addresshotels.com",
+    "address": "Ras Al Khor, Dubai Creek Harbour, Dubai, UAE",
+    "email": "stayatcreek@addresshotels.com",
+    "phone": "+971 4 275 8888"
+  },
+  {
+    "name": "The Island Beach Club (The World Islands)",
+    "website": "https://www.theisland.ae",
+    "address": "Plot No. 46, Lebanon Island, The World Islands, P.O. Box 23187, Dubai, UAE",
+    "email": "info@theisland.ae",
+    "phone": "04447 2240"
+  },
+  {
+    "name": "Monaco Dubai (Europe Island, The World)",
+    "website": "https://www.ihg.com/voco",
+    "address": "Dubai World Islands - The World Islands - Dubai - United Arab Emirates",
+    "email": null,
+    "phone": "+971 4 5490800"
+  }
+]

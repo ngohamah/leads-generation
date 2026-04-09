@@ -1,0 +1,776 @@
+[
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "admin@cifnamibia.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pr@cifnamibia.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "training@cifnamibia.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "rememberingkarlheinz@cifnamibia.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "support@myproperty.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@housefindernam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "bernard@housefindernam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "maret@housefindernam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "aleza@housefindernam.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Trevor McGeer",
+    "email": "trevorm@barloworld.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "Taryn Klink",
+    "email": "tarynk@barloworld.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Dominic Sewela",
+    "email": "dominics@barloworld.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Gugu Sepamla",
+    "email": "gugus@barloworld.com",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Bashirat Odunewu",
+    "email": "bashirat.odunewu@barloworld.com",
+    "position": "Non-Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Gale Lemmert",
+    "email": "galel@barloworld.com",
+    "position": "Chief Risk Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Jabu Ndhlovu",
+    "email": "jndhlovu@barloworld.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Sanjay Moothiram",
+    "email": "sanjaym@barloworld.com",
+    "position": "Chief Information Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Chris Fisher",
+    "email": "chrisf@barloworld.com",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Nandkishore Menon",
+    "email": "nandkishorem@barloworld.com",
+    "position": "Chief Strategy Officer"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@nampost.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "philately@nampost.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "vacancies@nampost.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "parcelcollection@nampost.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "elisaha@nampost.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "berlindiva@nampost.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "courier@nampost.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "idaka@nampost.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "tenders@nampost.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "christellelo@nampost.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ed@mit.gov.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "dianakuiri.tjiposa@mit.gov.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "andreas.andjene@mit.gov.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "jackson.nghiyolwa@mit.gov.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "josef.shikongo@mit.gov.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "tc@mit.gov.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sadick.chombo@mit.gov.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "minister-office@mit.gov.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "did@mit.gov.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "michael.humavindu@mit.gov.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Americo Almeida",
+    "email": "americo@ongosvalley.com.na",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hub@ongosvalley.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@nhe.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "alexl@nhe.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "khachaba@nhe.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kokt@nhe.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "recruitment@nhe.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kaahekep@nhe.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "customercare@nhe.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "kahihaw@nhe.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "procurement@nhe.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "shafombabit@nhe.com.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ulrichk@rtc.org.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "nelr@rtc.org.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "danield@rtc.org.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@rtc.org.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "procurement@rtc.org.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pro@rtc.org.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ockhuizenj@rtc.org.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "lupahlad@rtc.org.na",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "reservations@thewindhoek.com",
+    "position": null
+  },
+  {
+    "company_name": "CBRE Excellerate Namibia",
+    "name": "Roxanne Marais",
+    "email": "roxanne.marais@cbreexcellerate.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "CBRE Excellerate Namibia",
+    "name": "Nazanin Badr",
+    "email": "nazanin.badr@cbreexcellerate.com",
+    "position": "Regional Finance Director"
+  },
+  {
+    "company_name": "CBRE Excellerate Namibia",
+    "name": "Riaan Fourie",
+    "email": "riaan.fourie@cbreexcellerate.com",
+    "position": "Director of Valuation and Advisory Services"
+  },
+  {
+    "company_name": "CBRE Excellerate Namibia",
+    "name": "Caroline Otieno",
+    "email": "caroline.otieno@cbreexcellerate.com",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "CBRE Excellerate Namibia",
+    "name": "Craig Hean",
+    "email": "craig.hean@cbreexcellerate.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "CBRE Excellerate Namibia",
+    "name": "Hussam Magdy",
+    "email": "hussam.magdy@cbreexcellerate.com",
+    "position": "Regional Project Manager"
+  },
+  {
+    "company_name": "CBRE Excellerate Namibia",
+    "name": "Fabio Nava",
+    "email": "fabio.nava@cbreexcellerate.com",
+    "position": "Director of Advisory Services"
+  },
+  {
+    "company_name": "CBRE Excellerate Namibia",
+    "name": "Jan Snyman",
+    "email": "jan.snyman@cbreexcellerate.com",
+    "position": "Director of Advisory Services"
+  },
+  {
+    "company_name": "CBRE Excellerate Namibia",
+    "name": "Frank Simonetti",
+    "email": "frank.simonetti@cbreexcellerate.com",
+    "position": "Director of Contracted Accounts"
+  },
+  {
+    "company_name": "CBRE Excellerate Namibia",
+    "name": "Emad Adel",
+    "email": "emad.adel@cbreexcellerate.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Pam Golding Properties Namibia",
+    "name": "Gerda Christoph",
+    "email": "gerda.christoph@pamgolding.com.na",
+    "position": "Head of Sales and Operations"
+  },
+  {
+    "company_name": "Pam Golding Properties Namibia",
+    "name": "Sonja Swanepoel",
+    "email": "sonja.swanepoel@pamgolding.com.na",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "Pam Golding Properties Namibia",
+    "name": "Paul Kruger",
+    "email": "paul.kruger@pamgolding.com.na",
+    "position": "Sales Team"
+  },
+  {
+    "company_name": "Pam Golding Properties Namibia",
+    "name": "Willem Fourie",
+    "email": "willem.fourie@pamgolding.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Pam Golding Properties Namibia",
+    "name": "Salome Jansen",
+    "email": "salome.jansen@pamgolding.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Pam Golding Properties Namibia",
+    "name": "Maren Laws",
+    "email": "maren.laws@pamgolding.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Pam Golding Properties Namibia",
+    "name": "Carola Raad",
+    "email": "carola.raad@pamgolding.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Pam Golding Properties Namibia",
+    "name": "Kim Dutoit",
+    "email": "kim.dutoit@pamgolding.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Pam Golding Properties Namibia",
+    "name": "Annelie Don",
+    "email": "annelie.don@pamgolding.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Pam Golding Properties Namibia",
+    "name": "None None",
+    "email": "amanda.vonsolms@pamgolding.com.na",
+    "position": null
+  },
+  {
+    "company_name": "DLA Piper Africa - Ellis Shilengudwa Inc.",
+    "name": "Moses Kiiza",
+    "email": "moses@dlapiperafrica.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Broll Namibia",
+    "name": "Pascale Poultney",
+    "email": "pascale.poultney@brollnamibia.com.na",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "Broll Namibia",
+    "name": "Danny Isaacs",
+    "email": "danny.isaacs@brollnamibia.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Broll Namibia",
+    "name": "Jan Brand",
+    "email": "jan.brand@brollnamibia.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Broll Namibia",
+    "name": "None None",
+    "email": "info@brollnamibia.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Broll Namibia",
+    "name": "None None",
+    "email": "johan.vanderwesthuizen@brollnamibia.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Broll Namibia",
+    "name": "None None",
+    "email": "sonja.msuya@brollnamibia.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Broll Namibia",
+    "name": "None None",
+    "email": "raineto.zealand@brollnamibia.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Broll Namibia",
+    "name": "None None",
+    "email": "terence.makari@brollnamibia.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Broll Namibia",
+    "name": "None None",
+    "email": "katherine.nawaka@brollnamibia.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Safland Property Group",
+    "name": "Kallie Merwe",
+    "email": "kallie@safland.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "Safland Property Group",
+    "name": "Mirinda Merwe",
+    "email": "mirinda@safland.com",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "Safland Property Group",
+    "name": "Suen Li",
+    "email": "andreas@safland.com",
+    "position": "Residential Director"
+  },
+  {
+    "company_name": "Safland Property Group",
+    "name": "None None",
+    "email": "reception@safland.com",
+    "position": "Receptionist"
+  },
+  {
+    "company_name": "Safland Property Group",
+    "name": "None None",
+    "email": "resi@safland.com",
+    "position": null
+  },
+  {
+    "company_name": "Safland Property Group",
+    "name": "None None",
+    "email": "marketing@safland.com",
+    "position": null
+  },
+  {
+    "company_name": "Safland Property Group",
+    "name": "None None",
+    "email": "jerry@safland.com",
+    "position": null
+  },
+  {
+    "company_name": "Green Door Properties",
+    "name": "Glenda Bosch",
+    "email": "glenda@greendoorproperties.co",
+    "position": null
+  },
+  {
+    "company_name": "Green Door Properties",
+    "name": "None None",
+    "email": "leon@greendoorproperties.co",
+    "position": null
+  },
+  {
+    "company_name": "NPR Property Management Pty Ltd",
+    "name": "Shandre Snyders",
+    "email": "shandre.snyders@npr.com.na",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "NPR Property Management Pty Ltd",
+    "name": "Michele Mouton",
+    "email": "michele.mouton@npr.com.na",
+    "position": null
+  },
+  {
+    "company_name": "NPR Property Management Pty Ltd",
+    "name": "Zola Vanwyk",
+    "email": "zola.vanwyk@npr.com.na",
+    "position": null
+  },
+  {
+    "company_name": "NPR Property Management Pty Ltd",
+    "name": "Monica Pienaar",
+    "email": "monica.pienaar@npr.com.na",
+    "position": null
+  },
+  {
+    "company_name": "NPR Property Management Pty Ltd",
+    "name": "Nico Gunter",
+    "email": "nico.gunter@npr.com.na",
+    "position": null
+  },
+  {
+    "company_name": "NPR Property Management Pty Ltd",
+    "name": "None None",
+    "email": "info@npr.com.na",
+    "position": null
+  },
+  {
+    "company_name": "NPR Property Management Pty Ltd",
+    "name": "None None",
+    "email": "system.admin@npr.com.na",
+    "position": null
+  },
+  {
+    "company_name": "NPR Property Management Pty Ltd",
+    "name": "None None",
+    "email": "recruitement@npr.com.na",
+    "position": null
+  },
+  {
+    "company_name": "NPR Property Management Pty Ltd",
+    "name": "None None",
+    "email": "bclevies@npr.com.na",
+    "position": null
+  },
+  {
+    "company_name": "NPR Property Management Pty Ltd",
+    "name": "Jenny Roos",
+    "email": "jenny-lynne.roos@npr.com.na",
+    "position": null
+  },
+  {
+    "company_name": "RMB Namibia",
+    "name": "Conrad Dempsey",
+    "email": "conrad.dempsey@rmb.com.na",
+    "position": null
+  },
+  {
+    "company_name": "RMB Namibia",
+    "name": "None None",
+    "email": "jason.shikalepo@rmb.com.na",
+    "position": null
+  },
+  {
+    "company_name": "MyProperty Namibia",
+    "name": "None None",
+    "email": "support@myproperty.com.na",
+    "position": null
+  },
+  {
+    "company_name": "Namibia Estate Agents Board (NEAB)",
+    "name": "None None",
+    "email": "info@neab.co.na",
+    "position": null
+  },
+  {
+    "company_name": "Namibia Estate Agents Board (NEAB)",
+    "name": "None None",
+    "email": "supervisor@neab.co.na",
+    "position": null
+  },
+  {
+    "company_name": "Namibia Estate Agents Board (NEAB)",
+    "name": "None None",
+    "email": "admin2@neab.co.na",
+    "position": null
+  },
+  {
+    "company_name": "Namibia Estate Agents Board (NEAB)",
+    "name": "None None",
+    "email": "finance@neab.co.na",
+    "position": null
+  },
+  {
+    "company_name": "Namibia Estate Agents Board (NEAB)",
+    "name": "None None",
+    "email": "manager@neab.co.na",
+    "position": null
+  },
+  {
+    "company_name": "Namibia Estate Agents Board (NEAB)",
+    "name": "None None",
+    "email": "registrations@neab.co.na",
+    "position": null
+  },
+  {
+    "company_name": "Namibia Estate Agents Board (NEAB)",
+    "name": "None None",
+    "email": "reception@neab.co.na",
+    "position": null
+  },
+  {
+    "company_name": "Namibia Estate Agents Board (NEAB)",
+    "name": "None None",
+    "email": "admin1@neab.co.na",
+    "position": null
+  },
+  {
+    "company_name": "Namibia Estate Agents Board (NEAB)",
+    "name": "None None",
+    "email": "recruitment@neab.co.na",
+    "position": null
+  },
+  {
+    "company_name": "Namibia Estate Agents Board (NEAB)",
+    "name": "None None",
+    "email": "complaints@neab.co.na",
+    "position": null
+  },
+  {
+    "company_name": "First Capital Namibia",
+    "name": "Claudia Geudes",
+    "email": "claudiag@firstcapitalnam.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "First Capital Namibia",
+    "name": "None None",
+    "email": "help@firstcapitalnam.com",
+    "position": null
+  },
+  {
+    "company_name": "First Capital Namibia",
+    "name": "None None",
+    "email": "homeloan@firstcapitalnam.com",
+    "position": null
+  },
+  {
+    "company_name": "First Capital Namibia",
+    "name": "None None",
+    "email": "lizah@firstcapitalnam.com",
+    "position": null
+  },
+  {
+    "company_name": "First Capital Namibia",
+    "name": "None None",
+    "email": "info@firstcapitalnam.com",
+    "position": null
+  },
+  {
+    "company_name": "First Capital Namibia",
+    "name": "None None",
+    "email": "hr@firstcapitalnam.com",
+    "position": null
+  },
+  {
+    "company_name": "First Capital Namibia",
+    "name": "None None",
+    "email": "mwinga@firstcapitalnam.com",
+    "position": null
+  }
+]

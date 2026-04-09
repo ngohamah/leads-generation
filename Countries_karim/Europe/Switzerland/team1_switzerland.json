@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Swiss Prime Site AG",
+    "website": "https://sps.swiss",
+    "address": "Poststrasse 4a, CH‑6300 Zug, Switzerland",
+    "email": "info@sps.swiss",
+    "phone": "+41 58317 1717"
+  },
+  {
+    "name": "Swiss Prime Site Solutions AG",
+    "website": "https://spssolutions.swiss",
+    "address": "Alpenstrasse 15, CH‑6300 Zug, Switzerland",
+    "email": "info@sps.swiss",
+    "phone": "+41 58317 1717"
+  },
+  {
+    "name": "PSP Swiss Property AG",
+    "website": "https://www.psp.info",
+    "address": "Kolinplatz 2, CH‑6300 Zug, Switzerland",
+    "email": "info@psp.info",
+    "phone": "+41 41728 0404"
+  },
+  {
+    "name": "Allreal Holding AG",
+    "website": "https://www.allreal.ch",
+    "address": "Lindbergh-Allee 1, CH‑8152 Glattpark (Opfikon), Switzerland",
+    "email": "info@allreal.ch",
+    "phone": "+41 44319 1111"
+  },
+  {
+    "name": "Mobimo Holding AG",
+    "website": "https://www.mobimo.ch",
+    "address": "Rütligasse 1, CH‑6000 Lucerne, Switzerland",
+    "email": null,
+    "phone": "+41 41249 4980"
+  },
+  {
+    "name": "Investis Holding SA",
+    "website": "https://www.investisgroup.com",
+    "address": "Neumühlequai 6, CH‑8001 Zürich, Switzerland",
+    "email": "communication@investisgroup.com",
+    "phone": "+41 5820 17240"
+  },
+  {
+    "name": "IWG plc (Switzerland HQ)",
+    "website": "https://www.iwgplc.com",
+    "address": "Dammstrasse 19, CH‑6300 Zug, Switzerland",
+    "email": "partners@iwgplc.com",
+    "phone": null
+  },
+  {
+    "name": "ImmoScout24 (Switzerland)",
+    "website": "https://www.immoscout24.ch",
+    "address": null,
+    "email": "helpdesk@immoscout24.ch",
+    "phone": "+41 31 74417 40"
+  },
+  {
+    "name": "Neho immobilier",
+    "website": "https://www.neho.ch",
+    "address": null,
+    "email": "zurich@neho.ch",
+    "phone": "+41 21588 1414"
+  },
+  {
+    "name": "Walde Immobilien",
+    "website": "https://www.waldeimmobilien.com/",
+    "address": null,
+    "email": null,
+    "phone": null
+  }
+]

@@ -1,0 +1,100 @@
+[
+    {
+      "name": "Keller Williams Nicaragua",
+      "website": "https://kwnicaragua.kw.com/",
+      "address": "Kilometro 12.5 Carretera Masaya, Galerias Santo Domingo, Modulo G-100, Managua, Nicaragua",
+      "email": "robertosr.serrano@kwnicaragua.com",
+      "phone_number": "+505 8779 4242"
+    },
+    {
+      "name": "RE/MAX Coastal Properties (San Juan del Sur)",
+      "website": "https://www.remax-nicaragua.com/contact.html",
+      "address": "Barrio La Planta, 1/2c al norte del Banco Lafise, San Juan del Sur, Rivas, Nicaragua.",
+      "email": null,
+      "phone_number": "+505 8282 3142 (Nicaragua), +1 713 965 4700 (USA/Canada)"
+    },
+    {
+      "name": "Discover Real Estate",
+      "website": "https://en.discovernica.com/",
+      "address": "Villa Fontana, Managua, de los Semáforos del Club Terraza, 1 cuadra al Sur, Edificio Discover I, Segunda Planta.",
+      "email": "info@discovernica.com",
+      "phone_number": "(505) 2270 4000, (505) 8883 2200"
+    },
+    {
+      "name": "https://emeraldinvestmentnica.com/",
+      "website": "https://emeraldcoastnicaragua.com/contact-us/",
+      "address": "Shop 4 Plaza La joya, Hacienda Iguana, Tola 48500, Nicaragua",
+      "email": "nicarealtors.com",
+      "phone_number": "(+505) 8929-3127"
+    },
+    {
+      "name": "Territorio Bienes Raices",
+      "website": "https://www.territorionicaragua.com/contactenos/",
+      "address": "Villa Fontana Norte. Del Super Portas, 1 c. Este, 1 c. Norte, 1/2 c. Oeste, Managua 14173, Nicaragua",
+      "email": null,
+      "phone_number": "+505 2270 5728"
+    },
+    {
+      "name": "New Century Companies",
+      "website": "https://www.new-century-companies.com/",
+      "address": "Km. 6.5 Masaya Highway.COBIRSA Building, Module 2A. Managua, Nicaragua",
+      "email": "info@newcenturyni.com",
+      "phone_number": null
+    },
+    {
+      "name": "Starling Constructions",
+      "website": "https://starlingconstructions.com/",
+      "address": "Ciudad Sandino. Zona 10. De la cancha deportiva una cuadra al norte, una cuadra abajo, mano izquierda.",
+      "email": " proyectos@starlingconstructions.com",
+      "phone_number": "+505 88610538"
+    },
+    {
+      "name": "Guacalito de La Isla (Developer: Grupo Pellas)",
+      "website": "https://www.guacalitodelaisla.com/contact-us",
+      "address": "KM 10 Carretera Tola-Las Salinas, Rivas.",
+      "email": "realestate@guacalitodelaisla.com",
+      "phone_number": "+(505) 8525 3786"
+    },
+    {
+      "name": "Gran Pacifica",
+      "website": "https://granpacifica.com/contact-us/",
+      "address": "Gran Pacifica Resort - Nicaragua Oceanfront Real Estate Ofiplaza El Retiro, from the 'El Periodista' roundabout, 150 m South 'Módulos Comerciales' Building, 2nd Floor, Suite CC7 Managua, Nicaragua",
+      "email": "info@granpacifica.com",
+      "phone_number": "011 (505) 2254-7600"
+    },
+    {
+      "name": "Hacienda Iguana",
+      "website": "https://www.haciendaiguana.com/",
+      "address": "Tola, Rivas, Nicaragua",
+      "email": "sales@haciendaiguana.com",
+      "phone_number": "+(505)-8724-3000"
+    },
+    {
+      "name": "El Encanto del Sur",
+      "website": "https://elencantodelsur.com/contact-us/",
+      "address": "San Juan del Sur, Rivas, Nicaragua (Development location)",
+      "email": "info@elencantodelsur.com",
+      "phone_number": "(505)-8564-0945"
+    },
+    {
+      "name": "Ciudad El Doral (Aleser Developers)",
+      "website": "https://ciudadeldoral.com/",
+      "address": "Km 10.5 Carretera Sur, frente a Las Colinas Sur. Managua, Nicaragua",
+      "email": "atencionclientes@newcentury.ni.com",
+      "phone_number": "(+505) 2267-8600"
+    },
+    {
+      "name": "Brisas del Pacifico",
+      "website": "https://brisasdelpacifico.net/",
+      "address": "Rivas, Nicaragua (Development location near Tola)",
+      "email": "info@brisasdelpacifico.net",
+      "phone_number": "+505 8601 7317"
+    },
+    {
+      "name": "Costa Dulce",
+      "website": "https://www.costadulcebeach.com/",
+      "address": "Escameca Eco-Lodge San Juan del Sur, Nicaragua",
+      "email": "info@costadulcebeach.com",
+      "phone_number": "+505-8277-8009"
+    }
+  ]

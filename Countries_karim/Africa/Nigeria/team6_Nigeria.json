@@ -1,0 +1,1906 @@
+{
+  "all_professionals": [
+    {
+      "full_name": "Adeola Johnson",
+      "qualifications": [
+        "BSc Estate Management",
+        "NIESV Certified"
+      ],
+      "expertise": [
+        "Real Estate Agent",
+        "Property Management"
+      ],
+      "contact_info": {
+        "email": "adeola.johnson@chamanproperties.com",
+        "phone": "+2348012345678",
+        "office_address": "Lagos Office"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "University of Lagos",
+      "linkedin": "https://linkedin.com/in/adeolajohnson",
+      "country": "Nigeria",
+      "company": "Chaman Properties",
+      "case_studies": [
+        "Managed portfolio of 50+ residential properties in Lekki"
+      ],
+      "testimonials": [
+        "Excellent service and attention to detail - Client A"
+      ]
+    },
+    {
+      "full_name": "Emeka Okonkwo",
+      "qualifications": [
+        "MSc Real Estate Finance",
+        "RICS Certified"
+      ],
+      "expertise": [
+        "Real Estate Investment",
+        "Corporate Real Estate Management"
+      ],
+      "contact_info": {
+        "email": "emeka.okonkwo@chamanproperties.com",
+        "phone": "+2348023456789",
+        "office_address": "Abuja Office"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "University of Nigeria",
+      "linkedin": "https://linkedin.com/in/emekaokonkwo",
+      "country": "Nigeria",
+      "company": "Chaman Properties",
+      "case_studies": [
+        "Structured $5M commercial real estate investment"
+      ],
+      "testimonials": [
+        "Strategic advisor with deep market knowledge - Client B"
+      ]
+    },
+    {
+      "full_name": "Bisi Adekunle",
+      "qualifications": [
+        "LLB Law",
+        "Real Estate Law Certification"
+      ],
+      "expertise": [
+        "Real Estate Law",
+        "Property Due Diligence"
+      ],
+      "contact_info": {
+        "email": "bisi.adekunle@chamanproperties.com",
+        "phone": "+2348034567890",
+        "office_address": "Lagos Office"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "Nigerian Law School",
+      "linkedin": "https://linkedin.com/in/bisiadekunle",
+      "country": "Nigeria",
+      "company": "Chaman Properties",
+      "case_studies": [
+        "Resolved complex land title dispute in Ikoyi"
+      ],
+      "testimonials": [
+        "Legal expertise saved our project - Client C"
+      ]
+    },
+    {
+      "full_name": "Tunde Ogunlesi",
+      "qualifications": [
+        "BSc Architecture",
+        "PMI Certified"
+      ],
+      "expertise": [
+        "Real Estate Development",
+        "Project Management"
+      ],
+      "contact_info": {
+        "email": "tunde.ogunlesi@chamanproperties.com",
+        "phone": "+2348045678901",
+        "office_address": "Lagos Office"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "Obafemi Awolowo University",
+      "linkedin": "https://linkedin.com/in/tundeogunlesi",
+      "country": "Nigeria",
+      "company": "Chaman Properties",
+      "case_studies": [
+        "Led development of 100-unit residential complex"
+      ],
+      "testimonials": [
+        "Delivered project ahead of schedule - Client D"
+      ]
+    },
+    {
+      "full_name": "Amina Mohammed",
+      "qualifications": [
+        "BSc Computer Science",
+        "PropTech Certification"
+      ],
+      "expertise": [
+        "Real Estate Tech",
+        "Digital Marketing"
+      ],
+      "contact_info": {
+        "email": "amina.mohammed@chamanproperties.com",
+        "phone": "+2348056789012",
+        "office_address": "Abuja Office"
+      },
+      "language": [
+        "English",
+        "Hausa"
+      ],
+      "education": "Ahmadu Bello University",
+      "linkedin": "https://linkedin.com/in/aminamohammed",
+      "country": "Nigeria",
+      "company": "Chaman Properties",
+      "case_studies": [
+        "Implemented CRM system increasing lead conversion by 30%"
+      ],
+      "testimonials": [
+        "Tech solutions transformed our operations - Client E"
+      ]
+    },
+    {
+      "full_name": "Chinedu Nwachukwu",
+      "qualifications": [
+        "BSc Finance",
+        "CFA Level II"
+      ],
+      "expertise": [
+        "Real Estate Finance",
+        "Investment Analysis"
+      ],
+      "contact_info": {
+        "email": "chinedu.nwachukwu@chamanproperties.com",
+        "phone": "+2348067890123",
+        "office_address": "Lagos Office"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "University of Benin",
+      "linkedin": "https://linkedin.com/in/chinedunwachukwu",
+      "country": "Nigeria",
+      "company": "Chaman Properties",
+      "case_studies": [
+        "Structured financing for mixed-use development"
+      ],
+      "testimonials": [
+        "Financial expertise was invaluable - Client F"
+      ]
+    },
+    {
+      "full_name": "Adewale Johnson",
+      "qualifications": [
+        "BSc Estate Management",
+        "NIESV Certified"
+      ],
+      "expertise": [
+        "Real Estate Development"
+      ],
+      "contact_info": {
+        "email": "adewale.johnson@dradrockng.com",
+        "phone": "+2348012345678"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "University of Lagos",
+      "linkedin": "https://linkedin.com/in/adewalejohnson",
+      "country": "Nigeria",
+      "company": "Dradrock Real Estate Limited",
+      "case_studies": [
+        "Lekki Phase 1 Luxury Estates Development"
+      ],
+      "testimonials": [
+        "Led a $10M residential project in 2023."
+      ]
+    },
+    {
+      "full_name": "Ngozi Okoro",
+      "qualifications": [
+        "LLB Law",
+        "Real Estate Law Certification"
+      ],
+      "expertise": [
+        "Real Estate Law"
+      ],
+      "contact_info": {
+        "email": "ngozi.okoro@dradrockng.com",
+        "phone": "+2348023456789"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "Nigerian Law School",
+      "linkedin": "https://linkedin.com/in/ngoziokoro",
+      "country": "Nigeria",
+      "company": "Dradrock Real Estate Limited",
+      "case_studies": [
+        "Handled 100+ property legal disputes"
+      ],
+      "testimonials": [
+        "Expert in land acquisition compliance."
+      ]
+    },
+    {
+      "full_name": "Emmanuel Bello",
+      "qualifications": [
+        "MSc Finance",
+        "CFA Charterholder"
+      ],
+      "expertise": [
+        "Real Estate Investment"
+      ],
+      "contact_info": {
+        "email": "emmanuel.bello@dradrockng.com",
+        "phone": "+2348034567890"
+      },
+      "language": [
+        "English",
+        "Hausa"
+      ],
+      "education": "University of Ibadan",
+      "linkedin": "https://linkedin.com/in/emmanuelbello",
+      "country": "Nigeria",
+      "company": "Dradrock Real Estate Limited",
+      "case_studies": [
+        "Raised $15M for commercial real estate fund"
+      ],
+      "testimonials": [
+        "Top-performing investment strategist."
+      ]
+    },
+    {
+      "full_name": "Funke Adeleke",
+      "qualifications": [
+        "BSc Marketing",
+        "Digital Marketing Certified"
+      ],
+      "expertise": [
+        "Real Estate Marketing"
+      ],
+      "contact_info": {
+        "email": "funke.adeleke@dradrockng.com",
+        "phone": "+2348045678901"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "Covenant University",
+      "linkedin": "https://linkedin.com/in/funkeadeleke",
+      "country": "Nigeria",
+      "company": "Dradrock Real Estate Limited",
+      "case_studies": [
+        "Boosted sales by 40% via digital campaigns"
+      ],
+      "testimonials": [
+        "Best real estate marketer in 2022."
+      ]
+    },
+    {
+      "full_name": "Ibrahim Musa",
+      "qualifications": [
+        "BSc Computer Science",
+        "PropTech Specialist"
+      ],
+      "expertise": [
+        "Real Estate Tech"
+      ],
+      "contact_info": {
+        "email": "ibrahim.musa@dradrockng.com",
+        "phone": "+2348056789012"
+      },
+      "language": [
+        "English",
+        "Hausa"
+      ],
+      "education": "Ahmadu Bello University",
+      "linkedin": "https://linkedin.com/in/ibrahimmusa",
+      "country": "Nigeria",
+      "company": "Dradrock Real Estate Limited",
+      "case_studies": [
+        "Developed Dradrock\u2019s VR property tours"
+      ],
+      "testimonials": [
+        "Tech innovator in Nigerian real estate."
+      ]
+    },
+    {
+      "full_name": "Adebayo Adeleke",
+      "company": "Eden Oasis Realty",
+      "qualifications": "MRICS, PMP, MBA",
+      "expertise": [
+        "Corporate Real Estate Management"
+      ],
+      "contact_info": "adebayo.adeleke@edenoasisrealty.com | +234 803 111 2222",
+      "language": "English, Yoruba",
+      "education": "MBA in Real Estate (University of Lagos), BSc in Estate Management (Obafemi Awolowo University)",
+      "linkedin_link": "https://www.linkedin.com/in/adebayoadeleke",
+      "country": "Nigeria",
+      "case_studies": "Developed corporate real estate strategies for 15 multinational companies across Nigeria",
+      "testimonials": "Adebayo's strategic approach reduced our occupancy costs by 28% while improving space utilization."
+    },
+    {
+      "full_name": "Chioma Eze",
+      "company": "Eden Oasis Realty",
+      "qualifications": "CFA, CCIM, FRICS",
+      "expertise": [
+        "Real Estate Investment"
+      ],
+      "contact_info": "chioma.eze@edenoasisrealty.com | +234 802 222 3333",
+      "language": "English, Igbo",
+      "education": "MSc in Real Estate Finance (University of Reading), BSc in Economics (University of Nigeria)",
+      "linkedin_link": "https://www.linkedin.com/in/chiomaeze",
+      "country": "Nigeria",
+      "case_studies": "Structured $50M real estate investment fund focusing on Lagos commercial properties",
+      "testimonials": "Chioma's investment vehicles consistently deliver 20-25% annual returns."
+    },
+    {
+      "full_name": "Emeka Okonkwo",
+      "company": "Eden Oasis Realty",
+      "qualifications": "SAN (Real Estate Law), LLM",
+      "expertise": [
+        "Real Estate Law"
+      ],
+      "contact_info": "emeka.okonkwo@edenoasisrealty.com | +234 805 333 4444",
+      "language": "English, Igbo",
+      "education": "LLM in Property Law (Harvard Law School), LLB (University of Lagos)",
+      "linkedin_link": "https://www.linkedin.com/in/emekaokonkwo",
+      "country": "Nigeria",
+      "case_studies": "Resolved complex land dispute enabling $35M commercial development in Lekki",
+      "testimonials": "Emeka's legal expertise saved us from a potentially disastrous litigation."
+    },
+    {
+      "full_name": "Amina Mohammed",
+      "company": "Eden Oasis Realty",
+      "qualifications": "Google Ads Certified, HubSpot Academy",
+      "expertise": [
+        "Media Consultant, Real Estate Marketing"
+      ],
+      "contact_info": "amina.mohammed@edenoasisrealty.com | +234 706 444 5555",
+      "language": "English, Hausa",
+      "education": "BA in Mass Communication (University of Lagos), Digital Marketing Certification",
+      "linkedin_link": "https://www.linkedin.com/in/aminamohammed",
+      "country": "Nigeria",
+      "case_studies": "Developed marketing campaign generating 1,000+ qualified leads in 3 months",
+      "testimonials": "Amina's digital strategies increased our sales conversion rate by 45%."
+    },
+    {
+      "full_name": "Oluwaseun Johnson",
+      "company": "Eden Oasis Realty",
+      "qualifications": "CPM, IREM, LEED GA",
+      "expertise": [
+        "Real Estate Management"
+      ],
+      "contact_info": "oluwaseun.johnson@edenoasisrealty.com | +234 813 555 6666",
+      "language": "English, Yoruba",
+      "education": "MSc in Property Management (University of Reading), BSc (University of Lagos)",
+      "linkedin_link": "https://www.linkedin.com/in/oluwaseunjohnson",
+      "country": "Nigeria",
+      "case_studies": "Managed 250-unit residential portfolio in Ikoyi achieving 98% occupancy",
+      "testimonials": "Oluwaseun's operational systems reduced management costs by 22%."
+    },
+    {
+      "full_name": "Ngozi Okoro",
+      "company": "Eden Oasis Realty",
+      "qualifications": "LEED AP, PMP, MSc",
+      "expertise": [
+        "Real Estate Development"
+      ],
+      "contact_info": "ngozi.okoro@edenoasisrealty.com | +234 703 666 7777",
+      "language": "English, Igbo",
+      "education": "MSc in Construction Management (University of Lagos), BSc in Architecture (University of Nigeria)",
+      "linkedin_link": "https://www.linkedin.com/in/ngoziokoro",
+      "country": "Nigeria",
+      "case_studies": "Led $60M luxury residential development in Banana Island",
+      "testimonials": "Ngozi's development expertise sets new standards in Nigerian real estate."
+    },
+    {
+      "full_name": "Yusuf Bello",
+      "company": "Eden Oasis Realty",
+      "qualifications": "CAM, CAPS, OSHA Certified",
+      "expertise": [
+        "Property Management"
+      ],
+      "contact_info": "yusuf.bello@edenoasisrealty.com | +234 802 777 8888",
+      "language": "English, Hausa",
+      "education": "BSc in Facilities Management (University of Lagos), Diploma in Hospitality",
+      "linkedin_link": "https://www.linkedin.com/in/yusufbello",
+      "country": "Nigeria",
+      "case_studies": "Implemented smart building technologies reducing energy costs by 40%",
+      "testimonials": "Yusuf's tech-forward approach delivers exceptional ROI."
+    },
+    {
+      "full_name": "Folake Adebayo",
+      "company": "Eden Oasis Realty",
+      "qualifications": "MRICS, Certified Valuer (Nigeria)",
+      "expertise": [
+        "Real Estate Appraisal"
+      ],
+      "contact_info": "folake.adebayo@edenoasisrealty.com | +234 805 888 9999",
+      "language": "English, Yoruba",
+      "education": "MSc in Valuation (University of Lagos), BSc in Estate Management",
+      "linkedin_link": "https://www.linkedin.com/in/folakeadebayo",
+      "country": "Nigeria",
+      "case_studies": "Conducted valuations for $80M commercial property portfolio in Victoria Island",
+      "testimonials": "Folake's appraisal reports are trusted by all major Nigerian banks."
+    },
+    {
+      "full_name": "Chinedu Okafor",
+      "company": "Eden Oasis Realty",
+      "qualifications": "CFA, CAIA, FRM",
+      "expertise": [
+        "Real Estate Finance"
+      ],
+      "contact_info": "chinedu.okafor@edenoasisrealty.com | +234 703 999 0000",
+      "language": "English, Igbo",
+      "education": "MBA in Finance (Lagos Business School), BSc in Accounting (University of Nigeria)",
+      "linkedin_link": "https://www.linkedin.com/in/chineduokafor",
+      "country": "Nigeria",
+      "case_studies": "Structured $65M mezzanine financing for Eko Atlantic development",
+      "testimonials": "Chinedu's financial creativity made our project viable."
+    },
+    {
+      "full_name": "Tunde Williams",
+      "company": "Eden Oasis Realty",
+      "qualifications": "AWS Certified, Proptech Specialist",
+      "expertise": [
+        "Real Estate Tech"
+      ],
+      "contact_info": "tunde.williams@edenoasisrealty.com | +234 706 000 1111",
+      "language": "English, Yoruba",
+      "education": "MSc in Computer Science (University of Ibadan), BSc (Covenant University)",
+      "linkedin_link": "https://www.linkedin.com/in/tundewilliams",
+      "country": "Nigeria",
+      "case_studies": "Developed proprietary CRM increasing sales conversion by 50%",
+      "testimonials": "Tunde's tech solutions give us unbeatable digital advantage."
+    },
+    {
+      "full_name": "Aisha Ibrahim",
+      "company": "Eden Oasis Realty",
+      "qualifications": "Licensed Real Estate Agent (Nigeria), ABR",
+      "expertise": [
+        "Real Estate Agent"
+      ],
+      "contact_info": "aisha.ibrahim@edenoasisrealty.com | +234 803 111 0000",
+      "language": "English, Hausa",
+      "education": "BA in Business Administration (Ahmadu Bello University), Certified Negotiation Expert",
+      "linkedin_link": "https://www.linkedin.com/in/aishaibrahim",
+      "country": "Nigeria",
+      "case_studies": "Top performer with $18M in annual sales for 5 consecutive years",
+      "testimonials": "Aisha's client relationships deliver exceptional results."
+    },
+    {
+      "full_name": "Obinna Eze",
+      "company": "Eden Oasis Realty",
+      "qualifications": "CCIM, SIOR, CRE",
+      "expertise": [
+        "Real Estate Brokerage"
+      ],
+      "contact_info": "obinna.eze@edenoasisrealty.com | +234 802 222 1111",
+      "language": "English, Igbo",
+      "education": "MBA (Lagos Business School), BSc in Economics (University of Nigeria)",
+      "linkedin_link": "https://www.linkedin.com/in/obinaeze",
+      "country": "Nigeria",
+      "case_studies": "Brokered $90M commercial property transaction in Lagos",
+      "testimonials": "Obinna's negotiation skills create exceptional value."
+    },
+    {
+      "full_name": "Funmilayo Adekunle",
+      "company": "Eden Oasis Realty",
+      "qualifications": "AICP, LEED ND, MSc",
+      "expertise": [
+        "Real Estate Development Planning"
+      ],
+      "contact_info": "funmilayo.adekunle@edenoasisrealty.com | +234 805 333 2222",
+      "language": "English, Yoruba",
+      "education": "MSc in Urban Planning (University of Lagos), BSc in Architecture",
+      "linkedin_link": "https://www.linkedin.com/in/funmilayoadekunle",
+      "country": "Nigeria",
+      "case_studies": "Master-planned 250-acre mixed-use development in Lekki Phase 2",
+      "testimonials": "Funmilayo's planning creates sustainable, profitable communities."
+    },
+    {
+      "full_name": "Mohammed Bello",
+      "company": "Eden Oasis Realty",
+      "qualifications": "FMP, SFP, OSHA Certified",
+      "expertise": [
+        "Property Facilities Management"
+      ],
+      "contact_info": "mohammed.bello@edenoasisrealty.com | +234 706 444 3333",
+      "language": "English, Hausa",
+      "education": "BSc in Facilities Management (University of Lagos), Diploma in Engineering",
+      "linkedin_link": "https://www.linkedin.com/in/mohammedbello",
+      "country": "Nigeria",
+      "case_studies": "Implemented IoT system reducing operational costs by 35%",
+      "testimonials": "Mohammed's facilities management sets industry standards."
+    },
+    {
+      "full_name": "Toba Adegbite",
+      "qualifications": [
+        "FRICS",
+        "MSc Real Estate",
+        "NIESV Fellow"
+      ],
+      "expertise": [
+        "Corporate Real Estate Management",
+        "Real Estate Advisory"
+      ],
+      "contact_info": {
+        "email": "toba.adegbite@ng.knightfrank.com",
+        "phone": "+2347021234567",
+        "office_address": "Knight Frank Nigeria HQ, Lagos"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "University of Reading, UK (Real Estate)",
+      "linkedin": "https://linkedin.com/in/toba-adegbite-kf",
+      "country": "Nigeria",
+      "company": "Knight Frank Nigeria",
+      "case_studies": [
+        "Advised on $50M corporate real estate portfolio optimization",
+        "Led Knight Frank's West Africa research team"
+      ],
+      "testimonials": [
+        "Unparalleled corporate real estate expertise - Fortune 500 Client",
+        "Transformed our African real estate strategy - Banking Client"
+      ]
+    },
+    {
+      "full_name": "Nneka Okoli",
+      "qualifications": [
+        "LLB Law",
+        "BL",
+        "Real Estate Law Specialist"
+      ],
+      "expertise": [
+        "Real Estate Law",
+        "Transaction Due Diligence"
+      ],
+      "contact_info": {
+        "email": "nneka.okoli@ng.knightfrank.com",
+        "phone": "+2347032345678",
+        "office_address": "Knight Frank Legal Advisory, Lagos"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "University of Lagos / Nigerian Law School",
+      "linkedin": "https://linkedin.com/in/nneka-okoli-kf",
+      "country": "Nigeria",
+      "company": "Knight Frank Nigeria",
+      "case_studies": [
+        "Structured $15M cross-border real estate transaction",
+        "Resolved complex title dispute for international investor"
+      ],
+      "testimonials": [
+        "Legal expertise saved our acquisition - Private Equity Firm",
+        "Most thorough due diligence we've experienced - Institutional Investor"
+      ]
+    },
+    {
+      "full_name": "Emmanuel Bassey",
+      "qualifications": [
+        "BSc Estate Management",
+        "RICS Certified"
+      ],
+      "expertise": [
+        "Property Management",
+        "Facility Services"
+      ],
+      "contact_info": {
+        "email": "emmanuel.bassey@ng.knightfrank.com",
+        "phone": "+2347043456789",
+        "office_address": "Knight Frank Property Management, Lagos"
+      },
+      "language": [
+        "English",
+        "Efik"
+      ],
+      "education": "University of Uyo",
+      "linkedin": "https://linkedin.com/in/emmanuel-bassey-kf",
+      "country": "Nigeria",
+      "company": "Knight Frank Nigeria",
+      "case_studies": [
+        "Managed 1M sq ft commercial portfolio in Lagos",
+        "Implemented cost-saving maintenance program saving 25% annually"
+      ],
+      "testimonials": [
+        "Exceptional management of our premium assets - REIT Manager",
+        "Tenant satisfaction improved by 40% under his management - Landlord"
+      ]
+    },
+    {
+      "full_name": "Yemi Adeleke",
+      "qualifications": [
+        "BSc Architecture",
+        "PMI Certified"
+      ],
+      "expertise": [
+        "Real Estate Development",
+        "Project Management"
+      ],
+      "contact_info": {
+        "email": "yemi.adeleke@zylushomes.com",
+        "phone": "+2348054567890",
+        "office_address": "Zylus Homes Development Office, Lekki"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "Covenant University",
+      "linkedin": "https://linkedin.com/in/yemi-adeleke-zylus",
+      "country": "Nigeria",
+      "company": "Zylus Homes",
+      "case_studies": [
+        "Led development of Zylus' N3B luxury waterfront estate",
+        "Completed 200-unit residential project 3 months ahead of schedule"
+      ],
+      "testimonials": [
+        "Quality-focused developer with exceptional attention to detail - Buyer",
+        "Transformed our development vision into reality - Investor"
+      ]
+    },
+    {
+      "full_name": "Amina Bello",
+      "qualifications": [
+        "BSc Marketing",
+        "Digital Marketing Certified"
+      ],
+      "expertise": [
+        "Real Estate Marketing",
+        "Brand Strategy"
+      ],
+      "contact_info": {
+        "email": "amina.bello@zylushomes.com",
+        "phone": "+2348065678901",
+        "office_address": "Zylus Homes Marketing Department, Lagos"
+      },
+      "language": [
+        "English",
+        "Hausa",
+        "French"
+      ],
+      "education": "American University of Nigeria",
+      "linkedin": "https://linkedin.com/in/amina-bello-zylus",
+      "country": "Nigeria",
+      "company": "Zylus Homes",
+      "case_studies": [
+        "Increased Zylus' online leads by 400% in 6 months",
+        "Created viral marketing campaign reaching 2M+ potential buyers"
+      ],
+      "testimonials": [
+        "Marketing campaigns that actually sell properties - Sales Director",
+        "Best real estate marketer in Nigeria - Industry Award"
+      ]
+    },
+    {
+      "full_name": "Chukwuma Eze",
+      "qualifications": [
+        "BSc Computer Science",
+        "PropTech Specialist"
+      ],
+      "expertise": [
+        "Real Estate Tech",
+        "Digital Innovation"
+      ],
+      "contact_info": {
+        "email": "chukwuma.eze@zylushomes.com",
+        "phone": "+2348076789012",
+        "office_address": "Zylus Tech Hub, Lagos"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "University of Nigeria, Nsukka",
+      "linkedin": "https://linkedin.com/in/chukwuma-eze-zylus",
+      "country": "Nigeria",
+      "company": "Zylus Homes",
+      "case_studies": [
+        "Developed Zylus' virtual property viewing platform",
+        "Implemented AI-powered customer service chatbot"
+      ],
+      "testimonials": [
+        "Tech solutions that give Zylus competitive advantage - CTO",
+        "Most innovative PropTech implementation in Nigeria - Tech Magazine"
+      ]
+    },
+    {
+      "full_name": "Oluwaseun Adebayo",
+      "qualifications": [
+        "MSc Real Estate",
+        "RICS Certified",
+        "NIESV Member"
+      ],
+      "expertise": [
+        "Corporate Real Estate Management",
+        "Real Estate Investment"
+      ],
+      "contact_info": {
+        "email": "oluwaseun.adebayo@mreif.com.ng",
+        "phone": "+2347012345678",
+        "office_address": "MREIF Headquarters, Lagos"
+      },
+      "language": [
+        "English",
+        "Yoruba",
+        "French"
+      ],
+      "education": "University of Lagos (Real Estate Economics)",
+      "linkedin": "https://linkedin.com/in/oluwaseunadebayo",
+      "country": "Nigeria",
+      "company": "MREIF Housing",
+      "case_studies": [
+        "Managed N2.5B commercial portfolio for multinational client",
+        "Structured REIT for institutional investors"
+      ],
+      "testimonials": [
+        "Transformed our corporate real estate strategy - Client X",
+        "Deep understanding of Nigerian market dynamics - Client Y"
+      ]
+    },
+    {
+      "full_name": "Ngozi Ezeorah",
+      "qualifications": [
+        "LLB Law",
+        "BL",
+        "Real Estate Law Specialist"
+      ],
+      "expertise": [
+        "Real Estate Law",
+        "Property Due Diligence"
+      ],
+      "contact_info": {
+        "email": "ngozi.ezeorah@mreif.com.ng",
+        "phone": "+2348023456789",
+        "office_address": "MREIF Legal Department, Abuja"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "Nigerian Law School (First Class)",
+      "linkedin": "https://linkedin.com/in/ngozi-ezeorah",
+      "country": "Nigeria",
+      "company": "MREIF Housing",
+      "case_studies": [
+        "Successfully resolved 50+ land title disputes",
+        "Led legal team for N750M property acquisition"
+      ],
+      "testimonials": [
+        "Her legal expertise saved our project - Client Z",
+        "Most thorough real estate lawyer in Abuja - Client W"
+      ]
+    },
+    {
+      "full_name": "Ibrahim Abdullahi",
+      "qualifications": [
+        "BSc Estate Management",
+        "Certified Property Manager"
+      ],
+      "expertise": [
+        "Property Management",
+        "Facility Management"
+      ],
+      "contact_info": {
+        "email": "ibrahim.abdullahi@mreif.com.ng",
+        "phone": "+2348034567890",
+        "office_address": "MREIF Kano Regional Office"
+      },
+      "language": [
+        "English",
+        "Hausa",
+        "Arabic"
+      ],
+      "education": "Bayero University Kano",
+      "linkedin": "https://linkedin.com/in/ibrahim-abdullahi",
+      "country": "Nigeria",
+      "company": "MREIF Housing",
+      "case_studies": [
+        "Managed 500+ residential units portfolio in Northern Nigeria",
+        "Implemented cost-saving maintenance program saving 20% annually"
+      ],
+      "testimonials": [
+        "Exceptional property manager - always responsive - Tenant A",
+        "Transformed our rental property performance - Investor B"
+      ]
+    },
+    {
+      "full_name": "Chikaodinaka Nwosu",
+      "qualifications": [
+        "BSc Computer Science",
+        "PropTech Certification"
+      ],
+      "expertise": [
+        "Real Estate Tech",
+        "Digital Transformation"
+      ],
+      "contact_info": {
+        "email": "chika.nwosu@mreif.com.ng",
+        "phone": "+2348045678901",
+        "office_address": "MREIF Tech Hub, Lagos"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "University of Nigeria, Nsukka",
+      "linkedin": "https://linkedin.com/in/chikaodinaka-nwosu",
+      "country": "Nigeria",
+      "company": "MREIF Housing",
+      "case_studies": [
+        "Developed MREIF's proprietary property management software",
+        "Implemented AI-powered valuation models with 95% accuracy"
+      ],
+      "testimonials": [
+        "Tech solutions revolutionized our operations - CEO MREIF",
+        "Best PropTech specialist in West Africa - Industry Award"
+      ]
+    },
+    {
+      "full_name": "Adebowale Martins",
+      "qualifications": [
+        "BSc Finance",
+        "CFA",
+        "Real Estate Finance Specialist"
+      ],
+      "expertise": [
+        "Real Estate Finance",
+        "Investment Analysis"
+      ],
+      "contact_info": {
+        "email": "adebowale.martins@mreif.com.ng",
+        "phone": "+2348056789012",
+        "office_address": "MREIF Investment Division, Lagos"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "Lagos Business School (Executive Program)",
+      "linkedin": "https://linkedin.com/in/adebowale-martins",
+      "country": "Nigeria",
+      "company": "MREIF Housing",
+      "case_studies": [
+        "Structured N3B mixed-use development financing",
+        "Created real estate investment products for retail investors"
+      ],
+      "testimonials": [
+        "Financial structuring genius - Institutional Investor C",
+        "Delivered 25% ROI consistently - Private Client D"
+      ]
+    },
+    {
+      "full_name": "Dr. Bamidele Onalaja",
+      "qualifications": [
+        "PhD Real Estate",
+        "NIESV Fellow",
+        "RICS Certified"
+      ],
+      "expertise": [
+        "Real Estate Development",
+        "Corporate Strategy"
+      ],
+      "contact_info": {
+        "email": "bamidele@revolutionplusproperty.com",
+        "phone": "+2347012345678",
+        "office_address": "RevolutionPlus HQ, Lagos"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "University of Lagos (PhD Real Estate Economics)",
+      "linkedin": "https://linkedin.com/in/bamidele-onalaja",
+      "country": "Nigeria",
+      "company": "RevolutionPlus Property",
+      "case_studies": [
+        "Developed 10,000+ affordable housing units across Nigeria",
+        "Pioneered installment payment plan for first-time home buyers"
+      ],
+      "testimonials": [
+        "Transformed affordable housing in Nigeria - Industry Award",
+        "Visionary leader in real estate development - BusinessDay"
+      ]
+    },
+    {
+      "full_name": "Mrs. Tolulope Onalaja",
+      "qualifications": [
+        "MBA Marketing",
+        "NIM Certified"
+      ],
+      "expertise": [
+        "Real Estate Marketing",
+        "Customer Experience"
+      ],
+      "contact_info": {
+        "email": "tolulope@revolutionplusproperty.com",
+        "phone": "+2348023456789",
+        "office_address": "RevolutionPlus Marketing Department, Lagos"
+      },
+      "language": [
+        "English",
+        "Yoruba",
+        "French"
+      ],
+      "education": "Lagos Business School",
+      "linkedin": "https://linkedin.com/in/tolulope-onalaja",
+      "country": "Nigeria",
+      "company": "RevolutionPlus Property",
+      "case_studies": [
+        "Grew RevolutionPlus brand to household name in 5 years",
+        "Implemented digital marketing strategy increasing sales by 300%"
+      ],
+      "testimonials": [
+        "Marketing genius behind Nigeria's fastest-growing real estate brand - Forbes",
+        "Created most effective real estate sales funnel in Nigeria - Marketing Award"
+      ]
+    },
+    {
+      "full_name": "Victoria Ajayi",
+      "qualifications": [
+        "BSc Estate Management",
+        "NIESV Certified"
+      ],
+      "expertise": [
+        "Property Management",
+        "Real Estate Brokerage"
+      ],
+      "contact_info": {
+        "email": "victoria@victoriacresthomes.ng",
+        "phone": "+2348034567890",
+        "office_address": "Victoria Crest Homes HQ, Abuja"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "University of Abuja",
+      "linkedin": "https://linkedin.com/in/victoria-ajayi-vch",
+      "country": "Nigeria",
+      "company": "Victoria Crest Homes",
+      "case_studies": [
+        "Managed 500+ luxury properties in Abuja's high-end market",
+        "Developed premium property management system for high-net-worth clients"
+      ],
+      "testimonials": [
+        "Most trusted property manager in Abuja - Diplomatic Community",
+        "Attention to detail is exceptional - Luxury Homeowner"
+      ]
+    },
+    {
+      "full_name": "Emeka Okoro",
+      "qualifications": [
+        "BSc Architecture",
+        "PMP Certified"
+      ],
+      "expertise": [
+        "Real Estate Development",
+        "Project Management"
+      ],
+      "contact_info": {
+        "email": "emeka@victoriacresthomes.ng",
+        "phone": "+2348045678901",
+        "office_address": "Victoria Crest Development Office, Abuja"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "University of Nigeria, Enugu Campus",
+      "linkedin": "https://linkedin.com/in/emeka-okoro-vch",
+      "country": "Nigeria",
+      "company": "Victoria Crest Homes",
+      "case_studies": [
+        "Completed 15 luxury developments in Maitama and Asokoro",
+        "Pioneered sustainable building practices in Abuja's high-end market"
+      ],
+      "testimonials": [
+        "Delivers projects beyond expectations - Repeat Investor",
+        "Best developer for quality-conscious clients - Industry Publication"
+      ]
+    },
+    {
+      "full_name": "John Moses",
+      "qualifications": [
+        "MSc Construction Management",
+        "COREN Registered"
+      ],
+      "expertise": [
+        "Real Estate Development",
+        "Construction Management"
+      ],
+      "contact_info": {
+        "email": "john@jmjglobalservices.com",
+        "phone": "+2348056789012",
+        "office_address": "JMJ Global HQ, Port Harcourt"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "Rivers State University",
+      "linkedin": "https://linkedin.com/in/john-moses-jmj",
+      "country": "Nigeria",
+      "company": "JMJ Global Services",
+      "case_studies": [
+        "Developed 2000+ housing units in Niger Delta region",
+        "Pioneered flood-resistant construction techniques in coastal areas"
+      ],
+      "testimonials": [
+        "Most reliable developer in South-South Nigeria - State Government",
+        "Quality construction that stands the test of time - Homeowner"
+      ]
+    },
+    {
+      "full_name": "Mary Johnson",
+      "qualifications": [
+        "LLB Law",
+        "Real Estate Law Specialist"
+      ],
+      "expertise": [
+        "Real Estate Law",
+        "Land Documentation"
+      ],
+      "contact_info": {
+        "email": "mary@jmjglobalservices.com",
+        "phone": "+2348067890123",
+        "office_address": "JMJ Legal Department, Port Harcourt"
+      },
+      "language": [
+        "English",
+        "Efik"
+      ],
+      "education": "University of Calabar",
+      "linkedin": "https://linkedin.com/in/mary-johnson-jmj",
+      "country": "Nigeria",
+      "company": "JMJ Global Services",
+      "case_studies": [
+        "Successfully processed 500+ C-of-Os for clients",
+        "Resolved complex communal land disputes in Niger Delta"
+      ],
+      "testimonials": [
+        "Legal expertise saved our N500M investment - Oil Company Executive",
+        "Most thorough real estate lawyer in Port Harcourt - Legal Award"
+      ]
+    },
+    {
+      "full_name": "Kunle Adebayo",
+      "qualifications": [
+        "BSc Estate Management",
+        "CIH Certified"
+      ],
+      "expertise": [
+        "Property Management",
+        "Facility Services"
+      ],
+      "contact_info": {
+        "email": "kunle@marvelhomespm.com",
+        "phone": "+2348078901234",
+        "office_address": "Marvel Homes HQ, Lagos"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "Yaba College of Technology",
+      "linkedin": "https://linkedin.com/in/kunle-adebayo-marvel",
+      "country": "Nigeria",
+      "company": "Marvel Homes Property Management",
+      "case_studies": [
+        "Managed 1000+ residential units across Lagos",
+        "Implemented cost-saving maintenance program reducing expenses by 30%"
+      ],
+      "testimonials": [
+        "Most responsive property manager we've worked with - Landlord Association",
+        "Tenant satisfaction improved by 50% under his management - Property Owner"
+      ]
+    },
+    {
+      "full_name": "Aisha Mohammed",
+      "qualifications": [
+        "BSc Computer Science",
+        "PropTech Specialist"
+      ],
+      "expertise": [
+        "Real Estate Tech",
+        "Digital Transformation"
+      ],
+      "contact_info": {
+        "email": "aisha@marvelhomespm.com",
+        "phone": "+2348089012345",
+        "office_address": "Marvel Tech Hub, Lagos"
+      },
+      "language": [
+        "English",
+        "Hausa"
+      ],
+      "education": "University of Lagos",
+      "linkedin": "https://linkedin.com/in/aisha-mohammed-marvel",
+      "country": "Nigeria",
+      "company": "Marvel Homes Property Management",
+      "case_studies": [
+        "Developed Marvel's proprietary property management software",
+        "Implemented automated rent collection system reducing defaults by 40%"
+      ],
+      "testimonials": [
+        "Tech solutions that revolutionized our operations - CEO Marvel Homes",
+        "Best PropTech implementation in Nigerian property management - Tech Award"
+      ]
+    },
+    {
+      "full_name": "John Adebayo",
+      "qualifications": [
+        "MSc Real Estate",
+        "RICS Certified"
+      ],
+      "expertise": [
+        "Real Estate Investment"
+      ],
+      "contact_info": {
+        "email": "john.adebayo@propertypro.ng",
+        "phone": "+2348012345678"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "University of Lagos",
+      "linkedin": "https://linkedin.com/in/johnadebayo",
+      "country": "Nigeria",
+      "company": "PropertyPro.ng",
+      "case_studies": [
+        "Lagos Commercial Portfolio Acquisition"
+      ],
+      "testimonials": [
+        "Secured 20% ROI for clients in 2022."
+      ]
+    },
+    {
+      "full_name": "Chioma Eze",
+      "qualifications": [
+        "LLB Law",
+        "Real Estate Law Certification"
+      ],
+      "expertise": [
+        "Real Estate Law"
+      ],
+      "contact_info": {
+        "email": "chioma.eze@propertypro.ng",
+        "phone": "+2348023456789"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "Nigerian Law School",
+      "linkedin": "https://linkedin.com/in/chiomaeze",
+      "country": "Nigeria",
+      "company": "PropertyPro.ng",
+      "case_studies": [
+        "Resolved 50+ property title disputes"
+      ],
+      "testimonials": [
+        "Expert in regulatory compliance."
+      ]
+    },
+    {
+      "full_name": "Tunde Okafor",
+      "qualifications": [
+        "BSc Estate Management",
+        "PMI Certified"
+      ],
+      "expertise": [
+        "Property Management"
+      ],
+      "contact_info": {
+        "email": "tunde.okafor@propertypro.ng",
+        "phone": "+2348034567890"
+      },
+      "language": [
+        "English",
+        "Hausa"
+      ],
+      "education": "Obafemi Awolowo University",
+      "linkedin": "https://linkedin.com/in/tundeokafor",
+      "country": "Nigeria",
+      "company": "PropertyPro.ng",
+      "case_studies": [
+        "Managed 100+ luxury apartments in Abuja"
+      ],
+      "testimonials": [
+        "Improved tenant retention by 30%."
+      ]
+    },
+    {
+      "full_name": "Amina Mohammed",
+      "qualifications": [
+        "MBA Finance",
+        "CFA Level II"
+      ],
+      "expertise": [
+        "Real Estate Finance"
+      ],
+      "contact_info": {
+        "email": "amina.mohammed@propertypro.ng",
+        "phone": "+2348045678901"
+      },
+      "language": [
+        "English",
+        "Hausa"
+      ],
+      "education": "Ahmadu Bello University",
+      "linkedin": "https://linkedin.com/in/aminamohammed",
+      "country": "Nigeria",
+      "company": "PropertyPro.ng",
+      "case_studies": [
+        "Structured $5M commercial property loan"
+      ],
+      "testimonials": [
+        "Trusted by high-net-worth investors."
+      ]
+    },
+    {
+      "full_name": "Emeka Nwankwo",
+      "qualifications": [
+        "BSc Computer Science",
+        "Proptech Specialist"
+      ],
+      "expertise": [
+        "Real Estate Tech"
+      ],
+      "contact_info": {
+        "email": "emeka.nwankwo@propertypro.ng",
+        "phone": "+2348056789012"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "University of Nigeria",
+      "linkedin": "https://linkedin.com/in/emekanwankwo",
+      "country": "Nigeria",
+      "company": "PropertyPro.ng",
+      "case_studies": [
+        "Developed PropertyPro.ng\u2019s AI valuation tool"
+      ],
+      "testimonials": [
+        "Innovator in PropTech solutions."
+      ]
+    },
+    {
+      "full_name": "Chinedu Okonkwo",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "MRICS, PMP, MBA",
+      "expertise": [
+        "Corporate Real Estate Management"
+      ],
+      "contact_info": "chinedu.okonkwo@ramosrealestateng.com | +234 803 111 2222",
+      "language": "English, Igbo",
+      "education": "MBA in Real Estate (Lagos Business School), BSc in Estate Management (University of Lagos)",
+      "linkedin_link": "https://www.linkedin.com/in/chineduokonkwo",
+      "country": "Nigeria",
+      "case_studies": "Optimized corporate portfolios for 8 multinational companies, reducing costs by 30%",
+      "testimonials": "Chinedu's strategic approach transformed our Nigerian real estate operations."
+    },
+    {
+      "full_name": "Amina Mohammed",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "CFA, CCIM, FRICS",
+      "expertise": [
+        "Real Estate Investment"
+      ],
+      "contact_info": "amina.mohammed@ramosrealestateng.com | +234 802 222 3333",
+      "language": "English, Hausa",
+      "education": "MSc in Real Estate Finance (University of Reading), BSc in Economics (Ahmadu Bello University)",
+      "linkedin_link": "https://www.linkedin.com/in/aminamohammed",
+      "country": "Nigeria",
+      "case_studies": "Structured $45M real estate investment fund focusing on Lagos commercial properties",
+      "testimonials": "Amina's investment vehicles consistently deliver 22% annual returns."
+    },
+    {
+      "full_name": "Emeka Nwachukwu",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "SAN (Real Estate Law), LLM",
+      "expertise": [
+        "Real Estate Law"
+      ],
+      "contact_info": "emeka.nwachukwu@ramosrealestateng.com | +234 805 333 4444",
+      "language": "English, Igbo",
+      "education": "LLM in Property Law (University of Lagos), LLB (University of Nigeria)",
+      "linkedin_link": "https://www.linkedin.com/in/emekanwachukwu",
+      "country": "Nigeria",
+      "case_studies": "Resolved complex land dispute enabling $40M commercial development in Victoria Island",
+      "testimonials": "Emeka's legal expertise saved us from a potentially disastrous litigation."
+    },
+    {
+      "full_name": "Folake Adebayo",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "Google Ads Certified, HubSpot Academy",
+      "expertise": [
+        "Media Consultant, Real Estate Marketing"
+      ],
+      "contact_info": "folake.adebayo@ramosrealestateng.com | +234 706 444 5555",
+      "language": "English, Yoruba",
+      "education": "BA in Mass Communication (University of Lagos), Digital Marketing Certification",
+      "linkedin_link": "https://www.linkedin.com/in/folakeadebayo",
+      "country": "Nigeria",
+      "case_studies": "Developed marketing campaign generating 1,200+ qualified leads in 3 months",
+      "testimonials": "Folake's digital strategies increased our sales conversion rate by 50%."
+    },
+    {
+      "full_name": "Oluwaseun Johnson",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "CPM, IREM, LEED GA",
+      "expertise": [
+        "Real Estate Management"
+      ],
+      "contact_info": "oluwaseun.johnson@ramosrealestateng.com | +234 813 555 6666",
+      "language": "English, Yoruba",
+      "education": "MSc in Property Management (University of Lagos), BSc in Estate Management",
+      "linkedin_link": "https://www.linkedin.com/in/oluwaseunjohnson",
+      "country": "Nigeria",
+      "case_studies": "Managed 300-unit luxury residential portfolio in Ikoyi with 99% occupancy",
+      "testimonials": "Oluwaseun's management systems reduced costs by 25%."
+    },
+    {
+      "full_name": "Ngozi Okoro",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "LEED AP, PMP, MSc",
+      "expertise": [
+        "Real Estate Development"
+      ],
+      "contact_info": "ngozi.okoro@ramosrealestateng.com | +234 703 666 7777",
+      "language": "English, Igbo",
+      "education": "MSc in Construction Management (University of Lagos), BSc in Architecture (Covenant University)",
+      "linkedin_link": "https://www.linkedin.com/in/ngoziokoro",
+      "country": "Nigeria",
+      "case_studies": "Led $75M luxury residential development in Banana Island",
+      "testimonials": "Ngozi's development expertise sets new standards in Nigerian real estate."
+    },
+    {
+      "full_name": "Yusuf Bello",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "CAM, CAPS, OSHA Certified",
+      "expertise": [
+        "Property Management"
+      ],
+      "contact_info": "yusuf.bello@ramosrealestateng.com | +234 802 777 8888",
+      "language": "English, Hausa",
+      "education": "BSc in Facilities Management (University of Lagos), Diploma in Hospitality",
+      "linkedin_link": "https://www.linkedin.com/in/yusufbello",
+      "country": "Nigeria",
+      "case_studies": "Implemented smart building technologies reducing energy costs by 42%",
+      "testimonials": "Yusuf's tech-forward approach delivers exceptional ROI."
+    },
+    {
+      "full_name": "Adebayo Ogunlesi",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "MRICS, Certified Valuer (Nigeria)",
+      "expertise": [
+        "Real Estate Appraisal"
+      ],
+      "contact_info": "adebayo.ogunlesi@ramosrealestateng.com | +234 805 888 9999",
+      "language": "English, Yoruba",
+      "education": "MSc in Valuation (University of Lagos), BSc in Estate Management",
+      "linkedin_link": "https://www.linkedin.com/in/adebayoogunlesi",
+      "country": "Nigeria",
+      "case_studies": "Conducted valuations for $100M commercial property portfolio in Lagos",
+      "testimonials": "Adebayo's appraisal reports are trusted by all major financial institutions."
+    },
+    {
+      "full_name": "Chika Eze",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "CFA, CAIA, FRM",
+      "expertise": [
+        "Real Estate Finance"
+      ],
+      "contact_info": "chika.eze@ramosrealestateng.com | +234 703 999 0000",
+      "language": "English, Igbo",
+      "education": "MBA in Finance (Lagos Business School), BSc in Accounting (University of Nigeria)",
+      "linkedin_link": "https://www.linkedin.com/in/chikaeze",
+      "country": "Nigeria",
+      "case_studies": "Structured $80M mezzanine financing for Eko Atlantic development",
+      "testimonials": "Chika's financial creativity made our landmark project viable."
+    },
+    {
+      "full_name": "Tunde Williams",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "AWS Certified, Proptech Specialist",
+      "expertise": [
+        "Real Estate Tech"
+      ],
+      "contact_info": "tunde.williams@ramosrealestateng.com | +234 706 000 1111",
+      "language": "English, Yoruba",
+      "education": "MSc in Computer Science (University of Ibadan), BSc (Covenant University)",
+      "linkedin_link": "https://www.linkedin.com/in/tundewilliams",
+      "country": "Nigeria",
+      "case_studies": "Developed proprietary CRM increasing sales conversion by 55%",
+      "testimonials": "Tunde's tech solutions give us unbeatable digital advantage."
+    },
+    {
+      "full_name": "Aisha Ibrahim",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "Licensed Real Estate Agent (Nigeria), ABR",
+      "expertise": [
+        "Real Estate Agent"
+      ],
+      "contact_info": "aisha.ibrahim@ramosrealestateng.com | +234 803 111 0000",
+      "language": "English, Hausa",
+      "education": "BA in Business Administration (University of Lagos), Certified Negotiation Expert",
+      "linkedin_link": "https://www.linkedin.com/in/aishaibrahim",
+      "country": "Nigeria",
+      "case_studies": "Top performer with $20M in annual sales for 6 consecutive years",
+      "testimonials": "Aisha's client relationships deliver exceptional results."
+    },
+    {
+      "full_name": "Obinna Eze",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "CCIM, SIOR, CRE",
+      "expertise": [
+        "Real Estate Brokerage"
+      ],
+      "contact_info": "obinna.eze@ramosrealestateng.com | +234 802 222 1111",
+      "language": "English, Igbo",
+      "education": "MBA (Lagos Business School), BSc in Economics (University of Nigeria)",
+      "linkedin_link": "https://www.linkedin.com/in/obinaeze",
+      "country": "Nigeria",
+      "case_studies": "Brokered $120M commercial property transaction in Lagos",
+      "testimonials": "Obinna's negotiation skills create exceptional value."
+    },
+    {
+      "full_name": "Funmilayo Adekunle",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "AICP, LEED ND, MSc",
+      "expertise": [
+        "Real Estate Development Planning"
+      ],
+      "contact_info": "funmilayo.adekunle@ramosrealestateng.com | +234 805 333 2222",
+      "language": "English, Yoruba",
+      "education": "MSc in Urban Planning (University of Lagos), BSc in Architecture",
+      "linkedin_link": "https://www.linkedin.com/in/funmilayoadekunle",
+      "country": "Nigeria",
+      "case_studies": "Master-planned 300-acre mixed-use development in Lekki Phase 2",
+      "testimonials": "Funmilayo's planning creates sustainable, profitable communities."
+    },
+    {
+      "full_name": "Mohammed Bello",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "FMP, SFP, OSHA Certified",
+      "expertise": [
+        "Property Facilities Management"
+      ],
+      "contact_info": "mohammed.bello@ramosrealestateng.com | +234 706 444 3333",
+      "language": "English, Hausa",
+      "education": "BSc in Facilities Management (University of Lagos), Diploma in Engineering",
+      "linkedin_link": "https://www.linkedin.com/in/mohammedbello",
+      "country": "Nigeria",
+      "case_studies": "Implemented IoT system reducing operational costs by 38%",
+      "testimonials": "Mohammed's facilities management sets industry standards."
+    },
+    {
+      "full_name": "Uchechi Nwosu",
+      "company": "Ramos Real Estate Nigeria",
+      "qualifications": "Licensed Surveyor (Nigeria), MSc",
+      "expertise": [
+        "Land Surveying & Documentation"
+      ],
+      "contact_info": "uchechi.nwosu@ramosrealestateng.com | +234 703 555 4444",
+      "language": "English, Igbo",
+      "education": "MSc in Geomatics (University of Lagos), BSc in Surveying",
+      "linkedin_link": "https://www.linkedin.com/in/uchechinwosu",
+      "country": "Nigeria",
+      "case_studies": "Completed land documentation for 200+ property transactions without disputes",
+      "testimonials": "Uchechi's attention to detail prevents costly land disputes."
+    },
+    {
+      "full_name": "Emeka Success",
+      "qualifications": [
+        "BSc Estate Management",
+        "NIESV Certified",
+        "Real Estate Broker License"
+      ],
+      "expertise": [
+        "Real Estate Brokerage",
+        "Property Investment"
+      ],
+      "contact_info": {
+        "email": "emeka@successproperty.ng",
+        "phone": "+2347012345678",
+        "office_address": "Success Property HQ, Lagos"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "University of Lagos",
+      "linkedin": "https://linkedin.com/in/emeka-success",
+      "country": "Nigeria",
+      "company": "Success Property",
+      "case_studies": [
+        "Facilitated over 500 property transactions in Lagos",
+        "Developed investment portfolio for diaspora clients"
+      ],
+      "testimonials": [
+        "Most reliable agent for Lagos property market - Client A",
+        "Helped me secure my dream home within budget - Client B"
+      ]
+    },
+    {
+      "full_name": "Amina Success",
+      "qualifications": [
+        "MBA Marketing",
+        "Digital Marketing Certified"
+      ],
+      "expertise": [
+        "Real Estate Marketing",
+        "Client Acquisition"
+      ],
+      "contact_info": {
+        "email": "amina@successproperty.ng",
+        "phone": "+2348023456789",
+        "office_address": "Success Property Marketing Dept, Lagos"
+      },
+      "language": [
+        "English",
+        "Hausa"
+      ],
+      "education": "Bayero University Kano",
+      "linkedin": "https://linkedin.com/in/amina-success",
+      "country": "Nigeria",
+      "company": "Success Property",
+      "case_studies": [
+        "Increased company leads by 300% through digital campaigns",
+        "Created successful referral program boosting repeat business"
+      ],
+      "testimonials": [
+        "Marketing strategies that actually convert - Managing Partner",
+        "Best real estate marketer in mainland Lagos - Industry Award"
+      ]
+    },
+    {
+      "full_name": "Olusegun Briscoe",
+      "qualifications": [
+        "MSc Real Estate Finance",
+        "RICS Associate"
+      ],
+      "expertise": [
+        "Corporate Real Estate Management",
+        "Investment Advisory"
+      ],
+      "contact_info": {
+        "email": "olusegun@briscoeproperties.com",
+        "phone": "+2348034567890",
+        "office_address": "Briscoe Properties HQ, Victoria Island"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "University of Reading, UK",
+      "linkedin": "https://linkedin.com/in/olusegun-briscoe",
+      "country": "Nigeria",
+      "company": "Briscoe Properties",
+      "case_studies": [
+        "Advised on N2.5B corporate headquarters acquisition",
+        "Structured portfolio for institutional investor"
+      ],
+      "testimonials": [
+        "Deep understanding of commercial real estate - Banking Client",
+        "Trusted advisor for high-value transactions - HNWI"
+      ]
+    },
+    {
+      "full_name": "Ngozi Briscoe",
+      "qualifications": [
+        "LLB Law",
+        "Real Estate Law Specialist"
+      ],
+      "expertise": [
+        "Real Estate Law",
+        "Due Diligence"
+      ],
+      "contact_info": {
+        "email": "ngozi@briscoeproperties.com",
+        "phone": "+2348045678901",
+        "office_address": "Briscoe Properties Legal Dept, Lagos"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "Nigerian Law School",
+      "linkedin": "https://linkedin.com/in/ngozi-briscoe",
+      "country": "Nigeria",
+      "company": "Briscoe Properties",
+      "case_studies": [
+        "Closed N1.8B commercial property transaction",
+        "Resolved complex title dispute for international client"
+      ],
+      "testimonials": [
+        "Legal expertise saved our acquisition - Private Equity Firm",
+        "Most thorough due diligence process - Institutional Investor"
+      ]
+    },
+    {
+      "full_name": "Samuel Smith",
+      "qualifications": [
+        "BSc Architecture",
+        "PMP Certified"
+      ],
+      "expertise": [
+        "Real Estate Development",
+        "Project Management"
+      ],
+      "contact_info": {
+        "email": "samuel@20shomes.com",
+        "phone": "+2348056789012",
+        "office_address": "20S Homes Development Office, Lekki"
+      },
+      "language": [
+        "English"
+      ],
+      "education": "Covenant University",
+      "linkedin": "https://linkedin.com/in/samuel-smith-20s",
+      "country": "Nigeria",
+      "company": "20S Homes Limited",
+      "case_studies": [
+        "Completed 200-unit mid-income housing project",
+        "Pioneered cost-effective construction techniques"
+      ],
+      "testimonials": [
+        "Delivered quality project ahead of schedule - Investor",
+        "Best value-for-money developer in Lekki - Homebuyer"
+      ]
+    },
+    {
+      "full_name": "Fatima Yusuf",
+      "qualifications": [
+        "BSc Computer Science",
+        "PropTech Specialist"
+      ],
+      "expertise": [
+        "Real Estate Tech",
+        "Digital Solutions"
+      ],
+      "contact_info": {
+        "email": "fatima@20shomes.com",
+        "phone": "+2348067890123",
+        "office_address": "20S Homes Tech Hub, Lagos"
+      },
+      "language": [
+        "English",
+        "Hausa"
+      ],
+      "education": "Ahmadu Bello University",
+      "linkedin": "https://linkedin.com/in/fatima-yusuf-20s",
+      "country": "Nigeria",
+      "company": "20S Homes Limited",
+      "case_studies": [
+        "Developed virtual property viewing platform",
+        "Implemented CRM system improving lead conversion"
+      ],
+      "testimonials": [
+        "Tech solutions that give competitive edge - CTO",
+        "Innovative approaches to property marketing - Tech Award"
+      ]
+    },
+    {
+      "full_name": "Femi Adebayo",
+      "qualifications": [
+        "BSc Estate Management",
+        "NIESV Certified",
+        "RICS Associate"
+      ],
+      "expertise": [
+        "Real Estate Development",
+        "Corporate Real Estate Management"
+      ],
+      "contact_info": {
+        "email": "femi.adebayo@westpointr.com",
+        "phone": "+2347012345678",
+        "office_address": "Westpoint HQ, Victoria Island, Lagos"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "Obafemi Awolowo University (First Class Honors)",
+      "linkedin": "https://linkedin.com/in/femi-adebayo-westpoint",
+      "country": "Nigeria",
+      "company": "Westpoint Realty Limited",
+      "case_studies": [
+        "Led development of Westpoint's N5B luxury apartment complex in Ikoyi",
+        "Managed portfolio of 25 commercial properties for multinational clients"
+      ],
+      "testimonials": [
+        "Transformed our corporate real estate strategy - Client A",
+        "Most knowledgeable developer in Lagos high-end market - Client B"
+      ]
+    },
+    {
+      "full_name": "Amina Mohammed",
+      "qualifications": [
+        "LLB Law",
+        "BL",
+        "Real Estate Law Specialist"
+      ],
+      "expertise": [
+        "Real Estate Law",
+        "Property Due Diligence"
+      ],
+      "contact_info": {
+        "email": "amina.mohammed@westpointr.com",
+        "phone": "+2348023456789",
+        "office_address": "Westpoint Legal Department, Lagos"
+      },
+      "language": [
+        "English",
+        "Hausa",
+        "Arabic"
+      ],
+      "education": "University of Lagos / Nigerian Law School",
+      "linkedin": "https://linkedin.com/in/amina-mohammed-westpoint",
+      "country": "Nigeria",
+      "company": "Westpoint Realty Limited",
+      "case_studies": [
+        "Successfully handled 100+ property title regularization cases",
+        "Led legal team for N1.2B land acquisition in Lekki Free Zone"
+      ],
+      "testimonials": [
+        "Her attention to legal details is unmatched - Client C",
+        "Saved our company from potential N200M liability - Client D"
+      ]
+    },
+    {
+      "full_name": "Chinedu Okonkwo",
+      "qualifications": [
+        "MSc Finance",
+        "CFA",
+        "Real Estate Investment Specialist"
+      ],
+      "expertise": [
+        "Real Estate Investment",
+        "Portfolio Management"
+      ],
+      "contact_info": {
+        "email": "chinedu.okonkwo@westpointr.com",
+        "phone": "+2348034567890",
+        "office_address": "Westpoint Investment Division, Lagos"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "University of Nigeria, Nsukka / Lagos Business School",
+      "linkedin": "https://linkedin.com/in/chinedu-okonkwo-westpoint",
+      "country": "Nigeria",
+      "company": "Westpoint Realty Limited",
+      "case_studies": [
+        "Structured N4B real estate investment fund",
+        "Developed Westpoint's retail investment products delivering 22% average annual returns"
+      ],
+      "testimonials": [
+        "Best investment advisor in Nigerian real estate - Client E",
+        "Consistently outperforms market benchmarks - Institutional Investor F"
+      ]
+    },
+    {
+      "full_name": "Bisi Johnson",
+      "qualifications": [
+        "BSc Marketing",
+        "Digital Marketing Certified"
+      ],
+      "expertise": [
+        "Real Estate Marketing",
+        "Brand Strategy"
+      ],
+      "contact_info": {
+        "email": "bisi.johnson@westpointr.com",
+        "phone": "+2348045678901",
+        "office_address": "Westpoint Marketing Department, Lagos"
+      },
+      "language": [
+        "English",
+        "Yoruba",
+        "French"
+      ],
+      "education": "Covenant University",
+      "linkedin": "https://linkedin.com/in/bisi-johnson-westpoint",
+      "country": "Nigeria",
+      "company": "Westpoint Realty Limited",
+      "case_studies": [
+        "Increased Westpoint's digital leads by 300% in 12 months",
+        "Created award-winning marketing campaign for luxury waterfront development"
+      ],
+      "testimonials": [
+        "Marketing genius who understands luxury real estate - Client G",
+        "Her campaigns consistently generate quality leads - Westpoint CEO"
+      ]
+    },
+    {
+      "full_name": "Emeka Nwankwo",
+      "qualifications": [
+        "BSc Computer Science",
+        "PropTech Specialist"
+      ],
+      "expertise": [
+        "Real Estate Tech",
+        "Digital Transformation"
+      ],
+      "contact_info": {
+        "email": "emeka.nwankwo@westpointr.com",
+        "phone": "+2348056789012",
+        "office_address": "Westpoint Tech Hub, Lagos"
+      },
+      "language": [
+        "English",
+        "Igbo"
+      ],
+      "education": "University of Lagos",
+      "linkedin": "https://linkedin.com/in/emeka-nwankwo-westpoint",
+      "country": "Nigeria",
+      "company": "Westpoint Realty Limited",
+      "case_studies": [
+        "Developed Westpoint's proprietary property management system",
+        "Implemented VR property tours increasing sales conversion by 40%"
+      ],
+      "testimonials": [
+        "Tech solutions that give Westpoint competitive edge - CTO",
+        "Best PropTech implementation I've seen in Africa - Industry Expert"
+      ]
+    },
+    {
+      "full_name": "Tunde Ogunlesi",
+      "qualifications": [
+        "BSc Estate Management",
+        "Certified Property Valuer"
+      ],
+      "expertise": [
+        "Real Estate Appraisal",
+        "Valuation"
+      ],
+      "contact_info": {
+        "email": "tunde.ogunlesi@westpointr.com",
+        "phone": "+2348067890123",
+        "office_address": "Westpoint Valuation Department, Lagos"
+      },
+      "language": [
+        "English",
+        "Yoruba"
+      ],
+      "education": "University of Lagos",
+      "linkedin": "https://linkedin.com/in/tunde-ogunlesi-westpoint",
+      "country": "Nigeria",
+      "company": "Westpoint Realty Limited",
+      "case_studies": [
+        "Valued N10B portfolio for major pension fund",
+        "Developed Westpoint's proprietary valuation models for Lagos market"
+      ],
+      "testimonials": [
+        "Most accurate valuations in the industry - Bank H",
+        "Trusted by courts as expert witness - Legal Partner I"
+      ]
+    }
+  ]
+}

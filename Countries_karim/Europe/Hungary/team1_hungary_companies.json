@@ -1,0 +1,247 @@
+[
+  {
+    "company_name": "Fine & Country",
+    "website": "https://www.fineandcountry.hu/en/budapest-real-estate-agents",
+    "Language": "en"
+  },
+  {
+    "company_name": "Tower International",
+    "website": "https://towerbudapest.com",
+    "Language": "en"
+  },
+  {
+    "company_name": "Portico Investment",
+    "website": "https://porticoinv.com",
+    "Language": "en"
+  },
+  {
+    "company_name": "3E International",
+    "website": "https://3einternational.hu",
+    "Language": "en"
+  },
+  {
+    "company_name": "OTP Ingatlanpont",
+    "website": "https://ingatlanbudapest-otp.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Area Ingatlan",
+    "website": "https://areaingatlan.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Arpad Property",
+    "website": "https://arpad.property",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Savills / ESTON",
+    "website": "https://savills.com/countries/hungary.aspx",
+    "Language": "en"
+  },
+  {
+    "company_name": "CMS Hungary",
+    "website": "https://cms.law/en/HUN/",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "DLA Piper Hungary",
+    "website": "https://www.dlapiper.com/en-hu",
+    "Language": "en"
+  },
+  {
+    "company_name": "Kinstellar Hungary",
+    "website": "https://www.kinstellar.com/",
+    "Language": "en"
+  },
+  {
+    "company_name": "Dentons",
+    "website": "https://www.dentons.com/en/hungary",
+    "Language": "en"
+  },
+  {
+    "company_name": "OTP Bank Nyrt.",
+    "website": "https://www.otpbank.hu/",
+    "Language": "en"
+  },
+  {
+    "company_name": "Raiffeisen Bank Zrt.",
+    "website": "https://www.raiffeisen.hu/",
+    "Language": "hu"
+  },
+  {
+    "company_name": "UniCredit Bank Hungary Zrt.",
+    "website": "https://www.unicreditbank.hu/",
+    "Language": "en"
+  },
+  {
+    "company_name": "K&H Bank Zrt.",
+    "website": "https://www.kh.hu/",
+    "Language": "hu"
+  },
+  {
+    "company_name": "CIB Bank Zrt.",
+    "website": "https://www.cib.hu/",
+    "Language": "en"
+  },
+  {
+    "company_name": "Erste Bank Hungary Zrt.",
+    "website": "https://www.erstebank.hu/",
+    "Language": "hu"
+  },
+  {
+    "company_name": "Budapest Appraisal",
+    "website": "https://budapestappraisal.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Ingatlan Értékbecslő Kft.",
+    "website": "https://ingatlan-ertekbecslo.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "PropertyValue Hungary",
+    "website": "https://propertyvalue.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Budapest II Kerület Értékbecslés",
+    "website": "https://budapest2ker.hu/ertekbecsles",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Appraise Hungary",
+    "website": "https://appraisehun.com",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Takács Értékbecslő Bt.",
+    "website": "https://hungarianagents.com/budapest-real-estate-appraisal",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "ExpertValue Hungary Kft.",
+    "website": "https://expertvalue.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Ingatlan Becslő Kft.",
+    "website": "https://ingatlanbecslokft.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Value Expert Consulting",
+    "website": "https://valueexpert.hu",
+    "Language": "en"
+  },
+  {
+    "company_name": "Takarék Ingatlan Értékbecslés",
+    "website": "https://takarek.hu/ertekbecsles",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Remak Ingatlan",
+    "website": "https://remakingatlan.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Becsles.hu Értékbecslés",
+    "website": "https://becsles.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Szombathely Ingatlan Értékbecslő",
+    "website": "https://szombathelyingatlan.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Becslő Iroda",
+    "website": "https://becsloiroda.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Real Value Magyarország",
+    "website": "https://realvalue.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Becslesok.hu",
+    "website": "https://becslesok.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Duna House Értékbecslés",
+    "website": "https://duna-house.hu/ertekbecsles",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Expert Ingatlan",
+    "website": "https://expertingatlan.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Értékbecslő Pécs",
+    "website": "https://ertekbecslespecs.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "BecslesNet",
+    "website": "https://becslesnet.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Eladó Ingatlan",
+    "website": "https://elado-ingatlan.hu/ertekbecsles",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Value Budapest",
+    "website": "https://valuebudapest.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Erdőkert Kft.",
+    "website": "https://erdekert.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Vass Ingatlan Értékbecslő",
+    "website": "https://vassingatlan.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Balaton Property",
+    "website": "https://balatonproperty.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Appraise.hu",
+    "website": "https://appraisehu.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Pésc Ingatlan Kft.",
+    "website": "https://pecsingatlan.hu",
+    "Language": "en"
+  },
+  {
+    "company_name": "Gyor Ingatlan Értékbecslés",
+    "website": "https://gyoringatlan.hu/ertekbecsles",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Becslo Expert",
+    "website": "https://becsloexpert.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "External Valuation",
+    "website": "https://externalval.hu",
+    "Language": "unknown"
+  },
+  {
+    "company_name": "Becslő Centrum",
+    "website": "https://becslocentrum.hu",
+    "Language": "unknown"
+  }
+]

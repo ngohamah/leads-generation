@@ -1,0 +1,65 @@
+ [
+    {
+      "name": "Go Punta Cana Real Estate",
+      "website": "https://gopuntacanarealestate.com/",
+      "address": null,
+      "email": "sales@gopuntacanarealestate.com",
+      "phone_number": "+1 809 957 4842"
+    },
+    {
+      "name": "KW Punta Cana",
+      "website": "https://www.kwpuntacana.com/",
+      "address": "Avenida Alemania Plaza Gran Caribe #16, Punta Cana 23301, Dominican Republic",
+      "email": "kwpuntacana@kw.com.do",
+      "phone_number": "+1 809 552 0359"
+    },
+    {
+      "name": "Coldwell Banker Prime Realty",
+      "website": "https://coldwellbankerdr.com/",
+      "address": "Boulevard Fishing Lodge, Punta Cana 23000, Dominican Republic",
+      "email": "info@coldwellbankerdr.com",
+      "phone_number": "(829) 423-8907"
+    },
+    {
+      "name": "Blue Sail Realty & Property Management, Dominican Republic",
+      "website": "https://www.bluesailrealty.com/",
+      "address": "113 Main Street, Cabarete, Puerto Plata, Dominican Republic",
+      "email": "james@bluesailrealty.com",
+      "phone_number": "1-849-283-4906"
+    },
+    {
+      "name": "Ocean Edge Real Estate",
+      "website": "https://oceanedge-realestate.com/",
+      "address": "Las Terrenas, 32000 Dominican Republic",
+      "email": "contact@oceanedge-realestate.com",
+      "phone_number": "+1 829 672 1907"
+    },
+    {
+      "name": "Coldwell Banker Amber Coast Realty",
+      "website": "https://www.coldwellbankerinternational.com/agent/B9MI1gN/coldwell-banker-amber-coast-realty-office",
+      "address": "Calle Dr. Rosen # 11 Esq. Pedro Clisante, 2nd Floor. Sosua, 18 Dominican Republic",
+      "email": "enquires@ambercoastrealty.com",
+      "phone_number": "809-571-3131"
+    },
+    {
+      "name": "RealtorDR",
+      "website": "https://www.realtordr.com/",
+      "address": "Antonio Javier KM 1 1/2 Villa Ana Maria Plaza Super Pola, Sosua Puerto Plata 57000, Dominican Republic",
+      "email": "sales@realtordr.com",
+      "phone_number": "+1 849-633-1188"
+    },
+    {
+      "name": "Blue Caribbean Properties Punta Cana",
+      "website": "https://bluecaribbeanproperties.com/",
+      "address":"Alemania AV., Palma Real Business Center, Punta Cana 23000, Dominican Republic",
+      "email": "sales@bluecaribbeanproperties.com",
+      "phone_number": "+1 (809) 566-2583"
+    },
+    {
+      "name": "Caribbean Dreams Realty Punta Cana",
+      "website": "https://caribbeandreamsrealty.com/",
+      "address": "Calle Palma, Punta Cana, La Altagracia, 23000",
+      "email": null,
+      "phone_number": "978-300-0571"
+    }
+  ]

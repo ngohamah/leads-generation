@@ -1,0 +1,104 @@
+[
+  {
+    "company_name": "Mitsubishi Estate Co., Ltd.",
+    "website": "https://www.mec.co.jp/en/",
+    "linkedin": "https://www.linkedin.com/company/mitsubishi-estate-co.-ltd.",
+    "access": true,
+    "language": "English",
+    "description": "One of Japan's largest real estate developers with the most valuable portfolio in the Japanese real estate industry. Known for comprehensive real estate operations including office buildings in Marunouchi district, retail properties, residential business, and hotel operations. Owns Japan's third tallest building, Yokohama Landmark Tower."
+  },
+  {
+    "company_name": "Mitsui Fudosan Co., Ltd.",
+    "website": "https://www.mitsuifudosan.co.jp/english/",
+    "linkedin": "https://www.linkedin.com/company/mitsuifudosan",
+    "access": true,
+    "language": "English",
+    "description": "Japan's largest comprehensive real estate company with approximately $66 billion in assets. Major developer with global operations including luxury hotels like Imperial Hotel, entertainment facilities like Tokyo Dome, and extensive commercial and residential developments. Known for LaLaport shopping centers and Park Court luxury residential complexes."
+  },
+  {
+    "company_name": "Sumitomo Realty & Development Co., Ltd.",
+    "website": "http://english.sumitomo-rd.co.jp/",
+    "linkedin": "https://www.linkedin.com/company/sumitomo-realty-&-development-co.-ltd.",
+    "access": true,
+    "language": "English",
+    "description": "One of the three largest real estate developers in Japan, member of Sumitomo Group. Comprehensive real estate developer providing office buildings, condominiums, custom homes, and hotel operations under Hotel Villa Fontaine brand. Owns around 220 office buildings in Tokyo and follows a policy of never selling developed properties."
+  },
+  {
+    "company_name": "Nomura Real Estate Holdings, Inc.",
+    "website": "https://www.nomura-re-hd.co.jp/english/",
+    "access": true,
+    "language": "English",
+    "description": "Major real estate development company founded in 1968, known for revitalizing Japan's urban spaces. Developer of landmark projects like Shibuya Hikarie and Osaka Umeda Sky Building. Specializes in the PROUD brand of high-quality condominiums and comprehensive real estate services including residential, commercial, and logistics facilities."
+  },
+  {
+    "company_name": "Hulic Co., Ltd.",
+    "website": "https://www.hulic.co.jp/en/",
+    "access": true,
+    "language": "English",
+    "description": "Real estate company with over 60 years of history, focusing on urban redevelopment and sustainability. Known for innovative projects like HULIC &New GINZA 8, Japan's first 12-story wooden fireproof commercial building. Operates 245 buildings mainly in central Tokyo, with focus on mid-size office buildings near stations and tourist hotels/ryokans."
+  },
+  {
+    "company_name": "Daiwa House Industry Co., Ltd.",
+    "website": "https://www.daiwahouse.com/English/",
+    "access": true,
+    "language": "English",
+    "description": "One of Japan's largest construction and real estate development companies with market cap of $18.45B. Comprehensive developer involved in residential construction, commercial facilities, logistics, and urban development projects across Japan and internationally."
+  },
+  {
+    "company_name": "Tokyu Fudosan Holdings Corp",
+    "website": "https://www.tokyu-fudosan-hd.co.jp/english/",
+    "access": true,
+    "language": "English",
+    "description": "Major real estate developer with market cap of $4.26B, part of Tokyu Group. Focuses on comprehensive real estate development including residential, commercial, and urban development projects, particularly in the Tokyo metropolitan area."
+  },
+  {
+    "company_name": "Open House Co., Ltd.",
+    "website": "https://oh.openhouse-group.com/en/",
+    "access": true,
+    "language": "English",
+    "description": "Real estate development company with market cap of $4.12B, specializing in detached housing and residential development. Known for comprehensive real estate services including construction, sales, and property management."
+  },
+  {
+    "company_name": "Tokyo Tatemono Co., Ltd.",
+    "website": "https://tatemono.com/english/",
+    "access": true,
+    "language": "English",
+    "description": "Established real estate company with market cap of $3.37B, providing comprehensive real estate services including office building development, residential properties, and property management. Known for high-quality urban development projects in Tokyo."
+  },
+  {
+    "company_name": "Daito Trust Construction Co., Ltd.",
+    "website": "https://www.kentaku.co.jp/english/",
+    "access": true,
+    "language": "English",
+    "description": "Major real estate company with market cap of $6.98B, specializing in rental apartment construction and management. Comprehensive real estate services including land utilization consulting, construction, and property management."
+  },
+  {
+    "company_name": "Japan Real Estate Investment Corporation",
+    "website": "https://www.j-re.co.jp/en/",
+    "access": true,
+    "language": "English",
+    "description": "Major Japanese REIT focusing on office properties with market cap of $4.70B. Specializes in investment and management of high-quality office buildings primarily in Tokyo metropolitan area."
+  },
+  {
+    "company_name": "Housing Japan",
+    "website": "https://housingjapan.com/",
+    "linkedin": "https://www.linkedin.com/company/housing-japan/",
+    "access": true,
+    "language": "English",
+    "description": "Leading real estate agent for international clients in Tokyo property market since 2000. Specializes in luxury homes, private estates, resorts and large-scale developments with comprehensive advisory, management and transactional services for global corporations, embassies and international organizations."
+  },
+  {
+    "company_name": "Mitsui Fudosan Realty Co., Ltd.",
+    "website": "https://global.mf-realty.jp/en/",
+    "access": true,
+    "language": "English",
+    "description": "Real estate brokerage arm of Mitsui Fudosan, ranked No.1 for 39 years in terms of purchase and sale transactions brokered. Provides comprehensive real estate services for both investment and residential properties with English and Chinese language support."
+  },
+  {
+    "company_name": "Sumitomo Fudosan Step",
+    "website": "https://global.sumitomo-res.com/",
+    "access": true,
+    "language": "English",
+    "description": "Japanese real estate broker specializing in buying, selling, and leasing properties including condominiums, single family homes, lands and buildings in Tokyo area. Provides services for overseas customers interested in purchasing used or investment properties in Japan."
+  }
+]

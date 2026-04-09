@@ -1,0 +1,101 @@
+[
+    {
+      "name": "Cap-May Immobilier Madagascar",
+      "website": "https://www.cap-may.net/",
+      "address": "Ambatobe, Antananarivo, Madagascar",
+      "email": "direction@cap-may.com",
+      "phone_number": "+330638209868 (French mobile number, often used for international communication)"
+    },
+    {
+      "name": "Aloha Immo Services",
+      "website": "https://www.alohaimmoservices.com/",
+      "address": "Tuléar, Madagascar (Their services are based here)",
+      "email": "contact@alohaimmoservices.com, alohaimmoservices@gmail.com",
+      "phone_number": "(+261) 034 13 154 30"
+    },
+    {
+      "name": "Nosy Be Home - Immobilier & Conseil",
+      "website": "https://www.nosy-be-home.com/",
+      "address": "Centre commercial LE MALL - 207 Hell-Ville, Nosy Be, Madagascar",
+      "email": "contact@nosybe.immo",
+      "phone_number": "+261 34 07 662 97 (WhatsApp)"
+    },
+    {
+      "name": "Immobilier Conseil",
+      "website": "https://www.immoconseilmada.com/",
+      "address": "Antananarivo, Madagascar (Implied from contact information, specific address not on contact page but services cover Antananarivo)",
+      "email": "immoconseil.transac@moov.mg (Transaction), info@ic-groupe.com (Lotissement), immo.conseil@orange.mg (Promotion Immobilière), location@immoconseilmada.com (Location), gestion@immoconseilmada.com (Gestion & Syndic)",
+      "phone_number": "+261 (0) 32 05 400 31 (Transaction), +261 (0) 32 05 035 89 (Transaction), +261 (0) 32 11 979 26 (Lotissement), +261 (0) 32 05 400 30 (Promotion Immobilière), +261 (0) 32 11 181 64 (Location), +261 (0) 34 14 700 01 (Gestion), +261 (0) 33 12 700 01 (Syndic)"
+    },
+    {
+      "name": "Home The Residence Madagascar",
+      "website": "https://home-the-residence.com/en/ (This appears to be a hotel/luxury villa rental, not a general real estate company)",
+      "address": "Befotoka Bay, Nosy Be 207 - Madagascar",
+      "email": "contact@home-the-residence.com",
+      "phone_number": "+261 34 02 932 32"
+    },
+    {
+      "name": "Roche Terre Immobilier",
+      "website": "https://www.roche-terre.com/",
+      "address": "Analamahitsy - Farango Antananarivo Code postal : 101",
+      "email": "info@roche-terre.com",
+      "phone_number": "+261 20 76 483 63"      
+    },
+    {
+      "company_name": "AXIAN Properties",
+      "website": "https://www.axian-group.com/en/business-clusters/axian-real-estate/"
+    },
+    {
+      "company_name": "ViMa Real Estate (Vision Madagascar)",
+      "website": "https://www.visionmadagascar.com/vima-real-estate/"
+    },
+    {
+      "company_name": "Madagascar Invest",
+      "website": "https://madagascarinvest.com/"
+    },
+    {
+      "company_name": "Nobilis Group",
+      "website": "https://www.nobilisgroup.estate/"
+    },
+    {
+      "company_name": "IMMO MADA OCEA",
+      "website": "https://immomadaocea.com/"
+    },
+    {
+      "company_name": "SARU TECH",
+      "website": "https://sarutech.com/product/tenant/Madagascar"
+    },
+    {
+      "company_name": "Guy Hoquet Madagascar",
+      "website": "https://www.guyhoquet-madagascar.com/"
+    },
+    {
+      "company_name": "OFIM (Office Immobilier de Madagascar)",
+      "website": "https://www.ofim.mg/"
+    },
+    {
+      "company_name": "RAY Immo",
+      "website": "http://rayimmo.cleasite.fr/"
+    },
+    {
+      "company_name": "SCRIP SARL",
+      "website": "https://www.linkedin.com/company/scrip-madagascar"
+    },
+    {
+      "company_name": "Getim Immobilier",
+      "website": "https://www.madayp.com/company/1293/Getim_Immobilier"
+    },
+    {
+      "company_name": "ALEZ Immobilier",
+      "website": "https://www.facebook.com/alez.immobilier/",
+      "Language": "French"
+    },
+    {
+      "company_name": "Wimmo Madagascar",
+      "website": "https://www.facebook.com/wimmomadagascar/"
+    },
+    {
+      "company_name": "New Cap Corp",
+      "website": "https://newcapcorp.com/"
+    }
+]

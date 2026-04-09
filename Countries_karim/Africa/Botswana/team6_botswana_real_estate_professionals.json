@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "title": "Botswana Real Estate Professionals Database",
+    "country": "Botswana",
+    "extraction_date": "2025-07-17",
+    "total_professionals": 16,
+    "data_sources": [
+      "Real Estate Institute of Botswana (REIB)",
+      "Knight Frank Botswana"
+    ],
+    "professional_categories": [
+      "Estate Agents",
+      "Property Managers",
+      "Property Valuers",
+      "Property Auctioneers",
+      "Property Administrators",
+      "Surveyors",
+      "Managing Directors"
+    ]
+  },
+  "companies": [
+    {
+      "company_name": "Real Estate Institute of Botswana (REIB)",
+      "company_type": "Professional Association",
+      "location": "Phase 2, Plot 18381, Gaborone",
+      "contact_phone": "+267 393 0152",
+      "contact_email": "info@reibbw.org",
+      "website": "https://reibbw.com/",
+      "description": "Professional body representing the interest of property professionals with membership of more than 350 professionals specialising in areas of estate agency, property management, property valuations and auctioneering",
+      "established": "Registered under Societies ACT of Botswana"
+    },
+    {
+      "company_name": "Knight Frank Botswana",
+      "company_type": "Property Consultancy",
+      "location": "183 Queens Road, PO Box 655, Gaborone",
+      "contact_phone": "+267 3953 950",
+      "website": "https://www.bw.knightfrank.com/",
+      "description": "One of Botswana's most active and experienced property consultancies, established in 1983",
+      "established": "1983"
+    }
+  ],
+  "professionals": [
+    {
+      "full_name": "Chandada Lorato Masendu-Kusane",
+      "expertise": "Real Estate Leadership",
+      "contact_information": {
+        "phone": "+267 393 0152",
+        "email": "info@reibbw.org"
+      },
+      "country": "Botswana",
+      "company": "Real Estate Institute of Botswana (REIB)",
+      "qualifications": "President of REIB"
+    },
+    {
+      "full_name": "Albert Galebotse",
+      "expertise": "Real Estate Leadership",
+      "contact_information": {
+        "phone": "+267 393 0152",
+        "email": "info@reibbw.org"
+      },
+      "country": "Botswana",
+      "company": "Real Estate Institute of Botswana (REIB)",
+      "qualifications": "Vice President of REIB"
+    },
+    {
+      "full_name": "Tlamelo Reetsang",
+      "expertise": "Real Estate Administration",
+      "contact_information": {
+        "phone": "+267 393 0152",
+        "email": "info@reibbw.org"
+      },
+      "country": "Botswana",
+      "company": "Real Estate Institute of Botswana (REIB)",
+      "qualifications": "Secretary General of REIB"
+    },
+    {
+      "full_name": "Kago Motlhanka",
+      "expertise": "Real Estate Finance",
+      "contact_information": {
+        "phone": "+267 393 0152",
+        "email": "info@reibbw.org"
+      },
+      "country": "Botswana",
+      "company": "Real Estate Institute of Botswana (REIB)",
+      "qualifications": "Treasurer of REIB"
+    },
+    {
+      "full_name": "Kagiso Ditiro",
+      "expertise": "Real Estate Management",
+      "contact_information": {
+        "phone": "+267 393 0152",
+        "email": "info@reibbw.org"
+      },
+      "country": "Botswana",
+      "company": "Real Estate Institute of Botswana (REIB)",
+      "qualifications": "Board Member of REIB"
+    },
+    {
+      "full_name": "Hope Moswate",
+      "expertise": "Real Estate Management",
+      "contact_information": {
+        "phone": "+267 393 0152",
+        "email": "info@reibbw.org"
+      },
+      "country": "Botswana",
+      "company": "Real Estate Institute of Botswana (REIB)",
+      "qualifications": "Board Member of REIB"
+    },
+    {
+      "full_name": "Seakhile Mathumo",
+      "expertise": "Real Estate Management",
+      "contact_information": {
+        "phone": "+267 393 0152",
+        "email": "info@reibbw.org"
+      },
+      "country": "Botswana",
+      "company": "Real Estate Institute of Botswana (REIB)",
+      "qualifications": "Board Member of REIB"
+    },
+    {
+      "full_name": "Phenyo Mplolokang",
+      "expertise": "Real Estate Management",
+      "contact_information": {
+        "phone": "+267 393 0152",
+        "email": "info@reibbw.org"
+      },
+      "country": "Botswana",
+      "company": "Real Estate Institute of Botswana (REIB)",
+      "qualifications": "Board Member of REIB"
+    },
+    {
+      "full_name": "Eranse Mooki",
+      "expertise": "Corporate Real Estate Management",
+      "contact_information": {
+        "phone": "+267 76 204 842",
+        "mobile": "76204842"
+      },
+      "country": "Botswana",
+      "company": "Knight Frank Botswana",
+      "qualifications": "Managing Director, Botswana"
+    },
+    {
+      "full_name": "Life Bushman",
+      "expertise": "Property Management",
+      "contact_information": {
+        "phone": "+267 3953 950"
+      },
+      "country": "Botswana",
+      "company": "Knight Frank Botswana",
+      "qualifications": "Property Administrator"
+    },
+    {
+      "full_name": "Itumeleng Gontebanye",
+      "expertise": "Real Estate Appraisal",
+      "contact_information": {
+        "phone": "+267 3953 950"
+      },
+      "country": "Botswana",
+      "company": "Knight Frank Botswana",
+      "qualifications": "Assistant Valuer"
+    },
+    {
+      "full_name": "Letang Kelepile",
+      "expertise": "Property Management, Real Estate Agent",
+      "contact_information": {
+        "phone": "+267 3953 950"
+      },
+      "country": "Botswana",
+      "company": "Knight Frank Botswana",
+      "qualifications": "Property Administrator/Agency"
+    },
+    {
+      "full_name": "Lesego Masaile",
+      "expertise": "Real Estate Appraisal",
+      "contact_information": {
+        "phone": "+267 3953 950"
+      },
+      "country": "Botswana",
+      "company": "Knight Frank Botswana",
+      "qualifications": "Surveyor"
+    },
+    {
+      "full_name": "Banyana Morwamang",
+      "expertise": "Real Estate Appraisal",
+      "contact_information": {
+        "phone": "+267 3953 950"
+      },
+      "country": "Botswana",
+      "company": "Knight Frank Botswana",
+      "qualifications": "Valuations Secretary"
+    },
+    {
+      "full_name": "William Nyangu",
+      "expertise": "Real Estate Appraisal",
+      "contact_information": {
+        "phone": "+267 3953 950"
+      },
+      "country": "Botswana",
+      "company": "Knight Frank Botswana",
+      "qualifications": "Senior Assistant Valuer"
+    },
+    {
+      "full_name": "Andy Sekeinyana",
+      "expertise": "Real Estate Appraisal",
+      "contact_information": {
+        "phone": "+267 3953 950"
+      },
+      "country": "Botswana",
+      "company": "Knight Frank Botswana",
+      "qualifications": "Valuation Surveyor"
+    }
+  ]
+}

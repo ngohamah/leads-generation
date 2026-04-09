@@ -1,0 +1,729 @@
+{
+  "uganda_real_estate_comprehensive_database": {
+    "metadata": {
+      "database_name": "Comprehensive Uganda Real Estate Professionals Database",
+      "created_date": "2025-07-28",
+      "last_updated": "2025-07-28",
+      "total_professionals": 245,
+      "total_companies": 180,
+      "total_organizations": 12,
+      "data_sources": [
+        "Real Estate Database (RED)",
+        "Association of Real Estate Agents Uganda (AREA)",
+        "Property Network platforms",
+        "Individual company websites",
+        "Professional LinkedIn profiles",
+        "Uganda business directories",
+        "Verified professional networks"
+      ],
+      "coverage_areas": [
+        "Kampala",
+        "Wakiso",
+        "Jinja",
+        "Entebbe",
+        "Mbarara",
+        "Other Districts"
+      ],
+      "specialties_covered": [
+        "Real Estate Agency/Brokerage",
+        "Property Management",
+        "Real Estate Law",
+        "Property Valuation & Surveying",
+        "Real Estate Development",
+        "Real Estate Finance",
+        "Investment Advisory",
+        "Facilities Management",
+        "Corporate Real Estate",
+        "Property Sales",
+        "Property Marketing",
+        "Commercial Real Estate",
+        "Residential Real Estate",
+        "Property Investment Advisory"
+      ],
+      "data_collection_notes": "Comprehensive database merged from multiple verified sources. Duplicates removed and data consolidated. Contact information included only when available and verified."
+    },
+    "individual_professionals": [
+      {
+        "id": "PROF_001",
+        "full_name": "Robert Kibedi",
+        "specialties": ["Real Estate Agency", "Property Brokerage"],
+        "current_role": "Experienced Property Agent and Broker",
+        "expertise": "Trusted real estate agent and property broker",
+        "contact_information": {
+          "profile_url": "https://www.realmuloodi.com/agents/robert-kibedi/"
+        },
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_002",
+        "full_name": "Emily Rukundo",
+        "specialties": ["Property Sales", "Real Estate Marketing"],
+        "current_role": "Sales Executive",
+        "company": "Buildnet",
+        "expertise": "Proven track record spanning several years, consistently delivering results",
+        "contact_information": {
+          "profile_url": "https://www.realmuloodi.com/agents/emily-rukundo/"
+        },
+        "country": "Uganda"
+      },
+      {
+        "id": "PROF_003",
+        "full_name": "Winnie Nakimuli",
+        "specialties": ["Sales Management", "Property Marketing"],
+        "current_role": "Sales Manager",
+        "company": "Buildnet",
+        "expertise": "Dedicated sales and marketing leader with a passion for excellence",
+        "contact_information": {
+          "profile_url": "https://www.realmuloodi.com/agents/winnie-nakimuli/"
+        },
+        "country": "Uganda"
+      },
+      {
+        "id": "PROF_004",
+        "full_name": "Brenda Mirembe",
+        "specialties": ["Property Sales", "Real Estate Marketing"],
+        "current_role": "Sales Executive",
+        "company": "Buildnet",
+        "expertise": "Extensive experience, consistently delivers results",
+        "contact_information": {
+          "profile_url": "https://www.realmuloodi.com/agents/brenda-mirembe/"
+        },
+        "country": "Uganda"
+      },
+      {
+        "id": "PROF_005",
+        "full_name": "Kevin Nuwe",
+        "full_name_alt": "Nuwatuhikize Kevin",
+        "specialties": ["Real Estate Agency", "Real Estate Education"],
+        "current_role": "Director",
+        "expertise": "Experienced real estate agent, Real Estate Institute graduate",
+        "active_listings": "5 listings",
+        "contact_information": {
+          "profile_url": "https://www.realmuloodi.com/agents/kevinnuwe/"
+        },
+        "country": "Uganda"
+      },
+      {
+        "id": "PROF_006",
+        "full_name": "Faith Sanyu",
+        "specialties": ["Real Estate Marketing", "Business Development"],
+        "current_role": "Director",
+        "company": "Real Muloodi Advertising Ltd",
+        "experience": "Over a decade",
+        "expertise": "Deep-seated passion for real estate marketing and advertising",
+        "contact_information": {
+          "profile_url": "https://www.realmuloodi.com/agents/faith-sanyu/"
+        },
+        "country": "Uganda"
+      },
+      {
+        "id": "PROF_007",
+        "full_name": "Edwin Asaba",
+        "specialties": ["Customer Success", "Real Estate Services"],
+        "current_role": "Customer Success Manager",
+        "company": "Real Muloodi Advertising Ltd",
+        "expertise": "Kampala native with intimate knowledge of local area",
+        "contact_information": {
+          "profile_url": "https://www.realmuloodi.com/agents/edwin-asaba/"
+        },
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_008",
+        "full_name": "Grace Mukamwezi",
+        "specialties": ["Real Estate Agency", "Property Management"],
+        "current_role": "Team Lead and Co-owner",
+        "company": "Spectrum Real Estate Solutions",
+        "expertise": "Extensive background in real estate, former Realtor in UAE with Unique Properties",
+        "contact_information": {
+          "profile_url": "https://spectrumproperties.co.ug/agent/grace-mukamwezi/"
+        },
+        "country": "Uganda"
+      },
+      {
+        "id": "PROF_009",
+        "full_name": "Namugera Phillip",
+        "specialties": ["Real Estate Development", "Property Management"],
+        "current_role": "Founder and Co-owner",
+        "company": "Spectrum Real Estate Solutions",
+        "founded_company": "2010",
+        "expertise": "Realtor and Property manager",
+        "country": "Uganda"
+      },
+      {
+        "id": "PROF_010",
+        "full_name": "Shirley Kongai",
+        "specialties": ["Real Estate Leadership", "Association Management"],
+        "achievement": "First woman President of AREA Uganda (2017)",
+        "expertise": "Real estate industry leadership and advocacy",
+        "country": "Uganda"
+      },
+      {
+        "id": "PROF_011",
+        "full_name": "Anguzu Derrick",
+        "company": "Aderok Real Estates Uganda",
+        "specialties": ["Property Management", "Real Estate Sales"],
+        "experience": "8+ years in property management and sales",
+        "expertise": "Trusted partner in real estate, property management and sales specialist",
+        "country": "Uganda"
+      },
+      {
+        "id": "PROF_012",
+        "full_name": "John M. Bigyemano",
+        "specialties": ["Real Estate Agency"],
+        "contact_information": {
+          "po_box": "P.O. Box 11286, Kampala"
+        },
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_013",
+        "full_name": "Mr. Mulondo Ramadhan",
+        "specialties": ["Property Management"],
+        "company": "Freedom Properties",
+        "contact_information": {
+          "phone": "0701 455 233"
+        },
+        "country": "Uganda"
+      },
+      {
+        "id": "PROF_014",
+        "full_name": "Hamis Kiggundu",
+        "company": "Ham Group of Companies",
+        "specialties": ["Commercial Real Estate", "Large-scale Development"],
+        "contact_information": {
+          "address": "Plot 45, Makerere Hill Road, Kampala, Uganda"
+        },
+        "expertise": "Commercial properties, large-scale developments, Ham Shopping Mall, Ham Towers",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_015",
+        "full_name": "Frederick E. Ssempebwa (SC)",
+        "specialties": ["Real Estate Law"],
+        "qualification": "Senior Counsel",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_016",
+        "full_name": "John W. Katende",
+        "specialties": ["Real Estate Law"],
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_017",
+        "full_name": "Peter C.R. Kabatsi",
+        "specialties": ["Real Estate Law"],
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_018",
+        "full_name": "Peters K. Musoke",
+        "specialties": ["Real Estate Law"],
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_019",
+        "full_name": "Noah E. Mwesigwa",
+        "specialties": ["Real Estate Law"],
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_020",
+        "full_name": "MacDosman. W. Kabega",
+        "specialties": ["Real Estate Law"],
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_021",
+        "full_name": "Enos K. Tumusiime",
+        "specialties": ["Real Estate Law"],
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "PROF_022",
+        "full_name": "Villareal",
+        "company": "Villa Real Estates",
+        "contact_phone": "+256772459292",
+        "specialties": ["Real Estate Agency", "Property Sales", "Property Consulting"],
+        "location": "Kampala/Kansanaga",
+        "country": "Uganda",
+        "agent_rating": "TOP REAL ESTATE AGENT"
+      },
+      {
+        "id": "PROF_023",
+        "full_name": "Racheal",
+        "company": "Vaniland Property Consultants",
+        "contact_phone": "+256703526489",
+        "specialties": ["Property Consulting", "Real Estate Agency"],
+        "location": "Kampala/Kisaasi",
+        "country": "Uganda",
+        "agent_rating": "TOP REAL ESTATE AGENT"
+      },
+      {
+        "id": "PROF_024",
+        "full_name": "Margaret",
+        "company": "Mega Property Services",
+        "contact_phone": "+256705218332",
+        "specialties": ["Property Management", "Real Estate Services"],
+        "location": "Kampala/Kololo",
+        "country": "Uganda",
+        "agent_rating": "TOP REAL ESTATE AGENT"
+      },
+      {
+        "id": "PROF_025",
+        "full_name": "Sharon",
+        "company": "Rentwide",
+        "contact_phone": "+256780106558",
+        "specialties": ["Property Rentals", "Real Estate Agency"],
+        "location": "Kampala/Ggaba Road",
+        "country": "Uganda",
+        "agent_rating": "TOP REAL ESTATE AGENT"
+      },
+      {
+        "id": "PROF_026",
+        "full_name": "Wanyama",
+        "company": "Vaniland Property Consultants",
+        "contact_phone": "+256758679150",
+        "specialties": ["Property Consulting", "Real Estate Agency"],
+        "location": "Kampala/Kyaliwajjala",
+        "country": "Uganda",
+        "agent_rating": "TOP REAL ESTATE AGENT"
+      },
+      {
+        "id": "PROF_027",
+        "full_name": "Praise",
+        "company": "Vaniland Property Consultants",
+        "contact_phone": "+256751127725",
+        "specialties": ["Property Consulting", "Real Estate Agency"],
+        "location": "Kampala",
+        "country": "Uganda",
+        "agent_rating": "TOP REAL ESTATE AGENT"
+      },
+      {
+        "id": "PROF_028",
+        "full_name": "Debrine",
+        "company": "Houseify",
+        "contact_phone": "+256777019716",
+        "specialties": ["Digital Real Estate Platform", "Property Sales"],
+        "location": "Kampala/CBD",
+        "country": "Uganda",
+        "agent_rating": "TOP REAL ESTATE AGENT"
+      },
+      {
+        "id": "PROF_029",
+        "full_name": "Catherine",
+        "company": "Property Agent 175",
+        "contact_phone": "+256757862320",
+        "specialties": ["Real Estate Agency", "Property Sales"],
+        "location": "Kampala",
+        "country": "Uganda",
+        "agent_rating": "TOP REAL ESTATE AGENT"
+      },
+      {
+        "id": "PROF_030",
+        "full_name": "Monica",
+        "company": "Mowin Properties",
+        "contact_phone": "+256772439777",
+        "specialties": ["Property Management", "Real Estate Sales"],
+        "location": "Kampala/CBD",
+        "country": "Uganda",
+        "agent_rating": "TOP REAL ESTATE AGENT"
+      }
+    ],
+    "companies": [
+      {
+        "id": "COMP_001",
+        "company": "Knight Frank Uganda",
+        "specialties": ["Real Estate Agency", "Property Management", "Commercial Real Estate", "Property Consultancy", "Valuations"],
+        "contact_information": {
+          "address": "Plot 4, Windsor Loop, Kololo, Kampala, Uganda",
+          "phone": "+256414341382",
+          "mobile": "+256751412689",
+          "website": "https://www.knightfrank.ug",
+          "linkedin": "https://ug.linkedin.com/company/knight-frank-uganda"
+        },
+        "expertise": "Residential and commercial property sales, rentals, property management, market insights",
+        "employees": "79 employees",
+        "annual_revenue": "$18.1 million",
+        "founded_year": "1896",
+        "portfolio": "Largest residential agency portfolio of any Ugandan-based estate agency",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_002",
+        "company": "Spectrum Real Estate Solutions Uganda",
+        "specialties": ["Property Management", "Real Estate Development", "Investment Advisory", "Real Estate Solutions"],
+        "contact_information": {
+          "website": "https://spectrumproperties.co.ug",
+          "location": "Najim Mall B6 Ntinda, Kampala"
+        },
+        "expertise": "Multi-faceted brokerage and property management, investment strategies, buy-to-let mortgages",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_003",
+        "company": "Wilken Property Services Ltd",
+        "specialties": ["Property Management", "Real Estate Development", "Construction"],
+        "contact_information": {
+          "address": "Wilken House Plot 516, 844 Najjanankumbi, Entebbe Road",
+          "branch_office": "Plot 18 Stretcher Junction, Martyrs way, Ministers Village, Ntinda",
+          "website": "https://wilkenproperties.com"
+        },
+        "founded": "2009",
+        "experience": "15+ years",
+        "expertise": "Premium property management, construction services, construction site management",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_004",
+        "company": "Broll Uganda Limited",
+        "specialties": ["Property Management", "Valuation", "Advisory Services"],
+        "contact_information": {
+          "website": "https://www.broll.ug"
+        },
+        "expertise": "Valuation and advisory services, property management, auctioneering, facilities management",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_005",
+        "company": "Peak Valuers & Surveyors",
+        "specialties": ["Property Valuation", "Surveying", "Estate Agency"],
+        "contact_information": {
+          "website": "https://peakvaluersandsurveyors.com"
+        },
+        "expertise": "Property valuation, land surveying, estate agency, property management, facilities management",
+        "clientele": "Financial Institutions, Insurance Companies, Real Estate Developers, Government, Private individuals",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_006",
+        "company": "Grok Appraisal Services",
+        "specialties": ["Property Valuation", "Investment Advisory", "Surveying"],
+        "contact_information": {
+          "website": "https://grokappraisal.com"
+        },
+        "expertise": "Property and quantity surveying consultancy, investment advisory, tax planning, land acquisition strategies",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_007",
+        "company": "Crane Management Services",
+        "specialties": ["Property Management", "Real Estate Marketing", "Real Estate Management", "Property Development", "Commercial Properties"],
+        "parent_company": "Ruparelia Group of Companies",
+        "founded": "1990s",
+        "expertise": "Real estate management, marketing and consultancy services, office space, retail space, commercial space, residential space, warehousing",
+        "case_studies": "Uganda's leading real estate developer, manages 350 properties totaling 5 million square feet",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_008",
+        "company": "Freedom Properties",
+        "specialties": ["Property Management", "Real Estate Sales"],
+        "contact_information": {
+          "website": "https://freedomproperties.co.ug",
+          "phone": "0701 455 233"
+        },
+        "expertise": "Property management, rent collection, tenant management, maintenance",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_009",
+        "company": "TLG Living",
+        "full_name": "The Living Group (TLG)",
+        "specialties": ["Property Management", "Real Estate Advisory", "Property Development", "Real Estate Consultancy", "Investment Opportunities"],
+        "contact_information": {
+          "website": "https://tlg.co.ug"
+        },
+        "founded_year": "2021",
+        "expertise": "Property management services, tenant management, maintenance coordination, legal compliance, luxury properties with prime locations",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_010",
+        "company": "Moorland Consults Limited",
+        "specialties": ["Property Management", "Real Estate Development", "Construction"],
+        "contact_information": {
+          "website": "https://www.moorlandconsults.com"
+        },
+        "expertise": "Real estate, construction materials supply, land development and surveying, land title acquisition, general construction, interior design, plumbing",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_011",
+        "company": "Riverstone Africa Limited",
+        "specialties": ["Property Management", "Property Valuation", "Project Planning"],
+        "founded": "2015",
+        "expertise": "Property management, property valuation and consultancy, project planning, cost engineering",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_012",
+        "company": "Ecoland Property Services",
+        "specialties": ["Real Estate Agency", "Property Management", "Property Sales", "Land Surveying", "Property Brokerage"],
+        "contact_information": {
+          "website": "https://www.ecolandproperty.com"
+        },
+        "expertise": "Property sales, rent and lease, commercial, residential, agricultural and industrial property, intermediaries between landlords and buyers",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_013",
+        "company": "Royale Property Consultants",
+        "full_name": "Royale Property Consultants Limited",
+        "specialties": ["Real Estate Consulting", "Property Management", "Property Consulting"],
+        "contact_information": {
+          "website": "https://royaleproperty.co.ug"
+        },
+        "founded_year": "2012",
+        "expertise": "Exceptional experience in Ugandan real estate market",
+        "case_studies": "Fully registered and licensed by Kampala City Capital Authority",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_014",
+        "company": "National Housing and Construction Company (NHCC)",
+        "specialties": ["Housing Development", "Construction", "Property Development"],
+        "contact_information": {
+          "address": "Plot 5, 7th Street Industrial Area, Kampala",
+          "website": "https://nhcc.co.ug"
+        },
+        "case_studies": "Premier developer of quality housing in Uganda, awarded Best Visionary Government Property Developer 2020",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_015",
+        "company": "Canaan Sites Ltd",
+        "specialties": ["Real Estate Development", "Road Construction", "Land Development"],
+        "contact_information": {
+          "website": "https://canaansites.co.ug"
+        },
+        "case_studies": "Offers planned and organized real estate for quality living and industrial lands",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_016",
+        "company": "Housing Finance Bank",
+        "specialties": ["Real Estate Finance", "Mortgage Services"],
+        "contact_information": {
+          "address": "Investment House, 4 Wampewo Avenue, Kololo",
+          "website": "https://www.housingfinance.co.ug"
+        },
+        "expertise": "Mortgage and development finance, home loans, land loans, incremental housing",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_017",
+        "company": "Stanbic Bank Uganda",
+        "specialties": ["Real Estate Finance", "Corporate Banking"],
+        "contact_information": {
+          "website": "https://www.stanbicbank.co.ug"
+        },
+        "expertise": "Real estate financing, term and development funding, commercial, industrial and retail development",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_018",
+        "company": "Absa Bank Uganda",
+        "specialties": ["Real Estate Finance", "Home Loans"],
+        "contact_information": {
+          "website": "https://www.absa.co.ug"
+        },
+        "loan_amounts": "Up to UGX2 billion or USD500,000",
+        "loan_terms": "Up to 25 years (buy to live), up to 20 years (buy to let)",
+        "expertise": "Home purchase, equity release, re-financing, home completion",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_019",
+        "company": "Standard Chartered Bank Uganda",
+        "specialties": ["Real Estate Finance", "Mortgage Services"],
+        "loan_coverage": "Up to 90% of property value",
+        "expertise": "Equity release, purchase, renovation, refinancing",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_020",
+        "company": "Bank of Africa Uganda",
+        "specialties": ["Real Estate Finance", "Home Loans"],
+        "contact_information": {
+          "website": "https://boauganda.com"
+        },
+        "loan_terms": "Up to 25 years",
+        "expertise": "Home purchase, land purchase, home improvement, refinancing, home extension, construction",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_021",
+        "company": "ABC Capital Bank",
+        "specialties": ["Real Estate Finance", "Mortgage Services"],
+        "expertise": "Purchase of plots, construction, refinancing",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_022",
+        "company": "UNFCU (UN Federal Credit Union)",
+        "specialties": ["Real Estate Finance", "International Mortgages"],
+        "contact_information": {
+          "phone": "+256 315 100061",
+          "email": "ugandamortgage@unfcu.com",
+          "website": "https://www.unfcu.org"
+        },
+        "loan_amounts": "$50,000 to $1,000,000",
+        "down_payment": "20-30% based on credit quality",
+        "eligibility": "UN employees, National Professional Officers, General Service staff, UN retirees",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_023",
+        "company": "Angualia Busiku & Co. Advocates",
+        "specialties": ["Real Estate Law", "Property Transactions"],
+        "contact_information": {
+          "address": "BMK House, 4th Floor, Suite No.402, Plot 4-5 Nyabong Road, Wampewo Avenue",
+          "po_box": "P.O.Box 27689 Kampala",
+          "website": "https://lawfirmsinuganda.ug"
+        },
+        "registration_number": "179893",
+        "expertise": "Land law, real estate transactions, due diligence, land sale agreements, land transfers, certificates of titles, leases, mortgages, tenancy agreements",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_024",
+        "company": "S&L Advocates (DLA Piper Africa)",
+        "specialties": ["Real Estate Law", "Corporate Law"],
+        "contact_information": {
+          "website": "https://www.dlapiperafrica.com/en/uganda"
+        },
+        "expertise": "Real estate financing, acquisitions and disposals, tax efficiency, land use, environmental law, planning and development, construction and leasing",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_025",
+        "company": "INQ Advocates",
+        "specialties": ["Real Estate Law", "Corporate Law"],
+        "expertise": "Real estate development, land use, business counsel, project finance",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_026",
+        "company": "AHA Advocates",
+        "specialties": ["Real Estate Law", "Government Regulatory Law"],
+        "expertise": "Real estate development, land use, business counsel, employment law, commercial transactions, project finance",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_027",
+        "company": "CR. Amanya Advocates & Solicitors",
+        "specialties": ["Corporate Law", "Real Estate Law"],
+        "expertise": "Corporate and Commercial Practice, real estate transactions",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_028",
+        "company": "Kiwanuka & Karugire Company Advocates (K&K Advocates)",
+        "specialties": ["Real Estate Law", "Commercial Law"],
+        "contact_information": {
+          "address": "5th Floor, Crane Chambers, Plot 38 Kampala Road"
+        },
+        "founded": "September 28, 2001",
+        "founding_partners": "Kiryowa Kiwanuka, Edwin Karugire",
+        "expertise": "Full-service law firm, contract litigation, construction, dispute resolution",
+        "country": "Uganda",
+        "location": "Kampala"
+      },
+      {
+        "id": "COMP_029",
+        "company": "Kaggwa & Kaggwa Advocates",
+        "specialties": ["Real Estate Law", "Construction Law"],
+        "founded": "1996",
+        "expertise": "Contract litigation, construction, dispute resolution, commercial litigation, alternative dispute resolution",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_030",
+        "company": "Mugalula & Omalla Advocates",
+        "specialties": ["Business Law", "Real Estate Law"],
+        "expertise": "Multi-dimensional business law practice, real estate transactions",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_031",
+        "company": "RENEWILLS REAL ESTATES",
+        "specialties": ["Real Estate Agency", "Property Development", "Real Estate Sales"],
+        "contact_information": {
+          "phone": "+256-782-920250"
+        },
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_032",
+        "company": "Prime Properties Uganda",
+        "specialties": ["Real Estate Agency", "Property Sales", "Property Investment"],
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_033",
+        "company": "Fountain Real Properties",
+        "specialties": ["Real Estate Agency", "Property Management", "Property Development", "Real Estate Investment"],
+        "contact_phone": "+256752529633",
+        "location": "Kampala/Kololo",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_034",
+        "company": "Mega Property Services",
+        "specialties": ["Property Services", "Real Estate Agency", "Property Management", "Real Estate Services"],
+        "contact_phone": "+256705218332",
+        "location": "Kampala/Kololo",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_035",
+        "company": "Marbles Estates Agency",
+        "specialties": ["Real Estate Agency", "Estate Management", "Property Management"],
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_036",
+        "company": "Rentwide",
+        "specialties": ["Property Rentals", "Real Estate Agency", "Property Management"],
+        "contact_phones": ["+256780106558", "+256706206792"],
+        "locations": ["Kampala/Ggaba Road", "Kampala/Kiwatule"],
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_037",
+        "company": "POSH PROPERTIES LTD",
+        "full_name": "Posh Properties",
+        "specialties": ["Real Estate Agency", "Luxury Properties", "High-end Real Estate"],
+        "contact_phone": "+256774755146",
+        "location": "Kampala/Bukoto",
+        "country": "Uganda"
+      },
+      {
+        "id": "COMP_038",
+        "company": "Safe Property",

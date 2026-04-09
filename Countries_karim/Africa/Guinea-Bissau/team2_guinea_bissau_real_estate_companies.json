@@ -1,0 +1,476 @@
+[
+  {
+    "company_name": "African Land",
+    "name": "None None",
+    "email": "t.ceo@african.land",
+    "position": null
+  },
+  {
+    "company_name": "GB Legal",
+    "name": "Jo\u00e3o Correia",
+    "email": "joao.correia@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GB Legal",
+    "name": "Miguel Carvalho",
+    "email": "miguel.carvalho@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GB Legal",
+    "name": "Susana Oliveira",
+    "email": "susana.oliveira@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GB Legal",
+    "name": "Rui Marques",
+    "email": "rui.marques@mirandalawfirm.com",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "GB Legal",
+    "name": "Rita Borges",
+    "email": "rita.borges@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GB Legal",
+    "name": "Jo\u00e3o Leite",
+    "email": "joao.leite@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GB Legal",
+    "name": "Francisco Cola\u00e7o",
+    "email": "francisco.colaco@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GB Legal",
+    "name": "Renato Almeida",
+    "email": "renato.almeida@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GB Legal",
+    "name": "Rita Correia",
+    "email": "rita.correia@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "GB Legal",
+    "name": "Rita Carvalho",
+    "email": "rita.carvalho@mirandalawfirm.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "Carrazedo & Pascoal / Julafer&Lopesfino Advogados Associados",
+    "name": "None None",
+    "email": "carrazedo@carrazedo.com",
+    "position": null
+  },
+  {
+    "company_name": "Banco da \u00c1frica Ocidental (BAO)",
+    "name": "None None",
+    "email": "recrute@bankofafrica.net",
+    "position": null
+  },
+  {
+    "company_name": "Ecobank Guin\u00e9e-Bissau",
+    "name": "Samudrala Kittu",
+    "email": "chammond@ecobank.com",
+    "position": "Head of Custody Services"
+  },
+  {
+    "company_name": "Ecobank Guin\u00e9e-Bissau",
+    "name": "Jeremy Awori",
+    "email": "jeremyawori@ecobank.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "Ecobank Guin\u00e9e-Bissau",
+    "name": "Abdimalik Hassan",
+    "email": "ahassan@ecobank.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Ecobank Guin\u00e9e-Bissau",
+    "name": "Sararose Jonasson",
+    "email": "abartlett-mingle@ecobank.com",
+    "position": "Regional Head of Internal Control"
+  },
+  {
+    "company_name": "Ecobank Guin\u00e9e-Bissau",
+    "name": "Karen Malm",
+    "email": "kmalm@ecobank.com",
+    "position": "Contact Center Manager"
+  },
+  {
+    "company_name": "Ecobank Guin\u00e9e-Bissau",
+    "name": "Arnold Mulamba",
+    "email": "amulamba@ecobank.com",
+    "position": "Head of Current Accounts, Savings Accounts & Bancassurance"
+  },
+  {
+    "company_name": "Ecobank Guin\u00e9e-Bissau",
+    "name": "Isaac Akeredolu",
+    "email": "iakeredolu@ecobank.com",
+    "position": "Director of Data Engineering"
+  },
+  {
+    "company_name": "Ecobank Guin\u00e9e-Bissau",
+    "name": "None None",
+    "email": "ofavour@ecobank.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Ecobank Guin\u00e9e-Bissau",
+    "name": "Christian Johnson",
+    "email": "cjohnson@ecobank.com",
+    "position": "Regional Head"
+  },
+  {
+    "company_name": "Ecobank Guin\u00e9e-Bissau",
+    "name": "Oumar Gueye",
+    "email": "ogueye@ecobank.com",
+    "position": "Public Sector Head"
+  },
+  {
+    "company_name": "Healy Consultants Group",
+    "name": "Aidan Healy",
+    "email": "aidanhealy@healyconsultants.com",
+    "position": "Chairman"
+  },
+  {
+    "company_name": "Healy Consultants Group",
+    "name": "Karen Lee",
+    "email": "karen@healyconsultants.com",
+    "position": "Accountant"
+  },
+  {
+    "company_name": "Healy Consultants Group",
+    "name": "None None",
+    "email": "email@healyconsultants.com",
+    "position": null
+  },
+  {
+    "company_name": "Healy Consultants Group",
+    "name": "None None",
+    "email": "contact@healyconsultants.com",
+    "position": null
+  },
+  {
+    "company_name": "Healy Consultants Group",
+    "name": "None None",
+    "email": "apurv@healyconsultants.com",
+    "position": null
+  },
+  {
+    "company_name": "Healy Consultants Group",
+    "name": "None None",
+    "email": "chrissi@healyconsultants.com",
+    "position": null
+  },
+  {
+    "company_name": "Healy Consultants Group",
+    "name": "None None",
+    "email": "info@healyconsultants.com",
+    "position": null
+  },
+  {
+    "company_name": "FACE Africa Tax & Legal",
+    "name": "Kelly Mgbor",
+    "email": "kelly.mgbor@wts.com",
+    "position": "Global Head of Quality"
+  },
+  {
+    "company_name": "FACE Africa Tax & Legal",
+    "name": "Ines Blanco",
+    "email": "ines.blanco@wts.com",
+    "position": null
+  },
+  {
+    "company_name": "FACE Africa Tax & Legal",
+    "name": "Claus Sch\u00fcrmann",
+    "email": "claus.schuermann@wts.com",
+    "position": null
+  },
+  {
+    "company_name": "FACE Africa Tax & Legal",
+    "name": "Michael Lorenz",
+    "email": "michael.lorenz@wts.com",
+    "position": null
+  },
+  {
+    "company_name": "FACE Africa Tax & Legal",
+    "name": "None None",
+    "email": "news@wts.com",
+    "position": null
+  },
+  {
+    "company_name": "FACE Africa Tax & Legal",
+    "name": "None None",
+    "email": "info@wts.com",
+    "position": null
+  },
+  {
+    "company_name": "FACE Africa Tax & Legal",
+    "name": "Constantina Kaminski",
+    "email": "constantina.kaminski@wts.com",
+    "position": null
+  },
+  {
+    "company_name": "FACE Africa Tax & Legal",
+    "name": "Lorenz Michael",
+    "email": "lorenz@wts.com",
+    "position": null
+  },
+  {
+    "company_name": "FACE Africa Tax & Legal",
+    "name": "None None",
+    "email": "weronika.zurawska@wts.com",
+    "position": null
+  },
+  {
+    "company_name": "FACE Africa Tax & Legal",
+    "name": "None None",
+    "email": "tax.sustainabilityindex@wts.com",
+    "position": null
+  },
+  {
+    "company_name": "Audi-Conta",
+    "name": "None None",
+    "email": "geral@audicontabissau.gw",
+    "position": null
+  },
+  {
+    "company_name": "Audi-Conta",
+    "name": "None None",
+    "email": "miguelmango@audicontabissau.gw",
+    "position": null
+  },
+  {
+    "company_name": "Orange Bissau",
+    "name": "None None",
+    "email": "fed@orange-bissau.com",
+    "position": null
+  },
+  {
+    "company_name": "Telecel Guinea-Bissau",
+    "name": "Ahmad Farhat",
+    "email": "afarhat@telecelgroup.com",
+    "position": "Director of Network and Infrastructure"
+  },
+  {
+    "company_name": "Telecel Guinea-Bissau",
+    "name": "Fatima Charara",
+    "email": "fcharara@telecelgroup.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Telecel Guinea-Bissau",
+    "name": "Malek Atrissi",
+    "email": "matrissi@telecelgroup.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "Telecel Guinea-Bissau",
+    "name": "Alix Bourg",
+    "email": "abourg@telecelgroup.com",
+    "position": "Digital Marketing Specialist"
+  },
+  {
+    "company_name": "Telecel Guinea-Bissau",
+    "name": "Eleanor Azar",
+    "email": "eazar@telecelgroup.com",
+    "position": "Chief Of Staff"
+  },
+  {
+    "company_name": "Telecel Guinea-Bissau",
+    "name": "None None",
+    "email": "info@telecelgroup.com",
+    "position": null
+  },
+  {
+    "company_name": "CWT Guinea Bissau (SATGURU TRAVEL & TOUR SERVICES)",
+    "name": "Neil Radley",
+    "email": "nradley@mycwt.com",
+    "position": "Global Client Director"
+  },
+  {
+    "company_name": "CWT Guinea Bissau (SATGURU TRAVEL & TOUR SERVICES)",
+    "name": "Carolina Matilla",
+    "email": "cmatilla@mycwt.com",
+    "position": "Program Manager"
+  },
+  {
+    "company_name": "CWT Guinea Bissau (SATGURU TRAVEL & TOUR SERVICES)",
+    "name": "Gilles Besson",
+    "email": "gbesson@mycwt.com",
+    "position": "Client Executive"
+  },
+  {
+    "company_name": "CWT Guinea Bissau (SATGURU TRAVEL & TOUR SERVICES)",
+    "name": "Bobynder Panwar",
+    "email": "bpanwar@mycwt.com",
+    "position": "Transportation Executive"
+  },
+  {
+    "company_name": "CWT Guinea Bissau (SATGURU TRAVEL & TOUR SERVICES)",
+    "name": "Cyndy Aaron",
+    "email": "caaron@mycwt.com",
+    "position": "Senior Director"
+  },
+  {
+    "company_name": "CWT Guinea Bissau (SATGURU TRAVEL & TOUR SERVICES)",
+    "name": "Shelley Potter",
+    "email": "spotter@mycwt.com",
+    "position": "Owner"
+  },
+  {
+    "company_name": "CWT Guinea Bissau (SATGURU TRAVEL & TOUR SERVICES)",
+    "name": "Karine Owen",
+    "email": "kowen@mycwt.com",
+    "position": "Senior Account Executive"
+  },
+  {
+    "company_name": "CWT Guinea Bissau (SATGURU TRAVEL & TOUR SERVICES)",
+    "name": "Christine Meagher",
+    "email": "cmeagher@mycwt.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "CWT Guinea Bissau (SATGURU TRAVEL & TOUR SERVICES)",
+    "name": "Paula Peitz",
+    "email": "ppeitz@mycwt.com",
+    "position": "Director of Accounting"
+  },
+  {
+    "company_name": "CWT Guinea Bissau (SATGURU TRAVEL & TOUR SERVICES)",
+    "name": "Fred Marshall",
+    "email": "fmarshall@mycwt.com",
+    "position": "Senior Director of Strategy and Operations"
+  },
+  {
+    "company_name": "Maersk Guinea Bissau",
+    "name": "Shawn Leeson",
+    "email": "shawn.leeson@maersk.com",
+    "position": "Senior Customer Experience Manager"
+  },
+  {
+    "company_name": "Maersk Guinea Bissau",
+    "name": "Wojtek Morawski",
+    "email": "wojtek.morawski@maersk.com",
+    "position": "Chief Engineer"
+  },
+  {
+    "company_name": "Maersk Guinea Bissau",
+    "name": "Oleksandr Hrytsenko",
+    "email": "oleksandr.hrytsenko@maersk.com",
+    "position": "Chief Engineer"
+  },
+  {
+    "company_name": "Maersk Guinea Bissau",
+    "name": "Michelle Paix\u00e3o",
+    "email": "michelle.paixao@maersk.com",
+    "position": "Finance Business Partner"
+  },
+  {
+    "company_name": "Maersk Guinea Bissau",
+    "name": "Ana Ferguson",
+    "email": "ana.ferguson@maersk.com",
+    "position": "Customer Experience Manager"
+  },
+  {
+    "company_name": "Maersk Guinea Bissau",
+    "name": "Michelle Khumalo",
+    "email": "michelle.khumalo@maersk.com",
+    "position": "Customer Success Manager"
+  },
+  {
+    "company_name": "Maersk Guinea Bissau",
+    "name": "Cindy Quispe",
+    "email": "cindy.quispe@maersk.com",
+    "position": "Customer Experience Manager"
+  },
+  {
+    "company_name": "Maersk Guinea Bissau",
+    "name": "Tuan Nguyen",
+    "email": "tuan.nguyen@maersk.com",
+    "position": "Customer Success Manager"
+  },
+  {
+    "company_name": "Maersk Guinea Bissau",
+    "name": "Nurul Anwar",
+    "email": "nurul.anwar@maersk.com",
+    "position": "Logistics Manager"
+  },
+  {
+    "company_name": "Maersk Guinea Bissau",
+    "name": "Mili Joshi",
+    "email": "mili.joshi@maersk.com",
+    "position": "Finance Business Partner"
+  },
+  {
+    "company_name": "In On Africa (IOA)",
+    "name": "Jonathan Mundell",
+    "email": "jonathan@inonafrica.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "In On Africa (IOA)",
+    "name": "Alexander Szabo",
+    "email": "alexander@inonafrica.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "In On Africa (IOA)",
+    "name": "Ogi Williams",
+    "email": "ogi@inonafrica.com",
+    "position": "Director of Consulting"
+  },
+  {
+    "company_name": "In On Africa (IOA)",
+    "name": "Nobuhle Mundell",
+    "email": "nmundell@inonafrica.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "In On Africa (IOA)",
+    "name": "Nthati Tsotetsi",
+    "email": "nthati@inonafrica.com",
+    "position": "Business Analyst"
+  },
+  {
+    "company_name": "In On Africa (IOA)",
+    "name": "Charlotte Sutherland",
+    "email": "charlotte@inonafrica.com",
+    "position": null
+  },
+  {
+    "company_name": "In On Africa (IOA)",
+    "name": "None None",
+    "email": "james@inonafrica.com",
+    "position": null
+  },
+  {
+    "company_name": "In On Africa (IOA)",
+    "name": "None None",
+    "email": "kyle@inonafrica.com",
+    "position": null
+  },
+  {
+    "company_name": "In On Africa (IOA)",
+    "name": "None None",
+    "email": "sarah@inonafrica.com",
+    "position": null
+  },
+  {
+    "company_name": "In On Africa (IOA)",
+    "name": "None None",
+    "email": "claire@inonafrica.com",
+    "position": null
+  }
+]

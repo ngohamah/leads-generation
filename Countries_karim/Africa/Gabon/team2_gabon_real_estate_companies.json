@@ -1,0 +1,794 @@
+[
+  {
+    "company_name": "Trianon Homes",
+    "name": "Wiem Abdeljaouad",
+    "email": "w.abdeljaouad@ietp.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Trianon Homes",
+    "name": "Sebastien Boy\u00e9",
+    "email": "s.boye@ietp.com",
+    "position": "Co-CEO"
+  },
+  {
+    "company_name": "Trianon Homes",
+    "name": "Raphael Dumont",
+    "email": "r.dumont@ietp.com",
+    "position": "Director of Funding"
+  },
+  {
+    "company_name": "Trianon Homes",
+    "name": "Mamadou Ndao",
+    "email": "m.ndao@ietp.com",
+    "position": "Investment Director"
+  },
+  {
+    "company_name": "Trianon Homes",
+    "name": "Mialy Ranaivoson",
+    "email": "m.ranaivoson@ietp.com",
+    "position": "Director of ESG and Impact"
+  },
+  {
+    "company_name": "Trianon Homes",
+    "name": "Cl\u00e9mence Bourrin",
+    "email": "c.bourrin@ietp.com",
+    "position": "Director of Communications"
+  },
+  {
+    "company_name": "Trianon Homes",
+    "name": "Ben Kouakou",
+    "email": "b.kouakou@ietp.com",
+    "position": "Investment Director"
+  },
+  {
+    "company_name": "Trianon Homes",
+    "name": "Alexis Thirouin",
+    "email": "a.thirouin@ietp.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Trianon Homes",
+    "name": "Prevost Kla",
+    "email": "p.kla@ietp.com",
+    "position": "Investment Director"
+  },
+  {
+    "company_name": "Trianon Homes",
+    "name": "Hugues Genod",
+    "email": "h.vincent-genod@ietp.com",
+    "position": "Director of Fund of Funds"
+  },
+  {
+    "company_name": "Cabinet NGUIA (Miranda Alliance)",
+    "name": "Jo\u00e3o Correia",
+    "email": "joao.correia@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cabinet NGUIA (Miranda Alliance)",
+    "name": "Miguel Carvalho",
+    "email": "miguel.carvalho@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cabinet NGUIA (Miranda Alliance)",
+    "name": "Susana Oliveira",
+    "email": "susana.oliveira@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cabinet NGUIA (Miranda Alliance)",
+    "name": "Rui Marques",
+    "email": "rui.marques@mirandalawfirm.com",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "Cabinet NGUIA (Miranda Alliance)",
+    "name": "Rita Borges",
+    "email": "rita.borges@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cabinet NGUIA (Miranda Alliance)",
+    "name": "Jo\u00e3o Leite",
+    "email": "joao.leite@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cabinet NGUIA (Miranda Alliance)",
+    "name": "Francisco Cola\u00e7o",
+    "email": "francisco.colaco@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cabinet NGUIA (Miranda Alliance)",
+    "name": "Renato Almeida",
+    "email": "renato.almeida@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cabinet NGUIA (Miranda Alliance)",
+    "name": "Rita Correia",
+    "email": "rita.correia@mirandalawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cabinet NGUIA (Miranda Alliance)",
+    "name": "Rita Carvalho",
+    "email": "rita.carvalho@mirandalawfirm.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "SRDB Law Firm",
+    "name": "Georges Sioufi",
+    "email": "georges.sioufi@srdb-lawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "SRDB Law Firm",
+    "name": "Ziad Beylouni",
+    "email": "ziad.beylouni@srdb-lawfirm.com",
+    "position": "Lawyer"
+  },
+  {
+    "company_name": "SRDB Law Firm",
+    "name": "Marie Girardet",
+    "email": "marie.girardet@srdb-lawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "SRDB Law Firm",
+    "name": "Azad Mze",
+    "email": "azad.mze@srdb-lawfirm.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "SRDB Law Firm",
+    "name": "Yosr Hafhouf",
+    "email": "yosr.hafhouf@srdb-lawfirm.com",
+    "position": "Attorney"
+  },
+  {
+    "company_name": "SRDB Law Firm",
+    "name": "Iuliia Kruk",
+    "email": "iuliia.kruk@srdb-lawfirm.com",
+    "position": null
+  },
+  {
+    "company_name": "SRDB Law Firm",
+    "name": "Diane Koumba-Manfoumbi",
+    "email": "diane.koumba-manfoumbi@srdb-lawfirm.com",
+    "position": null
+  },
+  {
+    "company_name": "SRDB Law Firm",
+    "name": "Yves Ollivier",
+    "email": "yves.ollivier@srdb-lawfirm.com",
+    "position": null
+  },
+  {
+    "company_name": "SRDB Law Firm",
+    "name": "Philippe Aziz",
+    "email": "philippe.aziz@srdb-lawfirm.com",
+    "position": null
+  },
+  {
+    "company_name": "SRDB Law Firm",
+    "name": "Henri Najm",
+    "email": "henri.najm@srdb-lawfirm.com",
+    "position": null
+  },
+  {
+    "company_name": "Alios Finance Gabon",
+    "name": "Ives Kouame",
+    "email": "ives.kouame@alios-finance.com",
+    "position": "Director of Risk Management"
+  },
+  {
+    "company_name": "Alios Finance Gabon",
+    "name": "Ariane Nanfack",
+    "email": "ariane.nanfack@alios-finance.com",
+    "position": "Middle Office Manager"
+  },
+  {
+    "company_name": "Alios Finance Gabon",
+    "name": "Ir\u00e8ne Amayana",
+    "email": "irene.amayana@alios-finance.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Alios Finance Gabon",
+    "name": "Baman Olivier",
+    "email": "olivier.baman@alios-finance.com",
+    "position": "Marketing and Business Development Director"
+  },
+  {
+    "company_name": "Alios Finance Gabon",
+    "name": "James Muwowo",
+    "email": "james.muwowo@alios-finance.com",
+    "position": "Chief Commercial Officer"
+  },
+  {
+    "company_name": "Alios Finance Gabon",
+    "name": "Hass\u00e8ne Za\u00e2za\u00e2",
+    "email": "hassene.zaazaa@alios-finance.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Alios Finance Gabon",
+    "name": "Mercy Atoh",
+    "email": "mercy.atoh@alios-finance.com",
+    "position": "Treasury Accountant"
+  },
+  {
+    "company_name": "Alios Finance Gabon",
+    "name": "None None",
+    "email": "mali@alios-finance.com",
+    "position": null
+  },
+  {
+    "company_name": "Alios Finance Gabon",
+    "name": "None None",
+    "email": "burkinafaso@alios-finance.com",
+    "position": null
+  },
+  {
+    "company_name": "Alios Finance Gabon",
+    "name": "None None",
+    "email": "recrutement.cameroun@alios-finance.com",
+    "position": null
+  },
+  {
+    "company_name": "FACO Construction",
+    "name": "None None",
+    "email": "contact@faco-construction.com",
+    "position": null
+  },
+  {
+    "company_name": "FACO Construction",
+    "name": "None None",
+    "email": "webmaster@faco-construction.com",
+    "position": null
+  },
+  {
+    "company_name": "Bechtel Gabon",
+    "name": "Ghassan Kamel",
+    "email": "gkamel@bechtel.com",
+    "position": "Delivery Manager"
+  },
+  {
+    "company_name": "Bechtel Gabon",
+    "name": "John Brewer",
+    "email": "jbrewer@bechtel.com",
+    "position": "Deputy Director"
+  },
+  {
+    "company_name": "Bechtel Gabon",
+    "name": "Inam Jan",
+    "email": "ijan@bechtel.com",
+    "position": "Director of Infrastructure"
+  },
+  {
+    "company_name": "Bechtel Gabon",
+    "name": "Kristin Jenkins",
+    "email": "kjenkins@bechtel.com",
+    "position": "Director of Community Engagement"
+  },
+  {
+    "company_name": "Bechtel Gabon",
+    "name": "Rohan Khanna",
+    "email": "rkhanna@bechtel.com",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "Bechtel Gabon",
+    "name": "Alan James",
+    "email": "ajames@bechtel.com",
+    "position": "Senior Director"
+  },
+  {
+    "company_name": "Bechtel Gabon",
+    "name": "Namit Gupta",
+    "email": "ngupta@bechtel.com",
+    "position": "Assistant Chief Engineer"
+  },
+  {
+    "company_name": "Bechtel Gabon",
+    "name": "Aldiron Tahalele",
+    "email": "jkurman@bechtel.com",
+    "position": "Content Strategy Director"
+  },
+  {
+    "company_name": "Bechtel Gabon",
+    "name": "Robert Fultz",
+    "email": "rfultz@bechtel.com",
+    "position": "Chief Engineer"
+  },
+  {
+    "company_name": "Bechtel Gabon",
+    "name": "Tam Nguyen",
+    "email": "tnguyen@bechtel.com",
+    "position": "President"
+  },
+  {
+    "company_name": "Orabank Gabon",
+    "name": "Dorman Chimhamhiwa",
+    "email": "dorman@housingfinanceafrica.org",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "Orabank Gabon",
+    "name": "Alison Tshangana",
+    "email": "alison@housingfinanceafrica.org",
+    "position": "Director of Research"
+  },
+  {
+    "company_name": "Orabank Gabon",
+    "name": "Beatrice Mwangi",
+    "email": "beatrice@housingfinanceafrica.org",
+    "position": "Research Manager"
+  },
+  {
+    "company_name": "Orabank Gabon",
+    "name": "Thandiwe Dhlamini",
+    "email": "thandiwe@housingfinanceafrica.org",
+    "position": "Program Manager"
+  },
+  {
+    "company_name": "Orabank Gabon",
+    "name": "David Chiwetu",
+    "email": "david@housingfinanceafrica.org",
+    "position": "Research Manager"
+  },
+  {
+    "company_name": "Orabank Gabon",
+    "name": "Nasiphi Dumile",
+    "email": "nasiphi@housingfinanceafrica.org",
+    "position": "Communications Officer"
+  },
+  {
+    "company_name": "Orabank Gabon",
+    "name": "Adelaide Steedley",
+    "email": "adelaide@housingfinanceafrica.org",
+    "position": "Founder"
+  },
+  {
+    "company_name": "Orabank Gabon",
+    "name": "Miriam Maina",
+    "email": "miriam@housingfinanceafrica.org",
+    "position": null
+  },
+  {
+    "company_name": "Orabank Gabon",
+    "name": "Kecia Rust",
+    "email": "kecia@housingfinanceafrica.org",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "Orabank Gabon",
+    "name": "Olga Koma",
+    "email": "olga@housingfinanceafrica.org",
+    "position": null
+  },
+  {
+    "company_name": "A.C.C. Allied Construction Company",
+    "name": "Eric Wittlake",
+    "email": "eric.wittlake@6sense.com",
+    "position": "Senior Director of Strategic Marketing"
+  },
+  {
+    "company_name": "A.C.C. Allied Construction Company",
+    "name": "Bharath Kumar",
+    "email": "bharath.kumar@6sense.com",
+    "position": "MIS Executive"
+  },
+  {
+    "company_name": "A.C.C. Allied Construction Company",
+    "name": "Ernest Selvaraj",
+    "email": "ernest.selvaraj@6sense.com",
+    "position": "Director of Data Science"
+  },
+  {
+    "company_name": "A.C.C. Allied Construction Company",
+    "name": "Dana Hensler",
+    "email": "dana.hensler@6sense.com",
+    "position": "Head of Customer Success"
+  },
+  {
+    "company_name": "A.C.C. Allied Construction Company",
+    "name": "Erica Yim",
+    "email": "erica.yim@6sense.com",
+    "position": "Director of Consulting"
+  },
+  {
+    "company_name": "A.C.C. Allied Construction Company",
+    "name": "Stefano Iacono",
+    "email": "stefano.iacono@6sense.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "A.C.C. Allied Construction Company",
+    "name": "Vineet Verma",
+    "email": "vineet.verma@6sense.com",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "A.C.C. Allied Construction Company",
+    "name": "Denise Rodd",
+    "email": "denise.rodd@6sense.com",
+    "position": "Senior Director of Customer Support"
+  },
+  {
+    "company_name": "A.C.C. Allied Construction Company",
+    "name": "Rachel Doble",
+    "email": "rachel.doble@6sense.com",
+    "position": "Director of Customer Success"
+  },
+  {
+    "company_name": "A.C.C. Allied Construction Company",
+    "name": "Wai Lim",
+    "email": "wai.lim@6sense.com",
+    "position": "Vice President of Product Management"
+  },
+  {
+    "company_name": "Africa Rail",
+    "name": "Eric Wittlake",
+    "email": "eric.wittlake@6sense.com",
+    "position": "Senior Director of Strategic Marketing"
+  },
+  {
+    "company_name": "Africa Rail",
+    "name": "Bharath Kumar",
+    "email": "bharath.kumar@6sense.com",
+    "position": "MIS Executive"
+  },
+  {
+    "company_name": "Africa Rail",
+    "name": "Ernest Selvaraj",
+    "email": "ernest.selvaraj@6sense.com",
+    "position": "Director of Data Science"
+  },
+  {
+    "company_name": "Africa Rail",
+    "name": "Dana Hensler",
+    "email": "dana.hensler@6sense.com",
+    "position": "Head of Customer Success"
+  },
+  {
+    "company_name": "Africa Rail",
+    "name": "Erica Yim",
+    "email": "erica.yim@6sense.com",
+    "position": "Director of Consulting"
+  },
+  {
+    "company_name": "Africa Rail",
+    "name": "Stefano Iacono",
+    "email": "stefano.iacono@6sense.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "Africa Rail",
+    "name": "Vineet Verma",
+    "email": "vineet.verma@6sense.com",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "Africa Rail",
+    "name": "Denise Rodd",
+    "email": "denise.rodd@6sense.com",
+    "position": "Senior Director of Customer Support"
+  },
+  {
+    "company_name": "Africa Rail",
+    "name": "Rachel Doble",
+    "email": "rachel.doble@6sense.com",
+    "position": "Director of Customer Success"
+  },
+  {
+    "company_name": "Africa Rail",
+    "name": "Wai Lim",
+    "email": "wai.lim@6sense.com",
+    "position": "Vice President of Product Management"
+  },
+  {
+    "company_name": "Afrique Contr\u00f4le",
+    "name": "Eric Wittlake",
+    "email": "eric.wittlake@6sense.com",
+    "position": "Senior Director of Strategic Marketing"
+  },
+  {
+    "company_name": "Afrique Contr\u00f4le",
+    "name": "Bharath Kumar",
+    "email": "bharath.kumar@6sense.com",
+    "position": "MIS Executive"
+  },
+  {
+    "company_name": "Afrique Contr\u00f4le",
+    "name": "Ernest Selvaraj",
+    "email": "ernest.selvaraj@6sense.com",
+    "position": "Director of Data Science"
+  },
+  {
+    "company_name": "Afrique Contr\u00f4le",
+    "name": "Dana Hensler",
+    "email": "dana.hensler@6sense.com",
+    "position": "Head of Customer Success"
+  },
+  {
+    "company_name": "Afrique Contr\u00f4le",
+    "name": "Erica Yim",
+    "email": "erica.yim@6sense.com",
+    "position": "Director of Consulting"
+  },
+  {
+    "company_name": "Afrique Contr\u00f4le",
+    "name": "Stefano Iacono",
+    "email": "stefano.iacono@6sense.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "Afrique Contr\u00f4le",
+    "name": "Vineet Verma",
+    "email": "vineet.verma@6sense.com",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "Afrique Contr\u00f4le",
+    "name": "Denise Rodd",
+    "email": "denise.rodd@6sense.com",
+    "position": "Senior Director of Customer Support"
+  },
+  {
+    "company_name": "Afrique Contr\u00f4le",
+    "name": "Rachel Doble",
+    "email": "rachel.doble@6sense.com",
+    "position": "Director of Customer Success"
+  },
+  {
+    "company_name": "Afrique Contr\u00f4le",
+    "name": "Wai Lim",
+    "email": "wai.lim@6sense.com",
+    "position": "Vice President of Product Management"
+  },
+  {
+    "company_name": "BE-SOLS",
+    "name": "Eric Wittlake",
+    "email": "eric.wittlake@6sense.com",
+    "position": "Senior Director of Strategic Marketing"
+  },
+  {
+    "company_name": "BE-SOLS",
+    "name": "Bharath Kumar",
+    "email": "bharath.kumar@6sense.com",
+    "position": "MIS Executive"
+  },
+  {
+    "company_name": "BE-SOLS",
+    "name": "Ernest Selvaraj",
+    "email": "ernest.selvaraj@6sense.com",
+    "position": "Director of Data Science"
+  },
+  {
+    "company_name": "BE-SOLS",
+    "name": "Dana Hensler",
+    "email": "dana.hensler@6sense.com",
+    "position": "Head of Customer Success"
+  },
+  {
+    "company_name": "BE-SOLS",
+    "name": "Erica Yim",
+    "email": "erica.yim@6sense.com",
+    "position": "Director of Consulting"
+  },
+  {
+    "company_name": "BE-SOLS",
+    "name": "Stefano Iacono",
+    "email": "stefano.iacono@6sense.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "BE-SOLS",
+    "name": "Vineet Verma",
+    "email": "vineet.verma@6sense.com",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "BE-SOLS",
+    "name": "Denise Rodd",
+    "email": "denise.rodd@6sense.com",
+    "position": "Senior Director of Customer Support"
+  },
+  {
+    "company_name": "BE-SOLS",
+    "name": "Rachel Doble",
+    "email": "rachel.doble@6sense.com",
+    "position": "Director of Customer Success"
+  },
+  {
+    "company_name": "BE-SOLS",
+    "name": "Wai Lim",
+    "email": "wai.lim@6sense.com",
+    "position": "Vice President of Product Management"
+  },
+  {
+    "company_name": "CGPR",
+    "name": "Eric Wittlake",
+    "email": "eric.wittlake@6sense.com",
+    "position": "Senior Director of Strategic Marketing"
+  },
+  {
+    "company_name": "CGPR",
+    "name": "Bharath Kumar",
+    "email": "bharath.kumar@6sense.com",
+    "position": "MIS Executive"
+  },
+  {
+    "company_name": "CGPR",
+    "name": "Ernest Selvaraj",
+    "email": "ernest.selvaraj@6sense.com",
+    "position": "Director of Data Science"
+  },
+  {
+    "company_name": "CGPR",
+    "name": "Dana Hensler",
+    "email": "dana.hensler@6sense.com",
+    "position": "Head of Customer Success"
+  },
+  {
+    "company_name": "CGPR",
+    "name": "Erica Yim",
+    "email": "erica.yim@6sense.com",
+    "position": "Director of Consulting"
+  },
+  {
+    "company_name": "CGPR",
+    "name": "Stefano Iacono",
+    "email": "stefano.iacono@6sense.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "CGPR",
+    "name": "Vineet Verma",
+    "email": "vineet.verma@6sense.com",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "CGPR",
+    "name": "Denise Rodd",
+    "email": "denise.rodd@6sense.com",
+    "position": "Senior Director of Customer Support"
+  },
+  {
+    "company_name": "CGPR",
+    "name": "Rachel Doble",
+    "email": "rachel.doble@6sense.com",
+    "position": "Director of Customer Success"
+  },
+  {
+    "company_name": "CGPR",
+    "name": "Wai Lim",
+    "email": "wai.lim@6sense.com",
+    "position": "Vice President of Product Management"
+  },
+  {
+    "company_name": "Cotexa",
+    "name": "Eric Wittlake",
+    "email": "eric.wittlake@6sense.com",
+    "position": "Senior Director of Strategic Marketing"
+  },
+  {
+    "company_name": "Cotexa",
+    "name": "Bharath Kumar",
+    "email": "bharath.kumar@6sense.com",
+    "position": "MIS Executive"
+  },
+  {
+    "company_name": "Cotexa",
+    "name": "Ernest Selvaraj",
+    "email": "ernest.selvaraj@6sense.com",
+    "position": "Director of Data Science"
+  },
+  {
+    "company_name": "Cotexa",
+    "name": "Dana Hensler",
+    "email": "dana.hensler@6sense.com",
+    "position": "Head of Customer Success"
+  },
+  {
+    "company_name": "Cotexa",
+    "name": "Erica Yim",
+    "email": "erica.yim@6sense.com",
+    "position": "Director of Consulting"
+  },
+  {
+    "company_name": "Cotexa",
+    "name": "Stefano Iacono",
+    "email": "stefano.iacono@6sense.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "Cotexa",
+    "name": "Vineet Verma",
+    "email": "vineet.verma@6sense.com",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "Cotexa",
+    "name": "Denise Rodd",
+    "email": "denise.rodd@6sense.com",
+    "position": "Senior Director of Customer Support"
+  },
+  {
+    "company_name": "Cotexa",
+    "name": "Rachel Doble",
+    "email": "rachel.doble@6sense.com",
+    "position": "Director of Customer Success"
+  },
+  {
+    "company_name": "Cotexa",
+    "name": "Wai Lim",
+    "email": "wai.lim@6sense.com",
+    "position": "Vice President of Product Management"
+  },
+  {
+    "company_name": "Equaco",
+    "name": "Eric Wittlake",
+    "email": "eric.wittlake@6sense.com",
+    "position": "Senior Director of Strategic Marketing"
+  },
+  {
+    "company_name": "Equaco",
+    "name": "Bharath Kumar",
+    "email": "bharath.kumar@6sense.com",
+    "position": "MIS Executive"
+  },
+  {
+    "company_name": "Equaco",
+    "name": "Ernest Selvaraj",
+    "email": "ernest.selvaraj@6sense.com",
+    "position": "Director of Data Science"
+  },
+  {
+    "company_name": "Equaco",
+    "name": "Dana Hensler",
+    "email": "dana.hensler@6sense.com",
+    "position": "Head of Customer Success"
+  },
+  {
+    "company_name": "Equaco",
+    "name": "Erica Yim",
+    "email": "erica.yim@6sense.com",
+    "position": "Director of Consulting"
+  },
+  {
+    "company_name": "Equaco",
+    "name": "Stefano Iacono",
+    "email": "stefano.iacono@6sense.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "Equaco",
+    "name": "Vineet Verma",
+    "email": "vineet.verma@6sense.com",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "Equaco",
+    "name": "Denise Rodd",
+    "email": "denise.rodd@6sense.com",
+    "position": "Senior Director of Customer Support"
+  },
+  {
+    "company_name": "Equaco",
+    "name": "Rachel Doble",
+    "email": "rachel.doble@6sense.com",
+    "position": "Director of Customer Success"
+  },
+  {
+    "company_name": "Equaco",
+    "name": "Wai Lim",
+    "email": "wai.lim@6sense.com",
+    "position": "Vice President of Product Management"
+  }
+]

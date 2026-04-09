@@ -1,0 +1,802 @@
+[
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Amanda McCallen",
+    "email": "amccallen@firstservice.com",
+    "position": "Tax Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Adam Schnare",
+    "email": "aschnare@firstservice.com",
+    "position": "Director of Technology",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Jordan Muchnick",
+    "email": "jmuchnick@firstservice.com",
+    "position": "Vice President of Lending",
+    "linkedin": "https://www.linkedin.com/in/jordan-muchnick-6863256",
+    "bio": "Vice President, Lending at FirstService Financial, Inc. \u00b7 Experience: FirstService Financial, Inc. \u00b7 Education: University of Delaware \u00b7 Location: Fort Washington \u00b7 500+ connections on LinkedIn. View Jordan Muchnick\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Steve Carpenter",
+    "email": "scarpenter@firstservice.com",
+    "position": "Senior Vice President of Technology",
+    "linkedin": "https://www.linkedin.com/in/steve-carpenter-01632740",
+    "bio": "Highly experienced IT professional, extensive experience directing, planning, and\u2026 \u00b7 Experience: FirstService Corp \u00b7 Location: Memphis Metropolitan Area \u00b7 404 connections on LinkedIn. View Steve Carpenter\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Doug Cooke",
+    "email": "dcooke@firstservice.com",
+    "position": "Vice President, Controller",
+    "linkedin": "https://ca.linkedin.com/in/doug-cooke-a6a72a15",
+    "bio": "Retired \u00b7 Experience: FirstService Corporation \u00b7 Education: University of Toronto at Scarborough \u00b7 Location: Toronto \u00b7 153 connections on LinkedIn. View Doug Cooke\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Angela Bai",
+    "email": "abai@firstservice.com",
+    "position": "Vice President of Strategy",
+    "linkedin": "https://ca.linkedin.com/in/angela-bai",
+    "bio": "Experience: FirstService Corp \u00b7 Education: University of Toronto \u00b7 Location: Toronto \u00b7 500+ connections on LinkedIn. View Angela Bai, CPA, CA\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Mike Smith",
+    "email": "msmith@firstservice.com",
+    "position": "Director of Strategy",
+    "linkedin": "https://ca.linkedin.com/in/mike-smith-cfa-aa06a7121",
+    "bio": "Director, Strategy &amp; Corporate Development at FirstService Corp \u00b7 Experience: FirstService Corp \u00b7 Education: University of Toronto \u00b7 Location: Toronto \u00b7 266 connections on LinkedIn. View Mike Smith, CFA\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Bailey MacDonald",
+    "email": "bmacdonald@firstservice.com",
+    "position": "Director of Strategy",
+    "linkedin": "https://ca.linkedin.com/in/bailey-macdonald-cpa-ca-74350891",
+    "bio": "Experience: FirstService Corp \u00b7 Location: Canada \u00b7 500+ connections on LinkedIn. View Bailey MacDonald, CPA, CA\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Brian Mcdonough",
+    "email": "bmcdonough@firstservice.com",
+    "position": "Vice President of Finance",
+    "linkedin": "https://www.linkedin.com/in/brian-mcdonough-923a49a",
+    "bio": "Vice President Finance at FirstService \u00b7 Experience: FirstService Corp \u00b7 Location: Kingston \u00b7 146 connections on LinkedIn. View Brian McDonough\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Firstservice Corporation",
+    "name": "Patrick Tran",
+    "email": "ptran@firstservice.com",
+    "position": "Senior Vice President of Tax",
+    "linkedin": "https://ca.linkedin.com/in/patrick-tran-658b1624",
+    "bio": "Experience: FirstService Corp \u00b7 Education: University of Toronto \u00b7 Location: Toronto \u00b7 500+ connections on LinkedIn. View Patrick Tran\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Suzan Akon",
+    "email": "sakon@morguard.com",
+    "position": "Marketing Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Ian Hotchkiss",
+    "email": "ihotchkiss@morguard.com",
+    "position": "Director of Retail Leasing",
+    "linkedin": "https://ca.linkedin.com/in/ian-hotchkiss-b5629175",
+    "bio": "Real Estate Leasing \u00b7 Experience: Morguard \u00b7 Location: Greater Toronto Area, Canada \u00b7 500+ connections on LinkedIn. View Ian Hotchkiss\u2019 profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Nick Moschella",
+    "email": "nmoschella@morguard.com",
+    "position": "Vice President of Finance",
+    "linkedin": "https://ca.linkedin.com/in/nick-moschella-cpa-ca-0b41a351",
+    "bio": "Vice President, Finance \u00b7 Experience: Morguard \u00b7 Location: Mississauga \u00b7 143 connections on LinkedIn. View Nick Moschella, CPA, CA\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Krysta Page",
+    "email": "kpage@morguard.com",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Mike Grupp",
+    "email": "mgrupp@morguard.com",
+    "position": "Director of Development",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Richard Clermont",
+    "email": "rclermont@morguard.com",
+    "position": "Assistant Vice President, Asset Management",
+    "linkedin": "https://ca.linkedin.com/in/richard-clermont-149647258",
+    "bio": "Assistant Vice President, Asset Management, Eastern Canada \u00b7 Experience: Morguard \u00b7 Location: Orleans \u00b7 192 connections on LinkedIn. View Richard Clermont\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Bonnie Long",
+    "email": "blong@morguard.com",
+    "position": "Vice President of Tax",
+    "linkedin": "https://ca.linkedin.com/in/bonnie-long-cpa-ca-mtax-b45a4a2a",
+    "bio": "VP, Tax at Morguard Corporation \u00b7 Experience: Toronto Chapter, TEI (Tax Executives Institute) \u00b7 Education: University of Waterloo \u00b7 Location: Canada \u00b7 500+ connections on LinkedIn. View Bonnie Long, CPA, CA, MTax\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Elizabeth Ferreira",
+    "email": "eferreira@morguard.com",
+    "position": "Legal Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Gene Fisher",
+    "email": "gfisher@morguard.com",
+    "position": "Director of Retail Property Management",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Morguard Corporation",
+    "name": "Enza Hughes",
+    "email": "ehughes@morguard.com",
+    "position": "Director of Human Resources",
+    "linkedin": "https://ca.linkedin.com/in/enza-hughes",
+    "bio": "As a Human Resources Leader, my primary objective is to cultivate a stimulating work\u2026 \u00b7 Experience: Morguard Investments Limited \u00b7 Education: Brock University \u00b7 Location: Greater Toronto Area, Canada \u00b7 500+ connections on LinkedIn. View Enza Hughes\u2019 profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Heather DeFrancesco",
+    "email": "hdefrancesco@triconresidential.com",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Drew Mcgray",
+    "email": "dmcgray@triconresidential.com",
+    "position": "Vice President, Marketing",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Alexandre Pike",
+    "email": "apike@triconresidential.com",
+    "position": "Director of Operations",
+    "linkedin": "https://ca.linkedin.com/in/alexandre-pike-676361104",
+    "bio": "Director of Operations - Tricon Residential \u00b7 Experience: Tricon Residential \u00b7 Education: Dalhousie University \u00b7 Location: Toronto \u00b7 500+ connections on LinkedIn. View Alexandre Pike\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Corinne Voels",
+    "email": "cvoels@triconresidential.com",
+    "position": "Revenue Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Karina McKinney",
+    "email": "kmckinney@triconresidential.com",
+    "position": "Executive Assistant",
+    "linkedin": "https://www.linkedin.com/in/karina-mckinney",
+    "bio": "SUMMARY OF QUALIFICATION\t\n\n\u2022\tExcellent at calendar and time management, travel\u2026 \u00b7 Experience: Tricon Residential \u00b7 Location: San Francisco \u00b7 195 connections on LinkedIn. View Karina McKinney\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Kerry Steer",
+    "email": "ksteer@triconresidential.com",
+    "position": "Senior Vice President, Construction",
+    "linkedin": "https://ca.linkedin.com/in/kerry-steer-7649975b",
+    "bio": "Experienced SVP Of Construction with a demonstrated history of working in the real estate\u2026 \u00b7 Experience: Tricon Residential \u00b7 Education: Ryerson University \u00b7 Location: Toronto \u00b7 500+ connections on LinkedIn. View Kerry Steer\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Irena Stankovic",
+    "email": "istankovic@triconresidential.com",
+    "position": "Director of ESG Strategy",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Jeff Peterson",
+    "email": "jpeterson@triconresidential.com",
+    "position": "Vice President, Asset Management",
+    "linkedin": "https://www.linkedin.com/in/jeff-peterson-66887634",
+    "bio": "REAL ESTATE INVESTMENT STRATEGIST | ACQUISITIONS | ASSET MANAGEMENT\nI am a real estate\u2026 \u00b7 Experience: Tricon Residential \u00b7 Education: University of Michigan - Stephen M. Ross School of Business \u00b7 Location: Newport Beach \u00b7 500+ connections on LinkedIn. View Jeff Peterson\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Jake Yuan",
+    "email": "jyuan@triconresidential.com",
+    "position": "Asset Management Director",
+    "linkedin": "https://www.linkedin.com/in/jake-yuan-cfa-2a73501b4",
+    "bio": "Experience: Tricon Residential \u00b7 Education: UC Irvine \u00b7 Location: Tustin \u00b7 166 connections on LinkedIn. View Jake Yuan, CFA\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Tricon Residential",
+    "name": "Deborah Coggins",
+    "email": "dcoggins@triconresidential.com",
+    "position": "Senior HR Business Partner",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Jamelda Reyes-Alino",
+    "email": "jamelda.reyes-alino@altusgroup.com",
+    "position": "Associate Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Kenneth Lien",
+    "email": "kenneth.lien@altusgroup.com",
+    "position": "Head of Commercial Transactions",
+    "linkedin": "https://ca.linkedin.com/in/kenneth-lien-9399b5138",
+    "bio": "Head of Commercial Transactions, Data Solutions \u00b7 Experience: Altus Group \u00b7 Education: Toronto Metropolitan University \u00b7 Location: Toronto \u00b7 500+ connections on LinkedIn. View Kenneth Lien\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Jonathan Brami",
+    "email": "jonathan.brami@altusgroup.com",
+    "position": "Customer Success Director",
+    "linkedin": "https://fr.linkedin.com/in/jonathan-brami-44426953",
+    "bio": "Customer Success Director - EMEA \u00b7 I\u2019m a passionate and results-driven Customer Success Director with a strong track record in managing strategic accounts, driving customer satisfaction, and exceeding renewal targets. At Altus, I lead a team focused on maximizing client retention and engagement through structured governance, personalized support, and deep process optimization, especially around our Salesforce deployment.\n\nOver the past year, I\u2019ve successfully implemented a new client governance model tailored by customer size and need, ensuring closer, more efficient collaboration. I thrive on mentoring my team, encouraging ownership and leadership within each role, and aligning our collective efforts with long-term client value. \u00b7 Exp\u00e9rience\u00a0: Altus Group \u00b7 Formation\u00a0: ESG management school \u00b7 Lieu\u00a0: Paris et p\u00e9riph\u00e9rie \u00b7 500\u00a0relations ou plus sur LinkedIn. Consultez le profil de Jonathan Brami sur LinkedIn, une communaut\u00e9 professionnelle d\u2019un milliard de membres."
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Jane McCormack",
+    "email": "jane.mccormack@altusgroup.com",
+    "position": "Global Human Resources Director",
+    "linkedin": "https://ca.linkedin.com/in/jane-mccormack-moore-chrl-aaba4722",
+    "bio": "Experience: Altus Group \u00b7 Education: University of Guelph \u00b7 Location: Toronto \u00b7 500+ connections on LinkedIn. View Jane McCormack (Moore), CHRL\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Kate Fletcher",
+    "email": "kate.fletcher@altusgroup.com",
+    "position": "Director of Marketing, APAC",
+    "linkedin": "https://au.linkedin.com/in/kate-fletcher-6621357b",
+    "bio": "Attended Tafe \u00b7 Education: Tafe \u00b7 Location: Greater Sydney Area. View Kate Fletcher\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Jonas Locke",
+    "email": "jonas.locke@altusgroup.com",
+    "position": "Head of Valuation Advisory",
+    "linkedin": "https://ca.linkedin.com/in/jonas-locke-3a157233",
+    "bio": "Head of Valuation Advisory - Canada at Altus Group \u00b7 Experience: Altus Group \u00b7 Education: University of Alberta \u00b7 Location: Kelowna \u00b7 500+ connections on LinkedIn. View Jonas Locke\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Michele Crochetiere",
+    "email": "michele.crochetiere@altusgroup.com",
+    "position": "Senior Director of Client Services",
+    "linkedin": "https://www.linkedin.com/in/mcrochetiere",
+    "bio": "Experience: Altus Group \u00b7 Location: Douglasville \u00b7 500+ connections on LinkedIn. View Michele Crochetiere\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Richard Clift",
+    "email": "richard.clift@altusgroup.com",
+    "position": "Senior Director",
+    "linkedin": "https://au.linkedin.com/in/richard-clift-578a03193",
+    "bio": "Business graduate  \u00b7 Experience: Nottingham Rugby \u00b7 Education: UQ Business School \u00b7 Location: Australia \u00b7 446 connections on LinkedIn. View Richard Clift\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Benoit Belanger",
+    "email": "benoit.belanger@altusgroup.com",
+    "position": "Senior Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Altus Group",
+    "name": "Sharon Yap",
+    "email": "sharon.yap@altusgroup.com",
+    "position": "Director",
+    "linkedin": "https://au.linkedin.com/in/sharon-yap-ab2aba31",
+    "bio": "Director at Altus Group \u00b7 I have a wealth of experience working for quantity surveying consultancy practices, contractors and developers across Asia and Australia. I have significant managerial and technical experience in cost estimating, bill of quantities, change control, value engineering, value management and construction contract administration. \nMy experience covers a range of clients including healthcare, education, hospitality, commercial and residential property. \nI promote the use of new technologies, which specialise in cost planning with Building Information Modeling (BIM). I am currently the Australian Institute of Quantity Surveyors (AIQS) WA Chapter councillor and also the regional engagement group member of Royal Institution of Chartered Surveyors (RICS).   \nBeing the Member of the AIQS and the RICS, I am committed to delivering the highest standard of service to all clients. \u00b7 Experience: Altus Group \u00b7 Education: Curtin University of Technology \u00b7 Location: Greater Perth Area \u00b7 500+ conne"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Karen James",
+    "email": "kjames@chartwell.com",
+    "position": "Board Member",
+    "linkedin": "https://ca.linkedin.com/in/karen-james-5b253953",
+    "bio": "Chartwell Foundation Board Member \u00b7 Having been with Chartwell Retirement Residences for over 18 years, I have had a great many opportunities to learn, mentor, be mentored, adapt and reflect on the experience\u2019s that I have gained, working in various roles for Chartwell.\n \nThe Senior Vice President of Customer Experience Strategy role is one that I have embraced with great passion and pride.   I look forward to supporting and leading my team for continued success.\n\nI am known for a strategic and focused approach, with accolades for limiting risk, creating focused teams, establishing creative strategies for optimizing internal operations, financial returns and internal/ external customer service.  \n\nChartwell Executive of the Year Award Recipient 2016\n\n\nBelow is an overview of past work history and my education thus far. \u00b7 Experience: Chartwell Retirement Residences \u00b7 Education: University of Toronto - Rotman School of Management \u00b7 Location: Greater Edmonton Metropolitan Area \u00b7 402 connections on LinkedI"
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Margaret Tays",
+    "email": "mtays@chartwell.com",
+    "position": "Regional Director of Operations",
+    "linkedin": "https://ca.linkedin.com/in/margaret-tays-76abb113",
+    "bio": "Regional Director Of Operations at Chartwell Retirement Residences \u00b7 Experience: Chartwell Retirement Residences \u00b7 Location: Canada \u00b7 500+ connections on LinkedIn. View Margaret Tays\u2019 profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Randall Walsh",
+    "email": "rwalsh@chartwell.com",
+    "position": "Executive Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Derek Lusk",
+    "email": "dlusk@chartwell.com",
+    "position": "Executive Chef",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Linda Prout",
+    "email": "lprout@chartwell.com",
+    "position": "Regional Sales Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Heather Dyck",
+    "email": "hdyck@chartwell.com",
+    "position": "Director of Operations",
+    "linkedin": "https://ca.linkedin.com/in/heather-dyck-2956a3195",
+    "bio": "Director of Operations &amp; Sales at Chartwell Retirement Residences \u00b7 Experience: Chartwell Retirement Residences \u00b7 Location: Chilliwack \u00b7 181 connections on LinkedIn. View Heather Dyck\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Any Lebrun",
+    "email": "alebrun@chartwell.com",
+    "position": "Director of Maintenance",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Bob Sangha",
+    "email": "bsangha@chartwell.com",
+    "position": "Director of Compliance",
+    "linkedin": "https://ca.linkedin.com/in/bob-sangha-6164805",
+    "bio": "BCI -Derivative Operations \u00b7 Over the past decade, I utilized my knowledge and experience in fixed income and OTC derivatives to successfully define and execute on corporate strategy; deliver middle and back-office valuation and risk management solutions; build and manage teams; negotiate and execute contracts with clients, market data and system vendors; drive product strategy and implement new products; and work from a technical spectrum on-boarding and supporting clients across valuations and risk reporting, measurement, and management. \n\nAreas of expertise include: \n\u2022Leadership - recruiting and training, valuation and service delivery operations, and business development\n\n\u2022Strategy - product, project, and change management and process improvement, preparing and presenting business cases and product plans, and implementing product strategy and solutions\n\n\u2022Regulations- identifying business opportunities and valuation and risk reporting functionality in response to FAS 133 and 157, Topic 820 and IFRS "
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Shari Lafontaine",
+    "email": "slafontaine@chartwell.com",
+    "position": "Senior Vice President of Finance",
+    "linkedin": "https://ca.linkedin.com/in/shari-lafontaine-cpa-cma-1413982a",
+    "bio": "Senior Finance Executive \u00b7 Experience: Chartwell Retirement Residences \u00b7 Location: Canada \u00b7 458 connections on LinkedIn. View Shari Lafontaine, CPA, CMA\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Chartwell Retirement Residences",
+    "name": "Lisa Brule",
+    "email": "lbrule@chartwell.com",
+    "position": "Director of Operations",
+    "linkedin": "https://ca.linkedin.com/in/lisa-brule-493418a1",
+    "bio": "Director of Operations and Sales \u00b7 Experienced General Manager with a demonstrated history of working in the health care industry. Skilled in Coaching, Team Building, Healthcare, Leadership, and Gerontology. Strong operations professional graduated from Laurentian University &amp; Cambrian College. \u00b7 Experience: Chartwell Retirement Residences \u00b7 Education: Laurentian University/Universit\u00e9 Laurentienne \u00b7 Location: Greater Sudbury \u00b7 500+ connections on LinkedIn. View Lisa Brule\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Alexandra Screpnechuk",
+    "email": "ascrepnechuk@dream.ca",
+    "position": "Director of Investments",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Michelle Luk",
+    "email": "mluk@dream.ca",
+    "position": "Marketing Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Alex Heath",
+    "email": "aheath@dream.ca",
+    "position": "Associate Director of Development",
+    "linkedin": "https://ca.linkedin.com/in/alex-w-heath",
+    "bio": "Associate Director, Development at Dream Unlimited \u00b7 Experience: Dream \u00b7 Education: York University \u00b7 Location: Toronto \u00b7 500+ connections on LinkedIn. View Alex Heath\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Robb Dalgleish",
+    "email": "rdalgleish@dream.ca",
+    "position": "Director",
+    "linkedin": "https://ca.linkedin.com/in/robb-dalgleish-b31a0a63",
+    "bio": "Director, Portfolio Management at Dream Unlimited \u00b7 Experience: Dream \u00b7 Education: Columbia University \u00b7 Location: Toronto \u00b7 500+ connections on LinkedIn. View Robb Dalgleish\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Gabriel Weitz",
+    "email": "gweitz@dream.ca",
+    "position": "Vice President, Investments",
+    "linkedin": "https://de.linkedin.com/in/gabriel-weitz-4a33031a1",
+    "bio": "Soziologie Studium an der Universit\u00e4t Bremen \u00b7 Ausbildung: Albert Einstein Gymnasium Kaarst \u00b7 Standort: Bremen \u00b7 22 Kontakte auf LinkedIn. Sehen Sie sich das Profil von Gabriel Weitz auf LinkedIn, einer professionellen Community mit mehr als 1\u00a0Milliarde Mitgliedern, an."
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Andrew Cunningham",
+    "email": "acunningham@dream.ca",
+    "position": "Associate Vice President, Portfolio Management",
+    "linkedin": "https://ca.linkedin.com/in/andrew-cunningham-8a989ab",
+    "bio": "Vice President, Portfolio Management, Industrial Properties, Central Region at Dream Industrial REIT at Dream Unlimited \u00b7 Experience: Dream Unlimited \u00b7 Location: Toronto \u00b7 500+ connections on LinkedIn. View Andrew Cunningham\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Jodi Gathercole",
+    "email": "jgathercole@dream.ca",
+    "position": "Executive Coordinator",
+    "linkedin": "https://ca.linkedin.com/in/jodi-gathercole",
+    "bio": "Executive Support &amp; Personal Assistant \u00b7 Accomplished Personal Assistant &amp; Administrative Professional with 25+ years supporting Corporate Executives and their teams. I bring over two decades of expertise in delivering comprehensive executive support to C-suite leaders, senior executives, and high-net-worth families across corporate and private environments. I specialize in managing complex operations, coordinating multi-faceted projects, and ensuring seamless daily operations\u2014all while maintaining the utmost discretion and confidentiality. \u00b7 Experience: Dream \u00b7 Education: Mount Royal College \u00b7 Location: Calgary \u00b7 111 connections on LinkedIn. View Jodi Gathercole\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Michael Ward",
+    "email": "mward@dream.ca",
+    "position": "Director of Property Management",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Shannon King",
+    "email": "sking@dream.ca",
+    "position": "Director of Leasing",
+    "linkedin": "https://ca.linkedin.com/in/shannon-king-6719b141",
+    "bio": "Director, Leasing- Ontario Region at Dream Industrial REIT \u00b7 Lease Negotiations:\nSkilled in commercial real estate transactions, lease contract negotiations and investment management. \u00b7 Experience: Dream \u00b7 Education: Mount Royal University \u00b7 Location: Greater Toronto Area, Canada \u00b7 500+ connections on LinkedIn. View Shannon King\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Dream Unlimited",
+    "name": "Charlene MacLeod",
+    "email": "cmacleod@dream.ca",
+    "position": "Vice President of Finance",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Robyn Salik",
+    "email": "rsalik@melcor.ca",
+    "position": "Vice President of Accounting",
+    "linkedin": "https://ca.linkedin.com/in/robyn-salik-3071906",
+    "bio": "Vice President at Melcor Developments \u00b7 Experience: Melcor Developments \u00b7 Education: Institute of Chartered Accountants of Alberta \u00b7 Location: Edmonton \u00b7 500+ connections on LinkedIn. View Robyn Salik\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Leah Margiotta",
+    "email": "lmargiotta@melcor.ca",
+    "position": "Vice President",
+    "linkedin": "https://ca.linkedin.com/in/leah-margiotta-ab316734",
+    "bio": "Vice President - Melcor Properties \u00b7 Experience: Melcor Developments \u00b7 Education: NAIT \u00b7 Location: Edmonton \u00b7 500+ connections on LinkedIn. View Leah Margiotta\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Bob Brown",
+    "email": "bbrown@melcor.ca",
+    "position": "Vice President of Property Management",
+    "linkedin": "https://ca.linkedin.com/in/bob-brown-758a3537",
+    "bio": "Vice President - Property Management at Melcor Developments LTD \u00b7 Accredited Commercial Manager through REIC with over 30 years of commercial property management and operational experience looking for a new and fresh opportunity with a strong company that practices what they preach. My strengths include being a strong team player with a will to do the right thing every time. I am able to build loyal and productive teams that meet or exceed goals. I have experience in all commercial real estate assets classes be it leasing or operations. \u00b7 Experience: Melcor Developments \u00b7 Education: Real Estate Institue of Canada \u00b7 Location: Edmonton \u00b7 500+ connections on LinkedIn. View Bob Brown\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Scott Sowinski",
+    "email": "ssowinski@melcor.ca",
+    "position": "Director of Leasing",
+    "linkedin": "https://ca.linkedin.com/in/scott-sowinski-89586145",
+    "bio": "Director of Leasing - Melcor Developments Ltd. \u00b7 Experience: Melcor Developments \u00b7 Education: Real Estate Council of Alberta \u00b7 Location: Edmonton \u00b7 500+ connections on LinkedIn. View Scott Sowinski\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Graeme Melton",
+    "email": "gmelton@melcor.ca",
+    "position": "Vice President of Community Development",
+    "linkedin": "https://ca.linkedin.com/in/graeme-melton-52b1897",
+    "bio": "Experience: Melcor Developments Ltd. \u00b7 Education: Haskayne School of Business \u00b7 Location: Calgary \u00b7 500+ connections on LinkedIn. View Graeme Melton\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Ryan McDermott",
+    "email": "rmcdermott@melcor.ca",
+    "position": "Director of Golf",
+    "linkedin": "https://ca.linkedin.com/in/ryan-mcdermott-6893002b2",
+    "bio": "Head Golf Professional at The Links at Spruce Grove, PGA of Canada \u00b7 Experience: Melcor Developments \u00b7 Location: Spruce Grove \u00b7 87 connections on LinkedIn. View Ryan McDermott\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Pat Melton",
+    "email": "pmelton@melcor.ca",
+    "position": "Director of Leasing",
+    "linkedin": "https://ca.linkedin.com/in/pat-melton-6197a330",
+    "bio": "Leasing Manager, Investment Properties Melcor Developments Ltd. \u00b7 Experience: MELCOR DEVELOPMENTS LTD. &amp; MELCOR REIT \u00b7 Education: N.A.I.T \u00b7 Location: Edmonton \u00b7 279 connections on LinkedIn. View Pat Melton\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Erin Luys",
+    "email": "eluys@melcor.ca",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Tyler Hansen",
+    "email": "thansen@melcor.ca",
+    "position": "General Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Melcor Developments",
+    "name": "Erin Cripps",
+    "email": "ecripps@melcor.ca",
+    "position": "Sales and Marketing Manager",
+    "linkedin": "https://ca.linkedin.com/in/erin-cripps-42496530",
+    "bio": "Sales and Marketing Manager, Community Development \u2013 Calgary \u00b7 Experience: Melcor Developments \u00b7 Education: The University of Calgary \u00b7 Location: Canada \u00b7 500+ connections on LinkedIn. View Erin Cripps\u2019 profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Winnie Tse",
+    "email": "winnie.tse@concordpacific.com",
+    "position": "Executive Assistant",
+    "linkedin": "https://ca.linkedin.com/in/winnie-tse-a962461",
+    "bio": "Executive Assistant to the President and CEO of Concord Pacific Developments Inc. \u00b7 A Business Operations Manager with 22 years enterprise experience most recently with Hewlett Packard Canada.  My Core strengths include administration and analytical skills in assisting the management team to meet and exceed organizational goals and profit objectives.  Strong communication skills and proven leadership in working with cross-functional teams.  In-depth knowledge about the operation and contract management of the services support business in the IT industry.\n\nSpecialties: Project accounting, contract management, financial analysis, P&amp;L tracking \u00b7 Experience: Concord Pacific Developments Inc. \u00b7 Location: Delta \u00b7 115 connections on LinkedIn. View Winnie Tse\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Linda Wang",
+    "email": "linda.wang@concordpacific.com",
+    "position": "Sales Executive",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Monica Laureano",
+    "email": "monica.laureano@concordpacific.com",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Lucas Froese",
+    "email": "lucas.froese@concordpacific.com",
+    "position": "Director of Acquisitions",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Devon Guerriero",
+    "email": "devon.guerriero@concordpacific.com",
+    "position": "Executive Assistant",
+    "linkedin": "https://ca.linkedin.com/in/devon-guerriero-197634105",
+    "bio": "At Concord Pacific, my role as Executive Assistant &amp; Development Coordinator in\u2026 \u00b7 Experience: Concord Pacific Developments Inc. \u00b7 Education: Ryerson University \u00b7 Location: Vancouver \u00b7 194 connections on LinkedIn. View Devon Guerriero\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Randi Sharan",
+    "email": "randi.sharan@concordpacific.com",
+    "position": "Sales Executive",
+    "linkedin": "https://ca.linkedin.com/in/randi-sharan-2477414",
+    "bio": "Award Winning Realtor - Master Medallion Club 9 years \u00b7 Experienced Real Estate Consultant with a demonstrated history of working in the real estate industry. Skilled in Land Development, Negotiation, Luxury Goods, Apartments, and Sales. Strong real estate professional graduated from The University of British Columbia. \u00b7 Experience: Concord Pacific  \u00b7 Education: The University of British Columbia \u00b7 Location: Coquitlam \u00b7 500+ connections on LinkedIn. View Randi Sharan\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Peter Wang",
+    "email": "peter.wang@concordpacific.com",
+    "position": "Sales Director",
+    "linkedin": "https://ca.linkedin.com/in/peter-wang-3836b8137",
+    "bio": "Director, Sales at Concord Pacific Developments \u00b7 I focus on building high performance teams, dynamic sales programs, opportunity management systems, all through an incentivizing, collaborative culture for achieving exceptional sales results.\n\nPassionate about challenging the status quo through improved workflow and digitalization while elevating the customer experience.\n\nWould love to connect and discuss interesting ideas and innovative concepts, especially framework/process digitalization and modernization. DM me.\n\n\nAlso: Strata Council/HOA president, commercial executive, fine wine and spirits collector, viticulture consultant, tennis and volleyball parent, world top 100 E-sports team member.\n\nPreviously: derivatives trader, poker grinder, bordeaux/burgundy investor, martial artist(Arnis), college tennis player \u00b7 Experience: Concord Pacific Developments Inc. \u00b7 Education: Queen&#39;s University \u00b7 Location: Greater Vancouver Metropolitan Area \u00b7 500+ connections on LinkedIn. View Peter Wang\u2019s profile o"
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Matt Meehan",
+    "email": "matt.meehan@concordpacific.com",
+    "position": "Senior Vice President",
+    "linkedin": "https://ca.linkedin.com/in/matt-meehan-12525357",
+    "bio": "Experience: Concord Pacific Developments Inc. \u00b7 Location: New Westminster \u00b7 500+ connections on LinkedIn. View Matt Meehan\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Emily Tang",
+    "email": "emily.tang@concordpacific.com",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Concord Pacific",
+    "name": "Megan Grayston",
+    "email": "megan.grayston@concordpacific.com",
+    "position": "Commercial Leasing Director",
+    "linkedin": "https://ca.linkedin.com/in/megan-grayston-ccim-a217293",
+    "bio": "Director, Commercial Leasing at Concord Pacific Developments Inc. \u00b7 Experienced Commercial Director with a demonstrated history of working in the real estate industry. Skilled in Working with Landlords, Real Estate Development, Dispositions, Working with Tenants, and Investment Properties. Strong real estate professional graduated from CCIM Institute.  \u00b7 Experience: Concord Pacific Developments Inc. \u00b7 Education: Sauder School of Business \u00b7 Location: Greater Vancouver Metropolitan Area \u00b7 500+ connections on LinkedIn. View Megan Grayston, CCIM\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Kate Fran\u00e7ois",
+    "email": "kfrancois@onni.com",
+    "position": "Media Contact",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Perry Mahal",
+    "email": "pmahal@onni.com",
+    "position": "Property Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Erik Ferguson",
+    "email": "eferguson@onni.com",
+    "position": "Property Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Rodney Rao",
+    "email": "rrao@onni.com",
+    "position": "Development Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Thomas Woodward",
+    "email": "twoodward@onni.com",
+    "position": null,
+    "linkedin": "https://ca.linkedin.com/in/thomas-woodward-pmp-69778496",
+    "bio": "Experience: Wesgroup Properties \u00b7 Education: UBC Sauder School of Business \u00b7 Location: North Vancouver \u00b7 500+ connections on LinkedIn. View Thomas Woodward, PMP\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Seda Petrosyan",
+    "email": "spetrosyan@onni.com",
+    "position": "Executive Managing Director",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Robert Vrooman",
+    "email": "rvrooman@onni.com",
+    "position": "Project Lead",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Cory Morris",
+    "email": "cmorris@onni.com",
+    "position": "Property Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Neal Linthicum",
+    "email": "nlinthicum@onni.com",
+    "position": "Leasing Manager",
+    "linkedin": "https://www.linkedin.com/in/neal-linthicum-1b30832b",
+    "bio": "Vice President of Leasing at Onni Group of Companies \u00b7 Onni is one of the continents largest and most established developers of real estate who own and manage more than 6,200 rental apartments, more than 9.5 million square feet of office, retail, and industrial space, and have an additional 24 million square feet of space in different phases of development throughout North America. \u00b7 Experience: Onni Group of Companies \u00b7 Location: Los Angeles Metropolitan Area \u00b7 500+ connections on LinkedIn. View Neal Linthicum\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Onni Group",
+    "name": "Steve Bernier",
+    "email": "sbernier@onni.com",
+    "position": "Leasing Manager",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Winnie Tse",
+    "email": "winnie.tse@concordpacific.com",
+    "position": "Executive Assistant",
+    "linkedin": "https://ca.linkedin.com/in/winnie-tse-a962461",
+    "bio": "Executive Assistant to the President and CEO of Concord Pacific Developments Inc. \u00b7 A Business Operations Manager with 22 years enterprise experience most recently with Hewlett Packard Canada.  My Core strengths include administration and analytical skills in assisting the management team to meet and exceed organizational goals and profit objectives.  Strong communication skills and proven leadership in working with cross-functional teams.  In-depth knowledge about the operation and contract management of the services support business in the IT industry.\n\nSpecialties: Project accounting, contract management, financial analysis, P&amp;L tracking \u00b7 Experience: Concord Pacific Developments Inc. \u00b7 Location: Delta \u00b7 115 connections on LinkedIn. View Winnie Tse\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Linda Wang",
+    "email": "linda.wang@concordpacific.com",
+    "position": "Sales Executive",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Monica Laureano",
+    "email": "monica.laureano@concordpacific.com",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Lucas Froese",
+    "email": "lucas.froese@concordpacific.com",
+    "position": "Director of Acquisitions",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Devon Guerriero",
+    "email": "devon.guerriero@concordpacific.com",
+    "position": "Executive Assistant",
+    "linkedin": "https://ca.linkedin.com/in/devon-guerriero-197634105",
+    "bio": "At Concord Pacific, my role as Executive Assistant &amp; Development Coordinator in\u2026 \u00b7 Experience: Concord Pacific Developments Inc. \u00b7 Education: Ryerson University \u00b7 Location: Vancouver \u00b7 194 connections on LinkedIn. View Devon Guerriero\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Randi Sharan",
+    "email": "randi.sharan@concordpacific.com",
+    "position": "Sales Executive",
+    "linkedin": "https://ca.linkedin.com/in/randi-sharan-2477414",
+    "bio": "Award Winning Realtor - Master Medallion Club 9 years \u00b7 Experienced Real Estate Consultant with a demonstrated history of working in the real estate industry. Skilled in Land Development, Negotiation, Luxury Goods, Apartments, and Sales. Strong real estate professional graduated from The University of British Columbia. \u00b7 Experience: Concord Pacific  \u00b7 Education: The University of British Columbia \u00b7 Location: Coquitlam \u00b7 500+ connections on LinkedIn. View Randi Sharan\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Peter Wang",
+    "email": "peter.wang@concordpacific.com",
+    "position": "Sales Director",
+    "linkedin": "https://ca.linkedin.com/in/peter-wang-3836b8137",
+    "bio": "Director, Sales at Concord Pacific Developments \u00b7 I focus on building high performance teams, dynamic sales programs, opportunity management systems, all through an incentivizing, collaborative culture for achieving exceptional sales results.\n\nPassionate about challenging the status quo through improved workflow and digitalization while elevating the customer experience.\n\nWould love to connect and discuss interesting ideas and innovative concepts, especially framework/process digitalization and modernization. DM me.\n\n\nAlso: Strata Council/HOA president, commercial executive, fine wine and spirits collector, viticulture consultant, tennis and volleyball parent, world top 100 E-sports team member.\n\nPreviously: derivatives trader, poker grinder, bordeaux/burgundy investor, martial artist(Arnis), college tennis player \u00b7 Experience: Concord Pacific Developments Inc. \u00b7 Education: Queen&#39;s University \u00b7 Location: Greater Vancouver Metropolitan Area \u00b7 500+ connections on LinkedIn. View Peter Wang\u2019s profile o"
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Matt Meehan",
+    "email": "matt.meehan@concordpacific.com",
+    "position": "Senior Vice President",
+    "linkedin": "https://ca.linkedin.com/in/matt-meehan-12525357",
+    "bio": "Experience: Concord Pacific Developments Inc. \u00b7 Location: New Westminster \u00b7 500+ connections on LinkedIn. View Matt Meehan\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Emily Tang",
+    "email": "emily.tang@concordpacific.com",
+    "position": "Executive Assistant",
+    "linkedin": null,
+    "bio": ""
+  },
+  {
+    "company_name": "Concord Pacific Developments",
+    "name": "Megan Grayston",
+    "email": "megan.grayston@concordpacific.com",
+    "position": "Commercial Leasing Director",
+    "linkedin": "https://ca.linkedin.com/in/megan-grayston-ccim-a217293",
+    "bio": "Director, Commercial Leasing at Concord Pacific Developments Inc. \u00b7 Experienced Commercial Director with a demonstrated history of working in the real estate industry. Skilled in Working with Landlords, Real Estate Development, Dispositions, Working with Tenants, and Investment Properties. Strong real estate professional graduated from CCIM Institute.  \u00b7 Experience: Concord Pacific Developments Inc. \u00b7 Education: Sauder School of Business \u00b7 Location: Greater Vancouver Metropolitan Area \u00b7 500+ connections on LinkedIn. View Megan Grayston, CCIM\u2019s profile on LinkedIn, a professional community of 1 billion members."
+  }
+]

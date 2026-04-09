@@ -1,0 +1,40 @@
+[
+
+  {
+    "company_name": "Grupo de Turismo Gaviota S.A.",
+    "website": "https://www.gaviota-grupo.com/",
+    "access": false,
+    "language": "Spanish, English, French, German, Russian",
+    "description": "One of Cuba's largest state-owned tourism conglomerates. Gaviota is a primary player in Real Estate Development and Property Management, owning and operating a vast portfolio of hotels, marinas, resorts, and transportation services. It is a key partner for international hotel chains in joint ventures."
+  },
+  {
+    "company_name": "Zona Especial de Desarrollo Mariel (ZEDM)",
+    "website": "http://www.zedmariel.com/",
+    "access": false,
+    "language": "Spanish, English, Chinese, Portuguese",
+    "description": "The country's most important special economic zone, designed to attract foreign investment. ZEDM is the primary entity for industrial and logistics Real Estate Development, offering land and facilities under special legal and tax regimes. It is the main point of contact for Real Estate Investment in the industrial sector."
+  },
+  {
+    "company_name": "Expat.com",
+    "website": "https://www.expat.com/en/searchresult/?currentDestination=0&go-search=1&q=cuba",
+    "access": false,
+    "language": "English",
+    "description": "Expat.com is a platform for expatriates, offering a space to connect, share experiences, and find information on living abroad, including a directory of real estate agencies."
+  },
+  {
+    "company_name": "World Places",
+    "website": "https://cuba.worldplaces.me/directory/real-estate-agents.html",
+    "access": false,
+    "language": "English",
+    "description": "World Places is a global directory of businesses and services. This specific link provides a listing of real estate agents in Cuba."
+  },
+  {
+    "company_name": "YelloCU",
+    "website": "https://www.yellocu.com/category/Real_estate_agents/city:Habana",
+    "access": false,
+    "language": "English",
+    "description": "YelloCU is a business directory for Cuba. The provided link lists real estate agents located in the city of Havana."
+  }
+
+
+]

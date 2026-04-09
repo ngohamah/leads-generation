@@ -1,0 +1,554 @@
+[
+  {
+    "company_name": "",
+    "name": "Magdalena Gibney",
+    "email": "magdalena.gibney@nepirockcastle.com",
+    "position": "Head of Sustainability"
+  },
+  {
+    "company_name": "",
+    "name": "Florin Tanase",
+    "email": "florin.tanase@nepirockcastle.com",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Radu Tiu",
+    "email": "radu.tiu@nepirockcastle.com",
+    "position": "Director of Facilities Management"
+  },
+  {
+    "company_name": "",
+    "name": "Iulia Ionita",
+    "email": "iulia.ionita@nepirockcastle.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Olga Morosanu",
+    "email": "olga.morosanu@nepirockcastle.com",
+    "position": "Internal Audit Director"
+  },
+  {
+    "company_name": "",
+    "name": "Catalin Jucan",
+    "email": "catalin.jucan@nepirockcastle.com",
+    "position": "Director of Technology"
+  },
+  {
+    "company_name": "",
+    "name": "Tomasz Zi\u00f3\u0142kowski",
+    "email": "tomasz.ziolkowski@nepirockcastle.com",
+    "position": "Head of Legal"
+  },
+  {
+    "company_name": "",
+    "name": "Andrei Gradinariu",
+    "email": "andrei.gradinariu@nepirockcastle.com",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Andrada Mandache",
+    "email": "andrada.mandache@nepirockcastle.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Anca Nacu",
+    "email": "anca.nacu@nepirockcastle.com",
+    "position": "Director of Investments"
+  },
+  {
+    "company_name": "",
+    "name": "Roxana Prisacariu",
+    "email": "roxana.prisacariu@globalworth.com",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "",
+    "name": "Mihai Zaharia",
+    "email": "mihai.zaharia@globalworth.com",
+    "position": "Head of Capital Markets"
+  },
+  {
+    "company_name": "",
+    "name": "Rashid Mukhtar",
+    "email": "rashid.mukhtar@globalworth.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Raluca Ghica",
+    "email": "raluca.ghica@globalworth.com",
+    "position": "Head of Workplace"
+  },
+  {
+    "company_name": "",
+    "name": "Octavian Bratu",
+    "email": "octavian.bratu@globalworth.com",
+    "position": "Head of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Lorena Duarte",
+    "email": "oana.cojocaru@globalworth.com",
+    "position": "Sustainability Director"
+  },
+  {
+    "company_name": "",
+    "name": "Cosmin Anghel",
+    "email": "cosmin.anghel@globalworth.com",
+    "position": "Director of Property Management"
+  },
+  {
+    "company_name": "",
+    "name": "Radu Neagu",
+    "email": "radu.neagu@globalworth.com",
+    "position": "Director of Project Implementation"
+  },
+  {
+    "company_name": "",
+    "name": "Vlad Taschina",
+    "email": "vlad.taschina@globalworth.com",
+    "position": "Director of Property Management"
+  },
+  {
+    "company_name": "",
+    "name": "Ema Iftimie",
+    "email": "ema.iftimie@globalworth.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Monica Bejan",
+    "email": "monica.bejan@skanska.ro",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Catalina Nastase",
+    "email": "catalina.nastase@skanska.ro",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Monica Bejan",
+    "email": "bejan@skanska.ro",
+    "position": "Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "office@skanska.ro",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Adriana Balanescu",
+    "email": "adriana.balanescu@primekapital.com",
+    "position": "Cost Director"
+  },
+  {
+    "company_name": "",
+    "name": "Paul Rotar",
+    "email": "paul.rotar@primekapital.com",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Marius Matei",
+    "email": "marius.matei@primekapital.com",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Anca Oprea",
+    "email": "anca.oprea@primekapital.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Radu Vasile",
+    "email": "radu.vasile@primekapital.com",
+    "position": "Construction Director"
+  },
+  {
+    "company_name": "",
+    "name": "Andrew Bird",
+    "email": "andrew.bird@primekapital.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Alexandru Popa",
+    "email": "alexandru.popa@primekapital.com",
+    "position": "Director of Design"
+  },
+  {
+    "company_name": "",
+    "name": "Maggie Kitshoff",
+    "email": "mkitshoff@primekapital.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Traian Ro\u0219u",
+    "email": "trosu@primekapital.com",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Valentin Mirica",
+    "email": "vmirica@primekapital.com",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "",
+    "name": "Maria Jianu",
+    "email": "maria.jianu@speedwell.be",
+    "position": "Director of Leasing"
+  },
+  {
+    "company_name": "",
+    "name": "Adina Marin",
+    "email": "adina.marin@speedwell.be",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Alexandra Serbanescu",
+    "email": "alexandra.serbanescu@speedwell.be",
+    "position": "Head of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Alex Bumbu",
+    "email": "alex.bumbu@speedwell.be",
+    "position": "Chief Legal Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Octavian Matache",
+    "email": "octavian.matache@speedwell.be",
+    "position": "Commercial Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jan Demeyere",
+    "email": "jan@speedwell.be",
+    "position": "Co-Founder"
+  },
+  {
+    "company_name": "",
+    "name": "Didier Balcaen",
+    "email": "didier@speedwell.be",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "Mariana Grigoriu",
+    "email": "mariana.grigoriu@speedwell.be",
+    "position": "Accounting Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Bogdan Barabul\u0103",
+    "email": "bogdan.barabula@speedwell.be",
+    "position": "Technical Director"
+  },
+  {
+    "company_name": "",
+    "name": "Diana Sichitiu",
+    "email": "diana.sichitiu@speedwell.be",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Antonela Marchievici",
+    "email": "antonela@fortepartners.ro",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Ruxandra Macelaru",
+    "email": "ruxandra@fortepartners.ro",
+    "position": "Head of Legal"
+  },
+  {
+    "company_name": "",
+    "name": "Daniela Marinescu",
+    "email": "daniela@fortepartners.ro",
+    "position": "Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Johny Jabra",
+    "email": "jabrajohny@fortepartners.ro",
+    "position": "Co-Founder"
+  },
+  {
+    "company_name": "",
+    "name": "Diana Spranceana",
+    "email": "diana@fortepartners.ro",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Elena Tecuta",
+    "email": "elena.tecuta@fortepartners.ro",
+    "position": "Leasing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "office@fortepartners.ro",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Alin Andreescu",
+    "email": "alin.andreescu@one.ro",
+    "position": "Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Cosmin Popescu",
+    "email": "cosmin.popescu@one.ro",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Anamaria Diaconescu",
+    "email": "anamaria.diaconescu@one.ro",
+    "position": "Director of Events and Partnerships"
+  },
+  {
+    "company_name": "",
+    "name": "Adrian Arendt",
+    "email": "adrian.arendt@one.ro",
+    "position": "Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Elena Tanasescu",
+    "email": "elena.tanasescu@one.ro",
+    "position": "Director of Residential Sales"
+  },
+  {
+    "company_name": "",
+    "name": "Simona Costache",
+    "email": "simona.costache@one.ro",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Calin Stan",
+    "email": "calin.stan@one.ro",
+    "position": "Senior Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Bogdan Mihai",
+    "email": "bogdan.mihai@one.ro",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Cosmin Samoila",
+    "email": "cosmin.samoila@one.ro",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Dan Petrisor",
+    "email": "dan.petrisor@one.ro",
+    "position": "Director of Capital Markets"
+  },
+  {
+    "company_name": "",
+    "name": "David Pribyl",
+    "email": "david.pribyl@ctp.eu",
+    "position": "Director of Financial Planning and Analysis"
+  },
+  {
+    "company_name": "",
+    "name": "Mariana Gerges",
+    "email": "mariana.gerges@ctp.eu",
+    "position": "Director of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Ionut Puiu",
+    "email": "ionut.puiu@ctp.eu",
+    "position": "Director of Construction"
+  },
+  {
+    "company_name": "",
+    "name": "Borislav Hristov",
+    "email": "borislav.hristov@ctp.eu",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Veronika Lad\u00f3",
+    "email": "veronika.lado@ctp.eu",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Michal Dedek",
+    "email": "michal.dedek@ctp.eu",
+    "position": "Regional Construction Director"
+  },
+  {
+    "company_name": "",
+    "name": "Piotr Flugel",
+    "email": "piotr.flugel@ctp.eu",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Kate\u0159ina Camerino",
+    "email": "katerina.camerino@ctp.eu",
+    "position": "Head of Coworking"
+  },
+  {
+    "company_name": "",
+    "name": "Ronald Dasbach",
+    "email": "ronald.dasbach@ctp.eu",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Dragana Djordjevi\u0107",
+    "email": "dragana.djordjevic@ctp.eu",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Alin Andreescu",
+    "email": "alin.andreescu@one.ro",
+    "position": "Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Cosmin Popescu",
+    "email": "cosmin.popescu@one.ro",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Anamaria Diaconescu",
+    "email": "anamaria.diaconescu@one.ro",
+    "position": "Director of Events and Partnerships"
+  },
+  {
+    "company_name": "",
+    "name": "Adrian Arendt",
+    "email": "adrian.arendt@one.ro",
+    "position": "Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Elena Tanasescu",
+    "email": "elena.tanasescu@one.ro",
+    "position": "Director of Residential Sales"
+  },
+  {
+    "company_name": "",
+    "name": "Simona Costache",
+    "email": "simona.costache@one.ro",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Calin Stan",
+    "email": "calin.stan@one.ro",
+    "position": "Senior Project Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Bogdan Mihai",
+    "email": "bogdan.mihai@one.ro",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Cosmin Samoila",
+    "email": "cosmin.samoila@one.ro",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Dan Petrisor",
+    "email": "dan.petrisor@one.ro",
+    "position": "Director of Capital Markets"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "contact@parklake.ro",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Roxana Prisacariu",
+    "email": "roxana.prisacariu@globalworth.com",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "",
+    "name": "Mihai Zaharia",
+    "email": "mihai.zaharia@globalworth.com",
+    "position": "Head of Capital Markets"
+  },
+  {
+    "company_name": "",
+    "name": "Rashid Mukhtar",
+    "email": "rashid.mukhtar@globalworth.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Raluca Ghica",
+    "email": "raluca.ghica@globalworth.com",
+    "position": "Head of Workplace"
+  },
+  {
+    "company_name": "",
+    "name": "Octavian Bratu",
+    "email": "octavian.bratu@globalworth.com",
+    "position": "Head of Accounting"
+  },
+  {
+    "company_name": "",
+    "name": "Lorena Duarte",
+    "email": "oana.cojocaru@globalworth.com",
+    "position": "Sustainability Director"
+  },
+  {
+    "company_name": "",
+    "name": "Cosmin Anghel",
+    "email": "cosmin.anghel@globalworth.com",
+    "position": "Director of Property Management"
+  },
+  {
+    "company_name": "",
+    "name": "Radu Neagu",
+    "email": "radu.neagu@globalworth.com",
+    "position": "Director of Project Implementation"
+  },
+  {
+    "company_name": "",
+    "name": "Vlad Taschina",
+    "email": "vlad.taschina@globalworth.com",
+    "position": "Director of Property Management"
+  },
+  {
+    "company_name": "",
+    "name": "Ema Iftimie",
+    "email": "ema.iftimie@globalworth.com",
+    "position": "Managing Director"
+  }
+]

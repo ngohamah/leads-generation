@@ -1,0 +1,728 @@
+[
+  {
+    "company_name": "Bashundhara Group",
+    "name": "Md Hossain",
+    "email": "alamgir.hossain@bashundharagroup.com",
+    "position": "Deputy General Manager"
+  },
+  {
+    "company_name": "Bashundhara Group",
+    "name": "Mohammad Elahi",
+    "email": "mohammad.elahi@bashundharagroup.com",
+    "position": "HSE Section Head"
+  },
+  {
+    "company_name": "Bashundhara Group",
+    "name": "Kazi Sameer",
+    "email": "kazi.sameer@bashundharagroup.com",
+    "position": "Senior Human Resources Executive"
+  },
+  {
+    "company_name": "Bashundhara Group",
+    "name": "Hasan Ahmed",
+    "email": "hasan.ahmed@bashundharagroup.com",
+    "position": "Senior HR Manager"
+  },
+  {
+    "company_name": "Bashundhara Group",
+    "name": "Nilima Islam",
+    "email": "nilima.islam@bashundharagroup.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "Bashundhara Group",
+    "name": "Rajib Saha",
+    "email": "rajib.saha@bashundharagroup.com",
+    "position": "Engineering Manager"
+  },
+  {
+    "company_name": "Bashundhara Group",
+    "name": "Mohammad Jewel",
+    "email": "mohammad.jewel@bashundharagroup.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "Bashundhara Group",
+    "name": "Sojib Mredha",
+    "email": "sojib.mredha@bashundharagroup.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "Bashundhara Group",
+    "name": "Samia Islam",
+    "email": "samia.islam@bashundharagroup.com",
+    "position": "Sales and Marketing Manager"
+  },
+  {
+    "company_name": "Bashundhara Group",
+    "name": "Samanta Islam",
+    "email": "samanta.islam@bashundharagroup.com",
+    "position": "Procurement Executive"
+  },
+  {
+    "company_name": "Bay Developments Ltd",
+    "name": "Shafkat Mustafa",
+    "email": "shafkat.m@baydevelopments.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Bay Developments Ltd",
+    "name": "Jubayed Hossain",
+    "email": "jubayed.h@baydevelopments.com",
+    "position": "Engineering Manager"
+  },
+  {
+    "company_name": "Bay Developments Ltd",
+    "name": "Mrinmoy Roy",
+    "email": "mrinmoy.r@baydevelopments.com",
+    "position": "Senior Associate Vice President, Sales"
+  },
+  {
+    "company_name": "Bay Developments Ltd",
+    "name": "Dalower Hossain",
+    "email": "dalower.h@baydevelopments.com",
+    "position": "Assistant Manager"
+  },
+  {
+    "company_name": "Bay Developments Ltd",
+    "name": "Sanaul Hasan",
+    "email": "sanaul.h@baydevelopments.com",
+    "position": "Deputy Manager"
+  },
+  {
+    "company_name": "Bay Developments Ltd",
+    "name": "None None",
+    "email": "bay@baydevelopments.com",
+    "position": null
+  },
+  {
+    "company_name": "Shanta Holdings Ltd",
+    "name": "Irshad Rahman",
+    "email": "irshad@shantaholdings.com",
+    "position": "Chief Human Resources Officer"
+  },
+  {
+    "company_name": "Shanta Holdings Ltd",
+    "name": "Zahidul Hassan",
+    "email": "zahidul@shantaholdings.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "Shanta Holdings Ltd",
+    "name": "Sazzad Hossain",
+    "email": "sazzad@shantaholdings.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "Shanta Holdings Ltd",
+    "name": "Anika Tahsin",
+    "email": "anika@shantaholdings.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "Shanta Holdings Ltd",
+    "name": "Md. Rahman",
+    "email": "hr@shantaholdings.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "Shanta Holdings Ltd",
+    "name": "Abu Saif",
+    "email": "saif@shantaholdings.com",
+    "position": "Customer Service Director"
+  },
+  {
+    "company_name": "Shanta Holdings Ltd",
+    "name": "Tausif Ahmed",
+    "email": "tausif@shantaholdings.com",
+    "position": "Senior Human Resources Executive"
+  },
+  {
+    "company_name": "Shanta Holdings Ltd",
+    "name": "Shihab Ahmed",
+    "email": "shihab@shantaholdings.com",
+    "position": "Chief Sales Officer"
+  },
+  {
+    "company_name": "Shanta Holdings Ltd",
+    "name": "Khaled Alam",
+    "email": "khaled@shantaholdings.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "Shanta Holdings Ltd",
+    "name": "Mithu Sarker",
+    "email": "mithu@shantaholdings.com",
+    "position": "Supply Chain Manager"
+  },
+  {
+    "company_name": "Navana Real Estate Ltd",
+    "name": "None None",
+    "email": "sayeed@navanarealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "Navana Real Estate Ltd",
+    "name": "None None",
+    "email": "webmaster@navanarealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "Anwar Landmark Ltd",
+    "name": "None None",
+    "email": "info@anwarlandmark.com",
+    "position": null
+  },
+  {
+    "company_name": "Anwar Landmark Ltd",
+    "name": "None None",
+    "email": "sales@anwarlandmark.com",
+    "position": null
+  },
+  {
+    "company_name": "Eastern Housing",
+    "name": "Mazhar Islam",
+    "email": "mazhar@easternhousing.com",
+    "position": "Operations Director"
+  },
+  {
+    "company_name": "Eastern Housing",
+    "name": "Uzzal Chakrabortty",
+    "email": "uzzal@easternhousing.com",
+    "position": "Assistant Manager, Business Development"
+  },
+  {
+    "company_name": "Eastern Housing",
+    "name": "None None",
+    "email": "jimch@easternhousing.com",
+    "position": null
+  },
+  {
+    "company_name": "Eastern Housing",
+    "name": "None None",
+    "email": "info@easternhousing.com",
+    "position": null
+  },
+  {
+    "company_name": "Eastern Housing",
+    "name": "None None",
+    "email": "share@easternhousing.com",
+    "position": null
+  },
+  {
+    "company_name": "Eastern Housing",
+    "name": "None None",
+    "email": "westernunion@easternhousing.com",
+    "position": null
+  },
+  {
+    "company_name": "Eastern Housing",
+    "name": "None None",
+    "email": "aftabit@easternhousing.com",
+    "position": null
+  },
+  {
+    "company_name": "Eastern Housing",
+    "name": "None None",
+    "email": "dhraj_malakar@easternhousing.com",
+    "position": null
+  },
+  {
+    "company_name": "Eastern Housing",
+    "name": "None None",
+    "email": "land@easternhousing.com",
+    "position": null
+  },
+  {
+    "company_name": "Eastern Housing",
+    "name": "None None",
+    "email": "flat@easternhousing.com",
+    "position": null
+  },
+  {
+    "company_name": "RANCON Developments",
+    "name": "None None",
+    "email": "mahadi@rancon.com.bd",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "RANCON Developments",
+    "name": "Md Piyal",
+    "email": "ehsanul@rancon.com.bd",
+    "position": "Finance Manager"
+  },
+  {
+    "company_name": "RANCON Developments",
+    "name": "Saleh Ahmmad",
+    "email": "saleh@rancon.com.bd",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "RANCON Developments",
+    "name": "Fahim Hossain",
+    "email": "fahim@rancon.com.bd",
+    "position": "Executive"
+  },
+  {
+    "company_name": "RANCON Developments",
+    "name": "Abdullah Eunus",
+    "email": "abdullah@rancon.com.bd",
+    "position": "Head of Compensation and Benefits"
+  },
+  {
+    "company_name": "RANCON Developments",
+    "name": "Md Rajib",
+    "email": "rajib@rancon.com.bd",
+    "position": "Head of Supply Chain"
+  },
+  {
+    "company_name": "RANCON Developments",
+    "name": "Rahat Akib",
+    "email": "rahat@rancon.com.bd",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "RANCON Developments",
+    "name": "Nazrul Kabir",
+    "email": "nazrul@rancon.com.bd",
+    "position": "Head of Internal Audit"
+  },
+  {
+    "company_name": "RANCON Developments",
+    "name": "Sadat Bhuiyan",
+    "email": "sadat@rancon.com.bd",
+    "position": "Finance Business Partner"
+  },
+  {
+    "company_name": "RANCON Developments",
+    "name": "Md Pallab",
+    "email": "pallab@rancon.com.bd",
+    "position": "Senior Production Executive"
+  },
+  {
+    "company_name": "Suvastu Properties Ltd",
+    "name": "None None",
+    "email": "marketing@suvastu.com",
+    "position": null
+  },
+  {
+    "company_name": "Suvastu Properties Ltd",
+    "name": "None None",
+    "email": "hrd@suvastu.com",
+    "position": null
+  },
+  {
+    "company_name": "Swadesh Properties",
+    "name": "Navid Ananta",
+    "email": "navid@swadeshproperties.com",
+    "position": "Director of Sales"
+  },
+  {
+    "company_name": "Swadesh Properties",
+    "name": "Sanjoy Paul",
+    "email": "sanjoy@swadeshproperties.com",
+    "position": "Sales and Marketing Manager"
+  },
+  {
+    "company_name": "Swadesh Properties",
+    "name": "None None",
+    "email": "jobs@swadeshproperties.com",
+    "position": null
+  },
+  {
+    "company_name": "Swadesh Properties",
+    "name": "None None",
+    "email": "info@swadeshproperties.com",
+    "position": null
+  },
+  {
+    "company_name": "Swadesh Properties",
+    "name": "None None",
+    "email": "sales@swadeshproperties.com",
+    "position": null
+  },
+  {
+    "company_name": "Square Group",
+    "name": "Abdullah Momen",
+    "email": "abdullah@squaregroup.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "Square Group",
+    "name": "Tahmina Akter",
+    "email": "tahmina@squaregroup.com",
+    "position": "HR Manager"
+  },
+  {
+    "company_name": "Square Group",
+    "name": "Morshed Alam",
+    "email": "morshed@squaregroup.com",
+    "position": "Unit Head"
+  },
+  {
+    "company_name": "Square Group",
+    "name": "Tanzina Hasan",
+    "email": "tanzina@squaregroup.com",
+    "position": "HR Executive"
+  },
+  {
+    "company_name": "Square Group",
+    "name": "Sharif Hossain",
+    "email": "sharif@squaregroup.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "Square Group",
+    "name": "Arpita Saha",
+    "email": "arpita@squaregroup.com",
+    "position": "Software Engineer"
+  },
+  {
+    "company_name": "Square Group",
+    "name": "Hasin Ronak",
+    "email": "hasin@squaregroup.com",
+    "position": "Chief Procurement Officer"
+  },
+  {
+    "company_name": "Square Group",
+    "name": "Sakib Eon",
+    "email": "shakib@squaregroup.com",
+    "position": "Electrical Engineer"
+  },
+  {
+    "company_name": "Square Group",
+    "name": "Chanda Mondal",
+    "email": "chanda@squaregroup.com",
+    "position": "Human Resources Manager"
+  },
+  {
+    "company_name": "Square Group",
+    "name": "Imtiaz Sakin",
+    "email": "imtiaz@squaregroup.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Rupayan Group",
+    "name": "Lesego Thamae",
+    "email": "shahriar@rupayangroup.com",
+    "position": "Supply Chain Executive"
+  },
+  {
+    "company_name": "Rupayan Group",
+    "name": "Sohag Dey",
+    "email": "sohag@rupayangroup.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "Rupayan Group",
+    "name": "Akbar Khan",
+    "email": "akbar@rupayangroup.com",
+    "position": "Senior Human Resources Executive"
+  },
+  {
+    "company_name": "Rupayan Group",
+    "name": "Avishek Gupta",
+    "email": "avishek@rupayangroup.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Rupayan Group",
+    "name": "Hasan Khan",
+    "email": "hasan@rupayangroup.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "Rupayan Group",
+    "name": "Salah Joy",
+    "email": "salah@rupayangroup.com",
+    "position": "Chief of Staff"
+  },
+  {
+    "company_name": "Rupayan Group",
+    "name": "Mohammad Kabir",
+    "email": "mohammad@rupayangroup.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Rupayan Group",
+    "name": "Sayed Salam",
+    "email": "sayed@rupayangroup.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Rupayan Group",
+    "name": "Khalid Hasan",
+    "email": "khalid@rupayangroup.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "Rupayan Group",
+    "name": "Sultan Mahmud",
+    "email": "sultan@rupayangroup.com",
+    "position": "Senior Human Resources Executive"
+  },
+  {
+    "company_name": "City Group",
+    "name": "None None",
+    "email": "career@citygroup.com.bd",
+    "position": null
+  },
+  {
+    "company_name": "Gulshan Properties",
+    "name": "None None",
+    "email": "puneet@gulshanproperties.com",
+    "position": null
+  },
+  {
+    "company_name": "Gulshan Properties",
+    "name": "None None",
+    "email": "punit@gulshanproperties.com",
+    "position": null
+  },
+  {
+    "company_name": "ACI Group",
+    "name": "Arnab Chakma",
+    "email": "arnabc@aci-bd.com",
+    "position": "Warehouse Executive"
+  },
+  {
+    "company_name": "ACI Group",
+    "name": "Navid Haque",
+    "email": "navidh@aci-bd.com",
+    "position": "Credit Manager"
+  },
+  {
+    "company_name": "ACI Group",
+    "name": "Amal Hamdaoui",
+    "email": "amalh@aci-bd.com",
+    "position": "Product Manager"
+  },
+  {
+    "company_name": "ACI Group",
+    "name": "Pedro De La Cruz",
+    "email": "pedrod@aci-bd.com",
+    "position": "Supply Chain Executive"
+  },
+  {
+    "company_name": "ACI Group",
+    "name": "Abu Taleb",
+    "email": "abut@aci-bd.com",
+    "position": "Quality Compliance Executive"
+  },
+  {
+    "company_name": "ACI Group",
+    "name": "Fahad Salam",
+    "email": "fahads@aci-bd.com",
+    "position": "Production Manager"
+  },
+  {
+    "company_name": "ACI Group",
+    "name": "Fardin Tanim",
+    "email": "fardint@aci-bd.com",
+    "position": "Business Development Manager"
+  },
+  {
+    "company_name": "ACI Group",
+    "name": "Farjana Yeasmin",
+    "email": "farjanay@aci-bd.com",
+    "position": "Pharmaceutical Marketing Manager"
+  },
+  {
+    "company_name": "ACI Group",
+    "name": "Shak Sahwon",
+    "email": "shaks@aci-bd.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "ACI Group",
+    "name": "Anupam Ghosh",
+    "email": "anupamg@aci-bd.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "Bhaiya Housing Ltd",
+    "name": "Ariful Islam",
+    "email": "ariful@bhaiyahousing.com",
+    "position": "Business Development Director"
+  },
+  {
+    "company_name": "Bhaiya Housing Ltd",
+    "name": "Md Rocky",
+    "email": "md@bhaiyahousing.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "Bhaiya Housing Ltd",
+    "name": "Rahima Urme",
+    "email": "rahima@bhaiyahousing.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "Bhaiya Housing Ltd",
+    "name": "Chowdhury Ali",
+    "email": "chowdhury@bhaiyahousing.com",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "Bhaiya Housing Ltd",
+    "name": "Farha Zabin",
+    "email": "farha@bhaiyahousing.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Bhaiya Housing Ltd",
+    "name": "Sadia Islam",
+    "email": "sadia@bhaiyahousing.com",
+    "position": "Marketing Executive"
+  },
+  {
+    "company_name": "Bhaiya Housing Ltd",
+    "name": "Afroza Akhi",
+    "email": "afroza@bhaiyahousing.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "Bhaiya Housing Ltd",
+    "name": "Omme Mahajabin",
+    "email": "omme@bhaiyahousing.com",
+    "position": "Vice President of Sales and Marketing"
+  },
+  {
+    "company_name": "Bhaiya Housing Ltd",
+    "name": "Tania Mithun",
+    "email": "tania@bhaiyahousing.com",
+    "position": "Sales Executive"
+  },
+  {
+    "company_name": "Bhaiya Housing Ltd",
+    "name": "Karla Padilla",
+    "email": "fahmida@bhaiyahousing.com",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "Alliance Properties",
+    "name": "Saleh Ahmed",
+    "email": "saleh@allianceproperties.com.bd",
+    "position": "Executive"
+  },
+  {
+    "company_name": "Alliance Properties",
+    "name": "Zarif Hasan",
+    "email": "zarif@allianceproperties.com.bd",
+    "position": "Brand Manager"
+  },
+  {
+    "company_name": "Alliance Properties",
+    "name": "Yaminul Haq",
+    "email": "yaminul@allianceproperties.com.bd",
+    "position": "Director"
+  },
+  {
+    "company_name": "Alliance Properties",
+    "name": "Robert Zhao",
+    "email": "robert@allianceproperties.com.bd",
+    "position": "Sales Representative"
+  },
+  {
+    "company_name": "Alliance Properties",
+    "name": "Fazle Rabby",
+    "email": "fazle@allianceproperties.com.bd",
+    "position": "Sales Representative"
+  },
+  {
+    "company_name": "Alliance Properties",
+    "name": "None None",
+    "email": "info@allianceproperties.com.bd",
+    "position": null
+  },
+  {
+    "company_name": "Rupayan Land Development Ltd",
+    "name": "None None",
+    "email": "hr@rupayanland.com",
+    "position": null
+  },
+  {
+    "company_name": "BDDL Properties Ltd",
+    "name": "None None",
+    "email": "info@bddlproperties.com",
+    "position": null
+  },
+  {
+    "company_name": "CPDL",
+    "name": "Fakhrul Islam",
+    "email": "fakhrul@cpdl.com.bd",
+    "position": "Executive"
+  },
+  {
+    "company_name": "CPDL",
+    "name": "Narayan Saha",
+    "email": "narayan@cpdl.com.bd",
+    "position": "Executive"
+  },
+  {
+    "company_name": "CPDL",
+    "name": "Eftikhar Chowdhury",
+    "email": "eftikhar@cpdl.com.bd",
+    "position": "Supply Chain Manager"
+  },
+  {
+    "company_name": "CPDL",
+    "name": "None None",
+    "email": "mail@cpdl.com.bd",
+    "position": null
+  },
+  {
+    "company_name": "CPDL",
+    "name": "None None",
+    "email": "hr@cpdl.com.bd",
+    "position": null
+  },
+  {
+    "company_name": "Mir Real Estate Ltd",
+    "name": "None None",
+    "email": "info@mirrealestate.com",
+    "position": null
+  },
+  {
+    "company_name": "Multiplan Group",
+    "name": "Anik Ghosh",
+    "email": "anik@multiplangroup.com",
+    "position": "Marketing Executive"
+  },
+  {
+    "company_name": "Multiplan Group",
+    "name": "Asadujjaman Moon",
+    "email": "asadujjaman@multiplangroup.com",
+    "position": "Account Executive"
+  },
+  {
+    "company_name": "Multiplan Group",
+    "name": "None None",
+    "email": "info@multiplangroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Innovative Properties Ltd",
+    "name": "Sandra Watkins",
+    "email": "sandra@innovativeproperties.com",
+    "position": "Professional Services"
+  },
+  {
+    "company_name": "Innovative Properties Ltd",
+    "name": "None None",
+    "email": "info@innovativeproperties.com",
+    "position": null
+  },
+  {
+    "company_name": "Victory Properties Ltd",
+    "name": "Spencer Sprow",
+    "email": "ssprow@victoryproperties.com",
+    "position": "IT Manager"
+  },
+  {
+    "company_name": "Sunrise Properties Ltd",
+    "name": "Marilyn Phillips",
+    "email": "marilyn@sunriseproperties.com",
+    "position": "Content Management"
+  }
+]

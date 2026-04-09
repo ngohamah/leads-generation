@@ -1,0 +1,518 @@
+[
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "office@square.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Kirill Ravcenko",
+    "email": "kirill@dom.com.cy",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Tatyana Antoniou",
+    "email": "tatyana@dom.com.cy",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Marina None",
+    "email": "marina@dom.com.cy",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@dom.com.cy",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "212info@dom.com.cy",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "m10@dom.com.cy",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@level.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Csaba Toth",
+    "email": "c.toth@balfin.al",
+    "position": "Vice President of Real Estate"
+  },
+  {
+    "company_name": "",
+    "name": "Juljan Mane",
+    "email": "j.mane@balfin.al",
+    "position": "Vice President of Retail"
+  },
+  {
+    "company_name": "",
+    "name": "Alba Mihali",
+    "email": "a.mihali@balfin.al",
+    "position": "Finance Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Samir Mane",
+    "email": "s.mane@balfin.al",
+    "position": "President"
+  },
+  {
+    "company_name": "",
+    "name": "Matilda Shehu",
+    "email": "m.shehu@balfin.al",
+    "position": "Chief Transformation Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Leons Tuda",
+    "email": "l.tuda@balfin.al",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "Blerina Daka",
+    "email": "b.daka@balfin.al",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Itena Ndroqi",
+    "email": "i.ndroqi@balfin.al",
+    "position": "Head of Legal"
+  },
+  {
+    "company_name": "",
+    "name": "Ervin Kajno",
+    "email": "e.kajno@balfin.al",
+    "position": "Vice President of Corporate Projects"
+  },
+  {
+    "company_name": "",
+    "name": "Elona Backa",
+    "email": "e.backa@balfin.al",
+    "position": "Business Development Director"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@ihne.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "publicinformation@investnorthmacedonia.gov.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "aftecare@investnorthmacedonia.gov.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "aftercare@investnorthmacedonia.gov.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "fdi@investnorthmacedonia.gov.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "marketing@investnorthmacedonia.gov.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "export@investnorthmacedonia.gov.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Stefan Gjorgievski",
+    "email": "stefan@propertyone.mk",
+    "position": "Director of Real Estate"
+  },
+  {
+    "company_name": "",
+    "name": "Martin Miloseski",
+    "email": "martin@propertyone.mk",
+    "position": "Logistics Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Dragana Kiprijanovska",
+    "email": "dragana@propertyone.mk",
+    "position": "Chief Legal Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Elvin Hajredinovic",
+    "email": "elvin@propertyone.mk",
+    "position": "Retail Sales Associate"
+  },
+  {
+    "company_name": "",
+    "name": "Alexandra Wiel",
+    "email": "damjan@propertyone.mk",
+    "position": "Administrative Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "veni@propertyone.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "darko@propertyone.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sales@propertyone.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "contact@propertyone.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "design@propertyone.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Sonja Vecovska",
+    "email": "sonjav@zk.mk",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Anzhela Hristova",
+    "email": "anzhela@zk.mk",
+    "position": "Call Center Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Ivana Saragjinova",
+    "email": "ivanas@zk.mk",
+    "position": "Account Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "anzelah@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "anzhelah@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "jovanaa@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "gorand@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "contact@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "konkurs@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Sonja Vecovska",
+    "email": "sonjav@zk.mk",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Anzhela Hristova",
+    "email": "anzhela@zk.mk",
+    "position": "Call Center Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Ivana Saragjinova",
+    "email": "ivanas@zk.mk",
+    "position": "Account Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "anzelah@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "anzhelah@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "jovanaa@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "gorand@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "contact@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "konkurs@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "diamond@diamondofskopje.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Sonja Vecovska",
+    "email": "sonjav@zk.mk",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "",
+    "name": "Anzhela Hristova",
+    "email": "anzhela@zk.mk",
+    "position": "Call Center Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Ivana Saragjinova",
+    "email": "ivanas@zk.mk",
+    "position": "Account Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "anzelah@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "anzhelah@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "jovanaa@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "gorand@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "contact@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "konkurs@zk.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Stefan Gjorgievski",
+    "email": "stefan@propertyone.mk",
+    "position": "Director of Real Estate"
+  },
+  {
+    "company_name": "",
+    "name": "Martin Miloseski",
+    "email": "martin@propertyone.mk",
+    "position": "Logistics Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Dragana Kiprijanovska",
+    "email": "dragana@propertyone.mk",
+    "position": "Chief Legal Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Elvin Hajredinovic",
+    "email": "elvin@propertyone.mk",
+    "position": "Retail Sales Associate"
+  },
+  {
+    "company_name": "",
+    "name": "Alexandra Wiel",
+    "email": "damjan@propertyone.mk",
+    "position": "Administrative Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "veni@propertyone.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "darko@propertyone.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sales@propertyone.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "contact@propertyone.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "design@propertyone.mk",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Ayman Chaar",
+    "email": "ayman.chaar@researchgate.net",
+    "position": "Programmatic Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jessica King",
+    "email": "jessica.king@researchgate.net",
+    "position": "Vice President of Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Paul McCloud",
+    "email": "paul.mccloud@researchgate.net",
+    "position": "Director of Product Engineering"
+  },
+  {
+    "company_name": "",
+    "name": "Giulia Lorenzini",
+    "email": "giulia.lorenzini@researchgate.net",
+    "position": "Director of Account Management"
+  },
+  {
+    "company_name": "",
+    "name": "Horst Fickenscher",
+    "email": "horst.fickenscher@researchgate.net",
+    "position": "Chief Information Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Tanja B\u00fcttner",
+    "email": "tanja.buettner@researchgate.net",
+    "position": "Chief Human Resources Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Frank Bewersdorff",
+    "email": "frank.bewersdorff@researchgate.net",
+    "position": "Vice President of Engineering"
+  },
+  {
+    "company_name": "",
+    "name": "Philipp He\u00df",
+    "email": "philipp.hess@researchgate.net",
+    "position": "Director of Publisher Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Michael H\u00e4usler",
+    "email": "michael.haeusler@researchgate.net",
+    "position": "Director of Engineering"
+  },
+  {
+    "company_name": "",
+    "name": "S\u00f6ren Hofmayer",
+    "email": "soeren.hofmayer@researchgate.net",
+    "position": "Chief Strategy Officer"
+  }
+]

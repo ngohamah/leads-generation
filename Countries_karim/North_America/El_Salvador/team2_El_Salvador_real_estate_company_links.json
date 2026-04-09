@@ -1,0 +1,416 @@
+[
+  {
+    "company_name": "Grupo Roble",
+    "name": "Luis V\u00e1squez",
+    "email": "luis.vasquez@gruporoble.com",
+    "position": "Director of Planning and Architecture"
+  },
+  {
+    "company_name": "Grupo Roble",
+    "name": "Alberto Poma",
+    "email": "alberto.poma@gruporoble.com",
+    "position": "Executive Vice President"
+  },
+  {
+    "company_name": "Grupo Roble",
+    "name": "Andrea Mata",
+    "email": "andrea.mata@gruporoble.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Grupo Roble",
+    "name": "Armando Mart\u00ed",
+    "email": "armando.marti@gruporoble.com",
+    "position": "Chief Sales Officer"
+  },
+  {
+    "company_name": "Grupo Roble",
+    "name": "Fabiola Qui\u00f1onez",
+    "email": "fabiola.quinonez@gruporoble.com",
+    "position": "Chief Commercial Officer"
+  },
+  {
+    "company_name": "Grupo Roble",
+    "name": "Nelson Hernandez",
+    "email": "nelson.hernandez@gruporoble.com",
+    "position": "Manager"
+  },
+  {
+    "company_name": "Grupo Roble",
+    "name": "Alexandre Moreno",
+    "email": "alexandre.moreno@gruporoble.com",
+    "position": "Digital Marketing Manager"
+  },
+  {
+    "company_name": "Grupo Roble",
+    "name": "Jennifer Godoy",
+    "email": "jennifer.godoy@gruporoble.com",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "Grupo Roble",
+    "name": "Jessica Naranjo",
+    "email": "jessica.naranjo@gruporoble.com",
+    "position": "Event Coordinator"
+  },
+  {
+    "company_name": "Grupo Roble",
+    "name": "Monica Fallas",
+    "email": "monica.fallas@gruporoble.com",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "Salazar Romero",
+    "name": "None None",
+    "email": "info@salazarromero.com",
+    "position": null
+  },
+  {
+    "company_name": "CityMax El Salvador",
+    "name": "Arturo Rivas",
+    "email": "a.rivas@citymax-sv.com",
+    "position": null
+  },
+  {
+    "company_name": "CityMax El Salvador",
+    "name": "Enriqueta Abarca",
+    "email": "e.abarca@citymax-sv.com",
+    "position": null
+  },
+  {
+    "company_name": "CityMax El Salvador",
+    "name": "Priscila Arana",
+    "email": "p.arana@citymax-sv.com",
+    "position": null
+  },
+  {
+    "company_name": "CityMax El Salvador",
+    "name": "Fernando Villegas",
+    "email": "f.villegas@citymax-sv.com",
+    "position": null
+  },
+  {
+    "company_name": "CityMax El Salvador",
+    "name": "Yoni Reyes",
+    "email": "y.reyes@citymax-sv.com",
+    "position": null
+  },
+  {
+    "company_name": "CityMax El Salvador",
+    "name": "None None",
+    "email": "d.reyes@citymax-sv.com",
+    "position": null
+  },
+  {
+    "company_name": "CityMax El Salvador",
+    "name": "None None",
+    "email": "l.larreynaga@citymax-sv.com",
+    "position": null
+  },
+  {
+    "company_name": "CityMax El Salvador",
+    "name": "None None",
+    "email": "contacto@citymax-sv.com",
+    "position": null
+  },
+  {
+    "company_name": "CityMax El Salvador",
+    "name": "None None",
+    "email": "n.medina@citymax-sv.com",
+    "position": null
+  },
+  {
+    "company_name": "CityMax El Salvador",
+    "name": "None None",
+    "email": "j.argueta@citymax-sv.com",
+    "position": null
+  },
+  {
+    "company_name": "Romero Pineda & Asociados",
+    "name": "Carlos Castillo",
+    "email": "ccastillo@romeropineda.com",
+    "position": "Partner and Director"
+  },
+  {
+    "company_name": "Romero Pineda & Asociados",
+    "name": "Jose Romero",
+    "email": "jose@romeropineda.com",
+    "position": "Owner"
+  },
+  {
+    "company_name": "Romero Pineda & Asociados",
+    "name": "Marta Escobar",
+    "email": "mescobar@romeropineda.com",
+    "position": "Business Manager"
+  },
+  {
+    "company_name": "Romero Pineda & Asociados",
+    "name": "German Oliva",
+    "email": "goliva@romeropineda.com",
+    "position": "Finance Manager"
+  },
+  {
+    "company_name": "Romero Pineda & Asociados",
+    "name": "Carmen M\u00e9ndez",
+    "email": "cmendez@romeropineda.com",
+    "position": "Collaborator"
+  },
+  {
+    "company_name": "Romero Pineda & Asociados",
+    "name": "Susana Navarro",
+    "email": "susana@romeropineda.com",
+    "position": "Patent Coordinator"
+  },
+  {
+    "company_name": "Romero Pineda & Asociados",
+    "name": "Camila Villafuerte",
+    "email": "cvillafuerte@romeropineda.com",
+    "position": "Attorney"
+  },
+  {
+    "company_name": "Romero Pineda & Asociados",
+    "name": "Nadya Retana",
+    "email": "nadya@romeropineda.com",
+    "position": "Lawyer"
+  },
+  {
+    "company_name": "Romero Pineda & Asociados",
+    "name": "Roberto Pocasangre",
+    "email": "rpocasangre@romeropineda.com",
+    "position": "Paralegal"
+  },
+  {
+    "company_name": "Romero Pineda & Asociados",
+    "name": "Geraldina Cestoni",
+    "email": "gcestoni@romeropineda.com",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "CASALCO (C\u00e1mara Salvadore\u00f1a de la Industria de la Construcci\u00f3n)",
+    "name": "Mirna Rodriguez",
+    "email": "mirna.rodriguez@casalco.org.sv",
+    "position": null
+  },
+  {
+    "company_name": "CASALCO (C\u00e1mara Salvadore\u00f1a de la Industria de la Construcci\u00f3n)",
+    "name": "None None",
+    "email": "pconstruccionsostenible@casalco.org.sv",
+    "position": null
+  },
+  {
+    "company_name": "CASALCO (C\u00e1mara Salvadore\u00f1a de la Industria de la Construcci\u00f3n)",
+    "name": "None None",
+    "email": "mercadeoynegocios@casalco.org.sv",
+    "position": null
+  },
+  {
+    "company_name": "CASALCO (C\u00e1mara Salvadore\u00f1a de la Industria de la Construcci\u00f3n)",
+    "name": "None None",
+    "email": "contactenos@casalco.org.sv",
+    "position": null
+  },
+  {
+    "company_name": "CASALCO (C\u00e1mara Salvadore\u00f1a de la Industria de la Construcci\u00f3n)",
+    "name": "None None",
+    "email": "illy.palacios@casalco.org.sv",
+    "position": null
+  },
+  {
+    "company_name": "CASALCO (C\u00e1mara Salvadore\u00f1a de la Industria de la Construcci\u00f3n)",
+    "name": "None None",
+    "email": "estudios.ciec@casalco.org.sv",
+    "position": null
+  },
+  {
+    "company_name": "CASALCO (C\u00e1mara Salvadore\u00f1a de la Industria de la Construcci\u00f3n)",
+    "name": "None None",
+    "email": "presidencia@casalco.org.sv",
+    "position": null
+  },
+  {
+    "company_name": "El Salvador Realty Group",
+    "name": "None None",
+    "email": "info@elsalvadorrealtygroup.com",
+    "position": null
+  },
+  {
+    "company_name": "Colliers El Salvador",
+    "name": "Bryan Johnson",
+    "email": "bryan.t.johnson@colliers.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Colliers El Salvador",
+    "name": "Dick Ward",
+    "email": "dick.ward@colliers.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Colliers El Salvador",
+    "name": "David Edwards",
+    "email": "david.edwards@colliers.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Colliers El Salvador",
+    "name": "Emerson Hofer",
+    "email": "emerson.hofer@colliers.com",
+    "position": "President"
+  },
+  {
+    "company_name": "Colliers El Salvador",
+    "name": "David Lockwood",
+    "email": "david.lockwood@colliers.com",
+    "position": "President"
+  },
+  {
+    "company_name": "Colliers El Salvador",
+    "name": "Mark Schnoll",
+    "email": "mark.schnoll@colliers.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Colliers El Salvador",
+    "name": "Wilsontuan Tran",
+    "email": "wilsontuan.tran@colliers.com",
+    "position": "Representative Office Head"
+  },
+  {
+    "company_name": "Colliers El Salvador",
+    "name": "Jyotsna Dobriyal",
+    "email": "j.d@colliers.com",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "Colliers El Salvador",
+    "name": "Dallas Collier",
+    "email": "collier@colliers.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "Colliers El Salvador",
+    "name": "David Nissley",
+    "email": "david.nissley@colliers.com",
+    "position": "Associate"
+  },
+  {
+    "company_name": "Grupo Agrisal",
+    "name": "Le\u00f3n Moncada",
+    "email": "leon.moncada@agrisal.com",
+    "position": "Business Director"
+  },
+  {
+    "company_name": "Grupo Agrisal",
+    "name": "Clarissa Angulo",
+    "email": "clarissa.angulo@agrisal.com",
+    "position": "Assistant to the Chairman and Board of Directors"
+  },
+  {
+    "company_name": "Grupo Agrisal",
+    "name": "Moises Majano",
+    "email": "moises.majano@agrisal.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Grupo Agrisal",
+    "name": "Claudia Molina",
+    "email": "claudia.molina@agrisal.com",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Grupo Agrisal",
+    "name": "Eduardo Qui\u00f1onez",
+    "email": "eduardo.quinonez@agrisal.com",
+    "position": "President"
+  },
+  {
+    "company_name": "Grupo Agrisal",
+    "name": "Gisselle Rivas",
+    "email": "gisselle.rivas@agrisal.com",
+    "position": "Advertising Executive"
+  },
+  {
+    "company_name": "Grupo Agrisal",
+    "name": "Manuel Morales",
+    "email": "manuel.morales@agrisal.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Grupo Agrisal",
+    "name": "Brenda Burgos",
+    "email": "brenda.burgos@agrisal.com",
+    "position": "Talent Business Partner"
+  },
+  {
+    "company_name": "Grupo Agrisal",
+    "name": "Moises Alberto",
+    "email": "moises.alberto@agrisal.com",
+    "position": "Revenue Manager"
+  },
+  {
+    "company_name": "Grupo Agrisal",
+    "name": "Estela Molina",
+    "email": "estela.molina@agrisal.com",
+    "position": "Organizational Effectiveness Leader"
+  },
+  {
+    "company_name": "Lexincorp El Salvador",
+    "name": "Eugenio Vargas",
+    "email": "evargas@lexincorp.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Lexincorp El Salvador",
+    "name": "Alonso Vargas",
+    "email": "avargas@lexincorp.com",
+    "position": "Director of Social Services"
+  },
+  {
+    "company_name": "Lexincorp El Salvador",
+    "name": "Philip Andre",
+    "email": "pandre@lexincorp.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Lexincorp El Salvador",
+    "name": "Adriana Portillo",
+    "email": "aportillo@lexincorp.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Lexincorp El Salvador",
+    "name": "Enrique Escobar",
+    "email": "eescobar@lexincorp.com",
+    "position": "Senior Partner"
+  },
+  {
+    "company_name": "Lexincorp El Salvador",
+    "name": "Sylvia Zelaya",
+    "email": "szelaya@lexincorp.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Lexincorp El Salvador",
+    "name": "Benito Zelaya",
+    "email": "bzelaya@lexincorp.com",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "Lexincorp El Salvador",
+    "name": "Camila Lucas",
+    "email": "clucas@lexincorp.com",
+    "position": "Marketing Specialist"
+  },
+  {
+    "company_name": "Lexincorp El Salvador",
+    "name": "Alexander Cubias",
+    "email": "acubias@lexincorp.com",
+    "position": "Finance Manager"
+  },
+  {
+    "company_name": "Lexincorp El Salvador",
+    "name": "Nora Amaya",
+    "email": "namaya@lexincorp.com",
+    "position": "Director of Corporate Affairs, Intellectual Property and Notary"
+  }
+]

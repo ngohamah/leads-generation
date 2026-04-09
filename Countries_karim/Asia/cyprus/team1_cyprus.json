@@ -1,0 +1,72 @@
+ [
+    {
+      "name": "Arena Properties",
+      "website": "https://www.arenapropertiescy.com/",
+      "address": "116 A, Gladstonos street, Kyprianou Tower, 3032, Limassol, Cyprus",
+      "email": "limassol@arenaproperties.com",
+      "phone_number": "+357 25 581 730"
+    },
+    {
+      "name": "M.Residence",
+      "website": "https://www.mresidence.com/",
+      "address": "7 Nikou Kranidioti, Tower 5, Egkomi, 2411 Nicosia, Cyprus",
+      "email": "hello@mresidence.com",
+      "phone_number": "+357 22261516"
+    },
+    {
+      "name": "Cyprus101",
+      "website": "https://cyprus101.com/",
+      "address": "3 Ioannou Agroti, Paphos, 8060, Cyprus",
+      "email": "cleo@cyprus101.com",
+      "phone_number": "+357 26 271 292"
+    },
+    {
+      "name": "Cypruslife Real Estate",
+      "website": "https://cypruslife.net/",
+      "address": "Griva Digeni 37, Oroklini 7040, Larnaka, Cyprus",
+      "email": "admin@cypruslife.net",
+      "phone_number": "+357 24 819900"
+    },
+    {
+      "name": "Island Homes Cyprus",
+      "website": "https://www.islandhomescyprus.com/",
+      "address": "273 Protaras Avenue, Office 4, Paralimni 5291, Cyprus",
+      "email": null,
+      "phone_number": "357 99841038"
+    },
+    {
+      "name": "Kalogirou Real Estate",
+      "website": "https://kalogirourealestate.com/",
+      "address": "ERMOU 196, SHOP 5, P.C.: 6022, Larnaca, Cyprus",
+      "email": "info@kalogirourealestate.com",
+      "phone_number": "+357 24400872"
+    },
+    {
+      "name": "CYPRUS INVESTMENTS - Properties For Sale Cyprus",
+      "website": "https://www.cyprusinvestments.cy/",
+      "address": "53, Nikolaou I. Nikolaidi Avenue, Shop 5-6, Paphos 8010, Cyprus",
+      "email": "info@cyprusinvestments.cy",
+      "phone_number": "70000148"
+    },
+    {
+      "name": "Doorway Real Estate",
+      "website": "https://doorwayrealestatecy.com/",
+      "address": "Agias Filaxeos 156, 3083 Limassol, Cyprus",
+      "email": "info@doorwayrealestatecy.com",
+      "phone_number": "+357 99 829 208"
+    },
+    {
+      "name": "SVA Estates Limassol",
+      "website": "https://www.svaestates.com.cy/",
+      "address": "Epimitheos, 3056 Limassol, Cyprus",
+      "email": "info@svaestates.com.cy",
+      "phone_number": "+357 25392167"
+    },
+    {
+      "name": "IPN Cyprus Real Estate",
+      "website": "https://www.ipncyprus.com/",
+      "address": "25 Serifou, Shop 001 Allure Center, Zakaki 3046, Limassol, Cyprus",
+      "email": "info@ipncyprus.com",
+      "phone_number": "+357 25 31 31 81"
+    }
+  ]

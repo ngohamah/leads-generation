@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Emlak Konut GYO",
+    "website": "https://www.emlakkonut.com.tr",
+    "address": "Barbaros Mah. Mor Sumbul Sok. No:7/2 B, İstanbul, Turkey",
+    "email": "info@emlakkonut.com.tr",
+    "phone": "+90 216 579 15 15"
+  },
+  {
+    "name": "Sinpaş GYO",
+    "website": "https://sinpas.com.tr",
+    "address": "Sinpaş Plaza, Yenidoğan Sok. No:36, Balmumcu, Beşiktaş, İstanbul 34349, Turkey",
+    "email": "info@sinpas.com.tr",
+    "phone": "+90 212 310 27 00"
+  },
+  {
+    "name": "Torunlar GYO",
+    "website": "https://www.torunlargyo.com.tr",
+    "address": "Rüzgarlıbahçe Mah. Özalp Çıkmazı No:4, Beykoz, 34805 İstanbul, Turkey",
+    "email": "info@torunlargyo.com.tr",
+    "phone": "+90 216 425 03 28"
+  },
+  {
+    "name": "Nef Real Estate",
+    "website": "https://www.nef.com.tr",
+    "address": "Turkey (multiple offices)",
+    "email": "info@nef.com.tr",
+    "phone": null
+  },
+  {
+    "name": "Varyap Meridian",
+    "website": "https://www.varyap.com",
+    "address": "İçerenköy Mah., Değirmenyolu Cad. Çetinkaya Sok. Varlıbaş Center No:22, 34752 Ataşehir, İstanbul, Turkey",
+    "email": "info@varyap.com",
+    "phone": "+90 216 579 15 15"
+  },
+  {
+    "name": "Skyland İstanbul (Eroğlu Holding)",
+    "website": "https://www.skylandistanbul.com",
+    "address": "Huzur Mah., Cendere Cd. No:114, Sarıyer, 34396 İstanbul, Turkey",
+    "email": "info@skylandhom.com",
+    "phone": "+90 212 812 26 51"
+  },
+  {
+    "name": "Vadistanbul",
+    "website": "https://www.vadistanbul.com",
+    "address": "Azerbaycan Cd. No:3/C, Ayazağa, Sarıyer, 34396 İstanbul, Turkey",
+    "email": "info@vadistanbul.com",
+    "phone": "+90 212 330 38 38"
+  },
+  {
+    "name": "Mall of Istanbul",
+    "website": "https://www.mallofistanbul.com.tr",
+    "address": "Süleyman Demirel Blv. No:7F, Başakşehir, 34494 İstanbul, Turkey",
+    "email": null,
+    "phone": "+90 212 801 10 00"
+  },
+  {
+    "name": "Emaar Square (Emaar Istanbul)",
+    "website": "https://tr.emaar.com/en/our-communities/emaar-square/",
+    "address": "Ünalan Mah., Libadiye Cd. No:82F Kat 1, Üsküdar, 34700 İstanbul, Turkey",
+    "email": "info@emaar.com.tr",
+    "phone": "+90 216 547 17 30"
+  },
+  {
+    "name": "Nidapark Gayrimenkul (Tahincioğlu)",
+    "website": "https://www.nidapark.com.tr",
+    "address": "Palladium Tower, Barbaros Mah., Kardelen Sk. No:2 Kat:41 Ataşehir, 34746 İstanbul, Turkey",
+    "email": "info@nidapark.com.tr",
+    "phone": null
+  },
+  {
+    "name": "Nurol GYO (Nurol Gayrimenkul Yatırım Ortaklığı)",
+    "website": "https://www.nurolgyo.com/en",
+    "address": "Maslak Mah. Büyükdere Cad. Nurol Plaza Sitesi No:255, İç Kapı No:103, Sarıyer, İstanbul 34450, Turkey",
+    "email": "info@nurolgyo.com.tr",
+    "phone": "+90 212 286 82 40"
+  },
+  {
+    "name": "DAP Yapı (İstanbul Office)",
+    "website": "https://www.dapyapi.com.tr",
+    "address": "Barbaros Mahallesi, Tophanelioğlu Caddesi No:72, Üsküdar, İstanbul, Turkey",
+    "email": "info@dapyapi.com.tr",
+    "phone": "+90 444 9 327"
+  }
+]

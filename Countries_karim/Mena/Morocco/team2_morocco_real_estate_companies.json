@@ -1,0 +1,842 @@
+[
+  {
+    "company_name": "John Taylor Marrakech",
+    "name": "Anish Antony",
+    "email": "aantony@john-taylor.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "John Taylor Marrakech",
+    "name": "Ivan Agudin",
+    "email": "iagudin@john-taylor.com",
+    "position": "Head of Operations"
+  },
+  {
+    "company_name": "John Taylor Marrakech",
+    "name": "Fabrice Blacher",
+    "email": "fblacher@john-taylor.com",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "John Taylor Marrakech",
+    "name": "Christine Bame",
+    "email": "cbame@john-taylor.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "John Taylor Marrakech",
+    "name": "Aur\u00e9lien Henry",
+    "email": "ahenry@john-taylor.com",
+    "position": "Chief Digital Officer"
+  },
+  {
+    "company_name": "John Taylor Marrakech",
+    "name": "Gilles Tejedor",
+    "email": "gtejedor@john-taylor.com",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "John Taylor Marrakech",
+    "name": "Cristina Ten",
+    "email": "cten@john-taylor.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "John Taylor Marrakech",
+    "name": "Fawad Maqsood",
+    "email": "fmaqsood@john-taylor.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "John Taylor Marrakech",
+    "name": "Geoffrey Benoit",
+    "email": "gbenoit@john-taylor.com",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "John Taylor Marrakech",
+    "name": "Laurence Vinciguerra",
+    "email": "lvinciguerra@john-taylor.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Karim ALAMI SRIFI | KNA",
+    "name": "Karim Alami",
+    "email": "karim@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Karim ALAMI SRIFI | KNA",
+    "name": "Nadia Alami",
+    "email": "nadia@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Karim ALAMI SRIFI | KNA",
+    "name": "Hafid Idrissi",
+    "email": "hafid@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Karim ALAMI SRIFI | KNA",
+    "name": "None None",
+    "email": "majid@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Karim ALAMI SRIFI | KNA",
+    "name": "None None",
+    "email": "hind@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Karim ALAMI SRIFI | KNA",
+    "name": "None None",
+    "email": "saida@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Karim ALAMI SRIFI | KNA",
+    "name": "None None",
+    "email": "karim1@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Karim ALAMI SRIFI | KNA",
+    "name": "Stephan Petry",
+    "email": "spetry@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Karim ALAMI SRIFI | KNA",
+    "name": "None None",
+    "email": "victoria@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Karim ALAMI SRIFI | KNA",
+    "name": "None None",
+    "email": "yves@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Proimmobilier Essaouira",
+    "name": "Pascal Roques",
+    "email": "roquespascal@proimmobilier.ma",
+    "position": "General Manager"
+  },
+  {
+    "company_name": "Proimmobilier Essaouira",
+    "name": "Ike Kai",
+    "email": "ike@proimmobilier.ma",
+    "position": null
+  },
+  {
+    "company_name": "Proimmobilier Essaouira",
+    "name": "None None",
+    "email": "contact@proimmobilier.ma",
+    "position": null
+  },
+  {
+    "company_name": "Proimmobilier Essaouira",
+    "name": "None None",
+    "email": "lamba@proimmobilier.ma",
+    "position": null
+  },
+  {
+    "company_name": "Proimmobilier Essaouira",
+    "name": "None None",
+    "email": "cyswllt@proimmobilier.ma",
+    "position": null
+  },
+  {
+    "company_name": "Proimmobilier Essaouira",
+    "name": "None None",
+    "email": "contacto@proimmobilier.ma",
+    "position": null
+  },
+  {
+    "company_name": "Proimmobilier Essaouira",
+    "name": "None None",
+    "email": "il@proimmobilier.ma",
+    "position": null
+  },
+  {
+    "company_name": "Proimmobilier Essaouira",
+    "name": "None None",
+    "email": "umnxeba@proimmobilier.ma",
+    "position": null
+  },
+  {
+    "company_name": "Proimmobilier Essaouira",
+    "name": "None None",
+    "email": "kontaktoni@proimmobilier.ma",
+    "position": null
+  },
+  {
+    "company_name": "Proimmobilier Essaouira",
+    "name": "None None",
+    "email": "kontakto@proimmobilier.ma",
+    "position": null
+  },
+  {
+    "company_name": "Philippe CHALINDAR",
+    "name": "Perlin Gentil",
+    "email": "perlin@jamesedition.com",
+    "position": "Director of Strategic Accounts"
+  },
+  {
+    "company_name": "Philippe CHALINDAR",
+    "name": "Karl Norling",
+    "email": "karl@jamesedition.com",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "Philippe CHALINDAR",
+    "name": "Timur Zaytsev",
+    "email": "timur@jamesedition.com",
+    "position": "Head of Operations"
+  },
+  {
+    "company_name": "Philippe CHALINDAR",
+    "name": "Julien Sejournet",
+    "email": "julien@jamesedition.com",
+    "position": "Director of Data Engineering"
+  },
+  {
+    "company_name": "Philippe CHALINDAR",
+    "name": "Marcus Surt\u00e9n",
+    "email": "marcus@jamesedition.com",
+    "position": "Customer Success Director"
+  },
+  {
+    "company_name": "Philippe CHALINDAR",
+    "name": "Eric Dahlstrom",
+    "email": "eric@jamesedition.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "Philippe CHALINDAR",
+    "name": "Egor Glushenkov",
+    "email": "egor@jamesedition.com",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Philippe CHALINDAR",
+    "name": "Christopher Seddon",
+    "email": "christopher@jamesedition.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Philippe CHALINDAR",
+    "name": "Alejandro Torrano",
+    "email": "alejandro@jamesedition.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Philippe CHALINDAR",
+    "name": "Alexander Lomakin",
+    "email": "alexander.lomakin@jamesedition.com",
+    "position": "Chief Technology Officer"
+  },
+  {
+    "company_name": "Morocco Sotheby's International Realty",
+    "name": "Nicolas Beguin",
+    "email": "nb@sothebysrealty.ma",
+    "position": "Director"
+  },
+  {
+    "company_name": "Morocco Sotheby's International Realty",
+    "name": "Abderrahmane Marehoum",
+    "email": "am@sothebysrealty.ma",
+    "position": "Photographer"
+  },
+  {
+    "company_name": "Morocco Sotheby's International Realty",
+    "name": "Abdelhadi Laaouina",
+    "email": "al@sothebysrealty.ma",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "lg@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "contact@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ilp@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "marrakech@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "cd@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ml@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "mc@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Nicolas Beguin | Morocco Sotheby's International Realty",
+    "name": "Nicolas Beguin",
+    "email": "nb@sothebysrealty.ma",
+    "position": "Director"
+  },
+  {
+    "company_name": "Nicolas Beguin | Morocco Sotheby's International Realty",
+    "name": "Abderrahmane Marehoum",
+    "email": "am@sothebysrealty.ma",
+    "position": "Photographer"
+  },
+  {
+    "company_name": "Nicolas Beguin | Morocco Sotheby's International Realty",
+    "name": "Abdelhadi Laaouina",
+    "email": "al@sothebysrealty.ma",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "Nicolas Beguin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "lg@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Nicolas Beguin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "contact@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Nicolas Beguin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ilp@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Nicolas Beguin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "marrakech@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Nicolas Beguin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "cd@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Nicolas Beguin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ml@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Nicolas Beguin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "mc@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "David Monterin | Morocco Sotheby's International Realty",
+    "name": "Nicolas Beguin",
+    "email": "nb@sothebysrealty.ma",
+    "position": "Director"
+  },
+  {
+    "company_name": "David Monterin | Morocco Sotheby's International Realty",
+    "name": "Abderrahmane Marehoum",
+    "email": "am@sothebysrealty.ma",
+    "position": "Photographer"
+  },
+  {
+    "company_name": "David Monterin | Morocco Sotheby's International Realty",
+    "name": "Abdelhadi Laaouina",
+    "email": "al@sothebysrealty.ma",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "David Monterin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "lg@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "David Monterin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "contact@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "David Monterin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ilp@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "David Monterin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "marrakech@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "David Monterin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "cd@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "David Monterin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ml@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "David Monterin | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "mc@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Abdelhadi Laaouina | Morocco Sotheby's International Realty",
+    "name": "Nicolas Beguin",
+    "email": "nb@sothebysrealty.ma",
+    "position": "Director"
+  },
+  {
+    "company_name": "Abdelhadi Laaouina | Morocco Sotheby's International Realty",
+    "name": "Abderrahmane Marehoum",
+    "email": "am@sothebysrealty.ma",
+    "position": "Photographer"
+  },
+  {
+    "company_name": "Abdelhadi Laaouina | Morocco Sotheby's International Realty",
+    "name": "Abdelhadi Laaouina",
+    "email": "al@sothebysrealty.ma",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "Abdelhadi Laaouina | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "lg@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Abdelhadi Laaouina | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "contact@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Abdelhadi Laaouina | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ilp@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Abdelhadi Laaouina | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "marrakech@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Abdelhadi Laaouina | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "cd@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Abdelhadi Laaouina | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ml@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Abdelhadi Laaouina | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "mc@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Marie-Charlotte Cerino | Morocco Sotheby's International Realty",
+    "name": "Nicolas Beguin",
+    "email": "nb@sothebysrealty.ma",
+    "position": "Director"
+  },
+  {
+    "company_name": "Marie-Charlotte Cerino | Morocco Sotheby's International Realty",
+    "name": "Abderrahmane Marehoum",
+    "email": "am@sothebysrealty.ma",
+    "position": "Photographer"
+  },
+  {
+    "company_name": "Marie-Charlotte Cerino | Morocco Sotheby's International Realty",
+    "name": "Abdelhadi Laaouina",
+    "email": "al@sothebysrealty.ma",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "Marie-Charlotte Cerino | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "lg@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Marie-Charlotte Cerino | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "contact@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Marie-Charlotte Cerino | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ilp@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Marie-Charlotte Cerino | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "marrakech@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Marie-Charlotte Cerino | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "cd@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Marie-Charlotte Cerino | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ml@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Marie-Charlotte Cerino | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "mc@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Laurent Gal\u00e8s | Morocco Sotheby's International Realty",
+    "name": "Nicolas Beguin",
+    "email": "nb@sothebysrealty.ma",
+    "position": "Director"
+  },
+  {
+    "company_name": "Laurent Gal\u00e8s | Morocco Sotheby's International Realty",
+    "name": "Abderrahmane Marehoum",
+    "email": "am@sothebysrealty.ma",
+    "position": "Photographer"
+  },
+  {
+    "company_name": "Laurent Gal\u00e8s | Morocco Sotheby's International Realty",
+    "name": "Abdelhadi Laaouina",
+    "email": "al@sothebysrealty.ma",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "Laurent Gal\u00e8s | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "lg@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Laurent Gal\u00e8s | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "contact@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Laurent Gal\u00e8s | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ilp@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Laurent Gal\u00e8s | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "marrakech@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Laurent Gal\u00e8s | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "cd@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Laurent Gal\u00e8s | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ml@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Laurent Gal\u00e8s | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "mc@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Isabelle Le P\u00e9culier | Morocco Sotheby's International Realty",
+    "name": "Nicolas Beguin",
+    "email": "nb@sothebysrealty.ma",
+    "position": "Director"
+  },
+  {
+    "company_name": "Isabelle Le P\u00e9culier | Morocco Sotheby's International Realty",
+    "name": "Abderrahmane Marehoum",
+    "email": "am@sothebysrealty.ma",
+    "position": "Photographer"
+  },
+  {
+    "company_name": "Isabelle Le P\u00e9culier | Morocco Sotheby's International Realty",
+    "name": "Abdelhadi Laaouina",
+    "email": "al@sothebysrealty.ma",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "Isabelle Le P\u00e9culier | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "lg@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Isabelle Le P\u00e9culier | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "contact@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Isabelle Le P\u00e9culier | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ilp@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Isabelle Le P\u00e9culier | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "marrakech@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Isabelle Le P\u00e9culier | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "cd@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Isabelle Le P\u00e9culier | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "ml@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Isabelle Le P\u00e9culier | Morocco Sotheby's International Realty",
+    "name": "None None",
+    "email": "mc@sothebysrealty.ma",
+    "position": null
+  },
+  {
+    "company_name": "Najia BOUGHARBAL | Lloyd & Davis Maroc",
+    "name": "Patricia Saramandif",
+    "email": "patricia.saramandif@lloyd-davis.com",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "Najia BOUGHARBAL | Lloyd & Davis Maroc",
+    "name": "Carole Faga",
+    "email": "carole.faga@lloyd-davis.com",
+    "position": "Partner Consultant"
+  },
+  {
+    "company_name": "Najia BOUGHARBAL | Lloyd & Davis Maroc",
+    "name": "Herve Kervadec",
+    "email": "herve.kervadec@lloyd-davis.com",
+    "position": "Partner Consultant"
+  },
+  {
+    "company_name": "Najia BOUGHARBAL | Lloyd & Davis Maroc",
+    "name": "Oliver Zuffour",
+    "email": "oliver.zuffour@lloyd-davis.com",
+    "position": "Partner Consultant"
+  },
+  {
+    "company_name": "Najia BOUGHARBAL | Lloyd & Davis Maroc",
+    "name": "Micka\u00ebl Bouha\u00efk",
+    "email": "mickael.bouhaik@lloyd-davis.com",
+    "position": "Partner Consultant"
+  },
+  {
+    "company_name": "Najia BOUGHARBAL | Lloyd & Davis Maroc",
+    "name": "Werner Pemartin",
+    "email": "werner.pemartin@lloyd-davis.com",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "Najia BOUGHARBAL | Lloyd & Davis Maroc",
+    "name": "Arnaud Devriendt",
+    "email": "a.devriendt@lloyd-davis.com",
+    "position": "President"
+  },
+  {
+    "company_name": "Najia BOUGHARBAL | Lloyd & Davis Maroc",
+    "name": "Caroline Mazur",
+    "email": "caroline.mazur@lloyd-davis.com",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "Najia BOUGHARBAL | Lloyd & Davis Maroc",
+    "name": "Isabelle Boire",
+    "email": "isabelle.boire@lloyd-davis.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "Najia BOUGHARBAL | Lloyd & Davis Maroc",
+    "name": "Christel Fortin",
+    "email": "christel.fortin@lloyd-davis.com",
+    "position": "Partner Consultant"
+  },
+  {
+    "company_name": "Hind BELKACEM | KNA",
+    "name": "Karim Alami",
+    "email": "karim@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Hind BELKACEM | KNA",
+    "name": "Nadia Alami",
+    "email": "nadia@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Hind BELKACEM | KNA",
+    "name": "Hafid Idrissi",
+    "email": "hafid@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Hind BELKACEM | KNA",
+    "name": "None None",
+    "email": "majid@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Hind BELKACEM | KNA",
+    "name": "None None",
+    "email": "hind@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Hind BELKACEM | KNA",
+    "name": "None None",
+    "email": "saida@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Hind BELKACEM | KNA",
+    "name": "None None",
+    "email": "karim1@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Hind BELKACEM | KNA",
+    "name": "Stephan Petry",
+    "email": "spetry@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Hind BELKACEM | KNA",
+    "name": "None None",
+    "email": "victoria@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Hind BELKACEM | KNA",
+    "name": "None None",
+    "email": "yves@kna.ma",
+    "position": null
+  },
+  {
+    "company_name": "Nathalie DUPUY | Lloyd & Davis Maroc",
+    "name": "Patricia Saramandif",
+    "email": "patricia.saramandif@lloyd-davis.com",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "Nathalie DUPUY | Lloyd & Davis Maroc",
+    "name": "Carole Faga",
+    "email": "carole.faga@lloyd-davis.com",
+    "position": "Partner Consultant"
+  },
+  {
+    "company_name": "Nathalie DUPUY | Lloyd & Davis Maroc",
+    "name": "Herve Kervadec",
+    "email": "herve.kervadec@lloyd-davis.com",
+    "position": "Partner Consultant"
+  },
+  {
+    "company_name": "Nathalie DUPUY | Lloyd & Davis Maroc",
+    "name": "Oliver Zuffour",
+    "email": "oliver.zuffour@lloyd-davis.com",
+    "position": "Partner Consultant"
+  },
+  {
+    "company_name": "Nathalie DUPUY | Lloyd & Davis Maroc",
+    "name": "Micka\u00ebl Bouha\u00efk",
+    "email": "mickael.bouhaik@lloyd-davis.com",
+    "position": "Partner Consultant"
+  },
+  {
+    "company_name": "Nathalie DUPUY | Lloyd & Davis Maroc",
+    "name": "Werner Pemartin",
+    "email": "werner.pemartin@lloyd-davis.com",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "Nathalie DUPUY | Lloyd & Davis Maroc",
+    "name": "Arnaud Devriendt",
+    "email": "a.devriendt@lloyd-davis.com",
+    "position": "President"
+  },
+  {
+    "company_name": "Nathalie DUPUY | Lloyd & Davis Maroc",
+    "name": "Caroline Mazur",
+    "email": "caroline.mazur@lloyd-davis.com",
+    "position": "Real Estate Consultant"
+  },
+  {
+    "company_name": "Nathalie DUPUY | Lloyd & Davis Maroc",
+    "name": "Isabelle Boire",
+    "email": "isabelle.boire@lloyd-davis.com",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "Nathalie DUPUY | Lloyd & Davis Maroc",
+    "name": "Christel Fortin",
+    "email": "christel.fortin@lloyd-davis.com",
+    "position": "Partner Consultant"
+  }
+]

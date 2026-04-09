@@ -1,0 +1,740 @@
+[
+  {
+    "company_name": "EIKA Group",
+    "name": "Gintare Urbanovic",
+    "email": "gintare@eikagroup.lt",
+    "position": "Director of Group Analysis"
+  },
+  {
+    "company_name": "EIKA Group",
+    "name": "Gabriel\u0117 Danilevi\u010di\u016bt\u0117",
+    "email": "gabriele@eikagroup.lt",
+    "position": "Marketing Project Manager"
+  },
+  {
+    "company_name": "EIKA Group",
+    "name": "Erika Vi\u0161nevskaja",
+    "email": "erika@eikagroup.lt",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "EIKA Group",
+    "name": "Evelina Gaidyte",
+    "email": "evelina@eikagroup.lt",
+    "position": "Marketing Assistant"
+  },
+  {
+    "company_name": "EIKA Group",
+    "name": "Milda Va\u0161kelyt\u0117",
+    "email": "milda@eikagroup.lt",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "EIKA Group",
+    "name": "Erdvil\u0117 Debesyt\u0117",
+    "email": "erdvile@eikagroup.lt",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "EIKA Group",
+    "name": "Jovil\u0117 Gaiven\u0117",
+    "email": "jovile@eikagroup.lt",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "EIKA Group",
+    "name": "None None",
+    "email": "info@eikagroup.lt",
+    "position": null
+  },
+  {
+    "company_name": "EIKA Group",
+    "name": "None None",
+    "email": "ad@eikagroup.lt",
+    "position": null
+  },
+  {
+    "company_name": "EIKA Group",
+    "name": "None None",
+    "email": "media@eikagroup.lt",
+    "position": null
+  },
+  {
+    "company_name": "Ober-Haus Real Estate Advisors",
+    "name": "Indr\u0117 Jancait\u0117",
+    "email": "indre.jancaite@ober-haus.lt",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "Ober-Haus Real Estate Advisors",
+    "name": "Gytis Nevidomskis",
+    "email": "gytis.nevidomskis@ober-haus.lt",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "Ober-Haus Real Estate Advisors",
+    "name": "Edita Strakalaitien\u0117",
+    "email": "edita.strakalaitiene@ober-haus.lt",
+    "position": "Real Estate Specialist"
+  },
+  {
+    "company_name": "Ober-Haus Real Estate Advisors",
+    "name": "Andrejus Sokolovas",
+    "email": "andrejus.sokolovas@ober-haus.lt",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "Ober-Haus Real Estate Advisors",
+    "name": "Aist\u0117 Gudelyt\u0117",
+    "email": "aiste.gudelyte@ober-haus.lt",
+    "position": "Real Estate Appraiser"
+  },
+  {
+    "company_name": "Ober-Haus Real Estate Advisors",
+    "name": "Karolis Tomkus",
+    "email": "karolis.tomkus@ober-haus.lt",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "Ober-Haus Real Estate Advisors",
+    "name": "Justina Brazinsk\u0117",
+    "email": "justina.alejunaite@ober-haus.lt",
+    "position": "Digital Marketing Manager"
+  },
+  {
+    "company_name": "Ober-Haus Real Estate Advisors",
+    "name": "Vaiva Petrovien\u0117",
+    "email": "vaiva.petroviene@ober-haus.lt",
+    "position": "Real Estate Appraiser"
+  },
+  {
+    "company_name": "Ober-Haus Real Estate Advisors",
+    "name": "Rimant\u0117 Verseckien\u0117",
+    "email": "rimante.verseckiene@ober-haus.lt",
+    "position": "Valuer"
+  },
+  {
+    "company_name": "Ober-Haus Real Estate Advisors",
+    "name": "Skaidr\u0117 Zaliap\u016bgien\u0117",
+    "email": "skaidre.zaliapugiene@ober-haus.lt",
+    "position": "Valuation Consultant"
+  },
+  {
+    "company_name": "VPH Group",
+    "name": "James Torpey",
+    "email": "j.torpey@vph.lt",
+    "position": "Management Team"
+  },
+  {
+    "company_name": "VPH Group",
+    "name": "None None",
+    "email": "info@vph.lt",
+    "position": null
+  },
+  {
+    "company_name": "VPH Group",
+    "name": "None None",
+    "email": "l.vadeikis@vph.lt",
+    "position": null
+  },
+  {
+    "company_name": "VPH Group",
+    "name": "None None",
+    "email": "b.nabuurs@vph.lt",
+    "position": null
+  },
+  {
+    "company_name": "VPH Group",
+    "name": "None None",
+    "email": "r.petrosiene@vph.lt",
+    "position": null
+  },
+  {
+    "company_name": "VPH Group",
+    "name": "None None",
+    "email": "i.vaitiekiene@vph.lt",
+    "position": null
+  },
+  {
+    "company_name": "VPH Group",
+    "name": "None None",
+    "email": "r.vepstaite@vph.lt",
+    "position": null
+  },
+  {
+    "company_name": "VPH Group",
+    "name": "None None",
+    "email": "r.jurkevicius@vph.lt",
+    "position": null
+  },
+  {
+    "company_name": "REGO Group",
+    "name": "Laisvis Makulis",
+    "email": "lm@regogroup.lt",
+    "position": "Partner"
+  },
+  {
+    "company_name": "REGO Group",
+    "name": "Erika Anz\u0117",
+    "email": "ea@regogroup.lt",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "REGO Group",
+    "name": "None None",
+    "email": "ar@regogroup.lt",
+    "position": null
+  },
+  {
+    "company_name": "REGO Group",
+    "name": "None None",
+    "email": "info@regogroup.lt",
+    "position": null
+  },
+  {
+    "company_name": "Savills (SUPPA Advisers)",
+    "name": "Flora Tennant",
+    "email": "flora.tennant@savills.com",
+    "position": "Head of Marketing"
+  },
+  {
+    "company_name": "Savills (SUPPA Advisers)",
+    "name": "Hunter Harling",
+    "email": "hunter.harling@savills.com",
+    "position": "Director of Residential Sales"
+  },
+  {
+    "company_name": "Savills (SUPPA Advisers)",
+    "name": "Natalie Hale",
+    "email": "natalie.hale@savills.com",
+    "position": "Senior Marketing Manager"
+  },
+  {
+    "company_name": "Savills (SUPPA Advisers)",
+    "name": "Sophie Daly",
+    "email": "sophie.daly@savills.com",
+    "position": "Senior Digital Marketing Manager"
+  },
+  {
+    "company_name": "Savills (SUPPA Advisers)",
+    "name": "Amy Barber",
+    "email": "amy.bonner@savills.com",
+    "position": "Senior Client Development Executive"
+  },
+  {
+    "company_name": "Savills (SUPPA Advisers)",
+    "name": "Rose Fyfe",
+    "email": "rfyfe@savills.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "Savills (SUPPA Advisers)",
+    "name": "Gordon Rogers",
+    "email": "gordon.rogers@savills.com",
+    "position": "Director of Sustainability"
+  },
+  {
+    "company_name": "Savills (SUPPA Advisers)",
+    "name": "Charu Dhaliwal",
+    "email": "charu.dhaliwal@savills.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "Savills (SUPPA Advisers)",
+    "name": "Paul Jarman",
+    "email": "pjarman@savills.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Savills (SUPPA Advisers)",
+    "name": "Daniel Curtin",
+    "email": "daniel.curtin@savills.com",
+    "position": "Director of Health and Safety"
+  },
+  {
+    "company_name": "Cobalt",
+    "name": "Monika Koolmeister",
+    "email": "monika.koolmeister@cobalt.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cobalt",
+    "name": "Edgars Pastars",
+    "email": "edgars.pastars@cobalt.legal",
+    "position": "Partner, Attorney"
+  },
+  {
+    "company_name": "Cobalt",
+    "name": "Jovita Valatkaite",
+    "email": "jovita.valatkaite@cobalt.legal",
+    "position": "Employment Law Partner"
+  },
+  {
+    "company_name": "Cobalt",
+    "name": "Rasa Zasciurinskaite",
+    "email": "rasa.zasciurinskaite@cobalt.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cobalt",
+    "name": "Peeter Kutman",
+    "email": "peeter.kutman@cobalt.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cobalt",
+    "name": "Egon Talur",
+    "email": "egon.talur@cobalt.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cobalt",
+    "name": "Martin Simovart",
+    "email": "martin.simovart@cobalt.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cobalt",
+    "name": "Karina Paatsi",
+    "email": "karina.paatsi@cobalt.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Cobalt",
+    "name": "Lauris Liepa",
+    "email": "lauris.liepa@cobalt.legal",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "Cobalt",
+    "name": "Juozas Rimas",
+    "email": "juozas.rimas@cobalt.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Ellex",
+    "name": "Irina Rozen\u0161teina",
+    "email": "irina.kostina@ellex.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Ellex",
+    "name": "Augustinas Ma\u010dionis",
+    "email": "amacionis@ellex.legal",
+    "position": "Associate Partner"
+  },
+  {
+    "company_name": "Ellex",
+    "name": "\u0160ar\u016bnas Keserauskas",
+    "email": "skeserauskas@ellex.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Ellex",
+    "name": "Edvardas Racius",
+    "email": "eracius@ellex.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Ellex",
+    "name": "Giedre Aukstuoliene",
+    "email": "giedre.aukstuoliene@ellex.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Ellex",
+    "name": "Merlin Liis-Toomela",
+    "email": "merlin.liis-toomela@ellex.legal",
+    "position": "Head of Data Protection"
+  },
+  {
+    "company_name": "Ellex",
+    "name": "Mantas Juska",
+    "email": "mantas.juska@ellex.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Ellex",
+    "name": "Triin T\u00f5nsing",
+    "email": "triin.tonsing@ellex.legal",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "Ellex",
+    "name": "Sven Papp",
+    "email": "sven.papp@ellex.legal",
+    "position": "Head of M&A"
+  },
+  {
+    "company_name": "Ellex",
+    "name": "Ants N\u00f5mper",
+    "email": "ants.nomper@ellex.legal",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "Sorainen",
+    "name": "Mart Potter",
+    "email": "mart.potter@sorainen.com",
+    "position": "IT Director"
+  },
+  {
+    "company_name": "Sorainen",
+    "name": "Lise-Lotte Laane",
+    "email": "lise-lotte.laane@sorainen.com",
+    "position": "Head of Life Sciences & Healthcare"
+  },
+  {
+    "company_name": "Sorainen",
+    "name": "Lelde Lavi\u0146a",
+    "email": "lelde.lavina@sorainen.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Sorainen",
+    "name": "Augustas Klezys",
+    "email": "augustas.klezys@sorainen.com",
+    "position": "Board Member"
+  },
+  {
+    "company_name": "Sorainen",
+    "name": "Eva Berlaus",
+    "email": "eva.berlaus@sorainen.com",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "Sorainen",
+    "name": "Margit Piller",
+    "email": "margit.piller@sorainen.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Sorainen",
+    "name": "Norman Aas",
+    "email": "norman.aas@sorainen.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Sorainen",
+    "name": "Laimonas Skibarka",
+    "email": "laimonas.skibarka@sorainen.com",
+    "position": "Board Member"
+  },
+  {
+    "company_name": "Sorainen",
+    "name": "Ieva Andersone",
+    "email": "ieva.andersone@sorainen.com",
+    "position": "Country Manager"
+  },
+  {
+    "company_name": "Sorainen",
+    "name": "Toomas Prangli",
+    "email": "toomas.prangli@sorainen.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "WALLESS",
+    "name": "Piret Kergandberg",
+    "email": "piret.kergandberg@walless.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "WALLESS",
+    "name": "Edgar Velbri",
+    "email": "edgar.velbri@walless.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "WALLESS",
+    "name": "Toomas Taube",
+    "email": "toomas.taube@walless.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "WALLESS",
+    "name": "Dovile Burgiene",
+    "email": "dovile.burgiene@walless.com",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "WALLESS",
+    "name": "Laurynas Narvydas",
+    "email": "laurynas.narvydas@walless.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "WALLESS",
+    "name": "Tomas Bal\u010di\u016bnas",
+    "email": "tomas.balciunas@walless.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "WALLESS",
+    "name": "Evaldas Klimas",
+    "email": "evaldas.klimas@walless.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "WALLESS",
+    "name": "Aiste Medeliene",
+    "email": "aiste.medeliene@walless.com",
+    "position": "Co-Founder"
+  },
+  {
+    "company_name": "WALLESS",
+    "name": "Erki Kergandberg",
+    "email": "erki.kergandberg@walless.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "WALLESS",
+    "name": "Elmer Muna",
+    "email": "elmer.muna@walless.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Verlita",
+    "name": "None None",
+    "email": "gediminas@verlita.lt",
+    "position": null
+  },
+  {
+    "company_name": "Verlita",
+    "name": "None None",
+    "email": "info@verlita.lt",
+    "position": null
+  },
+  {
+    "company_name": "Nepriklausomi.lt",
+    "name": "Art\u016br \u016asov",
+    "email": "artur.usov@nepriklausomi.lt",
+    "position": "Director"
+  },
+  {
+    "company_name": "Nepriklausomi.lt",
+    "name": "None None",
+    "email": "info@nepriklausomi.lt",
+    "position": null
+  },
+  {
+    "company_name": "Nepriklausomi.lt",
+    "name": "None None",
+    "email": "valentinas.ruokis@nepriklausomi.lt",
+    "position": null
+  },
+  {
+    "company_name": "Nepriklausomi.lt",
+    "name": "None None",
+    "email": "rimantas.skalisius@nepriklausomi.lt",
+    "position": null
+  },
+  {
+    "company_name": "Nepriklausomi.lt",
+    "name": "None None",
+    "email": "stepas.puidokas@nepriklausomi.lt",
+    "position": null
+  },
+  {
+    "company_name": "realco",
+    "name": "Rima Keriene",
+    "email": "rima.keriene@realco.lt",
+    "position": "Director of Project Management"
+  },
+  {
+    "company_name": "realco",
+    "name": "Andrius Sugintas",
+    "email": "andrius.sugintas@realco.lt",
+    "position": "Asset Manager"
+  },
+  {
+    "company_name": "realco",
+    "name": "Julius Dovidonis",
+    "email": "julius.dovidonis@realco.lt",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "realco",
+    "name": "Kristina Svitoj\u0117",
+    "email": "kristina.svitoje@realco.lt",
+    "position": "Chief Marketing Officer"
+  },
+  {
+    "company_name": "realco",
+    "name": "Marijonas Chmieliauskas",
+    "email": "marijonas.chmieliauskas@realco.lt",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "realco",
+    "name": "Rasa Gustait\u0117",
+    "email": "rasa.gustaite@realco.lt",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "realco",
+    "name": "Vytaut\u0117 Autuk\u0117",
+    "email": "vytaute.autuke@realco.lt",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "realco",
+    "name": "None None",
+    "email": "privatumas@realco.lt",
+    "position": null
+  },
+  {
+    "company_name": "realco",
+    "name": "None None",
+    "email": "info@realco.lt",
+    "position": null
+  },
+  {
+    "company_name": "realco",
+    "name": "None None",
+    "email": "pardavimai@realco.lt",
+    "position": null
+  },
+  {
+    "company_name": "eastnine",
+    "name": "Julius Niedvaras",
+    "email": "julius.niedvaras@eastnine.com",
+    "position": "Executive"
+  },
+  {
+    "company_name": "eastnine",
+    "name": "Farzad Bahador",
+    "email": "farzad.bahador@eastnine.com",
+    "position": "Group Controller"
+  },
+  {
+    "company_name": "eastnine",
+    "name": "Britt-Marie Nyman",
+    "email": "britt-marie.nyman@eastnine.com",
+    "position": "CFO"
+  },
+  {
+    "company_name": "eastnine",
+    "name": "Janis Meiers",
+    "email": "janis.meiers@eastnine.com",
+    "position": "Country Manager"
+  },
+  {
+    "company_name": "eastnine",
+    "name": "None None",
+    "email": "info@eastnine.com",
+    "position": null
+  },
+  {
+    "company_name": "eastnine",
+    "name": "None None",
+    "email": "inese.pokule@eastnine.com",
+    "position": null
+  },
+  {
+    "company_name": "JUNG",
+    "name": "Tomas Stemplys",
+    "email": "tomas@jung.lt",
+    "position": "Export Manager"
+  },
+  {
+    "company_name": "JUNG",
+    "name": "Art\u016bras Kriukovas",
+    "email": "arturas@jung.lt",
+    "position": "Technical Director"
+  },
+  {
+    "company_name": "JUNG",
+    "name": "Raimundas Skurdenis",
+    "email": "raimundas@jung.lt",
+    "position": "Director"
+  },
+  {
+    "company_name": "JUNG",
+    "name": "None None",
+    "email": "jung@jung.lt",
+    "position": null
+  },
+  {
+    "company_name": "JUNG",
+    "name": "None None",
+    "email": "info@jung.lt",
+    "position": null
+  },
+  {
+    "company_name": "DEXTALL",
+    "name": "James McGorty",
+    "email": "james@dextall.com",
+    "position": "Senior Business Development Manager"
+  },
+  {
+    "company_name": "DEXTALL",
+    "name": "Egidijus Doviakovskis",
+    "email": "egidijus@dextall.com",
+    "position": "Director of Production"
+  },
+  {
+    "company_name": "DEXTALL",
+    "name": "Aurimas Sabulis",
+    "email": "aurimas@dextall.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "DEXTALL",
+    "name": "Robertas Lapinskas",
+    "email": "robertas@dextall.com",
+    "position": "Purchasing Manager"
+  },
+  {
+    "company_name": "DEXTALL",
+    "name": "Indr\u0117 Virbickien\u0117",
+    "email": "indre@dextall.com",
+    "position": "Head of Digital Transformation"
+  },
+  {
+    "company_name": "DEXTALL",
+    "name": "Marius Navickas",
+    "email": "marius@dextall.com",
+    "position": "Director of Research and Development"
+  },
+  {
+    "company_name": "DEXTALL",
+    "name": "Lukas Marcinkevicius",
+    "email": "lukas@dextall.com",
+    "position": "Head of Design"
+  },
+  {
+    "company_name": "DEXTALL",
+    "name": "Nicole Moro",
+    "email": "nicole.moro@dextall.com",
+    "position": "Technical Director"
+  },
+  {
+    "company_name": "DEXTALL",
+    "name": "Tadas Nevar",
+    "email": "tadas@dextall.com",
+    "position": "Project Manager"
+  },
+  {
+    "company_name": "DEXTALL",
+    "name": "None None",
+    "email": "software@dextall.com",
+    "position": null
+  },
+  {
+    "company_name": "Houseys",
+    "name": "Tomas Grizas",
+    "email": "tomas@houseys.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "Houseys",
+    "name": "None None",
+    "email": "admin@houseys.com",
+    "position": null
+  },
+  {
+    "company_name": "TopBroker",
+    "name": "None None",
+    "email": "info@topbroker.lt",
+    "position": null
+  }
+]

@@ -1,0 +1,806 @@
+[
+  {
+    "company_name": "",
+    "name": "Isel Barnard",
+    "email": "isel@atterbury.co.za",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Wessel Boshoff",
+    "email": "wessel@atterbury.co.za",
+    "position": "Head of Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Gerrit Berg",
+    "email": "gerrit@atterbury.co.za",
+    "position": "Director of Development"
+  },
+  {
+    "company_name": "",
+    "name": "Derrick Pautz",
+    "email": "derrick@atterbury.co.za",
+    "position": "Director of Development"
+  },
+  {
+    "company_name": "",
+    "name": "Arno Plessis",
+    "email": "arno@atterbury.co.za",
+    "position": "Business Development Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Louis Hiemstra",
+    "email": "louis@atterbury.co.za",
+    "position": "Chief Legal Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Lindie Joubert",
+    "email": "lindie@atterbury.co.za",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Adediene Delgado",
+    "email": "dc@atterbury.co.za",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Milton Matabel",
+    "email": "milton@atterbury.co.za",
+    "position": "Operations Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Jeannie Koster",
+    "email": "jeannie@atterbury.co.za",
+    "position": "Leasing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Lourens Du Toit",
+    "email": "lourens@attacq.co.za",
+    "position": "Director of Sustainability"
+  },
+  {
+    "company_name": "",
+    "name": "Raj Nana",
+    "email": "raj@attacq.co.za",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Jackie Niekerk",
+    "email": "jackie@attacq.co.za",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Brenda Rensburg-Botha",
+    "email": "brenda@attacq.co.za",
+    "position": "Director of Investor Relations"
+  },
+  {
+    "company_name": "",
+    "name": "Zolile Mtselu",
+    "email": "zolile@attacq.co.za",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Portia Mothobi",
+    "email": "portia@attacq.co.za",
+    "position": "Finance Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Miron Naidoo",
+    "email": "miron@attacq.co.za",
+    "position": "Property Development Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Tumi Masango",
+    "email": "tumi@attacq.co.za",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Mariska Jager",
+    "email": "mariska@attacq.co.za",
+    "position": "District Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Maano Tshikororo",
+    "email": "maano@attacq.co.za",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "",
+    "name": "Dawie Swarts",
+    "email": "dswarts@growthpoint.co.za",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Zimasa Dziba",
+    "email": "zdziba@growthpoint.co.za",
+    "position": "Chief Risk Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Perrine Lewis",
+    "email": "plewis@growthpoint.co.za",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Josephine Mwila",
+    "email": "jmwila@growthpoint.co.za",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Panico Theocharides",
+    "email": "ptheocharides@growthpoint.co.za",
+    "position": "Chief Investment Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Engelbert Binedell",
+    "email": "ebinedell@growthpoint.co.za",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Alec Davis",
+    "email": "adavis@growthpoint.co.za",
+    "position": "Chief Information Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Samantha Jardine",
+    "email": "sjardine@growthpoint.co.za",
+    "position": "Head of Legal"
+  },
+  {
+    "company_name": "",
+    "name": "Desiree Batchelor",
+    "email": "dbatchelor@growthpoint.co.za",
+    "position": "Assistant Asset Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Rhidwaan Gasant",
+    "email": "rhidwaangasant@growthpoint.co.za",
+    "position": "Chairman"
+  },
+  {
+    "company_name": "",
+    "name": "Tanya Jacobs",
+    "email": "tanya.jacobs@excelleratejhi.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Javier Barragan",
+    "email": "javier.barragan@excelleratejhi.com",
+    "position": "Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Brian Vuuren",
+    "email": "brian.vuuren@excelleratejhi.com",
+    "position": "Head of Valuations"
+  },
+  {
+    "company_name": "",
+    "name": "Ian Telford",
+    "email": "ian.telford@excelleratejhi.com",
+    "position": "Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Rudolf Nieman",
+    "email": "rudolf.nieman@excelleratejhi.com",
+    "position": "Director of Projects and Facilities"
+  },
+  {
+    "company_name": "",
+    "name": "Leonard Hill",
+    "email": "leonard.hill@excelleratejhi.com",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "Mandy Jackson",
+    "email": "mandy.jackson@excelleratejhi.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Martie Vermeulen",
+    "email": "martie.vermeulen@excelleratejhi.com",
+    "position": "Portfolio Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Akash Maharaj",
+    "email": "akash.maharaj@excelleratejhi.com",
+    "position": "Director of Property"
+  },
+  {
+    "company_name": "",
+    "name": "Michelle Vermeulen",
+    "email": "michelle.vermeulen@excelleratejhi.com",
+    "position": "Portfolio Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Zubeida Endreinie",
+    "email": "zendreinie@broll.com",
+    "position": "Head of Support"
+  },
+  {
+    "company_name": "",
+    "name": "Suzie Zulu",
+    "email": "szulu@broll.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Jonathan Broll",
+    "email": "jbroll@broll.com",
+    "position": "Chairman"
+  },
+  {
+    "company_name": "",
+    "name": "Fran Teagle",
+    "email": "fteagle@broll.com",
+    "position": "Director of Commercial Brokerage"
+  },
+  {
+    "company_name": "",
+    "name": "Sandra Kruger",
+    "email": "skruger@broll.com",
+    "position": "Divisional Director"
+  },
+  {
+    "company_name": "",
+    "name": "Surine Griffin",
+    "email": "sgriffin@broll.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Jacques Mostert",
+    "email": "jmostert@broll.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Boichoko Qwabe",
+    "email": "bqwabe@broll.com",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "",
+    "name": "David Alcock",
+    "email": "dalcock@broll.com",
+    "position": "Director of International Transactions"
+  },
+  {
+    "company_name": "",
+    "name": "Noleen Feddern",
+    "email": "nfeddern@broll.com",
+    "position": "Divisional Director of Human Resources"
+  },
+  {
+    "company_name": "",
+    "name": "Petro-Ann Beukes",
+    "email": "petro-ann.beukes@pamgolding.co.za",
+    "position": "Head of Human Resources"
+  },
+  {
+    "company_name": "",
+    "name": "Veronica Cope",
+    "email": "veronica.cope@pamgolding.co.za",
+    "position": "Property Consultant"
+  },
+  {
+    "company_name": "",
+    "name": "Keimpe Weistra",
+    "email": "keimpe.weistra@pamgolding.co.za",
+    "position": "Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Anna Davis",
+    "email": "anna.davis@pamgolding.co.za",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Michelle Keegan",
+    "email": "michelle.keegan@pamgolding.co.za",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "",
+    "name": "Adriana Botha",
+    "email": "adriana.botha@pamgolding.co.za",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Ayesha Parker",
+    "email": "ayesha.parker@pamgolding.co.za",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Farrah Williamson",
+    "email": "farrah.williamson@pamgolding.co.za",
+    "position": "Franchise Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Belinda Barkas",
+    "email": "belinda.barkas@pamgolding.co.za",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jacky Samuels",
+    "email": "jacky.samuels@pamgolding.co.za",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Beverley Gaul",
+    "email": "bev.gaul@seeff.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Shubham Said",
+    "email": "joan.ridl@seeff.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "James Lewis",
+    "email": "james.lewis@seeff.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Ted Frazer",
+    "email": "ted.frazer@seeff.com",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Jessica Marais",
+    "email": "jessica.marais@seeff.com",
+    "position": "Director of Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Michele Wilson",
+    "email": "michelewilson@seeff.com",
+    "position": "Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Gail Rimbault",
+    "email": "gail.rimbault@seeff.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Madelein Booth",
+    "email": "madelein.booth@seeff.com",
+    "position": "Property Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Reena Cassim",
+    "email": "reena.cassim@seeff.com",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "",
+    "name": "Allison Oosthuizen",
+    "email": "allison.oosthuizen@seeff.com",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "",
+    "name": "Sizwe Mlangeni",
+    "email": "sizwe.mlangeni@rawson.co.za",
+    "position": "Sales Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Isabel Hart",
+    "email": "isabel.hart@rawson.co.za",
+    "position": "Rental Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Ian Gooden",
+    "email": "ian.gooden@rawson.co.za",
+    "position": "Sales Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Sarah Kinnear",
+    "email": "sarah.kinnear@rawson.co.za",
+    "position": "Franchise Director"
+  },
+  {
+    "company_name": "",
+    "name": "Samantha Wagenaar",
+    "email": "samantha.wagenaar@rawson.co.za",
+    "position": "Franchise Owner"
+  },
+  {
+    "company_name": "",
+    "name": "Mark Riley",
+    "email": "mark.riley@rawson.co.za",
+    "position": "Sales Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Samuel Moeketsi",
+    "email": "samuel.moeketsi@rawson.co.za",
+    "position": "Sales Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Shane Stuurman",
+    "email": "shane.stuurman@rawson.co.za",
+    "position": "Sales Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Karen Petersen",
+    "email": "karen.petersen@rawson.co.za",
+    "position": "Sales Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Stuart Paterson",
+    "email": "stuart.paterson@rawson.co.za",
+    "position": "Sales Partner"
+  },
+  {
+    "company_name": "",
+    "name": "Graeme Visagie",
+    "email": "graeme@steyncity.co.za",
+    "position": "Chief Project Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Zoe Onselen",
+    "email": "zoe@steyncity.co.za",
+    "position": "Head of Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Isabeau King",
+    "email": "isabeau@steyncity.co.za",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Jurie Steyn",
+    "email": "jurie@steyncity.co.za",
+    "position": "Director of Health and Safety"
+  },
+  {
+    "company_name": "",
+    "name": "Kevin Greef",
+    "email": "keving@steyncity.co.za",
+    "position": "Head of IT Operations"
+  },
+  {
+    "company_name": "",
+    "name": "Steven Louw",
+    "email": "steven@steyncity.co.za",
+    "position": "CEO"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "pienaar@steyncity.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sales@steyncity.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "ccsales@steyncity.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "richard@steyncity.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Eugene Botha",
+    "email": "eugene.botha@valdevie.co.za",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Martin Venter",
+    "email": "martin.venter@valdevie.co.za",
+    "position": "Chairman"
+  },
+  {
+    "company_name": "",
+    "name": "Ryk Neethling",
+    "email": "ryk.neethling@valdevie.co.za",
+    "position": "Marketing Director"
+  },
+  {
+    "company_name": "",
+    "name": "Aletia Oosthuizen",
+    "email": "aletia.oosthuizen@valdevie.co.za",
+    "position": "Customer Success Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Daniel Saaiman",
+    "email": "daniel.saaiman@valdevie.co.za",
+    "position": "Media Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Lindie Gaigher",
+    "email": "lindie.gaigher@valdevie.co.za",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "",
+    "name": "An\u00e9 Smit",
+    "email": "ane.smit@valdevie.co.za",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "",
+    "name": "Marius Herselman",
+    "email": "marius.herselman@valdevie.co.za",
+    "position": "Security Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Celine Haarhoff",
+    "email": "celine.haarhoff@valdevie.co.za",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "company_name": "",
+    "name": "Amy Capendale",
+    "email": "amy.capendale@valdevie.co.za",
+    "position": "Digital Marketing Manager"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@waterfallcity.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "competitions@waterfallcity.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "eugener@fancourt.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "festiveseason@fancourt.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Jenny Oberlander",
+    "email": "jennyo@fancourt.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "golfreservations@fancourt.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "reservations@fancourt.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "golf@fancourt.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "hotel@fancourt.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "sharonm@fancourt.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "monets@fancourt.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "thelinks@fancourt.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@welovekruger.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "res@welovekruger.com",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Tara Engelbrecht",
+    "email": "tara@centurycity.co.za",
+    "position": "Head of Marketing"
+  },
+  {
+    "company_name": "",
+    "name": "Louise Roubaix",
+    "email": "louise@centurycity.co.za",
+    "position": "Director of Environmental Services"
+  },
+  {
+    "company_name": "",
+    "name": "Marinus Boshoff",
+    "email": "marinus@centurycity.co.za",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Gordon Ralph",
+    "email": "gordon@centurycity.co.za",
+    "position": "Chief Operating Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Kelly Mutizira",
+    "email": "kelly@centurycity.co.za",
+    "position": "Social Media Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Junaid Omar",
+    "email": "junaid@centurycity.co.za",
+    "position": "Graphic Designer"
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "chris@centurycity.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Tatum Liebenberg",
+    "email": "tatum@centurycity.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Bianca Liebenberg",
+    "email": "bianca@centurycity.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "None None",
+    "email": "info@centurycity.co.za",
+    "position": null
+  },
+  {
+    "company_name": "",
+    "name": "Andre Blaine",
+    "email": "ablaine@waterfront.co.za",
+    "position": "Marine and Industrial Executive"
+  },
+  {
+    "company_name": "",
+    "name": "David Green",
+    "email": "dgreen@waterfront.co.za",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Renee Dente",
+    "email": "rdente@waterfront.co.za",
+    "position": "Corporate Services Executive"
+  },
+  {
+    "company_name": "",
+    "name": "Leigh Thomas",
+    "email": "lthomas@waterfront.co.za",
+    "position": "Executive Director"
+  },
+  {
+    "company_name": "",
+    "name": "Shireen Klaasen",
+    "email": "sklaasen@waterfront.co.za",
+    "position": "Wellness Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Henry Mathys",
+    "email": "hmathys@waterfront.co.za",
+    "position": "Program Manager"
+  },
+  {
+    "company_name": "",
+    "name": "Barbara Southworth",
+    "email": "bsouthworth@waterfront.co.za",
+    "position": "Director"
+  },
+  {
+    "company_name": "",
+    "name": "Usaamah Adams",
+    "email": "uadams@waterfront.co.za",
+    "position": "Chief Revenue Officer"
+  },
+  {
+    "company_name": "",
+    "name": "Tabita Viljoen",
+    "email": "tviljoen@waterfront.co.za",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "",
+    "name": "Zulaygah Hendricks",
+    "email": "zhendricks@waterfront.co.za",
+    "position": "Marketing Executive"
+  }
+]

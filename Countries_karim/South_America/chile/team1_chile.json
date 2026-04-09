@@ -1,0 +1,72 @@
+ [
+    {
+      "name": "REMAX First Propiedades",
+      "website": "https://www.remax-first.cl",
+      "phone_number": "+56 2 2929 3314",
+      "address": "Carlos Antunez 2172, Providencia, Región Metropolitana, Chile",
+      "email": "contacto@remax-first.cl"
+    },
+    {
+      "name": "Grupo Premium Propiedades",
+      "website": "https://www.grupopremium.cl/",
+      "phone_number": "+562 2725 5000",
+      "address": " Av. Luis Thayer Ojeda 1039, 7510301 Providencia, Región Metropolitana, Chile",
+      "email": "info@gpremium.cl"
+    },
+    {
+      "name": "RE/MAX Chile",
+      "website": "https://www.remax.cl/",
+      "address": "Alonso de Córdova 5151, Oficina 1103, 7560873 Las Condes, Región Metropolitana, Chile",
+      "email": null,
+      "phone_number": "+56 2 2730 9800"
+    },
+    {
+      "name": "RE/MAX Exclusive",
+      "website": "https://remax-exclusive.cl/",
+      "phone_number": "+56232354289",
+      "address": "Dr. Carlos Charlin 1539, Providencia, Región Metropolitana, Chile",
+      "email": "info@remax-exclusive.cl"
+    },
+    {
+      "name": "Homeurbano Chile",
+      "website": "https://www.homeurbano.com/",
+      "address": "Avenida Nueva Providencia, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+      "email": "info@homeurbano.com",
+      "phone_number": "+56 2 2588 2010"
+    },
+    {
+      "name": "Chile Sotheby's International Realty",
+      "website": "https://www.sothebysrealty.com/eng/office/180-b-82853-20078364/chile-sothebys-international-realty",
+      "address": "Alonso de Córdova 3827, Floor 6, Santiago, Región Metropolitana de Santiago, Chile",
+      "email": null,
+      "phone_number": "+56232244491"
+    },
+    {
+      "name": "Home Solutions Chile SpA",
+      "website": "https://www.homesolutionschile.cl/",
+      "address": "Av. Apoquindo 6410, Oficina 212, 7560903 Las Condes, Región Metropolitana, Chile",
+      "email": "info@homesolutionschile.cl",
+      "phone_number": "+56956431950"
+    },
+    {
+      "name": "Cushman & Wakefield Chile",
+      "website": "https://www.cushmanwakefield.com/en/chile/offices/santiago?utm_source=google&utm_medium=organic&utm_campaign=gmb_uberall_CHIL001",
+      "address": "Los Militares 4777, 17th floor, 7560968 Las Condes, Región Metropolitana, Chile,",
+      "email": null,
+      "phone_number": " +56 2 3253 9600"
+    },
+    {
+      "name": "Broker And Partner. Real Estate.",
+      "website": "https://ppartnersgroup.com/en-cl/sobre-nosotros/",
+      "address": "Los Trapenses 3071, Lo Barnechea, Chile",
+      "email": "infochile@ppartnersgroup.com",
+      "phone_number": "+ 56 2 2495 4444"
+    },
+    {
+      "name": "Agente inmobiliario en Santiago de Chile| Kathy Arroyo| Venta de propiedades",
+      "website": "https://www.remax-signature.cl/agente/kathy-arroyo/",
+      "address": "Augusto Leguía Sur 128, Las Condes, RM, Chile",
+      "email": "contacto@remax-signature.cl",
+      "phone_number": "+56 232517355"
+    }
+  ]

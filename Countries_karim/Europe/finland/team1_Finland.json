@@ -1,0 +1,72 @@
+ [
+    {
+      "name": "Snellman Sotheby's International Realty",
+      "website": "https://sothebysrealty.fi/",
+      "address": "Eteläesplanadi 20, 00130 Helsinki, Finland",
+      "email": "info@sothebysrealty.fi",
+      "phone_number": "+358 (0)10 315 6900"
+    },
+    {
+      "name": "RE/MAX Classic I Sun Housing Oy",
+      "website": "http://www.remax-classic.fi/",
+      "address": "Fredrikinkatu 61, 00100 Helsinki, Finland",
+      "email": "classic@remax.fi",
+      "phone_number": "+358 50 5550899"
+    },
+    {
+      "name": "Kiinteistömaailma Espoo Leppävaara Läkkitori",
+      "website": "https://www.kiinteistomaailma.fi/kiinteistonvalitys/espoo/leppavaara-lakkitori",
+      "address": "Läkkitori 3, 02650 Espoo, Finland",
+      "email": "espoo.leppavaara@kiinteistomaailma.fi",
+      "phone_number": "+358 9 8545 4400"
+    },
+    {
+      "name": "Petri Vauramo - Kiinteistönvälittäjä Helsinki",
+      "website": "https://petrivauramo.fi/",
+      "address": "PETRI VAURAMO LKV Erottajankatu 9 A",
+      "email": "petri@petrivauramo.fi",
+      "phone_number": "+358505346464"
+    },
+    {
+      "name": "Habita kiinteistönvälitys Helsinki",
+      "website": "https://www.habita.com/toimipiste/62/Habita-Helsinki",
+      "address": "Annankatu 27, 00100 Helsinki, Finland (Head Office)",
+      "email": "helsinki@habita.com",
+      "phone_number": "010 585 5420"
+    },
+    {
+      "name": "ML Real Estate Oy",
+      "website": "https://mlrealestate.fi/",
+      "address": "Erottajankatu 11 A 1, 00130 Helsinki, Finland",
+      "email": "info@mlrealestate.fi",
+      "phone_number": "+358 50 357 0210"
+    },
+    {
+      "name": "Cushman & Wakefield",
+      "website": "https://www.cushmanwakefield.com/en/finland",
+      "address": "Mannerheiminaukio 1 A, 00100 Helsinki, Finland",
+      "email": null,
+      "phone_number": "+358 10 8368400"
+    },
+    {
+      "name": "M7 Real Estate Finland Oy",
+      "website": "https://www.m7re.eu/regions/nordics/finland/",
+      "address": "Unioninkatu 22, 00130 Helsinki, Finland",
+      "email": "info@m7re.eu",
+      "phone_number": "+44 20 3657 5500"
+    },
+    {
+      "name": "Kiinteistömaailma Espoo Leppävaara Läkkitor",
+      "website": "https://www.kiinteistomaailma.fi/espoo-leppavaara-lakkitori",
+      "address": "Mannerheiminaukio 1 A, 00100 Helsinki, Finland",
+      "email": "leppavaara.lakkitori @ realestateworld.fi",
+      "phone_number": "09 23110307"
+    },
+    {
+      "name": "Rake Oy",
+      "website": "https://rake.fi/",
+      "address": "Mannerheimintie 12 B, 00100 Helsinki, Finland (one of their Helsinki offices)",
+      "email": "kenneth.cederberg@rake.fi",
+      "phone_number": "+358 40 750 2959"
+    }
+  ]

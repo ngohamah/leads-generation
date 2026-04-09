@@ -1,0 +1,188 @@
+{
+  "real_estate_professionals_senegal": {
+    "data_collection_date": "2025-07-26",
+    "total_professionals_found": 6,
+    "total_companies_analyzed": 7,
+    "professionals": [
+      {
+        "full_name": "Benjamin Faye",
+        "position": "Managing Director",
+        "company": "Habita Dakar",
+        "qualifications": "Habita Licensed Real Estate Agent",
+        "country": "Senegal",
+        "contact_information": {
+          "company_phone": "+221 77 853 82 45",
+          "company_email": "dakar@habita.com",
+          "company_address": "N°66 cité Ucad 3Tivaoune Peulh, Keur Massar"
+        },
+        "expertise": "Real estate agency management, property sales and rentals"
+      },
+      {
+        "full_name": "Tania Diatta",
+        "position": "Sales Representative",
+        "company": "Habita Dakar",
+        "country": "Senegal",
+        "contact_information": {
+          "company_phone": "+221 77 853 82 45",
+          "company_email": "dakar@habita.com",
+          "company_address": "N°66 cité Ucad 3Tivaoune Peulh, Keur Massar"
+        },
+        "expertise": "Real estate sales"
+      },
+      {
+        "full_name": "Adja SAKHO",
+        "position": "Agent",
+        "company": "AL KAWTHAR Immo (associated with Habita)",
+        "phone": "+221 77 644 91 53",
+        "email": "secretariatalkawthar@gmail.com",
+        "country": "Senegal",
+        "expertise": "Luxury real estate, consulting, guidance, construction, rental management, decoration, design, financial engineering, legal consulting, banking law, corporate law",
+        "education": "Over 20 years experience in Africa in financial engineering, legal consulting, banking law, and corporate law. Former banking sector professional",
+        "company_description": "AL KAWTHAR Immo aims to become a leader in luxury real estate through products synonymous with excellence and refinement"
+      },
+      {
+        "full_name": "Nicolas Craveiro",
+        "position": "Founder/Owner",
+        "company": "Agence Keur-immo",
+        "phone": "+221 77 151 79 47",
+        "email": "keurimmosenegal@gmail.com",
+        "country": "Senegal",
+        "contact_information": {
+          "address": "Dakar, Almadies, Sénégal"
+        },
+        "expertise": "Real estate sales, rentals, digital marketing, property photography, virtual tours, social media management",
+        "education": "French real estate experience with Stéphane Plazza Immo",
+        "experience": "25+ years in Senegal",
+        "company_philosophy": "Novateur avec du cœur (Innovative with heart), focus on digital transformation of Senegal real estate market",
+        "testimonials": "Excellent accueil, très professionnelle satisfaction totale. - Mr Ndour, Agent, Dcom-Groupe"
+      },
+      {
+        "full_name": "Madame NDIAYE",
+        "position": "Manager/Director",
+        "company": "Indépendance Immobilière Gestion",
+        "phone": "+221 33 823 39 30",
+        "email": "contact@independance-immobiliere.net",
+        "country": "Senegal",
+        "contact_information": {
+          "address": "Av. Fadiga, Immeuble Lahad Mbacké Dakar"
+        },
+        "expertise": "Gestion locative, gestion d'immeubles, location à usage d'habitation ou professionnel, vente/achat de biens immobiliers, syndic de copropriété, conseil en investissements",
+        "team_size": "Manages team of 20 collaborators",
+        "company_experience": "45+ years in Senegal (company founded 1974)",
+        "properties_managed": "500",
+        "clients": "1200"
+      },
+      {
+        "full_name": "Madame CARRERE",
+        "position": "Former Director",
+        "company": "Indépendance Immobilière",
+        "country": "Senegal",
+        "expertise": "Real estate agency management (historical leadership)"
+      }
+    ],
+    "companies_analyzed": [
+      {
+        "company_name": "Soungho Immobilier",
+        "website": "https://sounghoimmobilier.com/",
+        "phone": "+221 77 350 77 87",
+        "email": "soungho.immo@gmail.com",
+        "address": "ALMADIES VILLA PARCELLE 7 ZONE 9 DAKAR",
+        "country": "Senegal",
+        "services": "Property rental, sales, real estate investment, property management",
+        "individual_professionals_found": false
+      },
+      {
+        "company_name": "Habita Dakar",
+        "website": "https://www.habita.com/gb/office/91/habita-dakar",
+        "business_id": "SN.DKR.2022.B.33004",
+        "phone": "+221 77 853 82 45",
+        "email": "dakar@habita.com",
+        "address": "N°66 cité Ucad 3Tivaoune Peulh, Keur Massar",
+        "country": "Senegal",
+        "individual_professionals_found": true,
+        "professionals_count": 3
+      },
+      {
+        "company_name": "Agence Immobilière Angel",
+        "website": "https://agenceimmobiliereangel.com/",
+        "phone": "+221776313024",
+        "address": "21 Av. Jean Jaures, Dakar, Sénégal",
+        "country": "Senegal",
+        "team_size": "60 professionals in network",
+        "services": "Locations, gérances, ventes, travaux de remise en état, évaluations, conseil juridique, gestion fiscale, études financières",
+        "individual_professionals_found": false
+      },
+      {
+        "company_name": "Mon Agent Immobilier",
+        "website": "https://monagentimmo.net/en/",
+        "phone": "+221 77 765 99 71, +221 33 820 37 20",
+        "address": "27 Voie de degagement N, Dakar 12500",
+        "country": "Senegal",
+        "locations": "Dakar, Abidjan, Dar es Salaam",
+        "individual_professionals_found": false
+      },
+      {
+        "company_name": "3H Immobilier",
+        "website": "https://3h-immobilier.com/",
+        "phone": "+221 78 639 16 16, +221 33 889 85 85",
+        "email": "contact@3h-immobilier.com",
+        "location": "Dakar (centre-ville)",
+        "country": "Senegal",
+        "specialization": "Agence immobilière haut-de-gamme (high-end real estate agency)",
+        "individual_professionals_found": false
+      },
+      {
+        "company_name": "Keur Immo",
+        "website": "https://www.keur-immo-senegal.com/",
+        "phone": "+221 77 151 79 47",
+        "email": "keurimmosenegal@gmail.com",
+        "location": "Dakar, Almadies, Sénégal",
+        "country": "Senegal",
+        "individual_professionals_found": true,
+        "professionals_count": 1
+      },
+      {
+        "company_name": "Gueye Real Estate (GRE)",
+        "website": "https://gueyerealestate.com/wps/",
+        "phone": "+221 33 825 75 38, +221 77 287 81 27",
+        "email": "contact@gueyerealestate.com",
+        "address": "Rue 1 x Rue de Ziguinchor, Point E, Dakar",
+        "country": "Senegal",
+        "experience": "27 years in real estate",
+        "achievements": "50+ completed projects",
+        "individual_professionals_found": false
+      },
+      {
+        "company_name": "Indépendance Immobilière Gestion",
+        "website": "https://independance-immobiliere.net/",
+        "phone": "+221 33 823 39 30",
+        "email": "contact@independance-immobiliere.net",
+        "address": "Av. Fadiga, Immeuble Lahad Mbacké Dakar",
+        "country": "Senegal",
+        "founded": "1974",
+        "team_size": "20 collaborators",
+        "experience": "45+ years in Senegal",
+        "individual_professionals_found": true,
+        "professionals_count": 2
+      }
+    ],
+    "data_collection_notes": {
+      "methodology": "Browsed provided websites to extract real estate professional information",
+      "data_completeness": "Only available data included as requested - missing information excluded",
+      "focus_areas": [
+        "Corporate Real Estate Management",
+        "Real Estate investment", 
+        "Real estate law",
+        "Real estate management",
+        "Real estate development",
+        "Property management",
+        "Real estate appraisal",
+        "Real estate marketing",
+        "Real estate agent",
+        "Real estate brokerage"
+      ],
+      "limitations": "Some websites did not provide individual professional profiles, only company information"
+    }
+  }
+}
+

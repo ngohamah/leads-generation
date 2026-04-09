@@ -1,0 +1,896 @@
+[
+  {
+    "company_name": "Savills Luxembourg",
+    "name": "Benjamin Alloo",
+    "email": "benjamin.alloo@savills.lu",
+    "position": "Director of Design and Construction"
+  },
+  {
+    "company_name": "Savills Luxembourg",
+    "name": "R\u00e9gis Luttmann",
+    "email": "regis.luttmann@savills.lu",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Savills Luxembourg",
+    "name": "Emmanuel Charlier",
+    "email": "emmanuel.charlier@savills.lu",
+    "position": "Agency Director"
+  },
+  {
+    "company_name": "Savills Luxembourg",
+    "name": "None None",
+    "email": "ehimbert@savills.lu",
+    "position": null
+  },
+  {
+    "company_name": "Savills Luxembourg",
+    "name": "None None",
+    "email": "info@savills.lu",
+    "position": null
+  },
+  {
+    "company_name": "Savills Luxembourg",
+    "name": "None None",
+    "email": "sleblon@savills.lu",
+    "position": null
+  },
+  {
+    "company_name": "Savills Luxembourg",
+    "name": "None None",
+    "email": "agency@savills.lu",
+    "position": null
+  },
+  {
+    "company_name": "ELLE REAL ESTATE",
+    "name": "Laura L\u00e9gier",
+    "email": "laura.legier@ellerealestate.lu",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "ELLE REAL ESTATE",
+    "name": "None None",
+    "email": "contact@ellerealestate.lu",
+    "position": null
+  },
+  {
+    "company_name": "ELLE REAL ESTATE",
+    "name": "None None",
+    "email": "ekaterina.leontyeva@ellerealestate.lu",
+    "position": null
+  },
+  {
+    "company_name": "RE/MAX Luxembourg",
+    "name": "Sylvie Jacques",
+    "email": "sylvie.jacques@remax.lu",
+    "position": "Director"
+  },
+  {
+    "company_name": "RE/MAX Luxembourg",
+    "name": "Benjamin Bauquin",
+    "email": "benjamin.bauquin@remax.lu",
+    "position": "Country Manager"
+  },
+  {
+    "company_name": "RE/MAX Luxembourg",
+    "name": "Jonathan Forrett",
+    "email": "jonathan.forrett@remax.lu",
+    "position": "Real Estate Manager"
+  },
+  {
+    "company_name": "RE/MAX Luxembourg",
+    "name": "Elise Fringand",
+    "email": "elise.fringand@remax.lu",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "RE/MAX Luxembourg",
+    "name": "Celine Kreder",
+    "email": "celine.kreder@remax.lu",
+    "position": null
+  },
+  {
+    "company_name": "RE/MAX Luxembourg",
+    "name": "Mohamed Madi",
+    "email": "mohamed.madi@remax.lu",
+    "position": null
+  },
+  {
+    "company_name": "RE/MAX Luxembourg",
+    "name": "Samina Firdous",
+    "email": "samina.firdous@remax.lu",
+    "position": null
+  },
+  {
+    "company_name": "RE/MAX Luxembourg",
+    "name": "None None",
+    "email": "celine.marmier@remax.lu",
+    "position": null
+  },
+  {
+    "company_name": "RE/MAX Luxembourg",
+    "name": "None None",
+    "email": "magali.engelaere@remax.lu",
+    "position": null
+  },
+  {
+    "company_name": "RE/MAX Luxembourg",
+    "name": "Tim Kramp",
+    "email": "tim.kramp@remax.lu",
+    "position": null
+  },
+  {
+    "company_name": "Property Invest",
+    "name": "Geoffrey Depre",
+    "email": "g.depre@propertyinvest.lu",
+    "position": "Real Estate Negotiator"
+  },
+  {
+    "company_name": "Property Invest",
+    "name": "Julie Ochs",
+    "email": "j.ochs@propertyinvest.lu",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "Property Invest",
+    "name": "Jeff Haas",
+    "email": "j.haas@propertyinvest.lu",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Property Invest",
+    "name": "None None",
+    "email": "s.faber@propertyinvest.lu",
+    "position": null
+  },
+  {
+    "company_name": "Property Invest",
+    "name": "None None",
+    "email": "a.degroote@propertyinvest.lu",
+    "position": null
+  },
+  {
+    "company_name": "Property Invest",
+    "name": "None None",
+    "email": "m.mondloch@propertyinvest.lu",
+    "position": null
+  },
+  {
+    "company_name": "Property Invest",
+    "name": "None None",
+    "email": "b.michaux@propertyinvest.lu",
+    "position": null
+  },
+  {
+    "company_name": "Property Invest",
+    "name": "None None",
+    "email": "c.strens@propertyinvest.lu",
+    "position": null
+  },
+  {
+    "company_name": "Property Invest",
+    "name": "None None",
+    "email": "l.salis@propertyinvest.lu",
+    "position": null
+  },
+  {
+    "company_name": "Property Invest",
+    "name": "None None",
+    "email": "f.apolinario@propertyinvest.lu",
+    "position": null
+  },
+  {
+    "company_name": "DSM Avocats \u00e0 la Cour",
+    "name": "Mario Stefano",
+    "email": "mstefano@dsm.legal",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "DSM Avocats \u00e0 la Cour",
+    "name": "Pascaline Kennedy",
+    "email": "pkennedy@dsm.legal",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "DSM Avocats \u00e0 la Cour",
+    "name": "Marie-Paule Gillen",
+    "email": "mgillen@dsm.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "DSM Avocats \u00e0 la Cour",
+    "name": "Alban Colson",
+    "email": "acolson@dsm.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "DSM Avocats \u00e0 la Cour",
+    "name": "Jean-Philippe Fran\u00e7ois",
+    "email": "jfrancois@dsm.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "DSM Avocats \u00e0 la Cour",
+    "name": "Renaud Squeren",
+    "email": "rsqueren@dsm.legal",
+    "position": "Partner"
+  },
+  {
+    "company_name": "DSM Avocats \u00e0 la Cour",
+    "name": "Maxime Cuche",
+    "email": "mcuche@dsm.legal",
+    "position": "Marketing Manager"
+  },
+  {
+    "company_name": "DSM Avocats \u00e0 la Cour",
+    "name": "Alex Pham",
+    "email": "apham@dsm.legal",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "DSM Avocats \u00e0 la Cour",
+    "name": "None None",
+    "email": "mdistefano@dsm.legal",
+    "position": null
+  },
+  {
+    "company_name": "DSM Avocats \u00e0 la Cour",
+    "name": "None None",
+    "email": "contact@dsm.legal",
+    "position": null
+  },
+  {
+    "company_name": "Arens Real Estate Management",
+    "name": "Fran\u00e7ois Arens",
+    "email": "francois@arens.lu",
+    "position": "Managing Partner"
+  },
+  {
+    "company_name": "EightySeven (LuxPropTech)",
+    "name": "None None",
+    "email": "idriss@luxproptech.lu",
+    "position": null
+  },
+  {
+    "company_name": "EightySeven (LuxPropTech)",
+    "name": "None None",
+    "email": "christof@luxproptech.lu",
+    "position": null
+  },
+  {
+    "company_name": "EightySeven (LuxPropTech)",
+    "name": "None None",
+    "email": "laurent@luxproptech.lu",
+    "position": null
+  },
+  {
+    "company_name": "EightySeven (LuxPropTech)",
+    "name": "None None",
+    "email": "julia@luxproptech.lu",
+    "position": null
+  },
+  {
+    "company_name": "EightySeven (LuxPropTech)",
+    "name": "None None",
+    "email": "hello@luxproptech.lu",
+    "position": null
+  },
+  {
+    "company_name": "House Brokers Real Estate",
+    "name": "Romain Schanck",
+    "email": "r.schanck@housebrokers.lu",
+    "position": "Real Estate Agent"
+  },
+  {
+    "company_name": "House Brokers Real Estate",
+    "name": "None None",
+    "email": "info@housebrokers.lu",
+    "position": null
+  },
+  {
+    "company_name": "CBRE Luxembourg",
+    "name": "Vincent Loeillet",
+    "email": "vincent@cbre.lu",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "CBRE Luxembourg",
+    "name": "Thomas Durand",
+    "email": "thomas@cbre.lu",
+    "position": "Director of Property Management"
+  },
+  {
+    "company_name": "CBRE Luxembourg",
+    "name": "Frank Rosenbaum",
+    "email": "frank@cbre.lu",
+    "position": "Senior Director of Business Development"
+  },
+  {
+    "company_name": "CBRE Luxembourg",
+    "name": "Petra Sovov\u00e1",
+    "email": "petra@cbre.lu",
+    "position": "HR Business Partner"
+  },
+  {
+    "company_name": "Colliers Luxembourg",
+    "name": "David Edwards",
+    "email": "david.edwards@colliers.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "Colliers Luxembourg",
+    "name": "David Lockwood",
+    "email": "david.lockwood@colliers.com",
+    "position": "President"
+  },
+  {
+    "company_name": "Colliers Luxembourg",
+    "name": "Bryan Johnson",
+    "email": "bryan.t.johnson@colliers.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Colliers Luxembourg",
+    "name": "Dick Ward",
+    "email": "dick.ward@colliers.com",
+    "position": "Senior Vice President"
+  },
+  {
+    "company_name": "Colliers Luxembourg",
+    "name": "Mark Schnoll",
+    "email": "mark.schnoll@colliers.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Colliers Luxembourg",
+    "name": "Emerson Hofer",
+    "email": "emerson.hofer@colliers.com",
+    "position": "President"
+  },
+  {
+    "company_name": "Colliers Luxembourg",
+    "name": "Wilsontuan Tran",
+    "email": "wilsontuan.tran@colliers.com",
+    "position": "Representative Office Head"
+  },
+  {
+    "company_name": "Colliers Luxembourg",
+    "name": "Jyotsna Dobriyal",
+    "email": "j.d@colliers.com",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "Colliers Luxembourg",
+    "name": "Dallas Collier",
+    "email": "collier@colliers.com",
+    "position": "Chief Executive Officer"
+  },
+  {
+    "company_name": "Colliers Luxembourg",
+    "name": "David Nissley",
+    "email": "david.nissley@colliers.com",
+    "position": "Associate"
+  },
+  {
+    "company_name": "JLL Luxembourg",
+    "name": "Stephan Allemann",
+    "email": "stephan.allemann@jll.com",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "JLL Luxembourg",
+    "name": "Karen Lowe",
+    "email": "karen.lowe@jll.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "JLL Luxembourg",
+    "name": "Richard Taylerson",
+    "email": "richard.taylerson@jll.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "JLL Luxembourg",
+    "name": "Avinash Kadam",
+    "email": "avinash.kadam@jll.com",
+    "position": "Facilities Manager"
+  },
+  {
+    "company_name": "JLL Luxembourg",
+    "name": "Steven Post",
+    "email": "steven.post@jll.com",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "JLL Luxembourg",
+    "name": "Ryan Clutter",
+    "email": "ryan.clutter@jll.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "JLL Luxembourg",
+    "name": "Mark Callaghan",
+    "email": "mark.callaghan@jll.com",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "JLL Luxembourg",
+    "name": "Coler Yoakam",
+    "email": "coler.yoakam@jll.com",
+    "position": "Managing Director"
+  },
+  {
+    "company_name": "JLL Luxembourg",
+    "name": "Alain Kunz",
+    "email": "alain.kunz@jll.com",
+    "position": "Vice President"
+  },
+  {
+    "company_name": "JLL Luxembourg",
+    "name": "Nils Donner",
+    "email": "nils.donner@jll.com",
+    "position": "Vice President of Real Estate Valuation"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Luxembourg",
+    "name": "Sergio Martinez",
+    "email": "sergio.martinez@engelvoelkers.com",
+    "position": "Regional Director"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Luxembourg",
+    "name": "Tracy Watts",
+    "email": "tracy.watts@engelvoelkers.com",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Luxembourg",
+    "name": "Andreas B\u00fchler",
+    "email": "andreas.buehler@engelvoelkers.com",
+    "position": "Sales Director"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Luxembourg",
+    "name": "Sean Mcconnon",
+    "email": "sean.mcconnon@engelvoelkers.com",
+    "position": "Vice Chairman"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Luxembourg",
+    "name": "Jose Mier",
+    "email": "jose.mier@engelvoelkers.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Luxembourg",
+    "name": "Gregg Baker",
+    "email": "gregg.baker@engelvoelkers.com",
+    "position": "Real Estate Advisor"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Luxembourg",
+    "name": "Steve Micheletti",
+    "email": "steve.micheletti@engelvoelkers.com",
+    "position": "License Partner"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Luxembourg",
+    "name": "Colleen Holmes",
+    "email": "colleen.holmes@engelvoelkers.com",
+    "position": "Real Estate Broker"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Luxembourg",
+    "name": "Alfonso Casillas",
+    "email": "alfonso.casillas@engelvoelkers.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Engel & V\u00f6lkers Luxembourg",
+    "name": "Alexander Kirchmann",
+    "email": "alexander.kirchmann@engelvoelkers.com",
+    "position": "Director of Sales"
+  },
+  {
+    "company_name": "CM Law",
+    "name": "Rapha\u00ebl Collin",
+    "email": "raphael.collin@cmlaw.lu",
+    "position": "Partner"
+  },
+  {
+    "company_name": "CM Law",
+    "name": "Catherine Graff",
+    "email": "catherine.graff@cmlaw.lu",
+    "position": "Partner"
+  },
+  {
+    "company_name": "CM Law",
+    "name": "Flavien Carbone",
+    "email": "flavien.carbone@cmlaw.lu",
+    "position": "Counsel"
+  },
+  {
+    "company_name": "CM Law",
+    "name": "None None",
+    "email": "info@cmlaw.lu",
+    "position": null
+  },
+  {
+    "company_name": "Eaglestone",
+    "name": "Laurent Lafontaine",
+    "email": "laurent.lafontaine@eaglestone.lu",
+    "position": "Finance Director"
+  },
+  {
+    "company_name": "Eaglestone",
+    "name": "Haydar Samut",
+    "email": "haydar.samut@eaglestone.lu",
+    "position": "Project Director"
+  },
+  {
+    "company_name": "Eaglestone",
+    "name": "Matthieu Leyder",
+    "email": "matthieu.leyder@eaglestone.lu",
+    "position": "Head of Design"
+  },
+  {
+    "company_name": "Eaglestone",
+    "name": "Gis\u00e8le Lippolis",
+    "email": "gisele.lippolis@eaglestone.lu",
+    "position": "Residential Sales Manager"
+  },
+  {
+    "company_name": "Eaglestone",
+    "name": "Nicolas Orts",
+    "email": "nicolas.orts@eaglestone.lu",
+    "position": null
+  },
+  {
+    "company_name": "Eaglestone",
+    "name": "None None",
+    "email": "info@eaglestone.lu",
+    "position": null
+  },
+  {
+    "company_name": "Eaglestone",
+    "name": "None None",
+    "email": "sales@eaglestone.lu",
+    "position": null
+  },
+  {
+    "company_name": "STRABAG Real Estate",
+    "name": "None None",
+    "email": "vertrieb@strabag-real-estate.com",
+    "position": null
+  },
+  {
+    "company_name": "Paul Reinig",
+    "name": "Andreia Marques",
+    "email": "andreia.marques@reinig.lu",
+    "position": null
+  },
+  {
+    "company_name": "Paul Reinig",
+    "name": "None None",
+    "email": "info@reinig.lu",
+    "position": null
+  },
+  {
+    "company_name": "Paul Reinig",
+    "name": "None None",
+    "email": "gerances@reinig.lu",
+    "position": null
+  },
+  {
+    "company_name": "VaubanFort",
+    "name": "None None",
+    "email": "info@vaubanfort.lu",
+    "position": null
+  },
+  {
+    "company_name": "VaubanFort",
+    "name": "None None",
+    "email": "recruitment@vaubanfort.lu",
+    "position": null
+  },
+  {
+    "company_name": "ING Luxembourg Real Estate Finance",
+    "name": "Barbara Daroca",
+    "email": "barbara.daroca@ing.lu",
+    "position": null
+  },
+  {
+    "company_name": "ING Luxembourg Real Estate Finance",
+    "name": "Magali Duval",
+    "email": "magali.duval@ing.lu",
+    "position": null
+  },
+  {
+    "company_name": "ING Luxembourg Real Estate Finance",
+    "name": "Laurent Tresch",
+    "email": "laurent.tresch@ing.lu",
+    "position": null
+  },
+  {
+    "company_name": "ING Luxembourg Real Estate Finance",
+    "name": "None None",
+    "email": "yves.denasi@ing.lu",
+    "position": null
+  },
+  {
+    "company_name": "ING Luxembourg Real Estate Finance",
+    "name": "Alain Michel",
+    "email": "alain.michel@ing.lu",
+    "position": null
+  },
+  {
+    "company_name": "ING Luxembourg Real Estate Finance",
+    "name": "None None",
+    "email": "contactcenter@ing.lu",
+    "position": null
+  },
+  {
+    "company_name": "ING Luxembourg Real Estate Finance",
+    "name": "None None",
+    "email": "customercare@ing.lu",
+    "position": null
+  },
+  {
+    "company_name": "ING Luxembourg Real Estate Finance",
+    "name": "None None",
+    "email": "ingrid.ballesca@ing.lu",
+    "position": null
+  },
+  {
+    "company_name": "ING Luxembourg Real Estate Finance",
+    "name": "None None",
+    "email": "company@ing.lu",
+    "position": null
+  },
+  {
+    "company_name": "ING Luxembourg Real Estate Finance",
+    "name": "None None",
+    "email": "valerie.frenoy@ing.lu",
+    "position": null
+  },
+  {
+    "company_name": "BGL BNP Paribas Real Estate",
+    "name": "S\u00e9verine Campagne",
+    "email": "severine.campagne@bgl.lu",
+    "position": "ECPM Director"
+  },
+  {
+    "company_name": "BGL BNP Paribas Real Estate",
+    "name": "Vincent Carlier",
+    "email": "vincent.carlier@bgl.lu",
+    "position": "Deputy Chief Procurement Officer"
+  },
+  {
+    "company_name": "BGL BNP Paribas Real Estate",
+    "name": "Olivier Thiry",
+    "email": "olivier.thiry@bgl.lu",
+    "position": "Chief Internal Auditor"
+  },
+  {
+    "company_name": "BGL BNP Paribas Real Estate",
+    "name": "Charlotte Lucas",
+    "email": "charlotte.lucas@bgl.lu",
+    "position": "Head of Credit Structuring"
+  },
+  {
+    "company_name": "BGL BNP Paribas Real Estate",
+    "name": "David Simon",
+    "email": "david.simon@bgl.lu",
+    "position": "Head of Risk"
+  },
+  {
+    "company_name": "BGL BNP Paribas Real Estate",
+    "name": "Laurent Jansen",
+    "email": "laurent.jansen@bgl.lu",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "BGL BNP Paribas Real Estate",
+    "name": "Yves Nosbusch",
+    "email": "yves.nosbusch@bgl.lu",
+    "position": "Chief Economist"
+  },
+  {
+    "company_name": "BGL BNP Paribas Real Estate",
+    "name": "Elo\u00efse Baret",
+    "email": "eloise.baret@bgl.lu",
+    "position": "Head of Risk"
+  },
+  {
+    "company_name": "BGL BNP Paribas Real Estate",
+    "name": "Alain Wies",
+    "email": "alain.wies@bgl.lu",
+    "position": "Product Owner"
+  },
+  {
+    "company_name": "BGL BNP Paribas Real Estate",
+    "name": "Laurent Pesce",
+    "email": "laurent.pesce@bgl.lu",
+    "position": "Business Partner"
+  },
+  {
+    "company_name": "PwC Luxembourg Real Estate",
+    "name": "Alix Altenor",
+    "email": "alix.altenor@pwc.lu",
+    "position": "Director"
+  },
+  {
+    "company_name": "PwC Luxembourg Real Estate",
+    "name": "Kacy Mann",
+    "email": "kacy.mann@pwc.lu",
+    "position": "Executive Assistant"
+  },
+  {
+    "company_name": "PwC Luxembourg Real Estate",
+    "name": "Dajana Damjanovic",
+    "email": "dajana.damjanovic@pwc.lu",
+    "position": "Senior Manager of Partner Development"
+  },
+  {
+    "company_name": "PwC Luxembourg Real Estate",
+    "name": "Iryna Matsukevich",
+    "email": "iryna.matsukevich@pwc.lu",
+    "position": "Tax Partner"
+  },
+  {
+    "company_name": "PwC Luxembourg Real Estate",
+    "name": "Caroline Choquet",
+    "email": "caroline.choquet@pwc.lu",
+    "position": "Partner"
+  },
+  {
+    "company_name": "PwC Luxembourg Real Estate",
+    "name": "Robin Bernard",
+    "email": "robin.bernard@pwc.lu",
+    "position": "Tax Director"
+  },
+  {
+    "company_name": "PwC Luxembourg Real Estate",
+    "name": "Lena Serafin",
+    "email": "lena.serafin@pwc.lu",
+    "position": "Partner"
+  },
+  {
+    "company_name": "PwC Luxembourg Real Estate",
+    "name": "Pierre Wauthier",
+    "email": "pierre.wauthier@pwc.lu",
+    "position": "Partner, Corporate Finance"
+  },
+  {
+    "company_name": "PwC Luxembourg Real Estate",
+    "name": "Oliver Weber",
+    "email": "oliver.weber@pwc.lu",
+    "position": "Tax Partner"
+  },
+  {
+    "company_name": "PwC Luxembourg Real Estate",
+    "name": "Magalie Cormier",
+    "email": "magalie.cormier@pwc.lu",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Deloitte Luxembourg Real Estate",
+    "name": "Prashanth G",
+    "email": "prashanthg@deloitte.com",
+    "position": "Senior Executive"
+  },
+  {
+    "company_name": "Deloitte Luxembourg Real Estate",
+    "name": "Maureen Kamau",
+    "email": "mkamau@deloitte.com",
+    "position": "Audit Director"
+  },
+  {
+    "company_name": "Deloitte Luxembourg Real Estate",
+    "name": "Felicia Tong",
+    "email": "ftong@deloitte.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Deloitte Luxembourg Real Estate",
+    "name": "Bushra Naaz",
+    "email": "bnaaz@deloitte.com",
+    "position": "Executive Manager"
+  },
+  {
+    "company_name": "Deloitte Luxembourg Real Estate",
+    "name": "Sven Torgersen",
+    "email": "storgersen@deloitte.com",
+    "position": "Chief Financial Officer"
+  },
+  {
+    "company_name": "Deloitte Luxembourg Real Estate",
+    "name": "Mackenzie Jackson",
+    "email": "mjackson@deloitte.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Deloitte Luxembourg Real Estate",
+    "name": "Rebecca Robinson",
+    "email": "rrobinson@deloitte.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Deloitte Luxembourg Real Estate",
+    "name": "Ciara McLaughlin",
+    "email": "cmclaughlin@deloitte.com",
+    "position": "HR Director"
+  },
+  {
+    "company_name": "Deloitte Luxembourg Real Estate",
+    "name": "Deniz Kaya",
+    "email": "annag@deloitte.com",
+    "position": "Director"
+  },
+  {
+    "company_name": "Deloitte Luxembourg Real Estate",
+    "name": "Sheikh Sarfaraz",
+    "email": "ssarfaraz@deloitte.com",
+    "position": "Associate Director"
+  },
+  {
+    "company_name": "Norton Rose Fulbright Luxembourg",
+    "name": "Yolandi Wepener",
+    "email": "yolandi.wepener@nortonrosefulbright.com",
+    "position": "Director of Learning and Development"
+  },
+  {
+    "company_name": "Norton Rose Fulbright Luxembourg",
+    "name": "Katie Keeling",
+    "email": "katie.keeling@nortonrosefulbright.com",
+    "position": "Change Management Director"
+  },
+  {
+    "company_name": "Norton Rose Fulbright Luxembourg",
+    "name": "Robert Pasqualin",
+    "email": "robert.pasqualin@nortonrosefulbright.com",
+    "position": "Legal Project Manager"
+  },
+  {
+    "company_name": "Norton Rose Fulbright Luxembourg",
+    "name": "Gina Geohegan",
+    "email": "gina.geohegan@nortonrosefulbright.com",
+    "position": "Head of Business Development"
+  },
+  {
+    "company_name": "Norton Rose Fulbright Luxembourg",
+    "name": "Meribeth Carter",
+    "email": "meribeth.carter@nortonrosefulbright.com",
+    "position": "Director of Human Resources"
+  },
+  {
+    "company_name": "Norton Rose Fulbright Luxembourg",
+    "name": "Valentina Lastochkina",
+    "email": "valentina.lastochkina@nortonrosefulbright.com",
+    "position": "Business Development Manager"
+  },
+  {
+    "company_name": "Norton Rose Fulbright Luxembourg",
+    "name": "Andrey Spektor",
+    "email": "andrey.spektor@nortonrosefulbright.com",
+    "position": "Partner"
+  },
+  {
+    "company_name": "Norton Rose Fulbright Luxembourg",
+    "name": "Raksha Jain",
+    "email": "raksha.jain@nortonrosefulbright.com",
+    "position": "Director of Programs"
+  },
+  {
+    "company_name": "Norton Rose Fulbright Luxembourg",
+    "name": "Ajay Chauhan",
+    "email": "ajay.chauhan@nortonrosefulbright.com",
+    "position": "Compliance Manager"
+  },
+  {
+    "company_name": "Norton Rose Fulbright Luxembourg",
+    "name": "Gillian Lumb",
+    "email": "gillian.lumb@nortonrosefulbright.com",
+    "position": "Director of Employment Law"
+  }
+]

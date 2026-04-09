@@ -1,0 +1,65 @@
+[
+  {
+    "name": "RE/MAX Goodlife",
+    "website": "https://www.goodlife.com.tn",
+    "address": "106 bis, Rue de Carthage, Aïn Zaghouane, 2045 Tunis, Tunisia",
+    "email": "contact@goodlife.com.tn",
+    "phone": "+216 59 590 646"
+  },
+  {
+    "name": "RE/MAX Tunisie",
+    "website": "http://www.remax.com.tn",
+    "address": "Route de la Marsa - Aïn Zaghouane, 2046 Tunis, Tunisia",
+    "email": null,
+    "phone": null
+  },
+  {
+    "name": "Ipalpex",
+    "website": "https://www.ipalpex.com",
+    "address": "Zone Industrielle Ksar Saïd 2086, Douar Hicher, Manouba, Tunisia",
+    "email": "info@ipalpex.com",
+    "phone": "+216 71 546 404"
+  },
+  {
+    "name": "Mubawab",
+    "website": "https://www.mubawab.tn",
+    "address": "Tunis, Tunisia",
+    "email": "info@mubawab.com",
+    "phone": "+216 58 606 819"
+  },
+  {
+    "name": "Dridi Immobilier",
+    "website": "https://dridiimmobilier.com",
+    "address": "25 Bis Rue Hédi Chaker, Carthage, Tunis, Tunisia",
+    "email": "contact@dridiimmobilier.com",
+    "phone": "+216 71 731 730"
+  },
+  {
+    "name": "Home In Tunisia",
+    "website": "https://www.homeintunisia.com",
+    "address": "Agence Hammam‑Sousse, Rue des Caraïbes, Hammam‑Sousse, Tunisia",
+    "email": "contact@homeintunisia.com",
+    "phone": "+216 98 363 062"
+  },
+  {
+    "name": "La Mésange",
+    "website": "https://lamesange-estate.com",
+    "address": "Résidence Carthage 2000, Bloc A, Appt A20, 08 Rue Tabriz, Ennasr 1, Ariana 2037, Tunisia",
+    "email": "contact@lamesange-estate.com",
+    "phone": "+216 71 123 456"
+  },
+  {
+    "name": "Logis (Groupe Logis)",
+    "website": "http://www.logis.tn",
+    "address": "B02, Résidence Atlantis, Centre urbain Nord, Tunis 1082, Tunisia",
+    "email": "contact@logis.tn",
+    "phone": "+216 71 94 84 72"
+  },
+  {
+    "name": "Sarraj Immobilier",
+    "website": "https://www.sarraj-immobilier.com",
+    "address": "Rue Yasser Arafet, Sousse, Tunisia",
+    "email": "contact@sarraj-immobilier.com",
+    "phone": "+216 73 36 79 96"
+  }
+]

@@ -1,0 +1,72 @@
+ [
+    {
+      "name": "HomesGuatemala",
+      "website": "https://homesguatemala.com/",
+      "address": "Diagonal 6 12-42 Zona 10, oficina 217",
+      "email": "info@homesguatemala.com",
+      "phone_number": "(+502) 5633 0961"
+    },
+    {
+      "name": "Dynamic Real Estate Gt",
+      "website": "https://www.dynamicrealestatett.com/",
+      "address": "#5 Humphrey Street, St. James, Port of Spain, Trinidad and Tobago, 190328 (Note: This contact appears to be for a Trinidad-based company with a similar name. No specific Guatemala contact found for 'Dynamic Real Estate Gt')",
+      "email": "indira.chupina@dynamorealestate.net",
+      "phone_number": "502 3998-3911"
+    },
+    {
+      "name": "Century 21 Antigua Fine Homes",
+      "website": "https://www.century21global.com/en/countries/guatemala",
+      "address": "4a Calle Ote. 44B, Antigua Guatemala",
+      "email": "info@antiguafinehomes.com",
+      "phone_number": "(502) 7965.2641"
+    },
+    {
+      "name": "DELTA Real Estate",
+      "website": "https://www.delta-realestate.com/",
+      "address":"C.C. Los Próceres, Sótano 1 Local 10, Zona 10, Ciudad Guatemala",
+      "email": null,
+      "phone_number": "+502 2253-9749"
+    },
+    {
+      "name": "Grupo Tala Guatemala",
+      "website": "https://grupotalaguatemala.com/",
+      "address": "Blvd. Los Próceres 18 calle, 24-69 Zona 10 Empresarial Zona Pradera, Torre 2, nivel 10 oficina 1006, Guatemala",
+      "email": "ventas@grupotalagt.com",
+      "phone_number": "+502 5460-6061"
+    },
+    {
+      "name": "CityMax Guatemala",
+      "website": "https://www.citymax-gt.com/",
+      "address": "Bvld. Los Proceres 24-69 Z. 10 Zona Pradera Torre IV Of. 1101 Guatemala C.A.",
+      "email": "contacto@citymax-mix.com",
+      "phone_number": "2443-1333"
+    },
+    {
+      "name": "Realtor Guatemala",
+      "website": "https://guatemalarealty.com/",
+      "address": null,
+      "email": "hello@guatemalarealty.com",
+      "phone_number": "+1 (202) 322-7618 (USA Office)"
+    },
+    {
+      "name": "Quick Real Estate",
+      "website": "https://quick-realestate.com/",
+      "address": "3rd. Oriente Street # 36a Antigua Guatemala, Guatemala",
+      "email": "info@quick-realestate.com",
+      "phone_number": "7832-2660"
+    },
+    {
+      "name": "Bienes El Portal",
+      "website": "https://www.bieneselportal.com/",
+      "address": "Guatemala, Guatemala",
+      "email": "srs3656@gmail.com",
+      "phone_number": "+502 5803-4140"
+    },
+    {
+      "name": "Inmobiliaria Tulus",
+      "website": "https://guateguia.com/tulus-inmobiliaria",
+      "address": "1a. calle Colonia el Maestro 1 Zona 15, Guatemala 01015, Zona 15, Guatemala",
+      "email": "info@guateguia.com",
+      "phone_number": "+502 3538-2598"
+    }
+  ]

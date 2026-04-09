@@ -1,0 +1,121 @@
+[
+    {
+      "name": "Echo Investment",
+      "website": "https://en.echo.com.pl/s,3,contact.html",
+      "address": "Headquarter in Kielce: Al. Solidarności 36, 25-323 Kielce; Headquarter in Warsaw: Grzybowska 60, 00-844 Warszawa",
+      "email": "kielce@echo.com.pl, warszawa@echo.com.pl, ir@echo.com.pl",
+      "phone_number": "+48 41 3 333 333 (Kielce), +48 22 4 300 300 (Warsaw)"
+    },
+    {
+      "name": "Dom Development",
+      "website": "https://www.domd.pl/en-us/warszawa/kontakt",
+      "address": "Pl. Piłsudskiego 3, 00-078 Warszawa (Second floor, Metropolitan Building); Dom Development Kraków Sp. z o.o.: ul. Wadowicka 3A, 30-347 Kraków",
+      "email": "bok@domd.pl, nieruchomosci@domd.pl, domd@nbs.com.pl, finanse@domd.pl, biuro@domc.pl, kontakt@lokumdeweloper.pl (for Lokum Deweloper, separate entity)",
+      "phone_number": "22 351 66 33 (Warsaw sales/customer service), 22 351 68 98 (land acquisition), 22 826 74 18 (media), 22 351 62 56 (finance), 22 351 61 04 (Dom Construction), 71 747 74 74 (Wrocław), 12 312 37 00 (Kraków)"
+    },
+    {
+      "name": "GTC (Globe Trade Centre)",
+      "website": "https://www.gtcgroup.com/en/contact",
+      "address": "45A Komitetu Obrony Robotników, Nothus building, 02-146 Warsaw, Poland (Headquarters in Poland)",
+      "email": "office.pl@gtcgroup.com, gtc@gtc.com.pl, officeleasing.pl@gtcgroup.com, julita.kubalska@gtcgroup.com (Retail Leasing), ir@gtc.com.pl",
+      "phone_number": "+48 (22) 16 60 700"
+    },
+    {
+      "name": "Polski Holding Nieruchomości",
+      "website": "https://www.phnsa.pl/pl/strona/kontakt",
+      "address": "al. Jana Pawła II 12, 00-124 Warszawa, Poland",
+      "email": "sekretariat@phnsa.pl, magdalena.kacprzak@phnsa.pl (Marketing), wynajem@phnsa.pl (Leasing), sprzedaz@phnsa.pl (Property Sales), inwestycje@phnsa.pl (Investments), compliance@phnsa.pl (Compliance), windykacja@phnsa.pl (Debt Collection)",
+      "phone_number": "+48 (22) 850 91 00 (General), +48 (22) 850 91 34 (Marketing), +48 (22) 526 30 00 (Leasing), +48 (22) 850 95 95 (Property Sales), +48 (22) 850 92 33 (Apartment Sales), +48 (22) 850 92 24 (Debt Collection), +48 (22) 850 90 85 (Debt Collection)"
+    },
+    {
+      "name": "Develia",
+      "website": "https://develia.pl/en/",
+      "address": "ul. gen. Romualda Traugutta 45 50-416 Wrocław",
+      "email": "poznan@develia.pl",
+      "phone_number": "(+48) 61 333 30 00"
+    },
+    {
+      "name": "Cavatina Holding",
+      "website": "https://cavatina.pl/krakow/kontakt (Contact for Kraków office, main website is cavatina.pl)",
+      "address": "Kraków: ul. Zabrska 19 (14th floor) 40-083 Katowice (Global Apartments), ul. Przemysłowa 3 40-020 Katowice (Belg Apartamenty); Łódź: Al. Piłsudskiego 133D, 92-318 Łódź (Wima Widzewska Manufaktura), ul. Tuwima 88, 90-031 Łódź (Tuwima Apartments); Wrocław: ul. Sikorskiego 26 (1st floor), 53-656 Wrocław (Quorum Office Park - building D)",
+      "email": "dominika.pruchnik@cavatina.pl, mateusz.kosz@cavatina.pl, dominika.lachan@cavatina.pl, lukasz.ruszkiewicz@cavatina.pl, maria.ostrowska-morkisz@cavatina.pl, mariusz.grzelczak@cavatina.pl, angelika.sobolewska@cavatina.pl, kamil.dabrowski@cavatina.pl, adam.marciniak@cavatina.pl, marta.skrzypek@cavatina.pl, adrianna.lisiecka@cavatina.pl, justyna.stasienko@cavatina.pl",
+      "phone_number": "+48 533 721 873, +48 535 669 331 (Kraków/Katowice), +48 534 826 055, +48 530 071 393 (Katowice), +48 537 508 450, +48 533 721 151, +48 534 912 584, +48 534 936 102 (Łódź), +48 530 052 270, +48 533 716 005, +48 533 705 678 (Wrocław)"
+    },
+    {
+      "name": "Archicom",
+      "website": "https://www.archon.pl/ (This appears to be Archon+, a house plan company. It might be related to Archicom, but direct contact for Archicom real estate development is not on this site.)",
+      "address": "N/A (Archon+ address is not for Archicom development)",
+      "email": "archon@archon.pl (for Archon+)",
+      "phone_number": "+48 12 37 21 900 (for Archon+)"
+    },
+    {
+      "name": "Marvipol Development",
+      "website": "https://marvipol.pl/",
+      "address": "Warsaw, Białołęka, Głębocka Street 117",
+      "email": "Not explicitly provided but form available",
+      "phone_number": "48 22 536 5079"
+    },
+    {
+      "name": "Inpro",
+      "website": "https://fk-inpro.eu/en/contact/ (This is FK INPRO, a design and steel structures company. It might be related to a real estate developer named 'Inpro' but is not explicitly stated as such.)",
+      "address": "ul. Hutnicza 5-9, 42-600 Tarnowskie Góry, Poland",
+      "email": "biuro@fk-inpro.eu, michal.furgalski@fk-inpro.eu, bartlomiej.kaminski@fk-inpro.eu",
+      "phone_number": "+48 32 768-96-96 (office)"
+    },
+    {
+      "name": "Lokum Deweloper",
+      "website": "https://lokum-deweloper.pl/",
+      "address": "Wrocław, ul. Krawiecka 1, lok. 101, Poland",
+      "email": "kontakt@lokumdeweloper.pl, info@lokumdeweloper.pl",
+      "phone_number": "+48 71 796 66 66"
+    },
+    {
+      "name": "Warsaw Spire",
+      "website": "https://www.caimmo.com/en/portfolio/project/warsaw-spire-building-c-1/",
+      "address": "Plac Europejski 1, 00-844, Warsaw, Poland (Building C)",
+      "email": "office@caimmo.com",
+      "phone_number": "+43 1 532 59 07"
+    },
+    {
+      "name": "Olivia Business Centre (Gdańsk)",
+      "website": "https://www.oliviacentre.com/en/about-us-2/contact/",
+      "address": "Olivia Star (3rd floor) al. Grunwaldzka 472C, 80-309 Gdansk, Poland",
+      "email": "biuro@oliviacentre.com, kontakt@oliviacentre.com (Lease), taras@oliviastar.pl (Observation Floor), garden@oliviastar.pl (Olivia Garden), treinta@arcorestaurant.com (Treinta Y Tres), info@arcorestaurant.com (Arco by Paco Perez), iod@oliviacentre.com (Data Protection), boguslaw.wieczorek@oliviacentre.com (Media)",
+      "phone_number": "+48 58 739 61 00 (Investor's Office), +48 730 274 873 (Lease), +48 534 034 000 (Observation Floor/Olivia Garden), +48 731 334 332 (Treinta Y Tres/Arco/Data Protection/Media)"
+    },
+    {
+      "name": "Rondo 1 (Warsaw)",
+      "website": "https://www.rondo1.pl/",
+      "address": "Rondo ONZ 1, Warsaw, Poland",
+      "email": "marta.paradowska@jll.com, radoslaw.krajewski@jll.com (for JLL, a leasing agent for the building)",
+      "phone_number": "+48 22 222 30 00, +48 22 335 7784 or 7701"
+    },
+    {
+      "name": "The Tides (Gdynia)",
+      "website": "https://www.thetides-office.com/en/contact",
+      "address": "ul. Wioślarska 8, 00-411 Warszawa, Poland (for The Tides Property Group S.A. Sp. k., who developed The Tides in Warsaw, a connection to Gdynia is not explicitly stated on this site but suggests a developer with similar naming)",
+      "email": "Contact form available",
+      "phone_number": "+48 22 840 64 89"
+    },
+    {
+      "name": "Apartamenty przy Bulwarze (Kraków)",
+      "website": "https://rynekpierwotny.pl/oferty/gp-investments-sp-z-oo/apartamenty-przy-bulwarze-krakow-grzegorzki-4453/",
+      "address": "ul. Masarska 13, Kraków, Poland (Grzegórzki district)",
+      "email": "biuro@rynekpierotny.pl",
+      "phone_number": "+48 22 825 60 71 (for GP-Investments Sp. z o.o.)"
+    },
+    {
+      "name": "Browary Warszawskie (Warsaw)",
+      "website": "https://browarwarszawski.com/kontakt/",
+      "address": "ul. Haberbuscha i Schielego 2, Warsaw, Poland",
+      "email": "office@browarwarszawski.com, event.manager@browarwarszawski.com, event@browarwarszawski.com",
+      "phone_number": "+48 799 000 021, +48 798 001 105, +48 797 737 633"
+    },
+    {
+      "name": "Sky Tower (Wrocław)",
+      "website": "https://skytower.apartments/",
+      "address": "ul. Gwiaździsta 64, 53-413 Wrocław, Poland",
+      "email": "kontakt@skytower.apartments",
+      "phone_number": "+48 694 444 777"
+    }
+  ]

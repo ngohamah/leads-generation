@@ -1,0 +1,72 @@
+ [
+    {
+      "name": "Greece Sotheby's International Realty",
+      "website": "https://sothebysrealty.gr/",
+      "address": "11 Voukourestiou Street, 106 71 Athens, Greece (Athens Office)",
+      "email": "lee.tokouzis@sothebysrealty.gr",
+      "phone_number": "+30 210 968 1070"
+    },
+    {
+      "name": "Keller Williams Athens Center",
+      "website": "https://www.kwac.gr/",
+      "address": "Leof. Vasilissis Sofias 54, 115 28 Athens, Greece",
+      "email": "kwathenscenter@kwgreece.gr",
+      "phone_number": "(+30) 211 0131911"
+    },
+    {
+      "name": "Keller Williams Solutions Group",
+      "website": "https://solutionsgroup.gr/real-estate/",
+      "address": "99 Kifisias Street, Ampelokipoi, 115 23 Athens, Greece",
+      "email": "info@solutionsgroup.gr",
+      "phone_number": "+30 213 0414087"
+    },
+    {
+      "name": "RED HELLAS (REAL ESTATE AGENCY in ATHENS)",
+      "website": "https://www.redhellas.gr/",
+      "address": "99 Kifisias Street, Ampelokipoi, 115 23 Athens, Greece",
+      "email": "redhellas@gmail.com",
+      "phone_number": "+30 210 6997683"
+    },
+    {
+      "name": "VERGOS Real Estate",
+      "website": "https://vergosrealestate.com/",
+      "address": "Menelaou 9, Marousi, 15124, Athens, Greece",
+      "email": "info@vergosrealestate.com",
+      "phone_number": "(+30) 2108033611"
+    },
+    {
+      "name": "Greecing Real Estate HQ",
+      "website": "https://housesingreece.com/",
+      "address": "Arximidous 4, 11636 Athens, Greece",
+      "email": "info@greecingteam.com",
+      "phone_number": "(+30) 2106120875"
+    },
+    {
+      "name": "East to West Investing Real Estate",
+      "website": "https://www.e2wrealestate.com/",
+      "address": "18 Loukianou Str., Athens 10675, Greece",
+      "email": "info@e2wrealestate.com",
+      "phone_number": "+30 210 72 16 210"
+    },
+    {
+      "name": "Greek Coast Real Estate",
+      "website": "https://greekcoast.gr/",
+      "address": "Korinthou 162, Patra, 262 23, Greece (Patra Office)",
+      "email": "info@greekcoast.gr",
+      "phone_number": "+30 2610222005"
+    },
+    {
+      "name": "Ktimatoemporiki Real Estate",
+      "website": "https://ktimatoemporiki.gr/",
+      "address": "Daskalogianni Ioanni Street 65, Old Town, 731 32 Chania, Greece",
+      "email": null,
+      "phone_number": "+30 2821056600"
+    },
+    {
+      "name": "magnaestate",
+      "website": "https://www.magnaestate.gr/",
+      "address": "11B Kosma Aitolou Street, Agios Panteleimonas, 151 21 Pefki, Greece",
+      "email": "info@magnaestate.gr",
+      "phone_number": "+30 210 8022640"
+    }
+  ]

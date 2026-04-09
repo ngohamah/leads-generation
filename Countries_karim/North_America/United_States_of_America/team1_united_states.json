@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Jones Lang LaSalle (JLL)",
+    "website": "https://www.us.jll.com",
+    "address": "200 East Randolph Drive, Chicago, IL 60601, USA",
+    "email": "JLLInvestorRelations@jll.com",
+    "phone": "+1 312 782 5800"
+  },
+  {
+    "name": "RE/MAX US",
+    "website": "https://www.remax.com",
+    "address": "5075 S. Syracuse St., Denver, CO 80237, USA",
+    "email": "franchiseinquiries@remax.com",
+    "phone": "+1 303 770 5531"
+  },
+  {
+    "name": "Keller Williams Realty",
+    "website": "https://www.kw.com",
+    "address": "1221 South Mopac Expressway, Suite 400, Austin, TX 78746, USA",
+    "email": null,
+    "phone": "+1 512 327 3070"
+  },
+  {
+    "name": "CBRE",
+    "website": "https://www.cbre.com",
+    "address": "2121 North Pearl Street, Suite 300, Dallas, TX 75201, USA",
+    "email": "investorrelations@cbre.com",
+    "phone": "+1 214 979 6100"
+  },
+  {
+    "name": "American Tower Corporation",
+    "website": "https://www.americantower.com",
+    "address": "116 Huntington Avenue, Boston, MA 02116, USA",
+    "email": null,
+    "phone": "+1 617 375 7500"
+  },
+  {
+    "name": "Cushman & Wakefield",
+    "website": "https://www.cushmanwakefield.com",
+    "address": "225 W Wacker Drive, Chicago, IL 60606, USA",
+    "email": null,
+    "phone": "+1 312 470 1800"
+  },
+  {
+    "name": "Realogy Holdings Corp.",
+    "website": "https://www.realogy.com",
+    "address": "175 Park Avenue, Madison, NJ 07940, USA",
+    "email": null,
+    "phone": "+1 973 407 2000"
+  },
+  {
+    "name": "Prologis",
+    "website": "https://www.prologis.com",
+    "address": "Pier 1, Bay 1, San Francisco, CA 94111, USA",
+    "email": null,
+    "phone": "+1 415 394 9000"
+  },
+  {
+    "name": "Welltower Inc.",
+    "website": "https://www.welltower.com",
+    "address": "4500 Dorr St, Toledo, OH 43615, USA",
+    "email": "communications@welltower.com",
+    "phone": "+1 419 247 2800"
+  },
+  {
+    "name": "Simon Property Group",
+    "website": "https://www.simon.com",
+    "address": "225 West Washington Street, Indianapolis, IN 46204, USA",
+    "email": null,
+    "phone": "+1 317 636 1600"
+  },
+  {
+    "name": "Boston Properties",
+    "website": "https://www.bostonproperties.com",
+    "address": "800 Boylston Street, Prudential Center, Boston, MA 02199, USA",
+    "email": null,
+    "phone": "+1 617 236 3300"
+  },
+  {
+    "name": "Compass",
+    "website": "https://www.compass.com",
+    "address": "110 Fifth Avenue, 3rd Floor, New York, NY 10011, USA",
+    "email": "press@compass.com",
+    "phone": "+1 646 982 0353"
+  },
+  {
+    "name": "Hudson Yards (New York City)",
+    "website": "https://www.hudsonyardsnewyork.com",
+    "address": "20 Hudson Yards, New York, NY 10001, USA",
+    "email": "hello@hudsonyardsnewyork.com",
+    "phone": "+1 646 954 3155"
+  },
+  {
+    "name": "One Vanderbilt (New York City)",
+    "website": "https://www.onevanderbilt.com",
+    "address": "One Vanderbilt Avenue, New York, NY 10017, USA",
+    "email": null,
+    "phone": "+1 212 884 0384"
+  },
+  {
+    "name": "Wilshire Grand Center (Los Angeles)",
+    "website": "https://www.wilshiregrandcenter.com",
+    "address": "900 Wilshire Blvd, Los Angeles, CA 90017, United States",
+    "email": null,
+    "phone": "+1 213 318 3950"
+  },
+  {
+    "name": "Salesforce Tower (San Francisco)",
+    "website": "https://www.salesforcetower-sf.com",
+    "address": "415 Mission Street, San Francisco, CA 94105, USA",
+    "email": null,
+    "phone": "+1 415 772 0753"
+  },
+  {
+    "company_name": "Anywhere Advisors",
+    "website": "https://anywhere.re/",
+    "address": "175 Park Ave, Florham Park, NJ 07932, USA",
+    "email":"contact form available",
+    "phone":null
+  },
+  {
+    "company_name": "eXp Realty",
+    "website": "https://www.exprealty.com/",
+    "address": "2219 Rimland Drive, Suite 301, Bellingham, Washington, 98226",
+    "email":"info@exprealty.net",
+    "phone":"1 833-303-0610"
+  },
+  {
+    "company_name": "HomeServices of America",
+    "website": "https://www.homeservices.com/",
+    "address":"7500 Flying Cloud Drive, Suite 300 Eden Prairie, MN 55344",
+    "email":"info@homeservices.com",
+    "phone":"888-485-0018"
+  },
+  {
+    "company_name": "Douglas Elliman",
+    "website": "https://www.elliman.com/",
+    "address":"575 Madison Avenue, New York, NY, United States, New York",
+    "email":"socialmedia@elliman.com",
+    "phone":"+1 212-891-7000"
+   },
+  {
+    "company_name": "Redfin",
+    "website": "https://www.redfin.com/",
+    "address": "multiple locations",
+    "email":"https://www.redfin.com/about/contact-us",
+    "phone":"(844) 759-7732"
+  },
+  {
+    "company_name": "@Properties",
+    "website": "https://www.atproperties.com/",
+    "address": null,
+    "email":"https://www.atproperties.com/chicagoland/pages/contact",
+    "phone":null
+  },
+  {
+    "company_name": "Side",
+    "website": "https://www.side.com/",
+    "address": "580 4th Street, San Francisco, CA, United States, California",
+    "email":"https://www.side.com/contact-us/",
+    "phone":"+1 415-525-4913"
+  },
+  {
+    "company_name": "The Real Brokerage Inc.",
+    "website": "https://investors.onereal.com/",
+    "address":null,
+    "email":"investors@therealbrokerage.com, join@joinreal.com",
+    "phone":null
+  },
+  {
+    "company_name": "American Tower Corporation",
+    "website": "https://www.americantower.com/us/",
+    "address": null,
+    "email":"investor.relations@americantower.com",
+    "phone":null
+  },
+  {
+    "company_name": "Seaport",
+    "website": "https://www.seaportboston.com/",
+    "address":"1 Seaport Lane, Boston, Massachusetts, 02210",
+    "email":"info@seaportboston.com",
+    "phone":"877-732-7678"
+  },
+  {
+    "company_name": "Miami Worldcenter (Miami)",
+    "website": "https://miamiworldcenter.com/",
+    "address":"Miami Worldcenter 652 NE 2nd Ave Miami, FL 33132",
+    "email":"contact form available",
+    "phone":"(305) 895-8914"
+  },
+  {
+    "company_name": "Resorts World Las Vegas",
+    "website": "https://www.rwlasvegas.com/",
+    "address":"3000 S Las Vegas Blvd, Las Vegas, NV, United States, Nevada",
+    "email":"info@rwlasvegas.com",
+    "phone":"(702) 676-7024, +1 702-676-7000"
+  }
+]
