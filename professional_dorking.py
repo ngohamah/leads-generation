@@ -240,15 +240,14 @@ def set_new_path(path_str):
 if __name__ == "__main__":
     
     # processing all files in a directory
-    path = get_directory_structure("Countries_karim")
+    path = get_directory_structure("countries")
 
     start_at = 0
     for p in path:
-        if start_at >126:
-            print(f"Processing: {p}")
-            try:
-                get_linkedin_profile_infos(p, set_new_path(p))
-            except Exception as e:
-                print(f"An error occurred processing {p}: {e}")
-                break
-        start_at += 1
+        print(f"Processing: {p}")
+        try:
+            get_linkedin_profile_infos(p, set_new_path(p))
+        except Exception as e:
+            print(f"An error occurred processing {p}: {e}")
+            break
+   

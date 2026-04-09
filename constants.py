@@ -1,2 +1,2 @@
-GOOGLE_API_KEY = "AIzaSyDMJMSWnPGKKsueahuzseDv90-95TysT_Y"
-CX = "e1a0472fc23ba49a9" # search engine id
+GOOGLE_API_KEY = "Enter your Google API key here" # google api key
+CX = "Enter your Google Custom Search Engine ID here" # search engine id

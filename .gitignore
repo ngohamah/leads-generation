@@ -1,0 +1,5 @@
+# do not track changes made in .ipynb_checkpoints
+**/__pycache__
+
+# ignore log files
+**/.DS_Store
